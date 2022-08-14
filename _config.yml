@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Antti Tanskanen / Site Title"
+title                    : "Antti Tanskanen"
 title_separator          : "-"
 name                     : &name "Antti Tanskanen"
 description              : &description "FT, SHV"
@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Antti Tanskanen"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "FT, SHV"
   location         : "Finland"
-  employer         : "https://www.ek.fi/"
+  employer         : #"https://www.ek.fi/"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Zl0v3f0AAAAJ"
   email            :
