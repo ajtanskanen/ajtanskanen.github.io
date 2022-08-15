@@ -2,7 +2,7 @@
 title: "Lafferin käyrä heterogeenisessa populaatiossa – ja miksi verolajilla on väliä"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'Taxation influences incentives to work. This article considers the so called Laffer curve connecting tax rate to sum of taxes collected. In Finnish.'
 date: 2021-10-01
 venue: 'Kansantaloudellinen aikakauskirja'
 paperurl: 'https://www.taloustieteellinenyhdistys.fi/wp-content/uploads/2021/10/KAK_3_2021_WEB-53-76.pdf'
