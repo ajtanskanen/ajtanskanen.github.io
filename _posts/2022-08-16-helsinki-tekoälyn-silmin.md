@@ -2,10 +2,12 @@
 title: 'Helsinki tekoälyn silmin'
 date: 2022-08-16
 permalink: /posts/2022/08/helsinki-tekoälyn-silmin/
-image: '/images/dalle/dalle2.png'
+image: /images/dalle/dalle2.png
+largeimage: /images/dalle/dalle2.png
+summary: 'Miltä Helsinki näyttää tekoälyn silmin?'
 tags:
   - taide
-    DALL-E 2
+    DALL-E2
   - AI
   - tekoäly
 ---
@@ -17,7 +19,7 @@ DALL-E on OpenAI:n kehittämän transformers-teknologiaan perustuva laskennallin
 Erityistä siinä on kyky muuttaa sanallisia kuvauksia oikeiksi kuviksi. Kuvat voivat olla valokuvamaisia tai tietyn taiteilijan tyyliin 
 tehtyjä piirroksia tai maalauksia.
 
-DALL-E tunnistaa hyvin vihreä-keltaisen raitiovaunun Helsingin symboliksi.
+DALL-E tunnistaa hyvin keltavihreän raitiovaunun Helsingin symboliksi.
 
 ![Raitiovaunu Kauppatorilla](/images/dalle/dalle2.png)
 
@@ -50,6 +52,6 @@ Parhaimmillaan DALL-E on, kuten esikuvansa Salvador Dali, maalauksissa ja grafii
 Tekoälyt kehittyvät ja kuvia on jatkossa entistä vaikeampi erottaa oikeista. Ehkä pian on odotettavissa kuvien sijaan elokuvia tekeviä tekoälyjä. 
 Sitä voisi yrittää tehdä vaikka Helsinki-aiheisen elokuva, kunhan DALL-E:n elokuvaseuraaja tulee markkinoille. Vaikkapa komento
 
-    Tee koominen elokuva Helsinkin palkanmaksufiaskosta Ed Woodin tyyliin.
+    Tee elokuva Helsingin palkanmaksusta Ed Woodin Plan 9 from outer space -elokuvan tyyliin.
     
 voisi tuottaa tragikoomisen elokuva. Ehkä joskus Helsinkikin vielä onnistuu selättämään palkanmaksun ongelmansa. 
