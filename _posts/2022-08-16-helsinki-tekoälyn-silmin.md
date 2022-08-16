@@ -20,7 +20,7 @@ DALL-E tunnistaa hyvin vihreä-keltaisen raitiovaunun Helsingin symboliksi.
 
 ![Raitiovaunu Kauppatorilla](/images/dalle/dalle2.png)
 
-Spåraa ikonisempi Helsinkiä kuvava symboli on Senaatintorilla seisova Tuomiokirkko. Se tulee useimpiin DALL-E:n kuviin, jos
+Spåraa ikonisempi Helsinkiä kuvaava symboli on Senaatintorilla seisova Tuomiokirkko. Se tulee useimpiin DALL-E:n kuviin, jos
 niissä pitäisi olla Helsinki.
 
 ![Senaatintori ja Tuomiokirkko](/images/dalle/dalle3.png)
@@ -44,10 +44,11 @@ en tuollaista Kaivopuiston rannassa ole nähnyt.
 ![Laiturilla oleva talo](/images/dalle/mattolaituri.png)
 
 Vaikka DALL-E on vaikuttava, on se vasta välivaihe. Kuvat ovat upeita, mutta monet niistä tunnistaa generoiduiksi, ei kameralla otetuiksi.
+Parhaimmillaan DALL-E on, kuten esikuvansa Salvador Dali, maalauksissa ja grafiikassa. 
 
 Tekoälyt kehittyvät ja kuvia on jatkossa entistä vaikeampi erottaa oikeista. Ehkä pian on odotettavissa kuvien sijaan elokuvia tekeviä tekoälyjä. 
-Heti kun sellainen tulee, pitää tehdä Helsinki-elokuva, esimerkiksi
+Sitä voisi yrittää tehdä vaikka Helsinki-aiheisen elokuva, kunhan DALL-E:n elokuvaseuraaja tulee markkinoille. Vaikkapa komento
 
     Tee koominen elokuva Helsinkin palkanmaksufiaskosta Ed Woodin tyyliin.
     
-Senkin aika tulee. Ja joskus Helsinkikin onnistuu selättämään palkanmaksun ongelmansakin.
+voisi tuottaa tragikoomisen elokuva. Ehkä joskus Helsinkikin vielä onnistuu selättämään palkanmaksun ongelmansa. 
