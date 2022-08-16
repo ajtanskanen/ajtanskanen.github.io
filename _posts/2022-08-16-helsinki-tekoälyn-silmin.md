@@ -2,6 +2,7 @@
 title: 'Helsinki tekoälyn silmin'
 date: 2022-08-16
 permalink: /posts/2022/08/helsinki-tekoälyn-silmin/
+image: '/images/dalle/dalle2.png'
 tags:
   - taide
     DALL-E 2
