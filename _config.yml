@@ -8,6 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Antti Tanskanen"
+title_image              : "/images/site_image.jpg"
 title_separator          : "-"
 name                     : &name "Antti Tanskanen"
 description              : &description "FT, SHV"
