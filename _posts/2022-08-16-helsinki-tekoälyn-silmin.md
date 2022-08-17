@@ -4,7 +4,7 @@ date: 2022-08-16
 permalink: /posts/2022/08/helsinki-tekoälyn-silmin/
 image: /images/dalle/ratikka.png
 largeimage: /images/dalle/ratikka.jpg
-summary: 'Miltä Helsinki näyttää tekoälyn silmin?'
+summary: 'Blogi | Millaisia kuvia DALL-E -tekoäly luo Helsingistä?'
 tags:
   - taide
     DALL-E2

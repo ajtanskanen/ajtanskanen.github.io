@@ -2,10 +2,13 @@
 title: 'Miten käy tekoälyltä rock’n’roll: GPT-3 haastaa Aukustin ja Einon'
 date: 2022-04-13
 permalink: /posts/2021/04/Miten-käy-tekoälyltä-rocknroll/
+image: /images/poppis1.jpg
+summary: 'Blogi | Yle Radio Suomen Poppikoulussa osallistujat kilpailevat priimuksen arvonimestä. Miten tekoäly pärjäisi kisassa?'
 tags:
   - musiikki
   - AI
   - tekoäly
+    poppikoulu
 ---
 
 Radio Suomen Poppikoulussa osallistujat kilpailevat priimuksen arvonimestä. Sen saavuttaakseen kilpailijan on osattava vastata hankaliin pop-, jazz-, roots- ym. aiheisiin kysymyksiin. Harva osaa vastata puoleenkaan esitetyistä kysymyksistä. Tämä tekee Poppikoulusta hyvän testialustan kokeilla, miten hyvin tekoäly pärjää ihmisiä vastaan. 
