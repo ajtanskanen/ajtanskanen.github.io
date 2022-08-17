@@ -2,8 +2,8 @@
 title: 'Helsinki tekoälyn silmin'
 date: 2022-08-16
 permalink: /posts/2022/08/helsinki-tekoälyn-silmin/
-image: /images/dalle/dalle2.png
-largeimage: /images/dalle/dalle2.png
+image: /images/dalle/ratikka.png
+largeimage: /images/dalle/ratikka.jpg
 summary: 'Miltä Helsinki näyttää tekoälyn silmin?'
 tags:
   - taide
