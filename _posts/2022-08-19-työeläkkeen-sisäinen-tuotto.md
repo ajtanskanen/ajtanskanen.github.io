@@ -88,7 +88,7 @@ Korkeampi työeläkemaksu ilman muutoksia etuuksiin heikentää maksulle saatava
 Työeläkejärjestelmällä olisi varaa olla sijoitustoiminnassaan reilusti nykyistä riskihakuisempi. Kun eläkejärjestelmän kvartaali kestää
 25 vuotta, on järjestelmällä varaa sietää suhdannevaihteluita ja parantaa nykyisiä sijoitustuottoja. Tämä olisi kaikkien etu.
 
-Liitteet
+Kirjallisuus
 ======
 
 Eläketurvakeskus (2021),[Työeläkeindikaattorit 2021](https://www.julkari.fi/handle/10024/143130)
