@@ -1,10 +1,10 @@
 ---
-title: 'Onko työeläkemaksun sisäinen tuotto liian maltillinen?'
+title: 'Onko työeläkemaksuille saatava tuotto liian maltillinen vai antelias?'
 date: 2022-08-19
 permalink: /posts/2022/08/työeläkemaksun-sisäinen-tuotto/
 image: /images/irr/gentlemen.png
 largeimage: /images/irr/gentlemen.png
-summary: 'Blogi | Millaista tuottoa työeläkemaksu antaa? Miten maksunnousu tai -lasku vaikuttaa sisäiseen tuotton?'
+summary: 'Blogi | Millaista tuottoa työeläke antaa maksuille? Entä miten maksunnousu tai -lasku vaikuttaa sisäiseen tuotoon?'
 tags:
   - työeläkkeet
     elinkaarimalli
@@ -99,13 +99,13 @@ Kuvio 5. Työeläkemaksun ja sisäisen tuoton välinen yhteys.
 Onko työeläkemaksun tuotto hyvä?
 ======
 
-Työeläkemaksusta saatava reilu 2 prosentin reaalituotto on maltillinen. Siihen liittyvä riski on maltillinen. Tässä mielessä
-työeläkeen voi rinnastaa joukkovelkakirjasijoitukseen. Jos huomioidaan kansaneläkkeen ja takuueläkkeen yhteensovitus työeläkkeen kanssa, 
-heikkenee työeläkkeen tuotto hyvin lähelle nollaa prosenttia reaalisesti.
+Työeläkemaksusta saatava reilu 2 prosentin reaalituotto on maltillinen. Myös siihen liittyvä riski on maltillinen, ellei jopa vähäinen. 
+Tässä mielessä työeläkkeen voi rinnastaa joukkovelkakirjasijoitukseen. Jos huomioidaan kansaneläkkeen ja takuueläkkeen yhteensovitus työeläkkeen kanssa, 
+heikkenee työeläkkeen tuotto hyvin lähelle nollaa reaalisesti.
 
 Korkeampi työeläkemaksu ilman muutoksia etuuksiin heikentää maksulle saatavaa tuottoa. Vastaavasti alempi maksu parantaa maksun kannattavuutta.
 Työeläkejärjestelmällä olisi varaa olla sijoitustoiminnassaan reilusti nykyistä riskihakuisempi. Kun eläkejärjestelmän kvartaali kestää
-25 vuotta, on järjestelmällä varaa sietää suhdannevaihteluita ja parantaa nykyisiä sijoitustuottoja. Tämä olisi kaikkien etu.
+25 vuotta, on järjestelmällä varaa sietää suhdannevaihteluita ja pyrkiä parantamaan nykyisiä sijoitustuottoja. Tämä olisi kaikkien etu.
 
 Kirjallisuus
 ======
