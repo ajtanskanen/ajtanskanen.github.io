@@ -18,11 +18,13 @@ On luontevaa kysyä, millaista tuottoa työeläkemaksulle saa eläkkeen muodossa
 Sisäinen tuotto
 ======
 
-Työeläkemaksu on 24,4 prosenttia palkasta. Työntekijän osuus siitä on keskimäärin xx prosenttia, työnantaja maksaa loput. 
-Jos tämän verran varoja sijoittaisi osakkeisiin, tulisi varoille tuottoja osinkoina ja arvonnousuna. Työeläkemaksun sisäinen tuotto vastaa tätä
-tuottoa. 
+Työeläkemaksu on 24,4 prosenttia henkilön bruttopalkasta. Työntekijän osuus eläkemaksusta on keskimäärin 7,45 prosenttia palkoista, työnantaja maksaa loput. 
+Jos tämän verran varoja sijoittaisi osakkeisiin, tulisi varoille tuottoja osinkoina ja arvonnousuna. Myös työeläkkeeseen sijoitetuille varoille
+voi laskea tuoton.
 
-Työeläkemaksun sisäisen tuoton voi laskea vertaamalla eläkemaksuja ja vakuutetun saamia eläkkeitä. 
+Työeläkemaksun "sisäisen" tuoton voi laskea vertaamalla eläkemaksuja ja vakuutetun saamia eläkkeitä. Verotus
+Työeläkkeen sisäinen tuotto on se tuotto, joka pitäisi saada jotta eläkemaksut itse säästettynä riittäisivät etuuksien rahoittamiseen. (KORJAA!)
+
 Esimerkki yksittäisten vakuutettujen työeläkemaksulle saamista elinkaarimallilla simuloiduista tuotoista on Kuviossa 1. 
 Mediaanina työeläkemaksulle saatava tuotto on nykysäännöillä 2,2 prosenttia reaalisesti.
 Reaalituotto siis on elinkustannusten kasvun päälle tulevaa tuottoa. 
@@ -56,10 +58,6 @@ Jos taas rahastoinnista luovuttaisiin kokonaan ("meidän jälkeemme vedenpaisumu
 Tällöin sisäinen tuotto heikkenisi noin 1,6 prosenttiin reaalisesti. Mallissa palkkojen kasvu on tämän suuruinen, ja
 eläkemaksulleen saa tuotoksi palkkojen kasvun verran. Näin sen oikeastaan pitäisi ollakin jakojärjestelmällä rahoitetussa 
 eläkejärjestelmässä, koska rahastointi on kannattavaa vain, jos sijoitustuotto ylittää palkkojen kasvun [esim. [Työeläkevakuuttajat Tela](https://www.tela.fi/tyoelakkeiden-rahoitus/rahoituksen-periaatteet/rahastointi/)].
-Kuvio 5 esittää maksun ja sisäisen tuoton yhteyttä yleisemminkin.
-
-![Vertailu 3](/images/irr/yhtsov_vs_pelkka.png)
-Kuvio 4. Yhteensovitettu sisäinen tuotto verrattuna yhteensovittamattomasta työeläkkeestä laskettuun sisäiseen tuottoon
 
 Työeläkkeen ja kansaneläkkeen yhteensovitus
 ======
@@ -71,10 +69,24 @@ Vaikka molempien tarkoitus on hyvä, heikentävät ne työeläkkeen kannustavuut
 työeläkekarttuman kasvu ei välttämättä lisää juuri nettotuloja.
 Tällöin henkilö joutuu maksamaan työeläkemaksua, mutta ei saa sille vastinetta.
 
+![Vertailu 3](/images/irr/yhtsov_vs_pelkka.png)
+Kuvio 4. Yhteensovitettu sisäinen tuotto verrattuna yhteensovittamattomasta työeläkkeestä laskettuun sisäiseen tuottoon
+
 Kuvio 4 esittää työeläkemaksun tuottoja, kun huomioidaan työeläkkeen ja kansaneläkkeen sekä takuueläkkeen yhteensovitus. 
 Kuvio näyttää, että yhteensovitettujen tuottojen jakauma on enemmän vasemmalla ja leveämpi kuin yhteensovittamattomien tuottojen.
-Tämä kertoo, että yhteensovitus heikentää työeläkejärjestelmän kannattavuutta selvästi.
+Tämä kertoo, että yhteensovitus heikentää työeläkejärjestelmän sisäistä tuottoa selvästi.
 Osaltaan tämä on antanut kimmokkeen miettiä työeläkkeen veroluonnetta (esim [Tanskanen, 2020](https://www.taloustieteellinenyhdistys.fi/wp-content/uploads/2020/12/KAK_4_2020_WEB-105-109.pdf); [Viherkenttä, 2020](https://www.taloustieteellinenyhdistys.fi/wp-content/uploads/2020/10/KAK_3_2020_WEB-86-102.pdf))
+
+Maksutason ja sisäisen tuoton yhteys
+=====
+
+Jos maksussa oleviin ja tuleviin työeläkkeisiin ei kosketa, on ainoa tapa vaikuttaa työeläkkeen sisäiseen tuottoon muuttaa maksua.
+Kuvio 5 esittää maksun ja sisäisen tuoton yhteyttä. Kuviossa on sisäinen tuotto määritetty kaikkien vakuutettujen yhteenlasketuista työeläkemaksuista ja
+työeläkemenosta. Kuvio 5 näyttää osin saman tarinan kuin kuvio 3: jos maksu nousee, heikkenee työeläkkeen sisäinen tuotto; 
+jos maksutaso on yli 29 prosenttia, ei rahastointi ole kannattavaa. 
+
+Jos ajatellaan, että työeläkkeet ovat täysin rahastoituja, kertoo kuvio tietyllä maksutasolla, paljonko sijoitustuottoja
+pitää reaalisesti saada, että järjestelmä on kestävällä pohjalla. 
 
 ![Vertailu 3](/images/irr/maksu_vs_irr.png)
 Kuvio 5. Aggregaattina lasketun työeläkemaksun ja sisäisen tuoton välinen yhteys.
