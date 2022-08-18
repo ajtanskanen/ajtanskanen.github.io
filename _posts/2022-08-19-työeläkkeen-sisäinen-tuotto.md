@@ -74,6 +74,7 @@ Tällöin henkilö joutuu maksamaan työeläkemaksua, mutta ei saa sille vastine
 Kuvio 4 esittää työeläkemaksun tuottoja, kun huomioidaan työeläkkeen ja kansaneläkkeen sekä takuueläkkeen yhteensovitus. 
 Kuvio näyttää, että yhteensovitettujen tuottojen jakauma on enemmän vasemmalla ja leveämpi kuin yhteensovittamattomien tuottojen.
 Tämä kertoo, että yhteensovitus heikentää työeläkejärjestelmän kannattavuutta selvästi.
+Osaltaan tämä on antanut kimmokkeen miettiä työeläkkeen veroluonnetta (esim Tanskanen, 2020; Viherkenttä, 2020s)
 
 ![Vertailu 3](/images/irr/maksu_vs_irr.png)
 Kuvio 5. Aggregaattina lasketun työeläkemaksun ja sisäisen tuoton välinen yhteys.
@@ -96,6 +97,10 @@ Eläketurvakeskus (2021) [Työeläkeindikaattorit 2021](https://www.julkari.fi/h
 
 Tanskanen, A.J., Kotamäki, M. (2021) ["Lafferin käyrä heterogeenisessa populaatiossa – ja miksi verolajilla on väliä"](https://www.taloustieteellinenyhdistys.fi/wp-content/uploads/2021/10/KAK_3_2021_WEB-53-76.pdf) Kansantaloudellinen aikakauskirja 117 (3), 383-406.
 
+Tanskanen, A.J. (2020) ["Kommentti Viherkentälle eläkemaksujen veroluonteesta"](https://www.taloustieteellinenyhdistys.fi/wp-content/uploads/2020/12/KAK_4_2020_WEB-105-109.pdf) Kansantaloudellinen aikakauskirja 116 (4), 484-500.
+
 Tikanmäki, H, Appelqvist, J, Reipas, K, Sankala, M, Sihvonen, H (2016) [Lakisääteiset eläkkeet: pitkän aikavälin laskelmat 2016](https://www.julkari.fi/handle/10024/131352)
 
 Työeläkevakuuttajat Tela, [Työeläkkeiden rahastointi](https://www.tela.fi/tyoelakkeiden-rahoitus/rahoituksen-periaatteet/rahastointi/)
+
+Viherkenttä, T. (2020) [Mitä eläkemaksut ovat ja onko niiden käsittely julkisen talouden tunnusluvuissa kohdillaan?](https://www.taloustieteellinenyhdistys.fi/wp-content/uploads/2020/10/KAK_3_2020_WEB-86-102.pdf) Kansantaloudellinen aikakauskirja 116 (3), 637-641.
