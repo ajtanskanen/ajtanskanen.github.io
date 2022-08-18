@@ -15,7 +15,7 @@ Sijoituksia tehtäessä aina mietitään, millaista tuottoa pääomalle saa. Ty�
 On luontevaa kysyä, millaista tuottoa työeläkemaksulle saa eläkkeen muodossa. 
 
 Sisäinen tuotto
------
+======
 
 Työeläkemaksu on 24,4 prosenttia palkasta. Työntekijän osuus siitä on keskimäärin xx prosenttia, työnantaja maksaa loput. 
 Jos tämän verran varoja sijoittaisi osakkeisiin, tulisi varoille tuottoja osinkoina ja arvonnousuna. Työeläkemaksun sisäinen tuotto vastaa tätä
@@ -38,7 +38,7 @@ Myös Eläketurvakeskus on arvioinut eri ikäluokkien henkilöiden työeläkemak
 Kuvio 2. Eläketurvakeskuksen arvio työeläkemaksun sisäisestä tuotosta eri ikäluokille (ETK, 2021)
 
 Miten maksu vaikuttaa tuottoon?
------
+======
 
 Työeläkemaksulle eläkkeenä saatavaan tuottoon vaikuttaa maksutaso prosentteina palkasta.
 Jos työeläkemaksu nousee ilman etuuksien parantumista, tulee työeläkkeestä huonompi diili. Vastaavasti alempi työeläkemaksu
@@ -61,7 +61,7 @@ Kuvio 5 esittää maksun ja sisäisen tuoton yhteyttä yleisemminkin.
 Kuvio 4. Yhteensovitettu sisäinen tuotto verrattuna yhteensovittamattomasta työeläkkeestä laskettuun sisäiseen tuottoon
 
 Työeläkkeen ja kansaneläkkeen yhteensovitus
------
+======
 
 Tämä ei vielä ole koko tarina. Suomen sosiaaliturvaan kuuluu myös kansaneläke (628 e/kk pariskunnille / 703 e/kk yksinasuvalle), joka yhteensovitetaan työeläkkeen kanssa. 
 Kun työeläke ylittää 59 e/kk, vähentää ylimenevä osa kansaneläkettä puolet ylittävästä määrästä. 
@@ -78,7 +78,7 @@ Tämä kertoo, että yhteensovitus heikentää työeläkejärjestelmän kannatta
 Kuvio 5. Aggregaattina lasketun työeläkemaksun ja sisäisen tuoton välinen yhteys.
 
 Onko työeläkemaksun tuotto hyvä?
------
+======
 
 Työeläkemaksusta saatava reilu 2 prosentin reaalituotto on maltillinen. Siihen liittyvä riski on maltillinen. Tässä mielessä
 työeläkeen voi rinnastaa joukkovelkakirjasijoitukseen. Jos huomioidaan kansaneläkkeen ja takuueläkkeen yhteensovitus työeläkkeen kanssa, 
