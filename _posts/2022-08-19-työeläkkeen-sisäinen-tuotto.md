@@ -2,8 +2,8 @@
 title: 'Onko työeläkemaksun sisäinen tuotto liian maltillinen?'
 date: 2022-08-19
 permalink: /posts/2022/08/työeläkemaksun-sisäinen-tuotto/
-image: /images/irr/redusoitu3.png
-largeimage: /images/irr/redusoitu3.png
+image: /images/irr/gentlemen.png
+largeimage: /images/irr/gentlemen.png
 summary: 'Blogi | Millaista tuottoa työeläkemaksu antaa? Miten maksunnousu tai -lasku vaikuttaa sisäiseen tuotton?'
 tags:
   - työeläkkeet
@@ -34,6 +34,9 @@ Kuvio 1. Elinkaarimallilla (Tanskanen, 2021) laskettuja sisäisiä tuottoja
 
 Kuviossa hajonta johtuu eliniän eroista ja erilaisista työurista. Tuloksiin vaikuttaa mm. se joutuuko henkilö työkyvyttömyyseläkkeelle
 tai pitkäkestoiselle sairaspäivärahalle. Hajonta kertoo osaltaan työeläkkeen vakuutusluonteesta.
+
+Sisäisen tuotto on tässä laskettu bruttopalkoista ja bruttoeläkkeistä, kuten Risku (2015), ilman verotuksen huomiointia. 
+Tällöin tuotot ovat paremmin vertailukelpoisia säästämisestä saatavan tuoton kanssa.
 
 Eläketurvakeskus (2021) on arvioinut eri ikäluokkien henkilöiden työeläkemaksulle saamia tuottoja.
 Myös Risku (2015) on laskenut historiallisesta aineistosta arvioita eri ikäluokkien työeläkkeen sisäiselle tuotolle.
