@@ -1,7 +1,7 @@
 ---
 title: 'Onko työeläkemaksuille saatava tuotto liian maltillinen vai antelias?'
 date: 2022-08-19
-permalink: /posts/2022/08/työeläkemaksun-sisäinen-tuotto/
+permalink: /posts/2022/08/työeläkemaksun-maltillinen-tuotto/
 image: /images/irr/gentlemen.png
 largeimage: /images/irr/gentlemen.png
 summary: 'Blogi | Millaista tuottoa työeläke antaa maksuille? Entä miten maksunnousu tai -lasku vaikuttaa sisäiseen tuotoon?'
@@ -96,7 +96,7 @@ pitää reaalisesti saada, että järjestelmä on kestävällä pohjalla.
 ![Vertailu 3](/images/irr/maksu_vs_irr.png)
 Kuvio 5. Työeläkemaksun ja sisäisen tuoton välinen yhteys.
 
-Onko työeläkemaksun tuotto hyvä?
+Työeläkemaksun tuotto on maltillinen
 ======
 
 Työeläkemaksusta saatava reilu 2 prosentin reaalituotto on maltillinen. Myös siihen liittyvä riski on maltillinen, ellei jopa vähäinen. 
