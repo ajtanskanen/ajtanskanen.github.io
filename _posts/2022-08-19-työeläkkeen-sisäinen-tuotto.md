@@ -8,6 +8,7 @@ summary: 'Blogi | Millaista tuottoa työeläkemaksu antaa? Miten maksunnousu tai
 tags:
   - työeläkkeet
     elinkaarimalli
+    
   - tuotto
 ---
 
@@ -26,7 +27,7 @@ Esimerkki yksittäisten vakuutettujen työeläkemaksulle saamista elinkaarimalli
 Mediaanina työeläkemaksulle saatava tuotto on nykysäännöillä 2,2 prosenttia reaalisesti.
 Reaalituotto siis on elinkustannusten kasvun päälle tulevaa tuottoa. 
 
-![IRR:t](/images/irr/baseline.png)
+![IRR:t](/images/irr/irr.png)
 Kuvio 1. Elinkaarimallilla (Tanskanen, 2021) laskettuja sisäisiä tuottoja 
 
 Kuviossa hajonta johtuu eliniän eroista ja erilaisista työurista. Tuloksiin vaikuttaa mm. se joutuuko henkilö työkyvyttömyyseläkkeelle
@@ -91,9 +92,9 @@ Työeläkejärjestelmällä olisi varaa olla sijoitustoiminnassaan reilusti nyky
 Kirjallisuus
 ======
 
-Eläketurvakeskus (2021),[Työeläkeindikaattorit 2021](https://www.julkari.fi/handle/10024/143130)
+Eläketurvakeskus (2021) [Työeläkeindikaattorit 2021](https://www.julkari.fi/handle/10024/143130)
 
-Tanskanen, A.J., Kotamäki, M. (2021). ["Lafferin käyrä heterogeenisessa populaatiossa – ja miksi verolajilla on väliä"](https://www.taloustieteellinenyhdistys.fi/wp-content/uploads/2021/10/KAK_3_2021_WEB-53-76.pdf) Kansantaloudellinen aikakauskirja. 117 (3), 383-406.
+Tanskanen, A.J., Kotamäki, M. (2021) ["Lafferin käyrä heterogeenisessa populaatiossa – ja miksi verolajilla on väliä"](https://www.taloustieteellinenyhdistys.fi/wp-content/uploads/2021/10/KAK_3_2021_WEB-53-76.pdf) Kansantaloudellinen aikakauskirja 117 (3), 383-406.
 
 Tikanmäki, H, Appelqvist, J, Reipas, K, Sankala, M, Sihvonen, H (2016) [Lakisääteiset eläkkeet: pitkän aikavälin laskelmat 2016](https://www.julkari.fi/handle/10024/131352)
 
