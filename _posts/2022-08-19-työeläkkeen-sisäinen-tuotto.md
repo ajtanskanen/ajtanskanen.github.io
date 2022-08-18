@@ -82,9 +82,10 @@ Maksutason ja sisäisen tuoton yhteys
 
 Jos maksussa oleviin ja tuleviin työeläkkeisiin ei kosketa, on ainoa tapa vaikuttaa työeläkkeen sisäiseen tuottoon muuttaa maksua.
 Kuvio 5 esittää maksun ja sisäisen tuoton yhteyttä. Kuviossa on sisäinen tuotto määritetty kaikkien vakuutettujen yhteenlasketuista työeläkemaksuista ja
-työeläkemenosta. Kuvio 5 näyttää osin saman tarinan kuin kuvio 3: jos maksu nousee, heikkenee työeläkkeen sisäinen tuotto; 
-jos maksutaso on yli 29 prosenttia, ei rahastointi ole kannattavaa. 
+työeläkemenosta. 
 
+Kuvio 5 näyttää osin saman tarinan kuin kuvio 3: jos maksu nousee, heikkenee työeläkkeen sisäinen tuotto; 
+jos maksutaso on yli 29 prosenttia, ei rahastointi ole kannattavaa. 
 Jos ajatellaan, että työeläkkeet ovat täysin rahastoituja, kertoo kuvio tietyllä maksutasolla, paljonko sijoitustuottoja
 pitää reaalisesti saada, että järjestelmä on kestävällä pohjalla. 
 
