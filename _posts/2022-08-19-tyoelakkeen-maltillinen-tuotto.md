@@ -4,7 +4,7 @@ date: 2022-08-19
 permalink: /posts/2022/08/tyoelakemaksun-maltillinen-tuotto/
 image: /images/irr/gentlemen.png
 largeimage: /images/irr/gentlemen.png
-summary: 'Blogi | Millaista tuottoa työeläke antaa maksuille? Entä miten maksunnousu tai -lasku vaikuttaa sisäiseen tuotoon?'
+summary: 'Blogi | Millaista tuottoa työeläkkeelle saa? Entä miten maksunnousu tai -lasku vaikuttaa tähän tuotoon?'
 tags:
   - työeläkkeet
     elinkaarimalli
@@ -12,8 +12,9 @@ tags:
   - tuotto
 ---
 
-Sijoituksia tehtäessä aina mietitään, millaista tuottoa pääomalle saa. Työeläke on vakuutus, johon sisältyy myös suuri säästämiskomponentti.
-Onkin luontevaa kysyä, millaista tuottoa työeläkemaksulle saa eläkkeen muodossa. 
+Sijoituksia tehtäessä mietitään aina, millaista tuottoa sijoitetulle pääomalle saa. 
+Työeläke on vakuutus, johon sisältyy myös suuri säästämiskomponentti.
+Onkin luontevaa kysyä, millaista tuottoa työeläkkeelle saa. 
 
 Työeläkkeen sisäinen tuotto
 ======
@@ -89,10 +90,13 @@ vuosittaisista työeläkemaksuista ja heidän yhteenlasketuista vuosittaisista t
 Kuvio 5 kertoo paljolti saman tarinan kuin kuvio 3: jos maksu nousee, heikkenee työeläkkeen sisäinen tuotto; 
 jos maksutaso on yli 29 prosenttia, ei rahastointi ole kannattavaa; jos maksua onnistutaan keventämään nykyisestä, sisäinen tuotto paranee.
 
-Jos työeläkejärjestelmä olisi täysin rahastoitu, riittäisi 3,5 prosentin reaalisella sijoitustuotolla 17 prosentin maksutaso (kuvio 5).
+Jos työeläkejärjestelmä olisi täysin rahastoitu, riittäisi 3,5 prosentin reaalisella sijoitustuotolla 17 prosentin maksutaso (sininen käyrä kuvio 5).
 Rahastointi on kuitenkin osittaista. Kuvio 5 ei siis kerro, millainen maksutaso olisi, jos 
 sijoitustuotto *osittaisella* rahastoinnilla on 3,5 prosenttia. Sisäinen tuotto ja rahastojen sijoitustuotto vastaavat toisiaan ainoastaan, jos
-eläkkeet on täysin rahastointi. 
+eläkkeet on täysin rahastoitu. Osittaisessa rahastoinnissa sijoitustuotto vaikuttaa maksutasoon, joka vaikuttaa sisäiseen tuottoon.
+
+Jos maksutaso nousee yli 26 prosentin, putoaa työeläkkeen sisäinen tuotto selvästi negatiiviseksi, kun huomioidaan
+työ-, kansan- ja takuueläkkeen yhteensovitus (oranssi käyrä kuviossa 5). 
 
 ![Vertailu 3](/images/irr/maksu_vs_irr.png)
 Kuvio 5. Työeläkemaksun ja sisäisen tuoton välinen yhteys.
