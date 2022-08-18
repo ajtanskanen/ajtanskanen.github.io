@@ -2,8 +2,8 @@
 title: 'Työeläkemaksun sisäinen tuotto'
 date: 2022-08-19
 permalink: /posts/2022/08/työeläkemaksun-sisäinen-tuotto/
-image: /images/dalle/ratikka.png
-largeimage: /images/dalle/ratikka.jpg
+image: /images/irr/redusoitu3.png
+largeimage: /images/irr/redusoitu3.jpg
 summary: 'Blogi | Millaista tuottoa työeläkemaksu antaa? Miten maksunnousu tai -lasku vaikuttaa?'
 tags:
   - työeläkkeet
@@ -15,15 +15,15 @@ tags:
 Sijoituksia tehtäessä aina mietitään, millaista tuottoa pääomalle saa. Työeläke on vakuutus, johon sisältyy suuri säästämiskomponentti.
 On luontevaa kysyä, millaista tuottoa työeläkemaksulle saa eläkkeen muodossa. 
 
-Sisäinen tuotto
+Työeläkkeen sisäinen tuotto
 ======
 
 Työeläkemaksu on 24,4 prosenttia henkilön bruttopalkasta. Työntekijän osuus eläkemaksusta on keskimäärin 7,45 prosenttia palkoista, työnantaja maksaa loput. 
 Jos tämän verran varoja sijoittaisi osakkeisiin, tulisi varoille tuottoja osinkoina ja arvonnousuna. Myös työeläkkeeseen sijoitetuille varoille
 voi laskea tuoton.
 
-Työeläkemaksun "sisäisen" tuoton voi laskea vertaamalla eläkemaksuja ja vakuutetun saamia eläkkeitä. Verotus
-Työeläkkeen sisäinen tuotto on se tuotto, joka pitäisi saada jotta eläkemaksut itse säästettynä riittäisivät etuuksien rahoittamiseen. (KORJAA!)
+Työeläkkeen **sisäinen tuotto** on se tuotto, joka pitäisi saada jotta eläkemaksut itse säästettynä riittäisivät etuuksien rahoittamiseen.
+Työeläkemaksun sisäisen tuoton voi laskea vertaamalla eläkemaksuja ja vakuutetun saamia eläkkeitä. 
 
 Esimerkki yksittäisten vakuutettujen työeläkemaksulle saamista elinkaarimallilla simuloiduista tuotoista on Kuviossa 1. 
 Mediaanina työeläkemaksulle saatava tuotto on nykysäännöillä 2,2 prosenttia reaalisesti.
@@ -35,7 +35,8 @@ Kuvio 1. Elinkaarimallilla (Tanskanen, 2021) laskettuja sisäisiä tuottoja
 Kuviossa hajonta johtuu eliniän eroista ja erilaisista työurista. Tuloksiin vaikuttaa mm. se joutuuko henkilö työkyvyttömyyseläkkeelle
 tai pitkäkestoiselle sairaspäivärahalle. Hajonta kertoo osaltaan työeläkkeen vakuutusluonteesta.
 
-Myös Eläketurvakeskus on arvioinut eri ikäluokkien henkilöiden työeläkemaksulle saamia tuottoja.
+Eläketurvakeskus (2021) on arvioinut eri ikäluokkien henkilöiden työeläkemaksulle saamia tuottoja.
+Myös Risku (2015) on laskenut historiallisesta aineistosta arvioita eri ikäluokkien työeläkkeen sisäiselle tuotolle.
 
 ![ETK:n arvio irr:stä](/images/irr/etk.png)
 Kuvio 2. Eläketurvakeskuksen arvio työeläkemaksun sisäisestä tuotosta eri ikäluokille (ETK, 2021)
@@ -52,12 +53,12 @@ Kuvio 3. Vertailu sisäisistä tuotoista 19; 24,4; ja 29 prosentin työeläkemak
 
 Jos maksutaso oli 19 prosenttial palkoista, olisi sisäinen tuotto 3,1 prosenttia reaalisesti. Tämän voi tulkita myös niin,
 että jos täysin rahastoidussa eläkejärjestelmässä sijoitustuotto olisi 3,1 prosenttia reaalisesti, olisi maksu 19 prosenttia palkoista.
-Tulos vastaa melko hyvin ETK:n arviota [Tikanmäki et al. 2016].
+Tulos vastaa melko hyvin ETK:n arviota (Tikanmäki et al. 2016).
 
 Jos taas rahastoinnista luovuttaisiin kokonaan ("meidän jälkeemme vedenpaisumus"), olisi maksu eläkemenon suuruinen, luokkaa 29 prosenttia.
 Tällöin sisäinen tuotto heikkenisi noin 1,6 prosenttiin reaalisesti. Mallissa palkkojen kasvu on tämän suuruinen, ja
 eläkemaksulleen saa tuotoksi palkkojen kasvun verran. Näin sen oikeastaan pitäisi ollakin jakojärjestelmällä rahoitetussa 
-eläkejärjestelmässä, koska rahastointi on kannattavaa vain, jos sijoitustuotto ylittää palkkojen kasvun [esim. [Työeläkevakuuttajat Tela](https://www.tela.fi/tyoelakkeiden-rahoitus/rahoituksen-periaatteet/rahastointi/)].
+eläkejärjestelmässä, koska rahastointi on kannattavaa vain, jos sijoitustuotto ylittää palkkojen kasvun (esim. [Työeläkevakuuttajat Tela](https://www.tela.fi/tyoelakkeiden-rahoitus/rahoituksen-periaatteet/rahastointi/)).
 
 Työeläkkeen ja kansaneläkkeen yhteensovitus
 ======
@@ -75,22 +76,22 @@ Kuvio 4. Yhteensovitettu sisäinen tuotto verrattuna yhteensovittamattomasta ty�
 Kuvio 4 esittää työeläkemaksun tuottoja, kun huomioidaan työeläkkeen ja kansaneläkkeen sekä takuueläkkeen yhteensovitus. 
 Kuvio näyttää, että yhteensovitettujen tuottojen jakauma on enemmän vasemmalla ja leveämpi kuin yhteensovittamattomien tuottojen.
 Tämä kertoo, että yhteensovitus heikentää työeläkejärjestelmän sisäistä tuottoa selvästi.
-Osaltaan tämä on antanut kimmokkeen miettiä työeläkkeen veroluonnetta (esim [Tanskanen, 2020](https://www.taloustieteellinenyhdistys.fi/wp-content/uploads/2020/12/KAK_4_2020_WEB-105-109.pdf); [Viherkenttä, 2020](https://www.taloustieteellinenyhdistys.fi/wp-content/uploads/2020/10/KAK_3_2020_WEB-86-102.pdf))
+Osaltaan tämä on antanut kimmokkeen miettiä työeläkkeen veroluonnetta (esim. [Tanskanen, 2020](https://www.taloustieteellinenyhdistys.fi/wp-content/uploads/2020/12/KAK_4_2020_WEB-105-109.pdf); [Viherkenttä, 2020](https://www.taloustieteellinenyhdistys.fi/wp-content/uploads/2020/10/KAK_3_2020_WEB-86-102.pdf))
 
 Maksutason ja sisäisen tuoton yhteys
 =====
 
-Jos maksussa oleviin ja tuleviin työeläkkeisiin ei kosketa, on ainoa tapa vaikuttaa työeläkkeen sisäiseen tuottoon muuttaa maksua.
-Kuvio 5 esittää maksun ja sisäisen tuoton yhteyttä. Kuviossa on sisäinen tuotto määritetty kaikkien vakuutettujen yhteenlasketuista työeläkemaksuista ja
-työeläkemenosta. 
+Jos maksussa oleviin ja tuleviin työeläkkeisiin ei kosketa, ainoa tapa vaikuttaa työeläkkeen sisäiseen tuottoon on muuttaa maksua.
+Kuvio 5 esittää maksun ja sisäisen tuoton yhteyttä. Kuviossa sisäinen tuotto on määritetty kaikkien vakuutettujen yhteenlasketuista vuosittaisista työeläkemaksuista ja
+yhteenlasketuista vuosittaisista työeläkemenoista. 
 
-Kuvio 5 näyttää osin saman tarinan kuin kuvio 3: jos maksu nousee, heikkenee työeläkkeen sisäinen tuotto; 
-jos maksutaso on yli 29 prosenttia, ei rahastointi ole kannattavaa. 
-Jos ajatellaan, että työeläkkeet ovat täysin rahastoituja, kertoo kuvio tietyllä maksutasolla, paljonko sijoitustuottoja
+Kuvio 5 näyttää paljolti saman tarinan kuin kuvio 3: jos maksu nousee, heikkenee työeläkkeen sisäinen tuotto; 
+jos maksutaso on yli 29 prosenttia, ei rahastointi ole kannattavaa; jos maksua onnistutaan keventämään nykyisestä, sisäinen tuotto paranee.
+Jos työeläkkeet ovat täysin rahastoituja, kertoo kuvio annetulla maksutasolla, paljonko sijoitustuottoja
 pitää reaalisesti saada, että järjestelmä on kestävällä pohjalla. 
 
 ![Vertailu 3](/images/irr/maksu_vs_irr.png)
-Kuvio 5. Aggregaattina lasketun työeläkemaksun ja sisäisen tuoton välinen yhteys.
+Kuvio 5. Työeläkemaksun ja sisäisen tuoton välinen yhteys.
 
 Onko työeläkemaksun tuotto hyvä?
 ======
@@ -107,6 +108,8 @@ Kirjallisuus
 ======
 
 Eläketurvakeskus (2021) [Työeläkeindikaattorit 2021](https://www.julkari.fi/handle/10024/143130)
+
+Risku, I. (2015) [Yksityisalojen palkansaajien työeläkkeet syntymävuoden ja sukupuolen mukaan](https://www.julkari.fi/bitstream/handle/10024/129556/Yksityisalojenpalkansaajientyoelakkeetsyntymavuodenjasukupuolenmukaan.pdf) Eläketurvakeskuksen raportteja 09/2015
 
 Tanskanen, A.J., Kotamäki, M. (2021) ["Lafferin käyrä heterogeenisessa populaatiossa – ja miksi verolajilla on väliä"](https://www.taloustieteellinenyhdistys.fi/wp-content/uploads/2021/10/KAK_3_2021_WEB-53-76.pdf) Kansantaloudellinen aikakauskirja 117 (3), 383-406.
 
