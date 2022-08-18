@@ -88,7 +88,8 @@ Kuvio 5 esittää maksun ja sisäisen tuoton yhteyttä. Kuviossa sisäinen tuott
 vuosittaisista työeläkemaksuista ja heidän yhteenlasketuista vuosittaisista työeläkemenoista. 
 
 Kuvio 5 kertoo paljolti saman tarinan kuin kuvio 3: jos maksu nousee, heikkenee työeläkkeen sisäinen tuotto; 
-jos maksutaso on yli 29 prosenttia, ei rahastointi ole kannattavaa; jos maksua onnistutaan keventämään nykyisestä, sisäinen tuotto paranee.
+jos maksutaso on yli 29 prosenttia, ei rahastointi ole kannattavaa (sisäinen tuotto alittaa palkkojen kasvun); 
+jos maksua onnistutaan keventämään nykyisestä, sisäinen tuotto paranee.
 
 Jos työeläkejärjestelmä olisi täysin rahastoitu, riittäisi 3,5 prosentin reaalisella sijoitustuotolla 17 prosentin maksutaso (sininen käyrä kuviossa 5).
 Rahastointi on kuitenkin osittaista. Kuvio 5 ei siis kerro, millainen maksutaso olisi, jos 
