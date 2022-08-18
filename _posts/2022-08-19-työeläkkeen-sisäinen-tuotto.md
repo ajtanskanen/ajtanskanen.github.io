@@ -1,10 +1,10 @@
 ---
-title: 'Työeläkemaksun sisäinen tuotto'
+title: 'Onko työeläkemaksun sisäinen tuotto liian maltillinen?'
 date: 2022-08-19
 permalink: /posts/2022/08/työeläkemaksun-sisäinen-tuotto/
 image: /images/irr/redusoitu3.png
-largeimage: /images/irr/redusoitu3.jpg
-summary: 'Blogi | Millaista tuottoa työeläkemaksu antaa? Miten maksunnousu tai -lasku vaikuttaa?'
+largeimage: /images/irr/redusoitu3.png
+summary: 'Blogi | Millaista tuottoa työeläkemaksu antaa? Miten maksunnousu tai -lasku vaikuttaa sisäiseen tuotton?'
 tags:
   - työeläkkeet
     elinkaarimalli
