@@ -74,7 +74,7 @@ Tällöin henkilö joutuu maksamaan työeläkemaksua, mutta ei saa sille vastine
 Kuvio 4 esittää työeläkemaksun tuottoja, kun huomioidaan työeläkkeen ja kansaneläkkeen sekä takuueläkkeen yhteensovitus. 
 Kuvio näyttää, että yhteensovitettujen tuottojen jakauma on enemmän vasemmalla ja leveämpi kuin yhteensovittamattomien tuottojen.
 Tämä kertoo, että yhteensovitus heikentää työeläkejärjestelmän kannattavuutta selvästi.
-Osaltaan tämä on antanut kimmokkeen miettiä työeläkkeen veroluonnetta (esim Tanskanen, 2020; Viherkenttä, 2020s)
+Osaltaan tämä on antanut kimmokkeen miettiä työeläkkeen veroluonnetta (esim [Tanskanen, 2020](https://www.taloustieteellinenyhdistys.fi/wp-content/uploads/2020/12/KAK_4_2020_WEB-105-109.pdf); [Viherkenttä, 2020](https://www.taloustieteellinenyhdistys.fi/wp-content/uploads/2020/10/KAK_3_2020_WEB-86-102.pdf))
 
 ![Vertailu 3](/images/irr/maksu_vs_irr.png)
 Kuvio 5. Aggregaattina lasketun työeläkemaksun ja sisäisen tuoton välinen yhteys.
