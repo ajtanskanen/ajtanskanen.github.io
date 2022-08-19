@@ -92,9 +92,11 @@ jos maksutaso on yli 29 prosenttia, ei rahastointi ole kannattavaa (sisäinen tu
 jos maksua onnistutaan keventämään nykyisestä, sisäinen tuotto paranee.
 
 Jos työeläkejärjestelmä olisi täysin rahastoitu, riittäisi 3,5 prosentin reaalisella sijoitustuotolla 17 prosentin maksutaso (sininen käyrä kuviossa 5).
-Rahastointi on kuitenkin osittaista. Kuvio 5 ei siis kerro, millainen maksutaso olisi, jos 
-sijoitustuotto ***osittaisella*** rahastoinnilla on 3,5 prosenttia. Sisäinen tuotto ja rahastojen sijoitustuotto vastaavat toisiaan ainoastaan, jos
-eläkkeet on täysin rahastoitu. Osittaisessa rahastoinnissa sijoitustuotto vaikuttaa maksutasoon, joka vaikuttaa sisäiseen tuottoon.
+Työeläkkeiden rahastointi on kuitenkin osittaista. Kuvio 5 ei kerro, millainen maksutaso olisi, jos 
+sijoitustuotto ***osittaisella*** rahastoinnilla on 3,5 prosenttia. 
+Sisäinen tuotto ja rahastojen sijoitustuotto ovat sama vain, jos eläkkeet on täysin rahastoitu. 
+Osittaisessa rahastoinnissa sijoitustuotto vaikuttaa maksutasoon, joka vaikuttaa sisäiseen tuottoon, mutta 
+muutosten suunta on sama kuin täyden rahastoinnin osalta.
 
 Jos maksutaso nousee yli 26 prosentin, putoaa työeläkkeen sisäinen tuotto selvästi negatiiviseksi, kun huomioidaan
 työ-, kansan- ja takuueläkkeen yhteensovitus (oranssi käyrä kuviossa 5). 
