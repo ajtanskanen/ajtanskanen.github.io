@@ -72,6 +72,14 @@ Vaikka molempien tarkoitus on hyvä, heikentävät ne työeläkkeen kannustavuut
 työeläkekarttuman kasvu ei välttämättä lisää juuri nettotuloja.
 Tällöin henkilö joutuu maksamaan työeläkemaksua, mutta ei saa sille juuri vastinetta.
 
+Työeläkkeen sisäisen tuoton voi laskea oikeastaan kahdella vertailukohdalla. Yllä laskettu 2,2 prosentin reaalituotto laskettiin
+vertaamalla siihen tilanteeseen, että eläkkeellä ollessa ei muita tuloja olisi lainkaan. Tämä tapa on käytössä Kuvion 4
+oranssissa käyrässä.
+
+Toinen tapa laskea sisäinen tuotto on verrata siihen, että ilman eläkemaksujen maksamista henkilö saisi
+kansaneläkkeen ja takuueläkkeen, ja työeläkemaksulla eläke kasvaa verrattuna tähän tilanteeseen. 
+Jälkimmäinen tapa on käytössä kuvion 4 sinisessä käyrässä, joka huomioi eläkkeiden yhteensovituksen.
+
 ![Vertailu 3](/images/irr/yhtsov_vs_pelkka.png)
 Kuvio 4. Yhteensovitettu sisäinen tuotto verrattuna yhteensovittamattomasta työeläkkeestä laskettuun sisäiseen tuottoon
 
