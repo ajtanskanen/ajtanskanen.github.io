@@ -25,13 +25,12 @@ Mutta oliko oikeasti näin? Kuplautuminen helposti filtteröi eri mieltä olevie
 
 *Kuva 1. Twitterissä kommentaari budjettiriihestä oli paikoin railakasta.*
 
-Budjettiriihen analyysi
+Budjettiriihi-twiittien analyysi
 =====
 
-Haetaan Twitterin haulla twiitit aiheista _budjettiriihi_ ja _budjetti_, missä retwiittaukset on jätetty pois. 
-
-Analysoidaan sitten [sentimentti GPT:llä](/posts/2022/09/sentimenttianalyysi/).
- Hieman yllättäen sentimentti on kokonaisuudessaan positiivinen: yli puolet twiiteistä suhtautuu positiivisesti budjettiriiheen.
+Analysoidaan sitten budjettiriiheen liittyvien twiittien fiilis. 
+Sentimentti [analysoidaan GPT:llä](/posts/2022/09/sentimenttianalyysi/). 
+Toisin kuin minun kuplassani tuntui, sentimentti on kokonaisuudessaan positiivinen: yli puolet twiiteistä suhtautuu positiivisesti budjettiriiheen.
 
 ![SEntimenttien jakauma](/images/sentimentti/riihi.png)
 
@@ -49,6 +48,7 @@ Tässä muutama esimerkki twiitteistä ja niiden sentimenteistä
 Opettajatarvetta on ennakoitava ajoissa. #opettajarekisteri #budjettiriihi | +2 |
 
 Kaikkiaan analysoituja twiittejä on 1926 kpl, ja ne ovat aikaväliltä 30.8.2022 - 6.9.2022.
+Twiitit ovat aiheista _budjettiriihi_ ja _budjetti_, missä retwiittaukset on jätetty pois. 
 
 Ennen budjettiriiheä
 -----
