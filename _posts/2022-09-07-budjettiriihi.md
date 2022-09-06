@@ -28,8 +28,7 @@ Mutta oliko oikeasti näin? Kuplautuminen helposti filtteröi eri mieltä olevie
 Budjettiriihi-twiittien analyysi
 =====
 
-Analysoidaan sitten budjettiriiheen liittyvien twiittien fiilis. 
-Sentimentti [analysoidaan GPT:llä](/posts/2022/09/sentimenttianalyysi/). 
+Analysoidaan sitten budjettiriiheen liittyvien [twiittien fiilis GPT:llä](/posts/2022/09/sentimenttianalyysi/). 
 Toisin kuin minun kuplassani tuntui, sentimentti on kokonaisuudessaan positiivinen: yli puolet twiiteistä suhtautuu positiivisesti budjettiriiheen.
 
 ![SEntimenttien jakauma](/images/sentimentti/riihi.png)
