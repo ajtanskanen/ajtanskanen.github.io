@@ -11,13 +11,13 @@ tags:
   - sentimenttianalyysi
 ---
 
-Tiivis kuvaus sentimenttianalyysistä OpenAI:n GPT-3:lla.
+Sentimenttianalyysi kertoo, onko jokin tekstin sävy positiivinen, negatiivinen tai neutraali. Tässä tekstissä kuvataan lyhyesti, miten
+sentimenttianalyysiä voi tehdä OpenAI:n GPT-3:lla.
 
 Sentimenttianalyysi 
 =====
 
-Sentimenttianalyysi kertoo, onko jokin tekstin sävy positiivinen, negatiivinen tai neutraali. Helppo tapa tehdä sentimenttianalyysiä on käyttää
-listaa yksittäisten sanojen sävystä ja laskea tekstin sanojen sävyjen summa. Toinen tapa on opettaa keinotekoinen neuroverkko aineiston avulla
+Helppo tapa tehdä sentimenttianalyysiä on käyttää listaa yksittäisten sanojen sävystä ja laskea tekstin sanojen sävyjen summa. Toinen tapa on opettaa keinotekoinen neuroverkko aineiston avulla
 arvioimaan tekstin sävyä. Uusien, suurten kielimallien tulon jälkeen myös niiden käyttö onnistuu hyvin.
 Tässä käytetään OpenAI:n GPT-3 -kielimallia, jossa on 175 miljardia parametria. 
 
