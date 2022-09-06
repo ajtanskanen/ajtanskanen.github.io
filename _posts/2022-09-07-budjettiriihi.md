@@ -103,8 +103,8 @@ niissä näkyy huoli velkaantumisesta ja talouskasvun puutteesta.
 Päivä budjettiriihen jälkeen
 -----
 
-Negatiivinen sentimentti korostuu päivä budjettiriihen jälkeen tai myöhemmin budjetista kirjoitetuissa twiiteissä. Nyt jo yli 60 prosenttia 
-twiiteistä on negatiivisia tai erittäin negatiivisia.
+Negatiivinen sentimentti korostuu päivä budjettiriihen jälkeen tai myöhemmin budjetista kirjoitetuissa twiiteissä. Nyt jo lähes 60 prosenttia 
+twiiteistä on negatiivisia tai erittäin negatiivisia. Positiivisten twiittien osuus on podonnut alle 30 prosentin.
 
 ![SEntimenttien jakauma](/images/sentimentti/jalkeen1pv.png)
 
