@@ -110,7 +110,16 @@ twiiteistä on negatiivisia tai erittäin negatiivisia. Positiivisten twiittien 
 
 *Kuvio 5. Sentimenttianalyysi budjettiriiheä käsittelevistä twiiteistä, jotka on julkaistu vähintään yhden päivän budjettiriihen jälkeen.*
 
-Budjettiriihen tunnelma jää tosiaan negatiiviseksi. Se myös muuttuu negatiivisemmaksi ajan kuluessa. Ehkä oma kuplani Twitterissä oli kuitenkin oikeassa.
+Aikakehitys
+-------
+
+Budjettiriihen tunnelma jää tosiaan negatiiviseksi. Se myös muuttuu negatiivisemmaksi ajan kuluessa, kuten kuvio 6 näyttää. Ehkä oma kuplani Twitterissä oli kuitenkin oikeassa.
+
+![SEntimenttien jakauma](/images/sentimentti/aikakehitys.png)
+
+*Kuvio 6. Sentimenttien aikakehitys muuttuu negatiivisemmaksi: ennen budjettiriihtä (sininen) fiilis on positiivinen; 
+heti budjettiriihen jälkeen (keltainen) se muuttuu negatiivisemmaksi; ja myöhemmin (vihreä) vielä negatiivisemmaksi.*
+
 
 Huomioita analyysistä
 -----
@@ -119,13 +128,13 @@ Pääosin sentimentit on analysoitu oikein, mutta analyysissä on myös selviä 
 
 | En voi olla tyytyväinen oman puolueen @vihreat päätökseen tukea lentämisen alv-kannan laskemista nollaan! #budjettiriihi #ilmastonmuutos  | +2 |
 
-Jos analyysiä haluaisi tarkentaa, voisi twiittien kirjoittajat jaotella ryhmiin. Esimerkiksi ekonomistitwitteriin (kuten kuvassa 6), 
+Jos analyysiä haluaisi tarkentaa, voisi twiittien kirjoittajat jaotella ryhmiin. Esimerkiksi ekonomistitwitteriin (kuten kuvassa 7), 
 etujärjestöjen twiitterihin tai poliittisen kannan mukaan. Tämä varmasti valottaisi sentimenttejä paremmin. Tässä 
 en kuitenkaan tätä tarkempaan analyysiin ryhdy.
 
 ![SEntimenttien jakauma](/images/sentimentti/jouko.png)
 
-*Kuva 6. Sentimenttianalyysi ekonomistitwitteristä.*
+*Kuva 7. Sentimenttianalyysi ekonomistitwitteristä.*
 
 Lopuksi
 =====
