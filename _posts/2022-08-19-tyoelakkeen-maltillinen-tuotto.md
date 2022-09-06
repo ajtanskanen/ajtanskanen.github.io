@@ -7,8 +7,7 @@ largeimage: /images/irr/gentlemen.png
 summary: 'Blogi | Millaista tuottoa työeläkkeelle saa? Entä miten maksunnousu tai -lasku vaikuttaa tähän tuotoon?'
 tags:
   - työeläkkeet
-    elinkaarimalli
-    
+  - elinkaarimalli
   - tuotto
 ---
 

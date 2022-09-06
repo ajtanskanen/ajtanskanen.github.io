@@ -1,0 +1,162 @@
+---
+title: 'Twiittien fiilis budjettiriihestä kääntyi negatiiviseksi'
+date: 2022-09-07
+permalink: /posts/2022/09/sentimenttianalyysi/
+image: /images/sentimentti/medieval.png
+largeimage: /images/sentimentti/medieval.png
+summary: 'Blogi | Sentimenttianalyysi kertoo tekstin sävyn: onko se positiivinen, neutraali tai negatiivinen. Tekoäly on tehokas apu siinä.'
+tags:
+  - AI
+  - tekoäly
+  - sentimenttianalyysi
+  - budjettiriihi
+---
+
+Budjettiriihessä tehtiin 1.9.2022 päätöksiä valtion varojen käyttökohteista. Budjettiriihestä ja budjetista käytiin
+Twitterissä innokasta keskustelua sekä ennen budjettiriihtä että sen jälkeen. Alun positiivinen tunnelma kääntyi sentimenttianalyysin mukaan negatiiviseksi.
+
+Budjettiriihi
+=====
+
+Oman tuntuman mukaan twitter-kupla tuntui suhtautuvan negatiivisesti budjettiriihen päätöksiin.
+Mutta oliko oikeasti näin? Kuplautuminen helposti filtteröi eri mieltä olevien twiittejä.
+
+{% figure [caption:"Kuva 1. Twitterissä kommentaari budjettiriihestä oli paikoin railakasta."] [class:"class1 class2"] %}
+![Sentimenttien jakauma](/images/sentimentti/kurronen.png)
+{% endfigure %}
+
+Sentimenttianalyysi 
+=====
+
+Sentimenttianalyysi kertoo, onko jokin tekstin sävy positiivinen, negatiivinen tai neutraali. Helppo tapa tehdä sentimenttianalyysiä on käyttää
+listaa yksittäisten sanojen sävystä ja laskea tekstin sanojen sävyjen summa. Toinen tapa on opettaa keinotekoinen neuroverkko aineiston avulla
+arvioimaan tekstin sävyä. Uusien, suurten kielimallien tulon jälkeen myös niiden käyttö onnistuu hyvin.
+Tässä käytetään OpenAI:n GPT-3 -kielimallia, jossa on 175 miljardia parametria. 
+
+Sentimenttianalyysiin tarvitsee vain tunnukset OpenAI:n GPT-3:een. Ne saa luomalla tunnuksen osoitteessa 
+[https://openai.com/api/](https://openai.com/api/).
+Kun tunnukset on luotu, voi GPT-3:a käyttää sentimenttianalyysiin Playgroundissa. 
+Jos tarve on analysoida suurempia tietomääriä, onnistuu
+se ohjelmallisesti vaikkapa Pythonista.
+
+Ja sitten vain itse sentimenttianalyysiin, joka onnistuu komentamalla GPT-3:a suomeksi.
+Aloitetaan testaamalla, miten variaatiot "Huomenta, Turku" lauseesta sovittuvat sentimentiksi:
+Kokeillaan variaatioita lauseesta GPT-3:lla. Kielimallia "komennetaan" antamalla syöte, jota
+malli jatkaa. Tässä tapauksessa sitä pyydetään analysoimaan lauseen sentimentti.
+
+{% figure [caption:"Kuva 2. Sentimentti lauseelle "Erittäin hyvää huomenta, Turku." on +2"] [class:"class1 class2"] %}
+![Senaatintori ja Tuomiokirkko](/images/sentimentti/+2.png)
+{% endfigure %}
+
+Tulosten mukaan 
+
+| Syöte | Sentimentti | 
+| -------- | -------- | 
+| Erittäin surkeaa huomenta, Turku | -2 | 
+| Surkeaa huomenta, Turku | -1 | 
+| Huomenta, Turku | 0 | 
+| Hyvää huomenta, Turku | +1 | 
+| Erinomaista huomenta, Turku | +2 |
+
+GPT-3 selvitti tämän testin hienosti. Asetuksina tässä käytettiin lämpötilaa 0, jolloin GPT-3 antaa parhaaksi katsomansa
+vastauksen. Sentimenttianalyysin teko on helppoa ja tulokset ovat yllättävän oikeita kielimallilla tehtynä. Aivan kaikkea ei malli ymmärrä,
+mutta suuri kuva vaikuttaa olevan oikein. Työläintä sentimenttianalyysissä on aineiston kerääminen. Itse analyysi sujuu kielimallilla
+sutjakkaasti.
+
+Siirrytään sitten budjettiriihen pariin.
+
+Budjettiriihen analyysi
+=====
+
+Haetaan Twitterin haulla twiitit aiheista _budjettiriihi_ ja _budjetti_, missä retwiittaukset on jätetty pois. 
+
+Analysoidaan sitten sentimentti GPT:llä.
+ Hieman yllättäen sentimentti on kokonaisuudessaan positiivinen: yli puolet twiiteistä suhtautuu positiivisesti budjettiriiheen.
+
+{% figure [caption:"Kuvio 3. Budjettiriihitwiittien sentimentten jakauma."] [class:"class1 class2"] %}
+![SEntimenttien jakauma](/images/sentimentti/riihi.png)
+{% endfigure %}
+
+Tässä muutama esimerkki twiitteistä ja niiden sentimenteistä
+
+| Twiitti | Sentimentti |
+| ----- | ----- |
+| Tämän hallituksen lapsilisä tarkoittaa, että lapset maksavat lisää. Hienoa. #budjetti #budjettiriihi | -2 |
+| Pääministeri Sanna ”mistään ei saa leikata” Marin, 40 miljardia lisävelkaa hallituskaudessa ja nousevat korkomenot. #yleastudio #budjettiriihi  | -2 |
+| Alueellisen opintolainahyvityksen kokeilu on opiskelijoita epätasa-arvoistava päätös. Se kehittää opintotukijärjestelmää väärään suuntaan sitoen sitä entistä enemmän opiskelijoiden velkaantumiseen. #budjettiriihi @SYL_FIN |-2 |
+| Yksi tärkeä #budjettiriihi päätös on varhaiskasvatusmaksujen pysyvä alentaminen, jolla tuetaan lapsiperheitä ja vahvistetaan työllisyyttä. Samalla se on askel kohti @Demarit tavoitetta maksuttomasta varhaiskasvatuksesta. | +1 |
+| Tämä sotataloudessa oleminen on siitä huvittavaa, että mistään valtion menoista ei voi kiristää, vaan ainoa tapa pärjätä on ottaa lisää velkaa. #budjettiriihi | -1 |
+
+Kaikkiaan analysoituja twiittejä on 1926 kpl, ja ne ovat aikavälilä 30.8.2022 - 6.9.2022.
+
+Ennen budjettiriiheä
+-----
+Erityisesti ennen budjettiriiheä kirjoitetut twiitit ovat positiivisia.
+
+{% figure [caption:"Kuvio 4. Sentimenttianalyysi ennen budjettiriiheä julkaistuista twiiteistä."] [class:"class1 class2"] %}
+![SEntimenttien jakauma](/images/sentimentti/ennen.png)
+{% endfigure %}
+
+Twiittien positiivisuus selittynee sillä, että eri tahot tarjoavat omia ehdotuksiaan budjettiriiheen. Esimerkiksi
+
+| Twiitti | Sentimentti |
+| ----- | ----- | 
+| Eduskunnan AMK- ja työelämä -verkosto peräänkuuluttaa rahoituksen varmistamista ammattikorkeakoulujen sote-alan harjoittelulle. @SivistysTA @oajry @Arene_ry #budjettiriihi #osaajapula | 1 |
+| EK ja SAK kannattavat hoiva-avustajien lisäkoulutusta. Hoiva-avustajia tarvitaan lisää mm. vanhusten hoivaan. Vuoden koulutuksella voidaan osaltaan helpottaa nopeammin terveydenhuollon osaajapulaa. #budjettiriihi @jyrihakamies @ElorantaJa | 1 |
+
+Budjettiriihen jälkeen
+-----
+
+Budjettiriihen jälkeen kirjoitetut kallistuvat negatiivisiksi. Puolet twiiteistä on negatiivisia tai erittäin negatiivisia.
+Positiivisten osuus pysyy myös noin puolena.
+
+{% figure [caption:"Kuvio 5. Sentimenttianalyysi budjettiriihen jälkeen julkaistuista twiiteistä."] [class:"class1 class2"] %}
+![SEntimenttien jakauma](/images/sentimentti/jalkeen.png)
+{% endfigure %}
+
+Positiivisissa twiiteissä mm. kehutaan omien tavoitteiden läpimenemisestä.
+
+| Twiitti | Sentimentti |
+| ----- | ----- | 
+| Budjettiesityksen mukaan hyvinvointialueiden yleiskatteelliseen rahoitukseen on tulossa noin 200 miljoonaa euroa enemmän kuin kevään kehysbudjetissa alloikoitiin - riittääkö se? @sll_aaltonen #budjettiriihi #hyvinvointialueet #lääkärilehti #talous | 1 |
+| Sote-henkilöstön saatavuutta parannetaan ja hoiva-avustajia koulutetaan lisää #talousarvioesitys #budjettiriihi. Lisää päätöksiä tarvitaan. Sääntelyä joustavaksi ja mitoitusten kiristykset jäihin. #hoitajamitoitus | 1 |
+
+Päivä budjettiriihen jälkeen kirjoitetuissa negatiivisuus korostuu. Nyt jo yli 60 prosenttia kaikista twiiteistä on 
+negatiivisia tai erittäin negatiivisia.
+
+{% figure [caption:"Kuvio 6. Sentimenttianalyysi päivän budjettiriihen jälkeen julkaistuista twiiteistä."] [class:"class1 class2"] %}
+![SEntimenttien jakauma](/images/sentimentti/jalkeen1pv.png)
+{% endfigure %}
+
+Negatiivisten twiittien joukossa on twiittejä, joista ilmenee pettymys siihen, ettei haluttuja kohteita rahoitettu. Toisaalta 
+niissä näkyy huoli velkaantumisesta ja talouskasvun puutteesta.
+
+| Twiitti | Sentimentti |
+| ----- | ----- | 
+| Nyt tehdään isoja arvovalintoja, joilla on kauaskantoiset vaikutukset. Budjettiriihi oli kuolinisku järjestöjen työllistämistoiminnalle. | -2 |
+| Suomen ongelma on, että talous ei ole juuri kasvanut 15 vuoteen. Jos talous olisi kasvanut Ruotsin tahtiin, olisi budjetti 10 mrd ylijäämäinen. Kun elintasosta on haluttu pitää kiinni, erotus maksetaan velalla. Toimii hetken, kunnes tarvitaan joko kasvua tai elintason laskua. | -1 |
+| Hallituksen budjetti saa kritiikkiä niin velanotosta kuin ilmastotoimien unohtamisestakin. #budjettiriihi | -1 |
+
+Huomioita analyysistä
+-----
+
+Pääosin sentimentit on analysoitu oikein, mutta analyysissä on myös selviä huteja:
+
+| En voi olla tyytyväinen oman puolueen @vihreat päätökseen tukea lentämisen alv-kannan laskemista nollaan! #budjettiriihi #ilmastonmuutos  | +2 |
+
+Jos analyysiä haluaisi tarkentaa, voisi twiittien kirjoittajat jaotella ryhmiin. Esimerkiksi ekonomistitwitteriin, 
+etujärjestöjen twiitterihin tai poliittisen kannan mukaan. Tämä varmasti valottaisi sentimenttejä paremmin. Tässä 
+en kuitenkaan tätä tarkempaan analyysiin ryhdy.
+
+{% figure [caption:"Kuva 7. Sentimenttianalyysi ekonomistitwitteristä."] [class:"class1 class2"] %}
+![SEntimenttien jakauma](/images/sentimentti/jouko.png)
+{% endfigure %}
+
+Lopuksi
+=====
+
+Ennen budjettiriiheä twiitit olivat pääosin myönteisiä. 
+Budjettiriiheä koskevat twiitin kääntyivät kuitenkin negatiivisiksi heti budjettiriihen jälkeen. 
+Tähän lienee monia syitä, mutta päällimmäisenä nousee ehkä aito pettymys budjettiriihen päätöksiin ja velkaantumiseen.
+
+

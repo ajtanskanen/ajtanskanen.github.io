@@ -7,7 +7,7 @@ largeimage: /images/dalle/ratikka.jpg
 summary: 'Blogi | Millaisia kuvia DALL-E -tekoäly luo Helsingistä?'
 tags:
   - taide
-    DALL-E2
+  - DALL-E2
   - AI
   - tekoäly
 ---
