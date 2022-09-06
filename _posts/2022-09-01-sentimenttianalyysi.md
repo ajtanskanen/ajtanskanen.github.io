@@ -21,9 +21,10 @@ Budjettiriihi
 Oman tuntuman mukaan twitter-kupla tuntui suhtautuvan negatiivisesti budjettiriihen päätöksiin.
 Mutta oliko oikeasti näin? Kuplautuminen helposti filtteröi eri mieltä olevien twiittejä.
 
-{% figure [caption:"Kuva 1. Twitterissä kommentaari budjettiriihestä oli paikoin railakasta."] %}
 ![Sentimenttien jakauma](/images/sentimentti/kurronen.png)
-{% endfigure %}
+
+*Kuva 1. Twitterissä kommentaari budjettiriihestä oli paikoin railakasta.*
+
 
 Sentimenttianalyysi 
 =====
@@ -44,9 +45,9 @@ Aloitetaan testaamalla, miten variaatiot "Huomenta, Turku" lauseesta sovittuvat 
 Kokeillaan variaatioita lauseesta GPT-3:lla. Kielimallia "komennetaan" antamalla syöte, jota
 malli jatkaa. Tässä tapauksessa sitä pyydetään analysoimaan lauseen sentimentti.
 
-{% figure [caption:"Kuva 2. Sentimentti lauseelle "Erittäin hyvää huomenta, Turku." on +2"] %}
-![Senaatintori ja Tuomiokirkko](/images/sentimentti/+2.png)
-{% endfigure %}
+![Sentimentti](/images/sentimentti/+2.png)
+
+*Kuva 2. Sentimentti lauseelle "Erittäin hyvää huomenta, Turku.*
 
 Tulosten mukaan 
 
@@ -73,9 +74,9 @@ Haetaan Twitterin haulla twiitit aiheista _budjettiriihi_ ja _budjetti_, missä 
 Analysoidaan sitten sentimentti GPT:llä.
  Hieman yllättäen sentimentti on kokonaisuudessaan positiivinen: yli puolet twiiteistä suhtautuu positiivisesti budjettiriiheen.
 
-{% figure [caption:"Kuvio 3. Budjettiriihitwiittien sentimentten jakauma."] %}
 ![SEntimenttien jakauma](/images/sentimentti/riihi.png)
-{% endfigure %}
+
+*Kuvio 3. Budjettiriihitwiittien sentimentten jakauma.*
 
 Tässä muutama esimerkki twiitteistä ja niiden sentimenteistä
 
@@ -95,9 +96,9 @@ Ennen budjettiriiheä
 Erityisesti ennen budjettiriiheä kirjoitetut twiitit ovat positiivisia. Kuvio 4 näyttää twiittien sentimenttien jakauman.
 Vajaat puolet twiiteistä on positiivisia tai erittäin positiivisia. Negatiivisia on hieman yli 30 prosenttia.
 
-{% figure [caption:"Kuvio 4. Sentimenttianalyysi ennen budjettiriiheä julkaistuista twiiteistä."] %}
 ![SEntimenttien jakauma](/images/sentimentti/ennen.png)
-{% endfigure %}
+
+*Kuvio 4. Sentimenttianalyysi ennen budjettiriiheä julkaistuista twiiteistä.*
 
 Twiittien positiivisuus selittynee sillä, että eri tahot tarjoavat omia ehdotuksiaan budjettiriiheen. Esimerkiksi
 
@@ -112,9 +113,9 @@ Budjettiriihen jälkeen
 Budjettiriihen jälkeen kirjoitetut kallistuvat negatiivisiksi. Puolet twiiteistä on negatiivisia tai erittäin negatiivisia.
 Positiivisten osuus pysyy myös noin puolena.
 
-{% figure [caption:"Kuvio 5. Sentimenttianalyysi budjettiriihen jälkeen julkaistuista twiiteistä."] %}
 ![SEntimenttien jakauma](/images/sentimentti/jalkeen.png)
-{% endfigure %}
+
+*Kuvio 5. Sentimenttianalyysi budjettiriihen jälkeen julkaistuista twiiteistä.*
 
 Positiivisissa twiiteissä mm. kehutaan omien tavoitteiden läpimenemisestä.
 
@@ -136,9 +137,9 @@ niissä näkyy huoli velkaantumisesta ja talouskasvun puutteesta.
 Päivä budjettiriihen jälkeen kirjoitetuissa negatiivisuus korostuu. Nyt jo yli 60 prosenttia kaikista twiiteistä on 
 negatiivisia tai erittäin negatiivisia.
 
-{% figure [caption:"Kuvio 6. Sentimenttianalyysi päivän budjettiriihen jälkeen julkaistuista twiiteistä."] %}
 ![SEntimenttien jakauma](/images/sentimentti/jalkeen1pv.png)
-{% endfigure %}
+
+*Kuvio 6. Sentimenttianalyysi päivän budjettiriihen jälkeen julkaistuista twiiteistä.*
 
 Budjettiriihen tunnelma jää tosiaan negatiiviseksi. Ehkä oma kuplani Twitterissä oli kuitenkin oikeassa.
 
@@ -153,9 +154,9 @@ Jos analyysiä haluaisi tarkentaa, voisi twiittien kirjoittajat jaotella ryhmiin
 etujärjestöjen twiitterihin tai poliittisen kannan mukaan, kuten kuvassa 7. Tämä varmasti valottaisi sentimenttejä paremmin. Tässä 
 en kuitenkaan tätä tarkempaan analyysiin ryhdy.
 
-{% figure [caption:"Kuva 7. Sentimenttianalyysi ekonomistitwitteristä."] %}
 ![SEntimenttien jakauma](/images/sentimentti/jouko.png)
-{% endfigure %}
+
+*Kuva 7. Sentimenttianalyysi ekonomistitwitteristä.*
 
 Lopuksi
 =====
