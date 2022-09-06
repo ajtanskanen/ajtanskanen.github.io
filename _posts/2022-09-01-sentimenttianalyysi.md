@@ -123,13 +123,6 @@ Positiivisissa twiiteissä mm. kehutaan omien tavoitteiden läpimenemisestä.
 | Budjettiesityksen mukaan hyvinvointialueiden yleiskatteelliseen rahoitukseen on tulossa noin 200 miljoonaa euroa enemmän kuin kevään kehysbudjetissa alloikoitiin - riittääkö se? @sll_aaltonen #budjettiriihi #hyvinvointialueet #lääkärilehti #talous | 1 |
 | Sote-henkilöstön saatavuutta parannetaan ja hoiva-avustajia koulutetaan lisää #talousarvioesitys #budjettiriihi. Lisää päätöksiä tarvitaan. Sääntelyä joustavaksi ja mitoitusten kiristykset jäihin. #hoitajamitoitus | 1 |
 
-Päivä budjettiriihen jälkeen kirjoitetuissa negatiivisuus korostuu. Nyt jo yli 60 prosenttia kaikista twiiteistä on 
-negatiivisia tai erittäin negatiivisia.
-
-{% figure [caption:"Kuvio 6. Sentimenttianalyysi päivän budjettiriihen jälkeen julkaistuista twiiteistä."] [class:"class1 class2"] %}
-![SEntimenttien jakauma](/images/sentimentti/jalkeen1pv.png)
-{% endfigure %}
-
 Negatiivisten twiittien joukossa on twiittejä, joista ilmenee pettymys siihen, ettei haluttuja kohteita rahoitettu. Toisaalta 
 niissä näkyy huoli velkaantumisesta ja talouskasvun puutteesta.
 
@@ -139,6 +132,16 @@ niissä näkyy huoli velkaantumisesta ja talouskasvun puutteesta.
 | Suomen ongelma on, että talous ei ole juuri kasvanut 15 vuoteen. Jos talous olisi kasvanut Ruotsin tahtiin, olisi budjetti 10 mrd ylijäämäinen. Kun elintasosta on haluttu pitää kiinni, erotus maksetaan velalla. Toimii hetken, kunnes tarvitaan joko kasvua tai elintason laskua. | -1 |
 | Hallituksen budjetti saa kritiikkiä niin velanotosta kuin ilmastotoimien unohtamisestakin. #budjettiriihi | -1 |
 
+
+Päivä budjettiriihen jälkeen kirjoitetuissa negatiivisuus korostuu. Nyt jo yli 60 prosenttia kaikista twiiteistä on 
+negatiivisia tai erittäin negatiivisia.
+
+{% figure [caption:"Kuvio 6. Sentimenttianalyysi päivän budjettiriihen jälkeen julkaistuista twiiteistä."] [class:"class1 class2"] %}
+![SEntimenttien jakauma](/images/sentimentti/jalkeen1pv.png)
+{% endfigure %}
+
+Budjettiriihen tunnelma jää tosiaan negatiiviseksi. Ehkä oma kuplani Twitterissä oli kuitenkin oikeassa.
+
 Huomioita analyysistä
 -----
 
@@ -147,7 +150,7 @@ Pääosin sentimentit on analysoitu oikein, mutta analyysissä on myös selviä 
 | En voi olla tyytyväinen oman puolueen @vihreat päätökseen tukea lentämisen alv-kannan laskemista nollaan! #budjettiriihi #ilmastonmuutos  | +2 |
 
 Jos analyysiä haluaisi tarkentaa, voisi twiittien kirjoittajat jaotella ryhmiin. Esimerkiksi ekonomistitwitteriin, 
-etujärjestöjen twiitterihin tai poliittisen kannan mukaan. Tämä varmasti valottaisi sentimenttejä paremmin. Tässä 
+etujärjestöjen twiitterihin tai poliittisen kannan mukaan, kuten kuvassa 7. Tämä varmasti valottaisi sentimenttejä paremmin. Tässä 
 en kuitenkaan tätä tarkempaan analyysiin ryhdy.
 
 {% figure [caption:"Kuva 7. Sentimenttianalyysi ekonomistitwitteristä."] [class:"class1 class2"] %}
