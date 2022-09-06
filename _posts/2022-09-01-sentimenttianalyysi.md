@@ -81,17 +81,19 @@ Tässä muutama esimerkki twiitteistä ja niiden sentimenteistä
 
 | Twiitti | Sentimentti |
 | ----- | ----- |
-| Tämän hallituksen lapsilisä tarkoittaa, että lapset maksavat lisää. Hienoa. #budjetti #budjettiriihi | -2 |
-| Pääministeri Sanna ”mistään ei saa leikata” Marin, 40 miljardia lisävelkaa hallituskaudessa ja nousevat korkomenot. #yleastudio #budjettiriihi  | -2 |
 | Alueellisen opintolainahyvityksen kokeilu on opiskelijoita epätasa-arvoistava päätös. Se kehittää opintotukijärjestelmää väärään suuntaan sitoen sitä entistä enemmän opiskelijoiden velkaantumiseen. #budjettiriihi @SYL_FIN |-2 |
-| Yksi tärkeä #budjettiriihi päätös on varhaiskasvatusmaksujen pysyvä alentaminen, jolla tuetaan lapsiperheitä ja vahvistetaan työllisyyttä. Samalla se on askel kohti @Demarit tavoitetta maksuttomasta varhaiskasvatuksesta. | +1 |
 | Tämä sotataloudessa oleminen on siitä huvittavaa, että mistään valtion menoista ei voi kiristää, vaan ainoa tapa pärjätä on ottaa lisää velkaa. #budjettiriihi | -1 |
+| Budjettiriihi alkoi. Tuleeko hallituksen budjetista vaalibudjetti? Keskustelemassa @EmiliaKullas Anni Huhtala ja @Maliranta. Kuuntele #Politiikkaradio klo 13 @yleradio1.  | 0 |
+| Yksi tärkeä #budjettiriihi päätös on varhaiskasvatusmaksujen pysyvä alentaminen, jolla tuetaan lapsiperheitä ja vahvistetaan työllisyyttä. Samalla se on askel kohti @Demarit tavoitetta maksuttomasta varhaiskasvatuksesta. | +1 |
+| Suomi ei menesty ilman koulutusta ja osaamista. Opettajat rakentavat tulevaisuutta koko yhteiskunnan ja ty√∂markkinoiden hyväksi.
+Opettajatarvetta on ennakoitava ajoissa. #opettajarekisteri #budjettiriihi | +2 |
 
-Kaikkiaan analysoituja twiittejä on 1926 kpl, ja ne ovat aikavälilä 30.8.2022 - 6.9.2022.
+Kaikkiaan analysoituja twiittejä on 1926 kpl, ja ne ovat aikaväliltä 30.8.2022 - 6.9.2022.
 
 Ennen budjettiriiheä
 -----
-Erityisesti ennen budjettiriiheä kirjoitetut twiitit ovat positiivisia.
+Erityisesti ennen budjettiriiheä kirjoitetut twiitit ovat positiivisia. Kuvio 4 näyttää twiittien sentimenttien jakauman.
+Vajaat puolet twiiteistä on positiivisia tai erittäin positiivisia. Negatiivisia on hieman yli 30 prosenttia.
 
 {% figure [caption:"Kuvio 4. Sentimenttianalyysi ennen budjettiriiheä julkaistuista twiiteistä."] [class:"class1 class2"] %}
 ![SEntimenttien jakauma](/images/sentimentti/ennen.png)
