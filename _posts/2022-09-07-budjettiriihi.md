@@ -44,11 +44,16 @@ Tässä muutama esimerkki twiitteistä ja niiden sentimenteistä
 | Tämä sotataloudessa oleminen on siitä huvittavaa, että mistään valtion menoista ei voi kiristää, vaan ainoa tapa pärjätä on ottaa lisää velkaa. #budjettiriihi | -1 |
 | Budjettiriihi alkoi. Tuleeko hallituksen budjetista vaalibudjetti? Keskustelemassa @EmiliaKullas Anni Huhtala ja @Maliranta. Kuuntele #Politiikkaradio klo 13 @yleradio1.  | 0 |
 | Yksi tärkeä #budjettiriihi päätös on varhaiskasvatusmaksujen pysyvä alentaminen, jolla tuetaan lapsiperheitä ja vahvistetaan työllisyyttä. Samalla se on askel kohti @Demarit tavoitetta maksuttomasta varhaiskasvatuksesta. | +1 |
-| Suomi ei menesty ilman koulutusta ja osaamista. Opettajat rakentavat tulevaisuutta koko yhteiskunnan ja ty√∂markkinoiden hyväksi.
-Opettajatarvetta on ennakoitava ajoissa. #opettajarekisteri #budjettiriihi | +2 |
+| Suomi ei menesty ilman koulutusta ja osaamista. Opettajat rakentavat tulevaisuutta koko yhteiskunnan ja työmarkkinoiden hyväksi. Opettajatarvetta on ennakoitava ajoissa. #opettajarekisteri #budjettiriihi | +2 |
 
 Kaikkiaan analysoituja twiittejä on 1926 kpl, ja ne ovat aikaväliltä 30.8.2022 - 6.9.2022.
 Twiitit ovat aiheista _budjettiriihi_ ja _budjetti_, missä retwiittaukset on jätetty pois. 
+
+Sentimentti kääntyy negatiiviseksi
+====
+
+Tarkastellaan seuraavaksi kolmea ajanjaksoa: (1) ennen budjettiriiheä; (2) päivä budjettiriihen jälkeen; ja (3) myöhemmin. Näiden ajanjaksojen
+budjettiriiheä käsittelevissä twiiteissä on selvä sentimenttiero.
 
 Ennen budjettiriiheä
 -----
@@ -60,19 +65,19 @@ Reilut 40 prosenttia twiiteistä on positiivisia tai erittäin positiivisia. Neg
 
 *Kuvio 3. Sentimenttianalyysi budjettiriiheä käsittelevistä twiiteistä, jotka on julkaistu ennen budjettiriiheä.*
 
-Twiittien positiivisuus selittynee sillä, että eri tahot tarjoavat omia ehdotuksiaan budjettiriiheen. Esimerkiksi
+Twiittien positiivisuus selittynee sillä, että eri tahot tarjoavat omia ehdotuksiaan budjettiriiheen.
 
 | Twiitti | Sentimentti |
 | ----- | ----- | 
 | Eduskunnan AMK- ja työelämä -verkosto peräänkuuluttaa rahoituksen varmistamista ammattikorkeakoulujen sote-alan harjoittelulle. @SivistysTA @oajry @Arene_ry #budjettiriihi #osaajapula | +1 |
 | EK ja SAK kannattavat hoiva-avustajien lisäkoulutusta. Hoiva-avustajia tarvitaan lisää mm. vanhusten hoivaan. Vuoden koulutuksella voidaan osaltaan helpottaa nopeammin terveydenhuollon osaajapulaa. #budjettiriihi @jyrihakamies @ElorantaJa | +1 |
 
-Budjettiriihen jälkeen
+Heti budjettiriihen jälkeen
 -----
 
 Budjettiriihen pitämisen jälkeen tapahtuu käänne: twiitit kallistuivat negatiivisiksi. 
-Puolet budjettiriiheä käsittelevistä twiiteistä on negatiivisia tai erittäin negatiivisia.
-Positiivisten osuus pysyy myös noin puolena.
+Tarkastellaan seuraavaksi vuorokauden sisään budjettiriihen pitämisen jälkeen julkaistuja budjettiriiheä käsitteleviä twiittejä:
+Niistä puolet on negatiivisia tai erittäin negatiivisia. Positiivisten osuus pysyy myös noin puolena.
 
 ![SEntimenttien jakauma](/images/sentimentti/jalkeen.png)
 
@@ -94,15 +99,17 @@ niissä näkyy huoli velkaantumisesta ja talouskasvun puutteesta.
 | Suomen ongelma on, että talous ei ole juuri kasvanut 15 vuoteen. Jos talous olisi kasvanut Ruotsin tahtiin, olisi budjetti 10 mrd ylijäämäinen. Kun elintasosta on haluttu pitää kiinni, erotus maksetaan velalla. Toimii hetken, kunnes tarvitaan joko kasvua tai elintason laskua. | -1 |
 | Hallituksen budjetti saa kritiikkiä niin velanotosta kuin ilmastotoimien unohtamisestakin. #budjettiriihi | -1 |
 
+Päivä budjettiriihen jälkeen
+-----
 
-Päivä budjettiriihen jälkeen aiheesta kirjoitetuissa twiiteissä negatiivinen sentimentti korostuu. Nyt jo yli 60 prosenttia 
+Negatiivinen sentimentti korostuu päivä budjettiriihen jälkeen tai myöhemmin budjetista kirjoitetuissa twiiteissä. Nyt jo yli 60 prosenttia 
 twiiteistä on negatiivisia tai erittäin negatiivisia.
 
 ![SEntimenttien jakauma](/images/sentimentti/jalkeen1pv.png)
 
 *Kuvio 5. Sentimenttianalyysi budjettiriiheä käsittelevistä twiiteistä, jotka on julkaistu vähintään yhden päivän budjettiriihen jälkeen.*
 
-Budjettiriihen tunnelma jää tosiaan negatiiviseksi. Ehkä oma kuplani Twitterissä oli kuitenkin oikeassa.
+Budjettiriihen tunnelma jää tosiaan negatiiviseksi. Se myös muuttuu negatiivisemmaksi ajan kuluessa. Ehkä oma kuplani Twitterissä oli kuitenkin oikeassa.
 
 Huomioita analyysistä
 -----
@@ -125,5 +132,6 @@ Lopuksi
 Ennen budjettiriiheä twiitit olivat pääosin myönteisiä. 
 Budjettiriiheä koskevat twiitin kääntyivät kuitenkin negatiivisiksi heti budjettiriihen jälkeen. 
 Tähän lienee monia syitä, mutta päällimmäisenä nousee ehkä aito pettymys budjettiriihen päätöksiin ja velkaantumiseen.
+Myöhemmin julkaistut twiitit suhtautuvat budjettiin vielä kriittisemmin.
 
 
