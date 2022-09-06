@@ -1,10 +1,10 @@
 ---
 title: 'Twiittien fiilis budjettiriihestä kääntyi negatiiviseksi'
 date: 2022-09-07
-permalink: /posts/2022/09/sentimenttianalyysi/
+permalink: /posts/2022/09/budjettiriihi/
 image: /images/sentimentti/medieval.png
 largeimage: /images/sentimentti/medieval.png
-summary: 'Blogi | Sentimenttianalyysi kertoo tekstin sävyn: onko se positiivinen, neutraali tai negatiivinen. Tekoäly on tehokas apu siinä.'
+summary: 'Blogi | Budjettiriihestä keskusteltiin aktiivisesti Twitterissä. Alun positiivinen sävy vaihtui riihen jälkeen negatiiviseksi.'
 tags:
   - AI
   - tekoäly
@@ -25,53 +25,12 @@ Mutta oliko oikeasti näin? Kuplautuminen helposti filtteröi eri mieltä olevie
 
 *Kuva 1. Twitterissä kommentaari budjettiriihestä oli paikoin railakasta.*
 
-
-Sentimenttianalyysi 
-=====
-
-Sentimenttianalyysi kertoo, onko jokin tekstin sävy positiivinen, negatiivinen tai neutraali. Helppo tapa tehdä sentimenttianalyysiä on käyttää
-listaa yksittäisten sanojen sävystä ja laskea tekstin sanojen sävyjen summa. Toinen tapa on opettaa keinotekoinen neuroverkko aineiston avulla
-arvioimaan tekstin sävyä. Uusien, suurten kielimallien tulon jälkeen myös niiden käyttö onnistuu hyvin.
-Tässä käytetään OpenAI:n GPT-3 -kielimallia, jossa on 175 miljardia parametria. 
-
-Sentimenttianalyysiin tarvitsee vain tunnukset OpenAI:n GPT-3:een. Ne saa luomalla tunnuksen osoitteessa 
-[https://openai.com/api/](https://openai.com/api/).
-Kun tunnukset on luotu, voi GPT-3:a käyttää sentimenttianalyysiin Playgroundissa. 
-Jos tarve on analysoida suurempia tietomääriä, onnistuu
-se ohjelmallisesti vaikkapa Pythonista.
-
-Ja sitten vain itse sentimenttianalyysiin, joka onnistuu komentamalla GPT-3:a suomeksi.
-Aloitetaan testaamalla, miten variaatiot "Huomenta, Turku" lauseesta sovittuvat sentimentiksi:
-Kokeillaan variaatioita lauseesta GPT-3:lla. Kielimallia "komennetaan" antamalla syöte, jota
-malli jatkaa. Tässä tapauksessa sitä pyydetään analysoimaan lauseen sentimentti.
-
-![Sentimentti](/images/sentimentti/+2.png)
-
-*Kuva 2. Sentimentti lauseelle "Erittäin hyvää huomenta, Turku.*
-
-Tulosten mukaan 
-
-| Syöte | Sentimentti | 
-| -------- | -------- | 
-| Erittäin surkeaa huomenta, Turku | -2 | 
-| Surkeaa huomenta, Turku | -1 | 
-| Huomenta, Turku | 0 | 
-| Hyvää huomenta, Turku | +1 | 
-| Erinomaista huomenta, Turku | +2 |
-
-GPT-3 selvitti tämän testin hienosti. Asetuksina tässä käytettiin lämpötilaa 0, jolloin GPT-3 antaa parhaaksi katsomansa
-vastauksen. Sentimenttianalyysin teko on helppoa ja tulokset ovat yllättävän oikeita kielimallilla tehtynä. Aivan kaikkea ei malli ymmärrä,
-mutta suuri kuva vaikuttaa olevan oikein. Työläintä sentimenttianalyysissä on aineiston kerääminen. Itse analyysi sujuu kielimallilla
-sutjakkaasti.
-
-Siirrytään sitten budjettiriihen pariin.
-
 Budjettiriihen analyysi
 =====
 
 Haetaan Twitterin haulla twiitit aiheista _budjettiriihi_ ja _budjetti_, missä retwiittaukset on jätetty pois. 
 
-Analysoidaan sitten sentimentti GPT:llä.
+Analysoidaan sitten [sentimentti GPT:llä](/posts/2022/09/sentimenttianalyysi/).
  Hieman yllättäen sentimentti on kokonaisuudessaan positiivinen: yli puolet twiiteistä suhtautuu positiivisesti budjettiriiheen.
 
 ![SEntimenttien jakauma](/images/sentimentti/riihi.png)
@@ -93,7 +52,8 @@ Kaikkiaan analysoituja twiittejä on 1926 kpl, ja ne ovat aikaväliltä 30.8.202
 
 Ennen budjettiriiheä
 -----
-Erityisesti ennen budjettiriiheä kirjoitetut twiitit ovat positiivisia. Kuvio 4 näyttää twiittien sentimenttien jakauman.
+Erityisesti ennen budjettiriiheä kirjoitetut twiitit ovat sävyltään pääosin positiivisia tai neutraaleja. 
+Kuvio 4 näyttää twiittien sentimenttien jakauman.
 Vajaat puolet twiiteistä on positiivisia tai erittäin positiivisia. Negatiivisia on hieman yli 30 prosenttia.
 
 ![SEntimenttien jakauma](/images/sentimentti/ennen.png)
@@ -104,8 +64,8 @@ Twiittien positiivisuus selittynee sillä, että eri tahot tarjoavat omia ehdotu
 
 | Twiitti | Sentimentti |
 | ----- | ----- | 
-| Eduskunnan AMK- ja työelämä -verkosto peräänkuuluttaa rahoituksen varmistamista ammattikorkeakoulujen sote-alan harjoittelulle. @SivistysTA @oajry @Arene_ry #budjettiriihi #osaajapula | 1 |
-| EK ja SAK kannattavat hoiva-avustajien lisäkoulutusta. Hoiva-avustajia tarvitaan lisää mm. vanhusten hoivaan. Vuoden koulutuksella voidaan osaltaan helpottaa nopeammin terveydenhuollon osaajapulaa. #budjettiriihi @jyrihakamies @ElorantaJa | 1 |
+| Eduskunnan AMK- ja työelämä -verkosto peräänkuuluttaa rahoituksen varmistamista ammattikorkeakoulujen sote-alan harjoittelulle. @SivistysTA @oajry @Arene_ry #budjettiriihi #osaajapula | +1 |
+| EK ja SAK kannattavat hoiva-avustajien lisäkoulutusta. Hoiva-avustajia tarvitaan lisää mm. vanhusten hoivaan. Vuoden koulutuksella voidaan osaltaan helpottaa nopeammin terveydenhuollon osaajapulaa. #budjettiriihi @jyrihakamies @ElorantaJa | +1 |
 
 Budjettiriihen jälkeen
 -----
@@ -121,8 +81,8 @@ Positiivisissa twiiteissä mm. kehutaan omien tavoitteiden läpimenemisestä.
 
 | Twiitti | Sentimentti |
 | ----- | ----- | 
-| Budjettiesityksen mukaan hyvinvointialueiden yleiskatteelliseen rahoitukseen on tulossa noin 200 miljoonaa euroa enemmän kuin kevään kehysbudjetissa alloikoitiin - riittääkö se? @sll_aaltonen #budjettiriihi #hyvinvointialueet #lääkärilehti #talous | 1 |
-| Sote-henkilöstön saatavuutta parannetaan ja hoiva-avustajia koulutetaan lisää #talousarvioesitys #budjettiriihi. Lisää päätöksiä tarvitaan. Sääntelyä joustavaksi ja mitoitusten kiristykset jäihin. #hoitajamitoitus | 1 |
+| Budjettiesityksen mukaan hyvinvointialueiden yleiskatteelliseen rahoitukseen on tulossa noin 200 miljoonaa euroa enemmän kuin kevään kehysbudjetissa alloikoitiin - riittääkö se? @sll_aaltonen #budjettiriihi #hyvinvointialueet #lääkärilehti #talous | +1 |
+| Sote-henkilöstön saatavuutta parannetaan ja hoiva-avustajia koulutetaan lisää #talousarvioesitys #budjettiriihi. Lisää päätöksiä tarvitaan. Sääntelyä joustavaksi ja mitoitusten kiristykset jäihin. #hoitajamitoitus | +1 |
 
 Negatiivisten twiittien joukossa on twiittejä, joista ilmenee pettymys siihen, ettei haluttuja kohteita rahoitettu. Toisaalta 
 niissä näkyy huoli velkaantumisesta ja talouskasvun puutteesta.
@@ -150,8 +110,8 @@ Pääosin sentimentit on analysoitu oikein, mutta analyysissä on myös selviä 
 
 | En voi olla tyytyväinen oman puolueen @vihreat päätökseen tukea lentämisen alv-kannan laskemista nollaan! #budjettiriihi #ilmastonmuutos  | +2 |
 
-Jos analyysiä haluaisi tarkentaa, voisi twiittien kirjoittajat jaotella ryhmiin. Esimerkiksi ekonomistitwitteriin, 
-etujärjestöjen twiitterihin tai poliittisen kannan mukaan, kuten kuvassa 7. Tämä varmasti valottaisi sentimenttejä paremmin. Tässä 
+Jos analyysiä haluaisi tarkentaa, voisi twiittien kirjoittajat jaotella ryhmiin. Esimerkiksi ekonomistitwitteriin (kuten kuvassa 7), 
+etujärjestöjen twiitterihin tai poliittisen kannan mukaan. Tämä varmasti valottaisi sentimenttejä paremmin. Tässä 
 en kuitenkaan tätä tarkempaan analyysiin ryhdy.
 
 ![SEntimenttien jakauma](/images/sentimentti/jouko.png)
