@@ -33,7 +33,7 @@ Toisin kuin minun kuplassani tuntui, sentimentti on kokonaisuudessaan positiivin
 
 ![SEntimenttien jakauma](/images/sentimentti/riihi.png)
 
-*Kuvio 3. Budjettiriihitwiittien sentimentten jakauma.*
+*Kuvio 2. Budjettiriihitwiittien sentimentten jakauma.*
 
 Tässä muutama esimerkki twiitteistä ja niiden sentimenteistä
 
@@ -52,12 +52,12 @@ Twiitit ovat aiheista _budjettiriihi_ ja _budjetti_, missä retwiittaukset on j�
 Ennen budjettiriiheä
 -----
 Erityisesti ennen budjettiriiheä kirjoitetut twiitit ovat sävyltään pääosin positiivisia tai neutraaleja. 
-Kuvio 4 näyttää twiittien sentimenttien jakauman.
+Kuvio 3 näyttää twiittien sentimenttien jakauman.
 Vajaat puolet twiiteistä on positiivisia tai erittäin positiivisia. Negatiivisia on hieman yli 30 prosenttia.
 
 ![SEntimenttien jakauma](/images/sentimentti/ennen.png)
 
-*Kuvio 4. Sentimenttianalyysi ennen budjettiriiheä julkaistuista twiiteistä.*
+*Kuvio 3. Sentimenttianalyysi ennen budjettiriiheä julkaistuista twiiteistä.*
 
 Twiittien positiivisuus selittynee sillä, että eri tahot tarjoavat omia ehdotuksiaan budjettiriiheen. Esimerkiksi
 
@@ -74,9 +74,9 @@ Positiivisten osuus pysyy myös noin puolena.
 
 ![SEntimenttien jakauma](/images/sentimentti/jalkeen.png)
 
-*Kuvio 5. Sentimenttianalyysi budjettiriihen jälkeen julkaistuista twiiteistä.*
+*Kuvio 4. Sentimenttianalyysi budjettiriihen jälkeen julkaistuista twiiteistä.*
 
-Positiivisissa twiiteissä mm. kehutaan omien tavoitteiden läpimenemisestä.
+Positiivisissa twiiteissä mm. kehutaan omien tavoitteiden läpimenemisestä, mutta vaaditaan myös lisätoimenpiteitä.
 
 | Twiitti | Sentimentti |
 | ----- | ----- | 
@@ -93,12 +93,12 @@ niissä näkyy huoli velkaantumisesta ja talouskasvun puutteesta.
 | Hallituksen budjetti saa kritiikkiä niin velanotosta kuin ilmastotoimien unohtamisestakin. #budjettiriihi | -1 |
 
 
-Päivä budjettiriihen jälkeen kirjoitetuissa negatiivisuus korostuu. Nyt jo yli 60 prosenttia kaikista twiiteistä on 
+Päivä budjettiriihen jälkeen kirjoitetuissa twiiteissä negatiivisuus sentimentti korostuu. Nyt jo yli 60 prosenttia kaikista twiiteistä on 
 negatiivisia tai erittäin negatiivisia.
 
 ![SEntimenttien jakauma](/images/sentimentti/jalkeen1pv.png)
 
-*Kuvio 6. Sentimenttianalyysi päivän budjettiriihen jälkeen julkaistuista twiiteistä.*
+*Kuvio 5. Sentimenttianalyysi vähintään yhden päivän budjettiriihen jälkeen julkaistuista twiiteistä.*
 
 Budjettiriihen tunnelma jää tosiaan negatiiviseksi. Ehkä oma kuplani Twitterissä oli kuitenkin oikeassa.
 
@@ -109,13 +109,13 @@ Pääosin sentimentit on analysoitu oikein, mutta analyysissä on myös selviä 
 
 | En voi olla tyytyväinen oman puolueen @vihreat päätökseen tukea lentämisen alv-kannan laskemista nollaan! #budjettiriihi #ilmastonmuutos  | +2 |
 
-Jos analyysiä haluaisi tarkentaa, voisi twiittien kirjoittajat jaotella ryhmiin. Esimerkiksi ekonomistitwitteriin (kuten kuvassa 7), 
+Jos analyysiä haluaisi tarkentaa, voisi twiittien kirjoittajat jaotella ryhmiin. Esimerkiksi ekonomistitwitteriin (kuten kuvassa 6), 
 etujärjestöjen twiitterihin tai poliittisen kannan mukaan. Tämä varmasti valottaisi sentimenttejä paremmin. Tässä 
 en kuitenkaan tätä tarkempaan analyysiin ryhdy.
 
 ![SEntimenttien jakauma](/images/sentimentti/jouko.png)
 
-*Kuva 7. Sentimenttianalyysi ekonomistitwitteristä.*
+*Kuva 6. Sentimenttianalyysi ekonomistitwitteristä.*
 
 Lopuksi
 =====
