@@ -113,7 +113,8 @@ twiiteistä on negatiivisia tai erittäin negatiivisia. Positiivisten twiittien 
 Aikakehitys
 -------
 
-Budjettiriihen tunnelma jää tosiaan negatiiviseksi. Se myös muuttuu negatiivisemmaksi ajan kuluessa, kuten kuvio 6 näyttää. Ehkä oma kuplani Twitterissä oli kuitenkin oikeassa.
+Alussa budjettiriihi-twiittien sentimentti on positiivinen, mutta fiilis muuttuu negatiivisemmaksi ajan kuluessa, kuten kuvio 6 näyttää. 
+Lopuksi budjettiriiheä arvioivien twiittien sentimentti jää pääosin negatiiviseksi. Ehkä oma kuplani Twitterissä oli kuitenkin oikeassa.
 
 ![SEntimenttien jakauma](/images/sentimentti/aikakehitys.png)
 
