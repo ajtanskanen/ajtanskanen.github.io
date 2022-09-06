@@ -76,7 +76,7 @@ Positiivisten osuus pysyy myös noin puolena.
 
 *Kuvio 4. Sentimenttianalyysi budjettiriihen jälkeen julkaistuista twiiteistä.*
 
-Positiivisissa twiiteissä mm. kehutaan omien tavoitteiden läpimenemisestä, mutta vaaditaan myös lisätoimenpiteitä.
+Positiivisissa twiiteissä mm. kehutaan omien tavoitteiden läpimenemistä, mutta vaaditaan myös lisätoimenpiteitä.
 
 | Twiitti | Sentimentti |
 | ----- | ----- | 
