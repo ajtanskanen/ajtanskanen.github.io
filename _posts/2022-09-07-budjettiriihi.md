@@ -46,7 +46,8 @@ Tässä muutama esimerkki twiitteistä ja niiden sentimenteistä
 | Yksi tärkeä #budjettiriihi päätös on varhaiskasvatusmaksujen pysyvä alentaminen, jolla tuetaan lapsiperheitä ja vahvistetaan työllisyyttä. Samalla se on askel kohti @Demarit tavoitetta maksuttomasta varhaiskasvatuksesta. | +1 |
 | Suomi ei menesty ilman koulutusta ja osaamista. Opettajat rakentavat tulevaisuutta koko yhteiskunnan ja työmarkkinoiden hyväksi. Opettajatarvetta on ennakoitava ajoissa. #opettajarekisteri #budjettiriihi | +2 |
 
-Kaikkiaan analysoituja twiittejä on 1926 kpl, ja ne ovat aikaväliltä 30.8.2022 - 6.9.2022.
+Kaikkiaan analysoituja twiittejä on 1926 kpl, ja ne ovat aikaväliltä 30.8.2022 - 6.9.2022. Ennen budjettiriihtä on julkaistu 426 twiittiä, 
+heti budjettiriihen jälkeen 1045 twiittiä ja myöhemmin 455 twiittiä.
 Twiitit ovat aiheista _budjettiriihi_ ja _budjetti_, missä retwiittaukset on jätetty pois. 
 
 Sentimentti kääntyy negatiiviseksi
