@@ -93,7 +93,7 @@ niissä näkyy huoli velkaantumisesta ja talouskasvun puutteesta.
 | Hallituksen budjetti saa kritiikkiä niin velanotosta kuin ilmastotoimien unohtamisestakin. #budjettiriihi | -1 |
 
 
-Päivä budjettiriihen jälkeen kirjoitetuissa twiiteissä negatiivisuus sentimentti korostuu. Nyt jo yli 60 prosenttia kaikista twiiteistä on 
+Päivä budjettiriihen jälkeen kirjoitetuissa twiiteissä negatiivinen sentimentti korostuu. Nyt jo yli 60 prosenttia kaikista twiiteistä on 
 negatiivisia tai erittäin negatiivisia.
 
 ![SEntimenttien jakauma](/images/sentimentti/jalkeen1pv.png)
