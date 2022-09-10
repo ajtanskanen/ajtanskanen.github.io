@@ -43,13 +43,11 @@ Työmarkkinatuella oleva
 
 Tarkastellaan 
 yksinkertaisuuden vuoksi työmarkkinatuella olevaa henkilöä, joka ryhtyy työskentelemään. Kuva 1 esittää hänen nettotulonsa 
-palkan kasvaessa: ensin hän siirtyy sovitellulle työmarkkinatuelle, ja sen jälkeen täysin työskentelemään.
+palkan kasvaessa. Hän saa pienillä tuloilla asumistukea ja perustuloa palkkatulon lisäksi.
 
 ![Vertailu 3](/images/perustulo/1+0/perustulo_netto.png)
 
-*Kuvio 1. Nettotulot Sotu-komitean perustulossa verrattuna nykytilaan.*
-
-Verrattuna nykytilanteeseen
+*Kuvio 1. Nettotulot Sotu-komitean perustulossa tulolajeittain.*
 
 Kuva 2 näyttää, että perustulo ei tässä tapauksessa paranna henkilön saamia nettotuloja.
 Itse asiassa perustulo vähentää nettotuloja pienillä työansioilla.
@@ -58,13 +56,12 @@ Itse asiassa perustulo vähentää nettotuloja pienillä työansioilla.
 
 *Kuvio 2. Nettotulot Sotu-komitean perustulossa verrattuna nykytilaan.*
 
-Tässä tapauksessa perustulo ei paranna myöskään työllistymisveroastetta, kuten kuvio 3 osoittaa.
+Perustulo ei paranna myöskään työllistymisveroastetta, kuten kuvio 3 osoittaa.
+Itse asiassa perustulo vie henkilön tukevammin kannusteloukkuun kuin nykyinen sosiaaliturva.
 
 ![Vertailu 3](/images/perustulo/1+0/perustulovertailu__tva.png)
 
 *Kuvio 3. Työllistymisveroaste Sotu-komitean perustulossa verrattuna nykytilaan.*
-
-Itse asiassa perustulo vie henkilön kannusteloukkuun.
 
 Ansiosidonnaisella oleva perheellinen
 -----
@@ -72,15 +69,21 @@ Ansiosidonnaisella oleva perheellinen
 Aikalailla sama tarina näkyy 2+2 -henkisen perheen tuloissa.
 Perheessä on 2 aikuista ja 2 lasta. Työtön (ansiopvraha, peruste 1500 e/kk), puoliso töissä (2500 e/kk).
 
+Perheen nettotulot koostuvat palkasta, perustulosta, lapsilisästä ja ansiosidonnaisesta työttömyyspäivärahasta.
+Koska ansiopäivärahaa maksetaan vain, mikäli se ylittää perustulon, loppuu ansiosidonnaisen päivärahan maksaminen
+jo melko matalalla palkkatasolla (kuva 4).
+
 ![Vertailu 3](/images/perustulo/2+2/perustulo_netto.png)
 
-*Kuvio 4. Nettotulot Sotu-komitean perustuloa saavalle ansiosidonnaisella olevalle perheelliselle verrattuna nykytilaan.*
+*Kuvio 4. Nettotulot Sotu-komitean perustuloa saavalle ansiosidonnaisella olevalle perheelliselle lajeittain.*
 
-Kuva näyttää, että perustulo ei tässä tapauksessa paranna 
+Kuva 5 näyttää, että perustulo ei paranna nettoansioita. Tämä johtuu erityisesti verotuksen kiristymisestä.
 
 ![Vertailu 3](/images/perustulo/2+2/perustulovertailu__netto.png)
 
 *Kuvio 5. Nettotulot verrattuna nykytilaan.*
+
+Työllistymisveroaste on korkeampi kuin nykymallissa palkoissa 400 - 3500 e/kk.
 
 ![Vertailu 3](/images/perustulo/2+2/perustulovertailu__tva.png)
 
@@ -90,19 +93,21 @@ Kuva näyttää, että perustulo ei tässä tapauksessa paranna
 Työskentelevä lapseton pariskunta
 -----
 
-Aikalailla sama tarina näkyy 2+0 -henkisen perheen tuloissa.
-Perheessä on 2 aikuista, ei lapsia. Töissä, puoliso töissä (1250 e/kk).
-Nettotulot ovat hieman korkeammat perustulossa (kuvio 8),
+Tarkastellaan sitten työskentelevän lapsettoma pariskunnan tuloja ja työnteon kannusteita.
+Perheessä on 2 aikuista, ei lapsia. Molemmat puolisot ovat töissä, eivätkä saa työttömyyspäivärajaa.
+Puoliso palkka on laskelmassa kiinteä 1250 e/kk.
+
+Pariskunnan nettotulot koostuvat palkkatulosta ja perustulosta, muita etuuksia he eivät saa.
 
 ![Vertailu 3](/images/perustulo/2+0/perustulo_netto.png)
 
-*Kuvio 7. Työllistymisveroaste Sotu-komitean perustulossa verrattuna nykytilaan.*
-
-kuin nykytilassa (8),
+*Kuvio 7. Nettotulot Sotu-komitean perustulossa tulolajeittain.*
 
 ![Vertailu 3](/images/perustulo/2+0/perustulovertailu__netto.png)
 
-*Kuvio 8. Työllistymisveroaste Sotu-komitean perustulossa verrattuna nykytilaan.*
+Nettotulot ovat hieman korkeammat perustulossa kuin nykytilassa (kuvio 8).
+
+*Kuvio 8. Nettotulot verrattuna nykytilaan.*
 
 ![Vertailu 3](/images/perustulo/2+0/perustulovertailu__tva.png)
 
