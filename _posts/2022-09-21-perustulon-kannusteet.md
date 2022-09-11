@@ -20,9 +20,8 @@ Sotu-komitean perustulomalli
 Perustulo
 ------
 
-Sosiaaliturva-komitean tutkima perustulomallissa tulo on 752 euroa kuukaudessa. Sitä ei vähennä muut saadut etuudet. 
-Sotu-mallissa perustulo on 752 euroa kuukaudessa kaikille alle 65-vuotiaille. Perustulo on osittainen, ja se
-korvaa kotihoidontuen, kansaneläkkeen työkyvyttömyyseläkkeen, työmarkkinatuen, peruspäivärahan. Perustulo ei kuitenkaan
+Sosiaaliturva-komitean tutkima perustulomallissa tulo on 752 euroa kuukaudessa kaikille alle 65-vuotiaille. Sitä ei vähennä muut saadut etuudet. 
+Perustulo on osittainen, ja se korvaa kotihoidontuen, kansaneläkkeen työkyvyttömyyseläkkeen, työmarkkinatuen, peruspäivärahan. Perustulo ei kuitenkaan
 korvaa toimeentulotukea, vaikka perustulo huomioidaankin toimeentulotukea laskettaessa tulona.
 
 Verotus
@@ -132,11 +131,10 @@ on sama asia kuin korvata perusetuudet uudella, palkkojen kanssa yhteensovitetul
 Toinen tapa toteuttaa sama asia on tehdä negatiivinen tuloveroasteikko.
 
 Näiden esimerkkien valossa perustulo ei paranna työnteon kannusteita. Erityisesti työssäkäyvä pienipalkkainen 
-pariskunta, jolla on lapsia, häviäisi. Esimerkit tässä eivät ole kattavia, mutta niitä ei myöskään ole juurikaan
-valikoitu.
+pariskunta, jolla on lapsia, häviäisi. Esimerkit tässä eivät ole kattavia, mutta niitä ei myöskään ole valikoitu.
 
 Sotu-komitean perustulo ei juuri muuttaisi työnteon kannusteita yli 3000 e/kk tuloilla. Sitä vastoin se heikentäisi
-työnteon kannusteita pienillä palkoilla ja osa-aikatyössä.
+työnteon kannusteita pienillä palkoilla, ansiosidonnaisella työttömyysturvalla ja osa-aikatyössä.
 
 Johtopäätöksiä
 =====
