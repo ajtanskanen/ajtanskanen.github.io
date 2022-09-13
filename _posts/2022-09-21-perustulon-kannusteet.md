@@ -11,8 +11,8 @@ tags:
 ---
 
 Osittainen perustulo korvaa pääosan perusturvaetuuksista, mutta ei ansiosidonnaisia etuuksia.
-Etuusmeno kasvaa, joten verotusta täytyy kiristää. Tämä seurauksena työnteon kannusteet usein heikkenevät 
-osittaisessa perustulomallissa. Miten käy Sotu-komitean tarkastelemassa perustulomallissa?
+Etuusmeno kasvaa, joten verotusta täytyy kiristää ja työnteon kannusteet heikkenevät. 
+Miltä tämä näyttää Sotu-komitean tarkastelemassa perustulomallissa?
 
 Sotu-komitean perustulomalli
 =====
@@ -20,21 +20,21 @@ Sotu-komitean perustulomalli
 Perustulo
 ------
 
-Sosiaaliturva-komitean tutkima perustulomallissa tulo on 752 euroa kuukaudessa kaikille alle 65-vuotiaille. Sitä ei vähennä muut saadut etuudet. 
-Perustulo on osittainen, ja se korvaa kotihoidontuen, kansaneläkkeen työkyvyttömyyseläkkeen, työmarkkinatuen, peruspäivärahan. Perustulo ei kuitenkaan
-korvaa toimeentulotukea, vaikka perustulo huomioidaankin toimeentulotukea laskettaessa tulona.
+Sosiaaliturva-komitean tutkima perustulomallissa tulo on 752 euroa kuukaudessa kaikille aikuisille alle 65-vuotiaille. Perustuloa
+ei vähennä muut saadut etuudet. Perustulo on osittainen, mikä tarkoittaa, että se korvaa kotihoidontuen, kansaneläkkeen työkyvyttömyyseläkkeen, 
+työmarkkinatuen, peruspäivärahan. Perustulo ei kuitenkaan korvaa toimeentulotukea, vaikka perustulo huomioidaan toimeentulotukea laskettaessa tulona.
 
 Verotus
 -----
 
-Verotus pidetään nykyisellään, paitsi perustulovero tuodaan uutena komponenttina. Perustulovero on xx euroa yy e/v palkkaan saakka.
-Ansiotulovähennys asetetaan nollaan, samoin työtulovähennys. Tämän lisäksi asumistuen suojaosa on laskelmissa nostettu 600 euroon/kk.
-Perustulo on verotettava etuus ja se huomioidaan tulona toimeentulotuessa ja asumistuessa.
+Verotus pidetään nykyisellään, paitsi perustulovero tuodaan uutena komponenttina. Perustulovero on 25 prosenttia tuloista 3 383 euron vuosituloihin asti,
+ja lisäksi 0,37 prosenttia puhtaasta ansiotulosta. Sen avulla kustannetaan perustulosta aiheutunut lisämeno.
+Ansiotulovähennys asetetaan nollaan, samoin työtulovähennys. Perustulo on verotettava etuus ja se huomioidaan tulona toimeentulotuessa ja asumistuessa.
 
 Esimerkkitapaukset
 =====
 
-Tarkastellaan seuraavaksi, miten Sotu-komitean perustulossa kannusteet muuttuisivat, kolmessa esimerkkitapauksessa:
+Tarkastellaan seuraavaksi, miten Sotu-komitean perustulossa kannusteet muuttuvat kolmessa esimerkkitapauksessa:
 (1) työmarkkinatuella oleva lapseton sinkku; (2) kaksilapsinen pariskunta; ja (3) lapseton pariskunta.
 
 Työmarkkinatuella oleva
