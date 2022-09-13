@@ -30,6 +30,7 @@ Verotus
 Verotus pidetään nykyisellään, paitsi perustulovero tuodaan uutena komponenttina. Perustulovero on 25 prosenttia tuloista 3 383 euron vuosituloihin asti,
 ja lisäksi 0,37 prosenttia puhtaasta ansiotulosta. Sen avulla kustannetaan perustulosta aiheutunut lisämeno.
 Ansiotulovähennys asetetaan nollaan, samoin työtulovähennys. Perustulo on verotettava etuus ja se huomioidaan tulona toimeentulotuessa ja asumistuessa.
+Asumistuen suojaosa on nostettu laskelmissa 600 e/kk jokaista aikuista kohden.
 
 Esimerkkitapaukset
 =====
@@ -112,7 +113,7 @@ Nettotulot ovat hieman korkeammat perustulossa kuin nykytilassa (kuvio 8).
 
 *Kuvio 9. Työllistymisveroaste Sotu-komitean perustulossa verrattuna nykytilaan.*
 
-mutta työllistymisveroaste on korkeampi.
+Työllistymisveroaste on korkeampi perustulomallissa korkeampi kuin nykytilassa (Kuvio 9).
 
 Pohdintaa
 =====
@@ -148,4 +149,4 @@ Näiden esimerkkien valossa jää epäselväksi, millaisissa tilanteissa perustu
 Kirjallisuus
 ======
 
-Sotu-komitea [Liite 1 Edellisen kokouksen pöytäkirjan luonnosTiedosto avautuu uudessa välilehdessä PDF 241kB  (31.1.2022)](https://valtioneuvosto.fi/documents/1271139/110185440/Liite+2+Diaesitys+Sosiaaliturvakomitean+ty%C3%B6kokous+14.2.2022.pdf/f356c958-96d9-7c1c-9fcb-517d284ab440/Liite+2+Diaesitys+Sosiaaliturvakomitean+ty%C3%B6kokous+14.2.2022.pdf?t=1645176140240)
+Sotu-komitean [aineisto](https://valtioneuvosto.fi/documents/1271139/110185440/Liite+2+Diaesitys+Sosiaaliturvakomitean+ty%C3%B6kokous+14.2.2022.pdf/f356c958-96d9-7c1c-9fcb-517d284ab440/Liite+2+Diaesitys+Sosiaaliturvakomitean+ty%C3%B6kokous+14.2.2022.pdf?t=1645176140240)
