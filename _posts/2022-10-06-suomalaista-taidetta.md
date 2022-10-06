@@ -72,6 +72,6 @@ Kuva 8. Pekka Halosen Ilveksenmetsästäjä. Suurehko ilves.
 Yhteenveto
 =====
 
-DALL-E osaa muokata olemassa olevia kuvia omaksuen maalauksen tyylin ja täydentää pyynnön mukaisesti
+OpenAI:n DALL-E -tekoäly osaa muokata olemassa olevia kuvia omaksuen maalauksen tyylin ja täydentää pyynnön mukaisesti
 kuvia. Kaikki muutokset eivät ole onnistuneita, mutta hämmentävän hyviä ne silti usein ovat.
 Kuvat muodostetaan sekunneissa. 
