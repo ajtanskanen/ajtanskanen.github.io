@@ -7,7 +7,7 @@ largeimage: /images/dalle2/pyykkarit_ja_komeetta.png
 summary: 'Blogi | Millaisia suomalaiset taiteen merkkiteokset ovat aluperin olleet?'
 tags:
   - taide
-  - DALL-E2
+  - DALL-E
   - AI
   - tekoäly
 ---

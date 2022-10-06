@@ -11,7 +11,7 @@ tags:
   - Sipoo
 ---
 
-Ior Bockin huumehuuruissa kertomissa tarinoissa Suomi on kaikkien kansojen koti. Keskeinen palikka
+Ior Bockin omalaatuisissa tarinoissa Gumbostrand on lähes maailman napa: keskeinen paikka
 kertomuksissa on Gumbostrandissa sijaitseva kivipaasi, jonka alta pitäisi löytyä kauan sitten
 sinetöity Lemminkäisen Temppeli. Sitä kaivetaan taas esille.
 
@@ -21,7 +21,7 @@ Lemminkäisen Temppeli 23.9.2022
 Kaivaukset
 =====
 
-Vuonna 1987 Ior Bock ystävineen aloitti kaivaukset Gumbostrandissa Sipoossa. Tarkoituksen kaivauksilla
+Vuonna 1987 Ior Bock ystävineen aloitti kaivaukset Gumbostrandissa Sipoossa. Tarkoituksena
 oli kaivaa esille Lemminkäisen Temppeli, josta kerrotaan Bockin perheen saagassa. Bockin mukaan
 temppeli suljettiin vuonna 987 ja sen voi avata tuhannen vuoden jälkeen, 1987 [YLEn video]
 
@@ -30,14 +30,10 @@ Nyt niitä suoritetaan taas vakavammalla mielellä. Kesällä 2022 kaivinkone ku
 luota aina kallioon asti. Merkkejä tarinoiden temppelistä ei ole löytynyt, ja tuskin löytyykään.
 
 ![Templeberget-logo](/images/temppeli/tempelberget.jpeg)
-Kaivauksia suorittaa Tempelberget.
+Uusimpia kaivauksia suorittaa Tempelberget.
 
 Kaivausten rahoittajat vetäytyivät vuonna 1990, kun Bockin tilalla majailleita vieraita pidätettiin hasiksen poltosta.
 Bock tuomittiin kolmen kuukauden ehdolliseen vankeuteen ja 15 000 markan korvauksiin
-
-Nyt kaivauksia Kyöpelinvuorella suorittaa Tempelberget. Hauskaa sen logossa (Kuva) on hyvin bockilainen
-L-kirjain, joka muistuttaa saunasolmustaankin tunnetun Ior Bockin tarinoita. Kuvan L:hän näyttää lähinnä siittimeltä,
-jolla onkin Bockin kertomuksissa merkittävä rooli. Bock kutsuu tarinoissa Lemminkäistä nimellä siittäjä.
 
 Ylen haastattelussa Ior Bock kertoo:
 
@@ -46,6 +42,10 @@ Ylen haastattelussa Ior Bock kertoo:
     missä Akka kaatuu alas. Kulju Kyypelivuoren ja Akanpesänvuoren välissä oli täytetty
     suurilla kivilohkareilla. Ne räjäytettiin dynamiitilla. Lohkareet olisi periaatteessa 
     voitu nostaa ylös, mutta meillä ei ollut siihen mahdollisuutta.
+    
+Nyt kaivauksia Kyöpelinvuorella tekee Tempelberget. Hauskaa sen logossa (Kuva) on hyvin bockilainen
+L-kirjain, joka muistuttaa saunasolmustaankin tunnetun Ior Bockin tarinoita. Kuvan L:hän näyttää lähinnä siittimeltä,
+mikä sopii Bockille. Bock kutsuu tarinoissa Lemminkäistä myös nimellä siittäjä.
 
 Matkalla temppelille
 ====
@@ -70,6 +70,9 @@ Aivan Konst & Formin vieressä on [Malmgårdin panimon Panimokauppa](https://mal
 
 Itse Temppeli on korkean mäen päällä ja kaivausten viereen saa auton parkkeerattua.
 
+Lemminkäisen Temppeli
+====
+
 Bockin perheen saaga -kirjassa Ior Bock kertoo monipolvisen tarinan maailman luomisesta aina vuoteen 1990-luvulle asti.
 Siinä kerrotaan mm. Lemminkäisen Temppelistä.
 
@@ -85,6 +88,21 @@ Siinä kerrotaan mm. Lemminkäisen Temppelistä.
 
 ![Reitti temppelille](/images/temppeli/luolan_sisus.jpeg)
 Luolan sisällä pohjavettä riittää, kulta-aarteita vähemmän.
+
+Mitä luolasta pitäisi löytyä? Bockin mukaan edessä pitäisi olla vesilukko ja sen takana
+varastohuoneita, muinaisten päälliköiden kultapatsaita ja vaikka mitä.
+
+    Ukon kuoltua hänen aikanaan linnaan tuodur esineet vietiin säilöön 
+    varastohuoneeseen, lagärrummet, joka louhiniin graniittivuoreen nimeltä Siboberget; 
+    estetiikka vietiin siis lopulta Kyypelivuoren varastotilaan Lemminkäisen 
+    temppelin alle. Lemminkäisen temppelin alla on ihmiskunnan suurin luomus, 
+    maanalainen ihme, undervärk.
+
+    Vuoren varastotila on muodoltaan laajeneva spiraali: spol, strut, kål, spiral. 
+    Spiraalin varrella on jokaista paratiisiajan sukupolven Ukkoa varten oma sali 
+    kamareineen. Kaikki varastohuoneet rakennettiin jo paratiisiaikana ja vuorattiin 
+    kullalla. Koko valtava rakennelma on vuorattu kullalla, jotta varastotila olisi 
+    vedenpitävä.
 
 Lopuksi
 =====
