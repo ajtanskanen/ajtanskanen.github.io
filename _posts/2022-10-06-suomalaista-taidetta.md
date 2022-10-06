@@ -38,8 +38,13 @@ Tulikin liian moderni traktori. Korjataan.
 ![Poika ja höyrykäyttöinen traktori](/images/dalle2/poika_ja_traktori2.png)
 Kuva 4. Poika ja höyrytraktori
 
-von Wright
+Tyyliltään traktori istuu maalaukseen, vaikka onkin ehkä hieman väärässä kohdassa.
+
+Georg von Wright
 =====
+
+von Wright -veljekset tunnetaan lintumaalauksistaan. Kuva ovat toisinaan hieman erikoisesti
+rajattuja.
 
 ![Metsot ja ufo](/images/dalle2/metsot_ja_ufo.png)
 Kuva 5. Georg von Wrightin Taistelevat metsot täydennettynä taivaalla näkyvällä ufolla.
@@ -65,5 +70,11 @@ Entä, jos Samman ryöstön jälkeen Pohjan Akkaa karkottamassa olisikin Luke Sk
 ![Luke ja Sammon ryöstö](/images/dalle2/Luke_ja_Sampo2.png)
 Kuva 8. Akseli Gallen-Kallelan Sammon puolustus.
 
-Tähän hyvä lopettaa. Kuvat on muokattu DALL-E:lla.
+Pikaisella vilkaisulla Luke istuu hyvin maalaukseen. Tarkempi tarkastelu paljastaa, että Luke taitaa mennä veneen läpi
+ja kädet sulautua veneen rakenteisiin. Vaikka täydennyksen tyyli onkin lähellä, ei se aivan vakuuta.
 
+Yhteenveto
+=====
+
+DALL-E osaa muokata olemassa olevia kuvia omaksuen maalauksen tyylin ja täydentää pyynnön mukaisesti
+kuvia. Kaikki muutokset eivät ole onnistuneita, mutta hämmentävän hyviä ne silti usein ovat.
