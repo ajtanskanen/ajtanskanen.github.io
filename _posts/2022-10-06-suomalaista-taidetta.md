@@ -1,7 +1,7 @@
 ---
 title: 'Suomalaista taidetta tekoälyn pensselillä työstettynä'
 date: 2022-10-06
-permalink: /posts/2022/10/suomalaista-taidetta/
+permalink: /posts/2022/10/suomalaista-taidetta-tekoaly/
 image: /images/dalle2/pyykkarit_ja_komeetta.png
 largeimage: /images/dalle2/pyykkarit_ja_komeetta.png
 summary: 'Blogi | Millaisia suomalaiset taiteen merkkiteokset ovat aluperin olleet?'
