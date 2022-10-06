@@ -83,7 +83,7 @@ Kuva 5 näyttää, että perustulo ei paranna nettoansioita. Tämä johtuu erity
 
 *Kuvio 5. Nettotulot verrattuna nykytilaan.*
 
-Työllistymisveroaste on korkeampi kuin nykymallissa palkoissa 400 - 3500 e/kk.
+Työllistymisveroaste on korkeampi kuin nykymallissa alle 4000 e/kk palkkatasoilla.
 
 ![Vertailu 3](/images/perustulo/2+2/perustulovertailu__tva.png)
 
