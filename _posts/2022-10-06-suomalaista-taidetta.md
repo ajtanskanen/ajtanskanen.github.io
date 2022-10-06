@@ -17,16 +17,16 @@ Maalaukset ovat upeita, mutta joskus ne herättävät kysymyksen siitä, mitä o
 Mitä esimerkiksi Poika ja varis -maalauksen Poika oikeastaan katselee. Tästä blogista löytyvät vastaukset.
 
 ![Senaatintori ja Tuomiokirkko](/images/dalle2/pyykkarit_ja_komeetta.png)
-Kuva 1. Pekka Halosen Pyykkärit. Taivaalle on ilmestynyt komeetta.
+Kuva 1. Eero Järnefeltin Pyykkiranta. Taivaalle on ilmestynyt komeetta.
 
-Edelfelt
+Akseli Gallen-Kallela
 =====
 
-Alkuperäinen Albert Edelfeltin Poika ja varis näyttää tältä.
+Alkuperäinen Akseli Gallen-Kallelan Poika ja varis vuodelta 1884 näyttää tältä.
 
 ![Albert Edelfelt: Poika ja varis](/images/dalle2/Poikajavaris.jpeg)
 
-Kuva 2. Albert Edelfeltin Poika ja varis
+Kuva 2. Akseli Gallen-Kallelan Poika ja varis
 
 Entä jos poika ei katsokaan varista? Lisätään kuvaa traktori.
 
@@ -40,14 +40,22 @@ Kuva 4. Poika ja höyrytraktori
 
 Tyyliltään traktori istuu maalaukseen, vaikka onkin ehkä hieman väärässä kohdassa.
 
-Georg von Wright
+Entä, jos Samman ryöstön jälkeen Pohjan Akkaa karkottamassa olisikin Luke Skywalker, eikä Väinämöinen?
+
+![Luke ja Sammon ryöstö](/images/dalle2/Luke_ja_Sampo2.png)
+Kuva 5. Akseli Gallen-Kallelan Sammon puolustus.
+
+Pikaisella vilkaisulla Luke istuu hyvin maalaukseen. Tarkempi tarkastelu paljastaa, että Luke taitaa mennä veneen läpi
+ja kädet sulautua veneen rakenteisiin. Vaikka täydennyksen tyyli onkin lähellä, ei se aivan vakuuta.
+
+Ferdinand von Wright
 =====
 
 von Wright -veljekset tunnetaan lintumaalauksistaan. Kuva ovat toisinaan hieman erikoisesti
-rajattuja.
+rajattuja. Tunnetuin lienee Ferdinand von Wrightin Taistelevat metsot vuodelta 1886.
 
 ![Metsot ja ufo](/images/dalle2/metsot_ja_ufo.png)
-Kuva 5. Georg von Wrightin Taistelevat metsot täydennettynä taivaalla näkyvällä ufolla.
+Kuva 6. Ferdinand von Wrightin Taistelevat metsot täydennettynä taivaalla näkyvällä ufolla.
 
 Pekka Halonen
 =====
@@ -56,22 +64,10 @@ Ilveksenmetsästäjä on ikoninen suomalaisuutta kuvaava teos. Mutta mitä löyt
 oikealta puolelta?
 
 ![Senaatintori ja Tuomiokirkko](/images/dalle2/ilveksenhiihtaja_ja_lippu.png)
-Kuva 6. Pekka Halosen Ilveksenmetsästäjä. Tällä kertaa Ukrainassa.
+Kuva 7. Pekka Halosen Ilveksenmetsästäjä. Tällä kertaa Ukrainassa.
 
 ![Senaatintori ja Tuomiokirkko](/images/dalle2/ilveksenhiihtaja_ja_otus.png)
-Kuva 7. Pekka Halosen Ilveksenmetsästäjä. Suurehko ilves.
-
-
-Akseli Gallen-Kallela
-=====
-
-Entä, jos Samman ryöstön jälkeen Pohjan Akkaa karkottamassa olisikin Luke Skywalker, eikä Väinämöinen?
-
-![Luke ja Sammon ryöstö](/images/dalle2/Luke_ja_Sampo2.png)
-Kuva 8. Akseli Gallen-Kallelan Sammon puolustus.
-
-Pikaisella vilkaisulla Luke istuu hyvin maalaukseen. Tarkempi tarkastelu paljastaa, että Luke taitaa mennä veneen läpi
-ja kädet sulautua veneen rakenteisiin. Vaikka täydennyksen tyyli onkin lähellä, ei se aivan vakuuta.
+Kuva 8. Pekka Halosen Ilveksenmetsästäjä. Suurehko ilves.
 
 Yhteenveto
 =====
