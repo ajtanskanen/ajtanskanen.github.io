@@ -2,8 +2,8 @@
 title: 'Suomalaista taidetta tekoälyn pensselillä työstettynä'
 date: 2022-10-06
 permalink: /posts/2022/10/suomalaista-taidetta/
-image: /images/dalle2/pyykkärit_ja_komeetta.png
-largeimage: /images/dalle2/pyykkärit_ja_komeetta.png
+image: /images/dalle2/pyykkarit_ja_komeetta.png
+largeimage: /images/dalle2/pyykkarit_ja_komeetta.png
 summary: 'Blogi | Millaisia suomalaiset taiteen merkkiteokset ovat aluperin olleet?'
 tags:
   - taide
@@ -74,3 +74,4 @@ Yhteenveto
 
 DALL-E osaa muokata olemassa olevia kuvia omaksuen maalauksen tyylin ja täydentää pyynnön mukaisesti
 kuvia. Kaikki muutokset eivät ole onnistuneita, mutta hämmentävän hyviä ne silti usein ovat.
+Kuvat muodostetaan sekunneissa. 
