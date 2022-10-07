@@ -11,7 +11,7 @@ tags:
   - Sipoo
 ---
 
-Ior Bockin omalaatuisissa tarinoissa Gumbostrand on lähes maailman napa: keskeinen paikka
+Ior Bockin omalaatuisissa tarinoissa Sipoon Gumbostrand on lähes maailman napa: keskeinen paikka
 kertomuksissa on Gumbostrandissa sijaitseva kivipaasi, jonka alta pitäisi löytyä kauan sitten
 sinetöity Lemminkäisen Temppeli. Sitä kaivetaan taas esille.
 
@@ -37,11 +37,11 @@ Bock tuomittiin kolmen kuukauden ehdolliseen vankeuteen ja 15 000 markan korvauk
 
 Ylen haastattelussa Ior Bock kertoo:
 
-    Aloitimme temppelin kaivaukset vuonna 1987. Silloin oli 1 000 vuotta
-    kulunut temppelin sulkemisesta. Tiesimme, että temppelin sisäänkäynti on siinä,
-    missä Akka kaatuu alas. Kulju Kyypelivuoren ja Akanpesänvuoren välissä oli täytetty
-    suurilla kivilohkareilla. Ne räjäytettiin dynamiitilla. Lohkareet olisi periaatteessa 
-    voitu nostaa ylös, mutta meillä ei ollut siihen mahdollisuutta.
+> Aloitimme temppelin kaivaukset vuonna 1987. Silloin oli 1 000 vuotta
+> kulunut temppelin sulkemisesta. Tiesimme, että temppelin sisäänkäynti on siinä,
+> missä Akka kaatuu alas. Kulju Kyypelivuoren ja Akanpesänvuoren välissä oli täytetty
+> suurilla kivilohkareilla. Ne räjäytettiin dynamiitilla. Lohkareet olisi periaatteessa 
+> voitu nostaa ylös, mutta meillä ei ollut siihen mahdollisuutta.
     
 Nyt kaivauksia Kyöpelinvuorella tekee Tempelberget. Jännä yksityiskohta sen logossa (Kuva) on hyvin bockilainen
 L-kirjain, joka muistuttaa saunasolmustaankin tunnetun Ior Bockin tarinoita.
@@ -54,7 +54,7 @@ Reitti Lemminkäisen Temppelille Helsingin suunnasta.
 
 Lemminkäisen Temppeli on noin 30 kilometrin päässä Helsingin keskustasta. Matka on enimmäiseen moottoritietä, joten
 se sujuu nopeasti. Porvoon moottoritieltä käännytään Uudelle Porvoontielle (tie numero 170 kartassa).
-Jos matkalla haluaa poiketa kahville, onUuden Porvoon tien varrelle mm. [N'avettasta](https://www.leipomokahvilanavetta.fi/), josta saa rasvaisia, mutta
+Jos matkalla haluaa poiketa kahville, on Uuden Porvoon tien varrelle mm. [N'avettasta](https://www.leipomokahvilanavetta.fi/), josta saa rasvaisia, mutta
 mainioita korvapuusteja kahvin seuraksi. 
 
 Temppelille pääsee kääntymällä Uudelta Porvoontieltä kapealle ja mutkaiselle Gumbostrandin tielle.
@@ -76,14 +76,14 @@ Bockin perheen saaga -kirjassa Ior Bock kertoo monipolvisen tarinan maailman luo
 Siinä kerrotaan mm. Lemminkäisen Temppelistä.
 
     
-    Paratiisiaikana oli Uudenmaan ympyrämaa, ringlandet Nyland, joka oli myös 
-    Uudenkuunsarven maa, Nymånehornetsland, ja /ny/ on Yggdrasils Nordstjärnan, 
-    Yggdrasil-puun Pohjantähti. Uudenmaan keskellä sijaitsi Hel ja Helistä itään 
-    paikka nimeltä Akanpesä, Gumbo. Akanpesällä on ollut kukkula nimeltä 
-    Akanpesänkukkufa, Gumbokulle.
-
-    Vuoren nimi on vaanereitten kielellä Kyypelivuori. Kyypelivuoressa on Lemminkäisen 
-    temppeli.
+> Paratiisiaikana oli Uudenmaan ympyrämaa, ringlandet Nyland, joka oli myös 
+> Uudenkuunsarven maa, Nymånehornetsland, ja /ny/ on Yggdrasils Nordstjärnan, 
+> Yggdrasil-puun Pohjantähti. Uudenmaan keskellä sijaitsi Hel ja Helistä itään 
+> paikka nimeltä Akanpesä, Gumbo. Akanpesällä on ollut kukkula nimeltä 
+> Akanpesänkukkufa, Gumbokulle.
+> 
+> Vuoren nimi on vaanereitten kielellä Kyypelivuori. Kyypelivuoressa on Lemminkäisen 
+> temppeli.
 
 ![Reitti temppelille](/images/temppeli/luolan_sisus.jpeg)
 Luolan sisällä pohjavettä riittää, kulta-aarteita vähemmän.
@@ -91,17 +91,17 @@ Luolan sisällä pohjavettä riittää, kulta-aarteita vähemmän.
 Mitä luolasta pitäisi löytyä? Bockin mukaan edessä pitäisi olla vesilukko ja sen takana
 varastohuoneita, muinaisten päälliköiden kultapatsaita ja vaikka mitä.
 
-    Ukon kuoltua hänen aikanaan linnaan tuodut esineet vietiin säilöön 
-    varastohuoneeseen, lagärrummet, joka louhittiin graniittivuoreen nimeltä Siboberget; 
-    estetiikka vietiin siis lopulta Kyypelivuoren varastotilaan Lemminkäisen 
-    temppelin alle. Lemminkäisen temppelin alla on ihmiskunnan suurin luomus, 
-    maanalainen ihme, undervärk.
-
-    Vuoren varastotila on muodoltaan laajeneva spiraali: spol, strut, kål, spiral. 
-    Spiraalin varrella on jokaista paratiisiajan sukupolven Ukkoa varten oma sali 
-    kamareineen. Kaikki varastohuoneet rakennettiin jo paratiisiaikana ja vuorattiin 
-    kullalla. Koko valtava rakennelma on vuorattu kullalla, jotta varastotila olisi 
-    vedenpitävä.
+> Ukon kuoltua hänen aikanaan linnaan tuodut esineet vietiin säilöön 
+> varastohuoneeseen, lagärrummet, joka louhittiin graniittivuoreen nimeltä Siboberget; 
+> estetiikka vietiin siis lopulta Kyypelivuoren varastotilaan Lemminkäisen 
+> temppelin alle. Lemminkäisen temppelin alla on ihmiskunnan suurin luomus, 
+> maanalainen ihme, undervärk.
+> 
+> Vuoren varastotila on muodoltaan laajeneva spiraali: spol, strut, kål, spiral. 
+> Spiraalin varrella on jokaista paratiisiajan sukupolven Ukkoa varten oma sali 
+> kamareineen. Kaikki varastohuoneet rakennettiin jo paratiisiaikana ja vuorattiin 
+> kullalla. Koko valtava rakennelma on vuorattu kullalla, jotta varastotila olisi 
+> vedenpitävä.
 
 Lopuksi
 =====
