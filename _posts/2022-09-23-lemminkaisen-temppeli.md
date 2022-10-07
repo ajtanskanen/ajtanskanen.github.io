@@ -91,8 +91,8 @@ Luolan sisällä pohjavettä riittää, kulta-aarteita vähemmän.
 Mitä luolasta pitäisi löytyä? Bockin mukaan edessä pitäisi olla vesilukko ja sen takana
 varastohuoneita, muinaisten päälliköiden kultapatsaita ja vaikka mitä.
 
-    Ukon kuoltua hänen aikanaan linnaan tuodur esineet vietiin säilöön 
-    varastohuoneeseen, lagärrummet, joka louhiniin graniittivuoreen nimeltä Siboberget; 
+    Ukon kuoltua hänen aikanaan linnaan tuodut esineet vietiin säilöön 
+    varastohuoneeseen, lagärrummet, joka louhittiin graniittivuoreen nimeltä Siboberget; 
     estetiikka vietiin siis lopulta Kyypelivuoren varastotilaan Lemminkäisen 
     temppelin alle. Lemminkäisen temppelin alla on ihmiskunnan suurin luomus, 
     maanalainen ihme, undervärk.
