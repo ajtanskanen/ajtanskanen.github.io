@@ -43,9 +43,8 @@ Ylen haastattelussa Ior Bock kertoo:
     suurilla kivilohkareilla. Ne räjäytettiin dynamiitilla. Lohkareet olisi periaatteessa 
     voitu nostaa ylös, mutta meillä ei ollut siihen mahdollisuutta.
     
-Nyt kaivauksia Kyöpelinvuorella tekee Tempelberget. Hauskaa sen logossa (Kuva) on hyvin bockilainen
-L-kirjain, joka muistuttaa saunasolmustaankin tunnetun Ior Bockin tarinoita. Kuvan L:hän näyttää lähinnä siittimeltä,
-mikä sopii Bockille. Bock kutsuu tarinoissa Lemminkäistä myös nimellä siittäjä.
+Nyt kaivauksia Kyöpelinvuorella tekee Tempelberget. Jännä yksityiskohta sen logossa (Kuva) on hyvin bockilainen
+L-kirjain, joka muistuttaa saunasolmustaankin tunnetun Ior Bockin tarinoita.
 
 Matkalla temppelille
 ====
