@@ -118,7 +118,7 @@ myös jyrkässä laskussa.
 ![](/images/tuotot/PI_tuotot.png)<br>
 Kuvio 8. Portfolio insurance -mallin tuotto verrattuna havaintoihin.
 
-Keskivirhe PI-mallissa on 0,27 %-yksikköä sijoitustuotoissa. Tätä voi pitää pienenä ottaen huomioon,
+Keskivirhe PI-mallissa on 0,23 %-yksikköä sijoitustuotoissa. Tätä voi pitää pienenä ottaen huomioon,
 että laskelmat on tehty TyEL-järjestelmän keskiarvoista, ei laitoskohtaisista tunnusluvuista.
 Strategia on selvästi tarkin tarkastelluista kolmesta strategiasta.
 
@@ -128,7 +128,9 @@ PI-mallin tuottama ennuste varoille vastaa hyvin toteumaa (Kuvio 7).
 Kuvio 9. Varat PI vs toteutunut.
 
 Osakepainossa on huomioitu tuottovaateen osaketuottosidonnaisuus (kuvio 8). PI-osuus on vakavaraisuuspääoman suhde vastuuvelkaan
-kerrottuna vakiolla 0,93. Tällöin 1 prosenttiyksikkö vakavaisuutta lisää kasvattaa osakepainoa 0,93 prosenttiyksikköä.
+kerrottuna vakiolla 1,0. Tällöin 1 prosenttiyksikkö vakavaisuutta lisää kasvattaa osakepainoa 1 prosenttiyksikköä.
+Tuottovaateen osaketuottosidonnaisuus ei mallissa kasvata täysin sijoitusjakauman osakepainoa: 1 prosenttiyksikkö lisää OLVia
+kasvattaa osakepainoa 0,84 prosenttiyksikköä.
 
 PI replikoi tuotot painottaen _edellisen_ vuoden vakavaraisuutta 88 prosentti ja kuluvan vuoden 12 prosentti painolla.
 Sovitteen mukaan siis työeläkeyhtiöt valitsevat allokaatio vuotta aiemmin ja ajavat sillä joko
