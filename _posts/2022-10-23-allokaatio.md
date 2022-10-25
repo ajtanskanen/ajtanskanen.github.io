@@ -35,7 +35,7 @@ tuottovaateesta nostettiin 10 prosentista 20 prosenttiin. Osin sen ansiosta
 työeläkelaitokset ovat saaneet parempia tuottoja. 
 
 ![Tuotot](/images/tuotot/allo.png)
-Kuvio 2. Allokaatio
+Kuvio 2. Keskimääräinen sijoitusjakauma työeläkejärjestelmä TyELissä
 
 Osakesijoitusten osuus työeläkelaitosten salkuissa on kasvanut ajan mukana ja samaan aikaan
 korkosijoitusten osuus on laskenut (Kuvio 2). Kiinteistöjen osuus on pysynyt ennallaan, mutta muiden sijoitusten 
@@ -62,13 +62,11 @@ sijoitusstrategia. Lähdetään tästä sijoitusstrategiasta liikkeelle: valitaa
 sen liikkeitä. Huomioidaan kuitenkin muutokset osaketuottosidonnaisen vastuuvelan osuudessa allokaatiossa. 
 
 ![](/images/tuotot/BH_tuotot.png)
-
 Kuvio 3. Todellinen keskimääräinen TyEL-yhtiöiden sijoitusjakauma verrattuna regressiolla löydettyyn jakaumaan vuosina 2005-2022.
 
 Keskimääräinen tuottojen absoluuttinen virhe on 0,74 prosenttiyksikköä. 
 
 ![](/images/tuotot/BH_osake.png)
-
 Kuvio 4. Osakepaino Buy-and-Hold-strategiassa vs toteutunut osakepaino.
 
 Vertaamalla raportoitua osakepaino mallin ennustamaan näkee ainakin, onko osakepainon suuruusluokka sama.
@@ -89,25 +87,22 @@ Sijoitustuottoihin sovitetussa vakioallokaatio-mallin salkussa on
 bondeja on 50,6 prosenttia, osakkeita 27,7 prosenttia, kiinteistöjä 15,4 prosenttia 
 ja muita sijoituskohteita 6,4 prosenttia. Tämän lisäksi tulee OLV-osuutta vastaava määrä
 osakesijoituksia ja vastaava määrä vähennetään bondeista. 
-Kuvio 6 näyttää, että havaitut tuotot vastaavat mallin ennustettu selvästi paremmin kuin Buy-and-Hold -strategiassa.
+Kuvio 5 näyttää, että havaitut tuotot vastaavat mallin ennustettu selvästi paremmin kuin Buy-and-Hold -strategiassa.
 Keskivirhe vakioallokaatio-mallissa on 0,49 %-yksikköä sijoitustuotoissa. 
 
 ![](/images/tuotot/vakio_tuotot.png)
-
-Kuvio 6. TyElin kokonaistuotto havainto vs vakioallokaation avulla saatuun tuottoon.
+Kuvio 5. TyElin kokonaistuotto havainto vs vakioallokaation avulla saatuun tuottoon.
 
 ![](/images/tuotot/vakio_osake.png)
+Kuvio 6. Osakepaino
 
 Kuitenkin Kuvio 6 näyttää, että osakepaino ei liiku vakioallokaatiossa realistisesti. Tässä on huomioitu
 osaketuottosidonnaisen tuottovaateen muutos sijoitusjakaumassa. Jos se jätetään pois, on sijoitusjakauma vakio.
-
-Kuvio 7. TyElin kokonaistuotto verrattuna kiinteällä allokaatiolla saatuun tuottoon.
+Kuvio 6. TyElin kokonaistuotto verrattuna kiinteällä allokaatiolla saatuun tuottoon.
 
 Vakioallokaatio myös aliarvioi varojen kehitystä (Kuvio 8).
-
 ![](/images/tuotot/vakio_varat.png)
-
-Kuvio 8. TyElin kokonaisvarat vakioallo vs havainto.
+Kuvio 7. TyElin kokonaisvarat vakioallo vs havainto.
 
 Portfolio insurance
 -----
@@ -121,8 +116,7 @@ Portfolio insurance suojaa konkurssia vastaan, jos transaktiokustannukset ovat p
 myös jyrkässä laskussa.
 
 ![](/images/tuotot/PI_tuotot.png)
-
-Kuvio 6. Portfolio insurance -mallin tuotto verrattuna havaintoihin.
+Kuvio 8. Portfolio insurance -mallin tuotto verrattuna havaintoihin.
 
 Keskivirhe PI-mallissa on 0,27 %-yksikköä sijoitustuotoissa. Tätä voi pitää pienenä ottaen huomioon,
 että laskelmat on tehty TyEL-järjestelmän keskiarvoista, ei laitoskohtaisista tunnusluvuista.
@@ -131,8 +125,7 @@ Strategia on selvästi tarkin tarkastelluista kolmesta strategiasta.
 PI-mallin tuottama ennuste varoille vastaa hyvin toteumaa (Kuvio 7).
 
 ![](/images/tuotot/PI_varat.png)
-
-Kuvio 7. Varat PI vs toteutunut.
+Kuvio 9. Varat PI vs toteutunut.
 
 Osakepainossa on huomioitu tuottovaateen osaketuottosidonnaisuus (kuvio 8). PI-osuus on vakavaraisuuspääoman suhde vastuuvelkaan
 kerrottuna vakiolla 0,93. Tällöin 1 prosenttiyksikkö vakavaisuutta lisää kasvattaa osakepainoa 0,93 prosenttiyksikköä.
@@ -142,8 +135,7 @@ Sovitteen mukaan siis työeläkeyhtiöt valitsevat allokaatio vuotta aiemmin ja 
 ylä- tai alamäkeen. Tämä näkyy verrattaessa PI-mallin osakepainoa toteutuneeseen (Kuvio 8).
 
 ![](/images/tuotot/PI_osakeallo.png)
-
-Kuvio 8. Osakepaino PI vs toteutunut.
+Kuvio 10. Osakepaino PI vs toteutunut.
 
 Toteutunut osakepaino ilmoitetaan raportointihetkeltä. Vuosituotto taas riippuu koko vuoden
 sijoituksista, ja vuoden aikana myös sijoitusjakaumat muuttuvat. Kuvion 8 mukaan tuoto selittää parhaiten

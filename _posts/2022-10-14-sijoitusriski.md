@@ -29,8 +29,7 @@ ollut 5,4 miljardia euroa enemmän sijoitusvaroja TyELissä 2022Q2:een mennessä
 150 miljardia euroa, on uudistus ollut melko onnistunut. Laskenta perustuu [aiemman blogin laskentamalliin](http:/posts/2022/10/allokaatio/).
 
 ![Tuotot](/images/tuotot/OLVmatala_varat.png)
-
-Kuvio 3. Vuoden 2017 eläkeuudistus paransi myös sijoitustuottoja. Olv<2017 kertoo, mikä tilanne olisi ollut aiemmilla
+Kuvio 1. Vuoden 2017 eläkeuudistus paransi myös sijoitustuottoja. Olv<2017 kertoo, mikä tilanne olisi ollut aiemmilla
 sijoitussäännöillä. Toteutunut kertoo, mikä se on ollut uudistetuilla säännöillä.
 
 Hyvien osaketuottojen ansiosta varoja on kertynyt selvästi enemmän.
@@ -45,12 +44,11 @@ Reippaampi uudistus 2017
 -----
 
 Mitä jos osaketuottosidonnaisuuden aste olisi nostettu 30 prosenttiin 20 prosentin sijasta vuonna 2017? 
-Tällöin TyEL-varat olisivat kehittyneet, kuten kuvassa 4. Tuotto olisi ollut nykyistä selvästi parempi
+Tällöin TyEL-varat olisivat kehittyneet, kuten kuviossa 2. Tuotto olisi ollut nykyistä selvästi parempi
 ja varoja olisi ollut kesällä 2022 noin 9,9 miljardia euroa enemmän.
 
 ![Tuotot](/images/tuotot/OLVkorkea_varat.png)
-
-Kuvio 4. Entä jos osaketuottosidonnaisuutta olisi nostettu 30 prosenttiin vuonna 2017?
+Kuvio 2. Entä jos osaketuottosidonnaisuutta olisi nostettu 30 prosenttiin vuonna 2017?
 
 Olisi näköjään kannattanut uskoa osakkeisiin vahvemmin. Entä, jos olisi oltu hieman radikaalimpia jo vuonna 2007?
 Vaihtoehtoiskustannus uudistuksen tekemättä jättämiselle on 9,9 miljardia euroa.
@@ -59,11 +57,10 @@ Kymmenen prosenttia
 -----
 
 Alkuperäinen osaketuottosidonnainen tuli voimaan 2007.
-Jos heti olisi oltu reippaampia ja nostettu osakepaino suoraan 20 prosenttia, olisi varoja merkittävästi enemmän (Kuvio 5).
+Jos heti olisi oltu reippaampia ja nostettu osakepaino suoraan 20 prosenttia, olisi varoja merkittävästi enemmän (Kuvio 3).
 
 ![Tuotot](/images/tuotot/OLVplus10_varat.png)
-
-Kuvio 5. Varat, jos OLV+10 vuodesta 2007
+Kuvio 3. Varat, jos OLV+10 vuodesta 2007
 
 Vuonna 2008 iski Finanssikriisi.
 
@@ -72,34 +69,30 @@ mutta varat olisivat kasvaneet pudotuksen kiinni 2013 ja vuonna 2022 varoja olis
 Geometrisesti lasketut tuotot olisivat kasvaneet 0,49 prosenttia 5,50 prosenttiin.
 
 ![Tuotot](/images/tuotot/OLVplus10_tuotot.png)
-
-Kuvio 6. Tuottojen heilunta, jos OLV 30 vuodesta 2007
+Kuvio 4. Tuottojen heilunta, jos OLV 30 vuodesta 2007
 
 ![Tuotot](/images/tuotot/OLVplus10_osake.png)
 
-Kuvio 7. Osakepaino OLV+10
+Kuvio 5. Osakepaino OLV+10
 
 Osaketuottosidonnaisuus kolmeenkymppiin
 -----
 
 Jos alkuperäinen OLV-uudistus 2007 olisi ollut reipas ja osakepaino olisi noussut 30 prosenttia, olisi varoja merkittävästi enemmän.
-Kuvio 5 näyttää vaikutukset.
+Kuvio 6 näyttää vaikutukset.
 
 ![Tuotot](/images/tuotot/OLV30_varat.png)
-
-Kuvio 5. Varat, jos OLV 30 vuodesta 2007
+Kuvio 6. Varat, jos OLV 30 vuodesta 2007
 
 Osakepainon kasvattaminen olisi lisännyt tuottojen heiluntaa. Finanssikriisissä 2008 tiputus olisi ollut suurempi,
 mutta varat olisivat kasvaneet pudotuksen kiinni ja vuonna 2022 varoja olisi ollut 15,4 mrd euroa enemmän.
 Geometrisesti lasketut tuotot olisivat kasvaneet 0,59 prosenttia 5,60 prosenttiin.
 
 ![Tuotot](/images/tuotot/OLV30_tuotot.png)
-
-Kuvio 6. Tuottojen heilunta, jos OLV 30 vuodesta 2007
+Kuvio 7. Tuottojen heilunta, jos OLV 30 vuodesta 2007
 
 ![Tuotot](/images/tuotot/OLV30_allo.png)
-
-Kuvio 7. Osakepaino OLV 30
+Kuvio 8. Osakepaino OLV 30
 
 Vaikka tämä uudistus olisi loppujen lopuksi tuonut enemmän varoja, olisi uskoa koeteltu vuosina 2008-2014.
 
