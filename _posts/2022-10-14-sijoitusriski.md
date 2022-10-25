@@ -19,6 +19,7 @@ Pitäisikö osakkeiden osuutta lisätä edelleen?
 Työeläkejärjestelmän horisontti on pitkä. Viimeiset eläkejärjestelmän jo tehdyistä eläkelupauksista toteutuu vasta sadan vuoden päästä.
 Eläkejärjestelmän on turha katsoa liikaa seuraavan neljännesvuoden tuottoja. Tähtäin pitää olla pidemmällä: työeläkkeissä
 kvartaali kestää 25 vuotta. Tämä mahdollistaa nykyistä korkeamman sijoitusriskitason. 
+Osakepainoa olisi mahdollista nostaa ainakin 10 prosenttiyksikköä.
 
 Eläkeuudistus 2017 
 =====
@@ -37,21 +38,48 @@ Hyvien osaketuottojen ansiosta varoja on kertynyt selvästi enemmän.
 Entä jos osakepainoa olisi nostettu enemmän?
 =====
 
+Mitä olisi tapahtunut jos osakepainoa olisi nostettu enemmän vuoden 2017 eläkeuudistuksen yhteydessä? Entä, jos osakepainoa olisi nostettu 
+jo aiemmin, vuonna 2007? Olisiko eläkejärjestelmä selvinnyt Finanssikriisistä? Näihin kysymyksiin etsitään vastausta seuraavassa.
+
 Reippaampi uudistus 2017
 -----
 
 Mitä jos osaketuottosidonnaisuuden aste olisi nostettu 30 prosenttiin 20 prosentin sijasta vuonna 2017? 
-Tällöin TyEL-varat olisivat kehittyneet, kuten kuvassa 3. Tuotto olisi ollut nykyistä 0,39 prosenttia parempi
-ja varoja olisi ollut 2022Q2 9,9 miljardia euroa enemmän.
+Tällöin TyEL-varat olisivat kehittyneet, kuten kuvassa 4. Tuotto olisi ollut nykyistä selvästi parempi
+ja varoja olisi ollut kesällä 2022 noin 9,9 miljardia euroa enemmän.
 
 ![Tuotot](/images/tuotot/OLVkorkea_varat.png)
 
 Kuvio 4. Entä jos osaketuottosidonnaisuutta olisi nostettu 30 prosenttiin vuonna 2017?
 
-Jos uudistuksessa tuottovaateen osakepaino olisi nostettu 30 prosenttiyksikköön, olisi varoja 5,3 miljardia euroa nykyistä enemmän. 
-Tuotto laskettuna koko periodille 2005-2022 oli noussut 0,39 prosenttia 5,4 prosenttiin.
+Olisi näköjään kannattanut uskoa osakkeisiin vahvemmin. Entä, jos olisi oltu hieman radikaalimpia jo vuonna 2007?
+Vaihtoehtoiskustannus uudistuksen tekemättä jättämiselle on 9,9 miljardia euroa.
 
-OLV 30
+Kymmenen prosenttia
+-----
+
+Alkuperäinen osaketuottosidonnainen tuli voimaan 2007.
+Jos heti olisi oltu reippaampia ja nostettu osakepaino suoraan 20 prosenttia, olisi varoja merkittävästi enemmän (Kuvio 5).
+
+![Tuotot](/images/tuotot/OLVplus10_varat.png)
+
+Kuvio 5. Varat, jos OLV+10 vuodesta 2007
+
+Vuonna 2008 iski Finanssikriisi.
+
+Osakepainon kasvattaminen olisi lisännyt tuottojen heiluntaa. Finanssikriisissä 2008 tiputus olisi ollut suurempi, mutta ei yhtä suuri.
+mutta varat olisivat kasvaneet pudotuksen kiinni 2013 ja vuonna 2022 varoja olisi ollut 12,6 mrd euroa enemmän.
+Geometrisesti lasketut tuotot olisivat kasvaneet 0,49 prosenttia 5,50 prosenttiin.
+
+![Tuotot](/images/tuotot/OLVplus10_tuotot.png)
+
+Kuvio 6. Tuottojen heilunta, jos OLV 30 vuodesta 2007
+
+![Tuotot](/images/tuotot/OLVplus10_osake.png)
+
+Kuvio 7. Osakepaino OLV+10
+
+Osaketuottosidonnaisuus kolmeenkymppiin
 -----
 
 Jos alkuperäinen OLV-uudistus 2007 olisi ollut reipas ja osakepaino olisi noussut 30 prosenttia, olisi varoja merkittävästi enemmän.
@@ -75,30 +103,6 @@ Kuvio 7. Osakepaino OLV 30
 
 Vaikka tämä uudistus olisi loppujen lopuksi tuonut enemmän varoja, olisi uskoa koeteltu vuosina 2008-2014.
 
-OLV + 10
------
-
-Jos alkuperäinen OLV-uudistus 2007 olisi ollut reipas ja osakepainoa olisi noustettu 10 prosenttia, olisi varoja merkittävästi enemmän.
-Kuvio 5 näyttää vaikutukset.
-
-![Tuotot](/images/tuotot/OLVplus10_varat.png)
-
-Kuvio 5. Varat, jos OLV+10 vuodesta 2007
-
-Osakepainon kasvattaminen olisi lisännyt tuottojen heiluntaa. Finanssikriisissä 2008 tiputus olisi ollut suurempi, mutta ei yhtä suuri
-kuin OLV30-mallissa yllä. 
-mutta varat olisivat kasvaneet pudotuksen kiinni 2013 ja vuonna 2022 varoja olisi ollut 12,6 mrd euroa enemmän.
-Geometrisesti lasketut tuotot olisivat kasvaneet 0,49 prosenttia 5,50 prosenttiin.
-
-![Tuotot](/images/tuotot/OLVplus10_tuotot.png)
-
-Kuvio 6. Tuottojen heilunta, jos OLV 30 vuodesta 2007
-
-![Tuotot](/images/tuotot/OLVplus10_osake.png)
-
-Kuvio 7. Osakepaino OLV+10
-
-
 Voisiko työeläkkeissä sijoittaa enemmän osakkeisiin?
 =====
 
@@ -111,4 +115,4 @@ laskelmissa. Tällainen osakepainon muutos olisi tarkoittanut, että TyELissä o
 
 Jälkiviisaus on toki aina vähän tympeää. Silti on aiheellista kysyä, olisiko tällä kertaa rohkeutta
 päivittää työeläkkeiden sijoituspolitiikka pitkän horisontin mukaiselle tasolle? Käytännössä se tarkoittaisi
-sijoitusriskitason kasvattamista, mikä onnistuisi helpoimmin osakepainoa tavalla tai toisella nostamalla. 
+sijoitusriskitason kasvattamista, mikä onnistuisi helpoimmin osakepainoa tavalla tai toisellaa nostamalla. 

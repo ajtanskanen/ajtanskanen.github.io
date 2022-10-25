@@ -161,11 +161,7 @@ myös vakavaraisuuspääoman määrään ja vakavaraisuusrajaan. Tulokset lienev
 Lopuksi
 =====
 
-Laskelmien mukaan työeläkelaitosten sijoituspolitiikka on myötäsyklistä Portfolio Insurance -strategian mukaista.
-Tuottovaateen osaketuottosidonnaisuus tuo kuitenkin vastasyklisen elementin sijoittamiseen. Tämä on parantanut 
-sijoitustuottoja nostamatta paljoa vakavaraisuustarvetta.
-
-Työeläkelaitokset ovat sijoittaneet osakkeisiin myötäsyklisesti. Tilannetta on tasapainottanut tuottovaateen
-osaketuottosidonnaisuus, joka on vastasyklinen elementti. Eläkejärjestelmän tuottoja voi hyvin kuvata yksinkertaisella
-portfolio insurance -mallilla yhdistettynä osaketuottosidonnaisuuden vaatimaan osakepainon valintaan.
+Laskelmien mukaan työeläkelaitokset ovat sijoittaneet myötäsyklisesti. Tilannetta on tasapainottanut tuottovaateen
+osaketuottosidonnaisuus, joka on vastasyklinen elementti. Tämä on myös parantanut sijoitustuottoja. 
+[Seuraavassa blogissa](https:/posts/2022/10/osakkeet/) mietitään, kannattaisiko osakepainon nostaminen.
 
