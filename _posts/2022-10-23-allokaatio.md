@@ -14,7 +14,7 @@ tags:
 Työeläkejärjestelmä sijoittaa varat tuottavasti ja turvaavasti. Paino on perinteisesti ollut turvaavuuden puolella, mutta viimeisten 5 vuoden aikana
 osakeriskin osuutta on kasvatettu ja tuotot ovat olleet hyviä. Mutta minkälaista työeläkelaitosten sijoittaminen on ollut? 
 
-![Reaalituotot](/images/pts/tuotot_toteuma.png)
+![Reaalituotot](/images/pts/tuotot_toteuma.png)<br>
 Kuvio 1. Reaaliset vuosituotot TyELissä vuosina 2006 - 2021. Vuoden 2022 tuotot ovat alkuvuoden tuotot.
 
 Viime vuosina sijoitustuotot ovat olleet hyviä (Kuvio 2). 
@@ -34,7 +34,7 @@ Vuoden 2017 eläkeuudistuksessa sovittiin sijoitusriskin lisäämisestä, kun os
 tuottovaateesta nostettiin 10 prosentista 20 prosenttiin. Osin sen ansiosta
 työeläkelaitokset ovat saaneet parempia tuottoja. 
 
-![Tuotot](/images/tuotot/allo.png)
+![Tuotot](/images/tuotot/allo.png)<br>
 Kuvio 2. Keskimääräinen sijoitusjakauma työeläkejärjestelmä TyELissä
 
 Osakesijoitusten osuus työeläkelaitosten salkuissa on kasvanut ajan mukana ja samaan aikaan
@@ -61,12 +61,12 @@ Strategiassa osakkeita ei osteta tai myydä markkinaliikkeiden mukaan. Se on sii
 sijoitusstrategia. Lähdetään tästä sijoitusstrategiasta liikkeelle: valitaan allokaatio vuoden 2004 lopussa, ja seurataan
 sen liikkeitä. Huomioidaan kuitenkin muutokset osaketuottosidonnaisen vastuuvelan osuudessa allokaatiossa. 
 
-![](/images/tuotot/BH_tuotot.png)
+![](/images/tuotot/BH_tuotot.png)<br>
 Kuvio 3. Todellinen keskimääräinen TyEL-yhtiöiden sijoitusjakauma verrattuna regressiolla löydettyyn jakaumaan vuosina 2005-2022.
 
 Keskimääräinen tuottojen absoluuttinen virhe on 0,74 prosenttiyksikköä. 
 
-![](/images/tuotot/BH_osake.png)
+![](/images/tuotot/BH_osake.png)<br>
 Kuvio 4. Osakepaino Buy-and-Hold-strategiassa vs toteutunut osakepaino.
 
 Vertaamalla raportoitua osakepaino mallin ennustamaan näkee ainakin, onko osakepainon suuruusluokka sama.
@@ -90,10 +90,10 @@ osakesijoituksia ja vastaava määrä vähennetään bondeista.
 Kuvio 5 näyttää, että havaitut tuotot vastaavat mallin ennustettu selvästi paremmin kuin Buy-and-Hold -strategiassa.
 Keskivirhe vakioallokaatio-mallissa on 0,49 %-yksikköä sijoitustuotoissa. 
 
-![](/images/tuotot/vakio_tuotot.png)
+![](/images/tuotot/vakio_tuotot.png)<br>
 Kuvio 5. TyElin kokonaistuotto havainto vs vakioallokaation avulla saatuun tuottoon.
 
-![](/images/tuotot/vakio_osake.png)
+![](/images/tuotot/vakio_osake.png)<br>
 Kuvio 6. Osakepaino
 
 Kuitenkin Kuvio 6 näyttää, että osakepaino ei liiku vakioallokaatiossa realistisesti. Tässä on huomioitu
@@ -101,7 +101,7 @@ osaketuottosidonnaisen tuottovaateen muutos sijoitusjakaumassa. Jos se jätetä�
 Kuvio 6. TyElin kokonaistuotto verrattuna kiinteällä allokaatiolla saatuun tuottoon.
 
 Vakioallokaatio myös aliarvioi varojen kehitystä (Kuvio 8).
-![](/images/tuotot/vakio_varat.png)
+![](/images/tuotot/vakio_varat.png)<br>
 Kuvio 7. TyElin kokonaisvarat vakioallo vs havainto.
 
 Portfolio insurance
@@ -115,7 +115,7 @@ kun osakkeet ovat tuottaneet hyvin. Osakkeita taas myydään, kun niiden arvo la
 Portfolio insurance suojaa konkurssia vastaan, jos transaktiokustannukset ovat pienet ja markkinoilla on mahdollista myydä osakkeita
 myös jyrkässä laskussa.
 
-![](/images/tuotot/PI_tuotot.png)
+![](/images/tuotot/PI_tuotot.png)<br>
 Kuvio 8. Portfolio insurance -mallin tuotto verrattuna havaintoihin.
 
 Keskivirhe PI-mallissa on 0,27 %-yksikköä sijoitustuotoissa. Tätä voi pitää pienenä ottaen huomioon,
@@ -124,7 +124,7 @@ Strategia on selvästi tarkin tarkastelluista kolmesta strategiasta.
 
 PI-mallin tuottama ennuste varoille vastaa hyvin toteumaa (Kuvio 7).
 
-![](/images/tuotot/PI_varat.png)
+![](/images/tuotot/PI_varat.png)<br>
 Kuvio 9. Varat PI vs toteutunut.
 
 Osakepainossa on huomioitu tuottovaateen osaketuottosidonnaisuus (kuvio 8). PI-osuus on vakavaraisuuspääoman suhde vastuuvelkaan
@@ -134,7 +134,7 @@ PI replikoi tuotot painottaen _edellisen_ vuoden vakavaraisuutta 88 prosentti ja
 Sovitteen mukaan siis työeläkeyhtiöt valitsevat allokaatio vuotta aiemmin ja ajavat sillä joko
 ylä- tai alamäkeen. Tämä näkyy verrattaessa PI-mallin osakepainoa toteutuneeseen (Kuvio 8).
 
-![](/images/tuotot/PI_osakeallo.png)
+![](/images/tuotot/PI_osakeallo.png)<br>
 Kuvio 10. Osakepaino PI vs toteutunut.
 
 Toteutunut osakepaino ilmoitetaan raportointihetkeltä. Vuosituotto taas riippuu koko vuoden
