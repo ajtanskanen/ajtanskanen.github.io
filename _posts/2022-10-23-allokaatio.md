@@ -1,10 +1,10 @@
 ---
-title: 'Miten työeläkeyhtiöt ovat sijoittaneet?'
-date: 2022-10-23
+title: 'Sijoittavatko työeläkeyhtiöt myötäsyklisesti, vastasyklisesti vai neutraalisti?'
+date: 2022-10-25
 permalink: /posts/2022/10/allokaatio/
 image: /images/pts/2men.png
 largeimage: /images/pts/2men.png
-summary: 'Sijoittavatko työeläkeyhtiöt myötäsyklisesti, vastasyklisesti vai neutraalisti?'
+summary: 'Sijoittavatko työeläkeyhtiöt myötäsyklisesti, vastasyklisesti vai neutraalisti? Blogissa tätä analysoidaan.'
 tags:
   - työeläke
   - sijoittaminen
@@ -12,7 +12,7 @@ tags:
 ---
 
 Työeläkejärjestelmä sijoittaa varat tuottavasti ja turvaavasti. Paino on perinteisesti ollut turvaavuuden puolella, mutta viimeisten 5 vuoden aikana
-osakeriskin osuutta on kasvatettu ja tuotot ovat olleet hyviä. Mutta minkälaista sijoittaminen on ollut?
+osakeriskin osuutta on kasvatettu ja tuotot ovat olleet hyviä. Mutta minkälaista työeläkelaitosten sijoittaminen on ollut? 
 
 ![Reaalituotot](/images/pts/tuotot_toteuma.png)
 Kuvio 1. Reaaliset vuosituotot TyELissä vuosina 2006 - 2021. Vuoden 2022 tuotot ovat alkuvuoden tuotot.
@@ -20,89 +20,94 @@ Kuvio 1. Reaaliset vuosituotot TyELissä vuosina 2006 - 2021. Vuoden 2022 tuotot
 Viime vuosina sijoitustuotot ovat olleet hyviä (Kuvio 2). 
 Korkean inflaation vuoksi vuoden 2022 heinäkuun alkuun mennessä tulleet tuotot ovat reaalisesti erittäin heikot.
 
+Sijoitusjakauma
+======
+
 Sijoitustuotot riippuvat sijoitusjakaumasta: mitä riskipitoisempi sijoitusjakauma, sitä parempia ovat tuotot.
+Sijoitusjakauman valinta on tärkein tuottoja määrittävä tehtävä, joka sijoittajalla on.
 Sijoitusjakauman riskipitoisuutta taas säädetään markkinanäkemyksen ja riskinkantokyvyn perusteella. Laitoksen vakavaraisuus
 taas määrittää riskinkantokykyä. 
 
-Vuoden 2017 eläkeuudistuksessa sovittiin sijoitusriskin lisäämisestä, kun osaketuottosidonnaista vastuuta 
-OLVia nostettiin 10 prosentista 20 prosenttiin. Osin sen ansiosta
+Riskinkantokyvyn lisäksi toinen tekijä työeläkejärjestelmässä on yhteisellä vastuulla oleva osuus sijoitusriskistä.
+Tämä on niin kutsuttu osaketuottosidonnainen tuottovaade, jota kutsutaan myös nimellä OLV.
+Vuoden 2017 eläkeuudistuksessa sovittiin sijoitusriskin lisäämisestä, kun osaketuottosidonnaisuuden osuutta
+tuottovaateesta nostettiin 10 prosentista 20 prosenttiin. Osin sen ansiosta
 työeläkelaitokset ovat saaneet parempia tuottoja. 
 
 ![Tuotot](/images/tuotot/allo.png)
-Kuvio 2. Reaaliset vuosituotot TyELissä vuosina 2006 - 2021. Vuoden 2022 tuotot ovat alkuvuoden tuotot.
+Kuvio 2. Allokaatio
 
-Kuviosta 2 näkyy, miten osakesijoitusten osuus työeläkelaitosten salkuissa on kasvanut. Samaan aikaan
-korkosijoitusten osuus on laskenut. Kiinteistöjen osuus on pysynyt ennallaan, mutta muiden sijoitusten 
-osuus on kasvanut. Muut sijoitukset pitävät sisällään mm. Hedge fund-sijoitukset. Tiedetään, että HF-sijoitukset
-ovat usein korreloituneet voimakkaasti osakkeiden kanssa. 
+Osakesijoitusten osuus työeläkelaitosten salkuissa on kasvanut ajan mukana ja samaan aikaan
+korkosijoitusten osuus on laskenut (Kuvio 2). Kiinteistöjen osuus on pysynyt ennallaan, mutta muiden sijoitusten 
+osuus on kasvanut. Muut sijoitukset pitävät sisällään mm. Hedge fund-sijoitukset. 
 
-Sijoittaminen
+Sijoittavatko työeläkelaitokset myötäsyklisesti?
 =====
 
 Tarkastellaan yksinkertaista sijoitusmalli, jossa sijoituslajeina on joukkovelkakirjat, osakkeet, kiinteistöt ja muut. 
-Muut sisältää mm. Hedge Fund-rahastot. Näiden sijoituslajien tuotot saa (Telan tuottotietokannasta)[https://].
+Näiden sijoituslajien toteutuneet tuotot vuosina 2004 - 2022 on haettu [Telan tuottotietokannasta](https://www.tela.fi/elakevarojen-sijoittaminen/tilastotietokanta/).
 
+Kokeillaan kolmea erilaista sijoitusstrategiaa selittämään TyEL-laitosten sijoitustuottoja: Buy-and-Hold, vakioallokaatio ja Portfolio Insurance.
+Kolme strategiaa eroavat toisistaan myötäsyklisyydessä: Buy-and-Hold on suhdanteiden osalta neutraali,
+vakioallokaatio vastasyklinen ja Portfolio Insurance myötäsyklinen. Tarkastelemalla sitä, miten hyvin eri strategiat
+selittävät havaittuja tuottoja, voi ehkä päätellä jotain siitä, miten työeläkelaitokset sijoittavat.
 
+Buy-and-Hold
+-----
 
-Sijoitusstrategia
-=====
+Buy-and-Hold on sijoitusstrategia, jossa annetaan valitaan salkun koostumus alkuhetkellä ja unohdetaan se sitten. 
+Toisin sanoen, annetaan salkun liikkua markkinoiden mukana.
+Strategiassa osakkeita ei osteta tai myydä markkinaliikkeiden mukaan. Se on siis suhdanteiden osalta neutraali 
+sijoitusstrategia. Lähdetään tästä sijoitusstrategiasta liikkeelle: valitaan allokaatio vuoden 2004 lopussa, ja seurataan
+sen liikkeitä. Huomioidaan kuitenkin muutokset osaketuottosidonnaisen vastuuvelan osuudessa allokaatiossa. 
 
-Paljonko ja miten työeläkelaitokset sitten sijoittavat osakkeisiin tai osakeriskiin? Katsotaan ensin, miltä vuosituottojen
-korrelaatiot näyttävät
-
-![Korrelaatiot](/images/tuotot/korrelaatio.png)
-
-Taulukko 1. Korrelaatiot TyEL-vuosituottojen välillä
-
-Korrelaatiot eri tuottojen välillä ovat korkeita (Taulukko 1). Erityisesti Muut-Osake -korrelaatio on korkea, noin 75 prosenttia.
-Tämä tarkoittaa, että Muut -luokan kautta otetaan merkittävässä määrin osakeriskiä. Vielä yllättävämpi on aineiston korko- ja
-osaketuottojen välinen korrelaatio 58 prosenttia.  
-
-Oletaanpa sitten argumentin vuoksi, että työeläkelaitokset sijoittaisivat samalla sijoitusjakaumalla
-koko välin 2006-2022. Miten hyvin tällainen approksimaatio toistaisi havaitut tuotot?
-
-![](/images/tuotot/alloennuste.png)
+![](/images/tuotot/BH_tuotot.png)
 
 Kuvio 3. Todellinen keskimääräinen TyEL-yhtiöiden sijoitusjakauma verrattuna regressiolla löydettyyn jakaumaan vuosina 2005-2022.
+
+Keskimääräinen tuottojen absoluuttinen virhe on 0,74 prosenttiyksikköä. 
+
+![](/images/tuotot/BH_osake.png)
+
+Kuvio 4. Osakepaino Buy-and-Hold-strategiassa vs toteutunut osakepaino.
+
+Vertaamalla raportoitua osakepaino mallin ennustamaan näkee ainakin, onko osakepainon suuruusluokka sama.
+Ongelma vertailussa on se, että osakepaino raportoidaan tarkasteluperiodin lopusta, kun taas tuotot riippuvat 
+sijoitusjakaumasta koko periodin aikana. Tästä huolimatta Kuvio 4 kertoo, että Buy-and-Hold -strategian ennustama
+allokaatio ei liiku juurikaan samalla tavalla kuin raportoidut osakepainot.
 
 Vakioallokaatio
 -----
 
-Vakioallokaatio on vastasyklinen sijoitusstrategia, jossa pidetään sama sijoitusten jakauma
+Vakioallokaatio on sijoitusstrategia, jossa pidetään sama sijoitusten jakauma
 koko tarkasteluajan. Siinä osakkeita myydään, kun osakkeiden arvo nousee, ja ostetaan, kun osakkeiden
-arvo laskee. Simulaatioissa vakioallokaatio on vakuutusyhtiölle hyvä tapa joutua konkurssiin nopealla aikataululla,
-mutta se antaa myös usein hyviä tuottoja.
+arvo laskee. Se on siis vastasyklinen sijoitusstragia.
+Vakioallokaatio tuottaa hyviä tuottoja, mutta ajaa vakuutusyhtiön tehokkaasti konkurssiin, jos
+riskiä pitää kantaa vakavaraisuuspääomalla.
 
-![](/images/tuotot/vakioallo.png)
+Sijoitustuottoihin sovitetussa vakioallokaatio-mallin salkussa on 
+bondeja on 50,6 prosenttia, osakkeita 27,7 prosenttia, kiinteistöjä 15,4 prosenttia 
+ja muita sijoituskohteita 6,4 prosenttia. Tämän lisäksi tulee OLV-osuutta vastaava määrä
+osakesijoituksia ja vastaava määrä vähennetään bondeista. 
+Kuvio 6 näyttää, että havaitut tuotot vastaavat mallin ennustettu selvästi paremmin kuin Buy-and-Hold -strategiassa.
+Keskivirhe vakioallokaatio-mallissa on 0,49 %-yksikköä sijoitustuotoissa. 
 
-Kuvio 4. TyElin kokonaistuotto verrattuna kiinteällä allokaatiolla saatuun tuottoon.
+![](/images/tuotot/vakio_tuotot.png)
 
-![](/images/tuotot/vakioallo_ero.png)
+Kuvio 6. TyElin kokonaistuotto havainto vs vakioallokaation avulla saatuun tuottoon.
 
-Kuvio 5. TyElin kokonaistuotto verrattuna kiinteällä allokaatiolla saatuun tuottoon.
+![](/images/tuotot/vakio_osake.png)
 
-Vakioallokaatio on $[0.50591377 0.27680256 0.15373537 0.06354831]$
+Kuitenkin Kuvio 6 näyttää, että osakepaino ei liiku vakioallokaatiossa realistisesti. Tässä on huomioitu
+osaketuottosidonnaisen tuottovaateen muutos sijoitusjakaumassa. Jos se jätetään pois, on sijoitusjakauma vakio.
 
-Vakioallokaatiolla päästään hyvin lähelle todellista tyel-yhtiöiden sijoitustuottoa.
+Kuvio 7. TyElin kokonaistuotto verrattuna kiinteällä allokaatiolla saatuun tuottoon.
 
-Osakepaino on regressiossa 56 prosenttia vuodesta 2015 alkaen. [ETK:n arvio PTS-2022:ssa]()
-on 59,7 prosenttia osakkeet ja muut sijoitukset.
+Vakioallokaatio myös aliarvioi varojen kehitystä (Kuvio 8).
 
-Miten hyvin vakioallokaatio toistaa tuotot ajan yli? Lähdetään liikkeelle 100 yksikön sijoituksesta 2005 ja
-annetaan varojen kehittyä vakioallokaatioiden mukaan.
+![](/images/tuotot/vakio_varat.png)
 
-![](/images/tuotot/kumulaatio.png)
-
-Kuvio 6. 
-
-![](/images/tuotot/vakioallo_osake.png)
-
-Kuvio 6. 
-
-
-Keskivirhe PI-mallissa on 0,49 %-yksikköä sijoitustuotoissa. Tätä voi pitää kohtalaisena ottaen huomioon,
-että laskelmat on tehty TyEL-järjestelmän keskiarvoista, ei laitoskohtaisista tunnusluvuista.
-
+Kuvio 8. TyElin kokonaisvarat vakioallo vs havainto.
 
 Portfolio insurance
 -----
@@ -112,36 +117,55 @@ Tässä tarkastellaan mallia, jossa osakepaino on vakio kertaa vakavaraisuuspä�
 PI on myötäsyklinen sijoitusstrategia, jossa osakkeita ostetaan, kun vakavaraisuus on korkealla, mikä tapahtuu
 kun osakkeet ovat tuottaneet hyvin. Osakkeita taas myydään, kun niiden arvo laskee.
 
-PI suojaa konkurssia vastaan, jos transaktiokustannukset ovat pienet ja toiminta markkinoilla on välitöntä.
+Portfolio insurance suojaa konkurssia vastaan, jos transaktiokustannukset ovat pienet ja markkinoilla on mahdollista myydä osakkeita
+myös jyrkässä laskussa.
 
-Keskivirhe PI-mallissa on 0,24 %-yksikköä sijoitustuotoissa. Tätä voi pitää pienenä ottaen huomioon,
+![](/images/tuotot/PI_tuotot.png)
+
+Kuvio 6. Portfolio insurance -mallin tuotto verrattuna havaintoihin.
+
+Keskivirhe PI-mallissa on 0,27 %-yksikköä sijoitustuotoissa. Tätä voi pitää pienenä ottaen huomioon,
 että laskelmat on tehty TyEL-järjestelmän keskiarvoista, ei laitoskohtaisista tunnusluvuista.
+Strategia on selvästi tarkin tarkastelluista kolmesta strategiasta.
 
-![](/images/tuotot/PI.png)
+PI-mallin tuottama ennuste varoille vastaa hyvin toteumaa (Kuvio 7).
 
-Kuvio 6. 
+![](/images/tuotot/PI_varat.png)
 
-![](/images/tuotot/PI_virhe.png)
+Kuvio 7. Varat PI vs toteutunut.
 
-Kuvio 6. 
+Osakepainossa on huomioitu tuottovaateen osaketuottosidonnaisuus (kuvio 8). PI-osuus on vakavaraisuuspääoman suhde vastuuvelkaan
+kerrottuna vakiolla 0,93. Tällöin 1 prosenttiyksikkö vakavaisuutta lisää kasvattaa osakepainoa 0,93 prosenttiyksikköä.
 
+PI replikoi tuotot painottaen _edellisen_ vuoden vakavaraisuutta 88 prosentti ja kuluvan vuoden 12 prosentti painolla.
+Sovitteen mukaan siis työeläkeyhtiöt valitsevat allokaatio vuotta aiemmin ja ajavat sillä joko
+ylä- tai alamäkeen. Tämä näkyy verrattaessa PI-mallin osakepainoa toteutuneeseen (Kuvio 8).
 
-Buy-and-Hold
------
+![](/images/tuotot/PI_osakeallo.png)
 
-Buy-and-Hold (BH) on sijoitusstrategia, jossa annetaan salkun liikkua markkinoiden mukana.
-Siinä ei osakkeita osteta tai myydä markkinaliikkeiden mukaan. Se on siis suhdanteiden osalta neutraali 
-sijoitusstrategia.
+Kuvio 8. Osakepaino PI vs toteutunut.
 
+Toteutunut osakepaino ilmoitetaan raportointihetkeltä. Vuosituotto taas riippuu koko vuoden
+sijoituksista, ja vuoden aikana myös sijoitusjakaumat muuttuvat. Kuvion 8 mukaan tuoto selittää parhaiten
+osakepaino, joka heijastaa enemmän edellisen vuoden vakavaraisuutta kuin kuluvan. Tämä tarkoittaa
+käytännössä sitä, että finanssikriisiin ajettiin korkealla osakepainolla, jolloin sijoitustappio muodostui
+suuremmaksi kuin osakepainosta olisi voinut päätellä. Toisaalta kriisin jälkeiseen nousuun mentiin alemmalla
+osakepainolla kuin olisi ollut tarkoituksenmukaista. Toisin sanoen on toimittu myötäsyklisesti.
 
-Myötäsyklisyys
+Rajoitteet
 =====
 
-Yllä olevat laskelmat antavat ymmärtää, että sijoitustoiminta on ollut myötäsyklistä. Olisi yllättävää, jos
-sijoittaminen olisi ollut vastasyklistä.
-
+Tässä tarkasteltu malli on yksinkertaistus. Se mm. ei huomioi sitä, että osaketuottosidonnaisuuden aste vaikuttaa
+myös vakavaraisuuspääoman määrään ja vakavaraisuusrajaan. Tulokset lienevät kuitenkin oikeansuuntaisia.
 
 Lopuksi
 =====
 
-Osake
+Laskelmien mukaan työeläkelaitosten sijoituspolitiikka on myötäsyklistä Portfolio Insurance -strategian mukaista.
+Tuottovaateen osaketuottosidonnaisuus tuo kuitenkin vastasyklisen elementin sijoittamiseen. Tämä on parantanut 
+sijoitustuottoja nostamatta paljoa vakavaraisuustarvetta.
+
+Työeläkelaitokset ovat sijoittaneet osakkeisiin myötäsyklisesti. Tilannetta on tasapainottanut tuottovaateen
+osaketuottosidonnaisuus, joka on vastasyklinen elementti. Eläkejärjestelmän tuottoja voi hyvin kuvata yksinkertaisella
+portfolio insurance -mallilla yhdistettynä osaketuottosidonnaisuuden vaatimaan osakepainon valintaan.
+
