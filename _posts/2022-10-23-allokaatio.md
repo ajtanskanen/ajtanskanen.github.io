@@ -2,8 +2,8 @@
 title: 'Sijoittavatko työeläkeyhtiöt myötäsyklisesti, vastasyklisesti vai neutraalisti?'
 date: 2022-10-25
 permalink: /posts/2022/10/allokaatio/
-image: /images/pts/2men.png
-largeimage: /images/pts/2men.png
+image: /images/pts/tuotot_toteuma.png
+largeimage: /images/pts/tuotot_toteuma.png
 summary: 'Sijoittavatko työeläkeyhtiöt myötäsyklisesti, vastasyklisesti vai neutraalisti? Blogissa tätä analysoidaan.'
 tags:
   - työeläke
@@ -113,14 +113,18 @@ PI on myötäsyklinen sijoitusstrategia, jossa osakkeita ostetaan, kun vakavarai
 kun osakkeet ovat tuottaneet hyvin. Osakkeita taas myydään, kun niiden arvo laskee.
 
 Portfolio insurance suojaa konkurssia vastaan, jos transaktiokustannukset ovat pienet ja markkinoilla on mahdollista myydä osakkeita
-myös jyrkässä laskussa.
+myös jyrkässä laskussa. Portfolio insurance -strategiassa osakepaino on $\alpha V+\beta O$, missä $\alpha, \beta$ on vakioita, $V$ vakavakaisuus,
+ja $O$ tuottovaatimuksen osaketuottosidonnaisuuden aste. 
 
 ![](/images/tuotot/PI_tuotot.png)<br>
-Kuvio 8. Portfolio insurance -mallin tuotto verrattuna havaintoihin.
+Kuvio 8. Portfolio insurance -strategiassan tuotto verrattuna havaintoihin.
 
-Keskivirhe PI-mallissa on 0,23 %-yksikköä sijoitustuotoissa. Tätä voi pitää pienenä ottaen huomioon,
+Keskivirhe tuotoissa on puhtaassa Portfolio insurance-strategiassa 0,23 %-yksikköä. Tätä voi pitää pienenä ottaen huomioon,
 että laskelmat on tehty TyEL-järjestelmän keskiarvoista, ei laitoskohtaisista tunnusluvuista.
 Strategia on selvästi tarkin tarkastelluista kolmesta strategiasta.
+
+Strategiaa voi kuitenkin hieman helposti tarkentaa. Sallitaan vakavaraisuuden mukaan siirtymät kiinteistöjen ja osakkeiden välillä 
+sekä toisaalta bondien ja muiden sijoitusten. Tällöin keskivirhe tuotoissa putoaa 0,15 %-yksikköön.
 
 PI-mallin tuottama ennuste varoille vastaa hyvin toteumaa (Kuvio 7).
 
@@ -133,8 +137,14 @@ Tuottovaateen osaketuottosidonnaisuus ei mallissa kasvata täysin sijoitusjakaum
 kasvattaa osakepainoa 0,84 prosenttiyksikköä.
 
 PI replikoi tuotot painottaen _edellisen_ vuoden vakavaraisuutta 88 prosentti ja kuluvan vuoden 12 prosentti painolla.
+Näin asian oikeastaan pitäisi toimiakin: jos portfolio insurancea haluttaisiin käyttää allokaation valintaan, pitäisi edellisen
+havainnon paino olla 1. 
+
+Myötäsyklisyys
+====
+
 Sovitteen mukaan siis työeläkeyhtiöt valitsevat allokaatio vuotta aiemmin ja ajavat sillä joko
-ylä- tai alamäkeen. Tämä näkyy verrattaessa PI-mallin osakepainoa toteutuneeseen (Kuvio 8).
+ylä- tai alamäkeen. Tämä näkyy verrattaessa Portfolio insurance-strategian osakepainoa toteutuneeseen (Kuvio 8).
 
 ![](/images/tuotot/PI_osakeallo.png)<br>
 Kuvio 10. Osakepaino PI vs toteutunut.
@@ -149,7 +159,7 @@ osakepainolla kuin olisi ollut tarkoituksenmukaista. Toisin sanoen on toimittu m
 Rajoitteet
 =====
 
-Tässä tarkasteltu malli on yksinkertaistus. Se mm. ei huomioi sitä, että osaketuottosidonnaisuuden aste vaikuttaa
+Tässä tarkastellut sijoitusstrategiat ovat yksinkertaistuksia. Laskellmissa mm. ei huomioida sitä, että osaketuottosidonnaisuuden aste vaikuttaa
 myös vakavaraisuuspääoman määrään ja vakavaraisuusrajaan. Tulokset lienevät kuitenkin oikeansuuntaisia.
 
 Lopuksi

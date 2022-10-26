@@ -13,7 +13,7 @@ tags:
 
 Osakkeet ovat olleet työeläkeyhtiöille loistava sijoituskohde viime vuosina, vaikka kuluva vuosi onkin hieman synkempi.
 Vuoden 2017 uudistuksessa osakesijoitusten osuutta lisättiin ja se on kannattanut hyvin. 
-Varoja on kertynyt arviolta 6,4 miljardia euroa enemmän uudistuksen ansiosta. Mutta jäikö matka kesken?
+Varoja on kertynyt laskutavasta riippuen 5,0-6,4 miljardia euroa enemmän uudistuksen ansiosta. Mutta jäikö matka kesken?
 Pitäisikö osakkeiden osuutta lisätä edelleen? Suora vastaus on kyllä. Perustelut seuraavassa.
 
 Työeläkejärjestelmän horisontti on pitkä. Viimeiset eläkejärjestelmän jo nyt karttuneista eläkeoikeuksista menevät vasta sadan vuoden päästä.
@@ -55,7 +55,7 @@ Kuvio 2. Entä jos osaketuottosidonnaisuutta olisi nostettu 30 prosenttiin vuonn
 Olisi näköjään kannattanut uskoa osakkeisiin vahvemmin. Se olisi kannattanut hyvin jo melko lyhyelläkin horisontilla.
 Entä, jos olisi oltu hieman radikaalimpia jo vuonna 2007?
 
-Kymmenen prosenttia
+Kymmenen prosenttia lisää pidemmältä ajalta
 -----
 
 Alunperin tuottovaatimuksen osaketuottosidonnaisuus tuli voimaan 2007. Silloin tuottovaatimukseen lisättiin 10 prosenttia
@@ -77,7 +77,7 @@ Kuvio 4. Tuotot OLV+10
 ![Tuotot](/images/tuotot/OLVplus10_osake.png)<br>
 Kuvio 5. Osakepaino OLV+10
 
-Osaketuottosidonnaisuus kolmeenkymppiin
+Osaketuottosidonnaisuus kolmeenkymppiin vuodesta 2007
 -----
 
 Entä jos olisi tuottovaateen osakepaino olisi nostettu 30 prosenttiin vuonna 2007? Kuvio 6 näyttää, miten varat
@@ -101,7 +101,7 @@ Kuvio 8. Osakepaino OLV 30
 Voisiko työeläkkeissä sijoittaa enemmän osakkeisiin?
 =====
 
-VUosien 2005-2022 välillä on ollut monta kriisiä: Finanssikriisi, Eurokriisi, Koronakriisi ja Ukrainan sota.
+Vuosien 2005-2022 välillä on ollut monta kriisiä: Finanssikriisi, Eurokriisi, Koronakriisi ja Ukrainan sota.
 Näistä huolimatta korkeampi osakepaino olisi tuottanut merkittävästi paremmin kuin toteuma. Tämä kertoo, että osakepainoa nostamalla
 lienee edelleen mahdollista parantaa sijoitustuottoja, ainakin jos tulevaisuus muistuttaa ollenkaan viimeisiä 17 vuotta.
 Kun Ukrainen sodasta joskus taas päästään eroon, osakemarkkina lähtenee taas ylöspäin. 
