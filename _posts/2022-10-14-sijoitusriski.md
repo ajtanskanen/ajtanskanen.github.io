@@ -13,7 +13,7 @@ tags:
 
 Osakkeet ovat olleet työeläkeyhtiöille loistava sijoituskohde viime vuosina, vaikka kuluva vuosi onkin hieman synkempi.
 Vuoden 2017 uudistuksessa osakesijoitusten osuutta lisättiin ja se on kannattanut hyvin. 
-Varoja on kertynyt laskutavasta riippuen 5,0-6,4 miljardia euroa enemmän uudistuksen ansiosta. Mutta jäikö matka kesken?
+Varoja on kertynyt laskutavasta riippuen 5,0-6,2 miljardia euroa enemmän uudistuksen ansiosta. Mutta jäikö matka kesken?
 Pitäisikö osakkeiden osuutta lisätä edelleen? Suora vastaus on kyllä. Perustelut seuraavassa.
 
 Työeläkejärjestelmän horisontti on pitkä. Viimeiset eläkejärjestelmän jo nyt karttuneista eläkeoikeuksista menevät vasta sadan vuoden päästä.
@@ -25,7 +25,7 @@ Eläkeuudistus 2017
 =====
 
 Vuoden 2017 uudistuksessa osakepainoa nostettiin 10 prosenttiyksikköä. Karkeasti laskien sen vaikutus on toistaiseksi
-ollut 6,3 miljardia euroa enemmän sijoitusvaroja TyELissä (tarkkaan ottaen vuoden 2022 heinäkuun loppuun mennessä; Kuvio 1). 
+ollut 6,2 miljardia euroa enemmän sijoitusvaroja TyELissä (2022 heinäkuun loppuun mennessä; Kuvio 1). 
 Yhteensä TyEL-varoja on 150 miljardia euroa 
 
 ![Tuotot](/images/tuotot/OLVmatala_varat.png)<br>
@@ -68,11 +68,15 @@ kymmenen prosenttiyksikköä korkeampi kuin se on ollut.
 Kuvio 3. Varat OLV+10 -mallissa
 
 Osakepainon kasvattaminen olisi lisännyt tuottojen heiluntaa. Finanssikriisissä 2008 kokonaistuoton pudotus olisi ollut suurempi kuin tapahtui.
-Varat olisivat kuitenkin kriisin jälkeen kasvaneet pudotuksen kiinni 2013 ja vuonna 2022 varoja olisi ollut 8,7 mrd euroa enemmän kuin nyt on.
+Varat olisivat kuitenkin kriisin jälkeen kasvaneet pudotuksen kiinni 2013 ja vuonna 2022 varoja olisi ollut 8,6 mrd euroa enemmän kuin nyt on.
 Geometrisesti lasketut tuotot olisivat kasvaneet 0,34 prosenttia 5,42 prosenttiin nimellisesti.
 
 ![Tuotot](/images/tuotot/OLVplus10_tuotot.png)<br>
 Kuvio 4. Tuotot OLV+10
+
+Tarkastellulla periodilla on ollut useita kriisejä, jotka ovat heijastuneet myös osaketuottoihin. Tämän pitäisi myös näkyä
+kokonaistuottojen heikkoutena, mutta jokaisesta kriisistä osaketuotot ovat toipuneet vahvasti. Tällä periodilla osakkeisiin olisi
+kannattanut sijoittaa tehtyä enemmän.
 
 ![Tuotot](/images/tuotot/OLVplus10_osake.png)<br>
 Kuvio 5. Osakepaino OLV+10
@@ -87,13 +91,14 @@ olisivat tällöin kehittyneet.
 Kuvio 6. Varat OLV30 -mallissa
 
 Osakepainon kasvattaminen olisi lisännyt tuottojen heiluntaa. Finanssikriisissä 2008 tiputus olisi ollut suurempi kuin OLV+10 -mallissa suuremmasta
-osakepainosta johtuen. Varat olisivat kasvaneet pudotuksen kiinni vuoteen 2014 mennessä ja vuonna 2022 varoja olisi ollut 12,9 mrd euroa enemmän.
+osakepainosta johtuen. Varat olisivat kasvaneet pudotuksen kiinni vuoteen 2014 mennessä ja vuonna 2022 varoja olisi ollut 10,9 mrd euroa enemmän.
 Geometrisesti lasketut tuotot olisivat kasvaneet 0,50 prosenttia 5,51 prosenttiin.
 
 ![Tuotot](/images/tuotot/OLV30_tuotot.png)<br>
 Kuvio 7. Tuotot OLV30 -mallissa
 
-Vaikka tämä uudistus olisi loppujen lopuksi tuonut enemmän varoja, olisi uskoa koeteltu vuosina 2008-2014.
+Vaikka tämä uudistus olisi loppujen lopuksi tuonut enemmän varoja, olisi uskoa koeteltu vuosina 2008-2014. Jälleen tuotot ovat korkeammalla 
+osakepainolla olleet paremmat kriiseistä huolimatta.
 
 ![Tuotot](/images/tuotot/OLV30_allo.png)<br>
 Kuvio 8. Osakepaino OLV 30
@@ -106,9 +111,25 @@ Näistä huolimatta korkeampi osakepaino olisi tuottanut merkittävästi paremmi
 lienee edelleen mahdollista parantaa sijoitustuottoja, ainakin jos tulevaisuus muistuttaa ollenkaan viimeisiä 17 vuotta.
 Kun Ukrainen sodasta joskus taas päästään eroon, osakemarkkina lähtenee taas ylöspäin. 
 
-Nämä laskelmat tukevat sitä, että osakepainoa voisi nostaa nykyisestä ainakin 10 prosenttiyksikköä. Johtopäätös ei muutu, vaikka finanssikriisi huomioidaan
-laskelmissa. Tällainen osakepainon muutos olisi tarkoittanut, että TyELissä olisi ollut 9-13 mrd euroa enemmän sijoitusvaroja kesällä 2022.
+Nämä laskelmat tukevat sitä, että osakepainoa olisi voinut hyvinkin nostaa enemmän jo vuonna 2007. 
+Tällainen muutos olisi tarkoittanut, että TyELissä olisi ollut 8-11 mrd euroa enemmän sijoitusvaroja kesällä 2022.
 
-Jälkiviisaus on toki aina vähän tympeää. Silti on aiheellista kysyä, olisiko tällä kertaa rohkeutta
-päivittää työeläkkeiden sijoituspolitiikka pitkän horisontin mukaiselle tasolle? Käytännössä se tarkoittaisi
-sijoitusriskitason kasvattamista, mikä onnistuisi helpoimmin osakepainoa tavalla tai toisella nostamalla. 
+Osakepainon kasvattamiseen liittyy toki muitakin mietittäviä asioita. Tässä on tarkasteltu aikaperiodia, jonka
+aikana talouskehitys on ollut myrskyisää. Silti sen aikana jatkuvasti korkeampi osakepainon olisi selvästi 
+parantanut työeläkejärjestelmän tuottoja. 
+
+Työeläkkeiden rahoitus lepää noin kolmanneksen verran rahastoinnin ja sijoitustuottojen varassa.
+Suurimmalta osin rahoitus riippuu kuitenkin töissä olevista maksettavien eläkemaksujen varassa. 
+Siis sen, että Suomessa kannattaa tehdä työtä. 
+
+Osakkeiden tuotot ovat parempia kuin bondien, mutta myös niiden riski on suurempia. Pitkällä aikavälillä suuremmasta
+riskistä pitää maksaa suurempi korvaus. Näin on myös historiassa tapahtunut. Ellei maailma muutu täysin, tulevat
+osakkeet olemaan bondeja parempi sijoitusmuoto myös jatkossa, aivan kuten osakepainon nostaminen olisi kannattanut
+tässä tarkastellulla periodilla. 
+
+Johtopäätökset
+=====
+
+Jälkiviisaus on toki aina vähän tympeää. Silti on aiheellista kysyä, onko työeläkkeissä otettu liian vähän sijoitusriskiä
+historiassa erityisesti eläkejärjestelmän pitkä horisontti huomioiden. Näiden laskelmien mukaan sijoitusriskiä olisi
+kannattanut ottaa enemmän. Helpoimmin tämä onnistuisi osakepainoa tavalla tai toisella nostamalla. 

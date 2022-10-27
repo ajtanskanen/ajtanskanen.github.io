@@ -55,10 +55,11 @@ selittävät havaittuja tuottoja, voi ehkä päätellä jotain siitä, miten ty�
 Buy-and-Hold
 -----
 
-Buy-and-Hold on sijoitusstrategia, jossa annetaan valitaan salkun koostumus alkuhetkellä ja unohdetaan se sitten. 
-Toisin sanoen, annetaan salkun liikkua markkinoiden mukana.
-Strategiassa osakkeita ei osteta tai myydä markkinaliikkeiden mukaan. Se on siis suhdanteiden osalta neutraali 
-sijoitusstrategia. Lähdetään tästä sijoitusstrategiasta liikkeelle: valitaan allokaatio vuoden 2004 lopussa, ja seurataan
+Buy-and-Hold on sijoitusstrategia, jossa valitaan salkku alkuhetkellä ja unohdetaan se sitten. Yksityissijoittajat toimivat toisinaan näin.
+
+Strategiassa osakkeita ei osteta tai myydä markkinaliikkeiden mukaan, vaan salkun koostumus muuttuu markkinoiden mukana. 
+Se on siis suhdanteiden osalta neutraali sijoitusstrategia. Lähdetään tästä sijoitusstrategiasta liikkeelle: 
+valitaan allokaatio vuoden 2004 lopussa, ja seurataan
 sen liikkeitä. Huomioidaan kuitenkin muutokset osaketuottosidonnaisen vastuuvelan osuudessa allokaatiossa. 
 
 ![](/images/tuotot/BH_tuotot.png)<br>
@@ -78,7 +79,8 @@ Vakioallokaatio
 -----
 
 Vakioallokaatio on sijoitusstrategia, jossa pidetään sama sijoitusten jakauma
-koko tarkasteluajan. Siinä osakkeita myydään, kun osakkeiden arvo nousee, ja ostetaan, kun osakkeiden
+koko tarkasteluajan. Se ellyttää kaikkien sijoitusinstrumenttien ostamista ja myymistä. 
+Erityisesti eniten heiluvia osakkeita myydään, kun osakkeiden arvo nousee, ja ostetaan, kun osakkeiden
 arvo laskee. Se on siis vastasyklinen sijoitusstragia.
 Vakioallokaatio tuottaa hyviä tuottoja, mutta ajaa vakuutusyhtiön tehokkaasti konkurssiin, jos
 riskiä pitää kantaa vakavaraisuuspääomalla.
@@ -100,7 +102,9 @@ Kuitenkin Kuvio 6 näyttää, että osakepaino ei liiku vakioallokaatiossa reali
 osaketuottosidonnaisen tuottovaateen muutos sijoitusjakaumassa. Jos se jätetään pois, on sijoitusjakauma vakio.
 Kuvio 6. TyElin kokonaistuotto verrattuna kiinteällä allokaatiolla saatuun tuottoon.
 
-Vakioallokaatio myös aliarvioi varojen kehitystä (Kuvio 8).
+Vakioallokaatio yliarvioi varojen kehitystä (Kuvio 8). Tämä johtunee mallissa siitä, että paras sovite tuottoihin
+on osakepaino, joka aliarvioi osakkeiden määrää Finanssikriisin aikana 2008, mutta joka toisaalta yliarvioi
+osakkeiden määrää seuranneen nousun aikana vuonna 2009.
 ![](/images/tuotot/vakio_varat.png)<br>
 Kuvio 7. TyElin kokonaisvarat vakioallo vs havainto.
 
@@ -108,6 +112,9 @@ Portfolio insurance
 -----
 
 Portfolio insurance (PI) on sijoitustrategia, jossa osakepaino määräytyy vakavaraisuuden mukaan.
+Tämä on melko ilmeinen strategia eläkesijoittajalle, jolla on taseessaan vastuuvelkana eläkkeitä.
+Eläkelaitoksen vakavaraisuus on se määrä varoja, joka ylittää vastuuvelan määrän.
+
 Tässä tarkastellaan mallia, jossa osakepaino on vakio kertaa vakavaraisuuspääoma suhteessa vastuisiin.
 PI on myötäsyklinen sijoitusstrategia, jossa osakkeita ostetaan, kun vakavaraisuus on korkealla, mikä tapahtuu
 kun osakkeet ovat tuottaneet hyvin. Osakkeita taas myydään, kun niiden arvo laskee.
@@ -121,45 +128,47 @@ Kuvio 8. Portfolio insurance -strategiassan tuotto verrattuna havaintoihin.
 
 Keskivirhe tuotoissa on puhtaassa Portfolio insurance-strategiassa 0,23 %-yksikköä. Tätä voi pitää pienenä ottaen huomioon,
 että laskelmat on tehty TyEL-järjestelmän keskiarvoista, ei laitoskohtaisista tunnusluvuista.
-Strategia on selvästi tarkin tarkastelluista kolmesta strategiasta.
+Strategia on selvästi tarkin tarkastelluista.
 
 Strategiaa voi kuitenkin hieman helposti tarkentaa. Sallitaan vakavaraisuuden mukaan siirtymät kiinteistöjen ja osakkeiden välillä 
-sekä toisaalta bondien ja muiden sijoitusten. Tällöin keskivirhe tuotoissa putoaa 0,15 %-yksikköön.
+sekä toisaalta bondien ja muiden sijoitusten. Tällöin keskivirhe tuotoissa putoaa 0,15 %-yksikköön. Tämä malli saattaa
+toki jo olla ylisovite aineiston pienuuden takia. Sitä on kuitenkin käytetty Portfolio insurance -strategian kuvioissa.
 
 PI-mallin tuottama ennuste varoille vastaa hyvin toteumaa (Kuvio 7).
 
 ![](/images/tuotot/PI_varat.png)<br>
 Kuvio 9. Varat PI vs toteutunut.
 
-Osakepainossa on huomioitu tuottovaateen osaketuottosidonnaisuus (kuvio 8). PI-osuus on vakavaraisuuspääoman suhde vastuuvelkaan
-kerrottuna vakiolla 1,0. Tällöin 1 prosenttiyksikkö vakavaisuutta lisää kasvattaa osakepainoa 1 prosenttiyksikköä.
+Sovitteen mukaan Portfolio insurance-strategiassa kerroin $\alpha=1$. Tällöin 1 prosenttiyksikkö vakavaisuutta 
+lisää kasvattaa osakepainoa 1 prosenttiyksikön.
 Tuottovaateen osaketuottosidonnaisuus ei mallissa kasvata täysin sijoitusjakauman osakepainoa: 1 prosenttiyksikkö lisää OLVia
-kasvattaa osakepainoa 0,84 prosenttiyksikköä.
-
-PI replikoi tuotot painottaen _edellisen_ vuoden vakavaraisuutta 88 prosentti ja kuluvan vuoden 12 prosentti painolla.
-Näin asian oikeastaan pitäisi toimiakin: jos portfolio insurancea haluttaisiin käyttää allokaation valintaan, pitäisi edellisen
-havainnon paino olla 1. 
+kasvattaa osakepainoa 0,84 prosenttiyksikköä. 
 
 Myötäsyklisyys
 ====
 
-Sovitteen mukaan siis työeläkeyhtiöt valitsevat allokaatio vuotta aiemmin ja ajavat sillä joko
-ylä- tai alamäkeen. Tämä näkyy verrattaessa Portfolio insurance-strategian osakepainoa toteutuneeseen (Kuvio 8).
+Portfolio Insurance -sovitteen mukaan työeläkeyhtiöt valitsevat allokaatio vuotta aiemmin ja pitävät sen vuoden ajan. 
+Osakepaino valitaan sovitteen mukaan painottaen _edellisen_ vuoden vakavaraisuutta 88 prosentti ja kuluvan vuoden vakavaraisuutta 
+12 prosentti painolla. Näin asian oikeastaan pitäisi toimiakin portfolio insurance -strategiassa. Tämän voi tulkita
+myös niin, että osakepaino valitaan pääasiassa edellisen vuoden vakavaraisuuden mukaan, mutta sitä melko
+vähäisessä määrin säädetään kehityksen mukaan.
+Tulos näkyy myös verrattaessa Portfolio insurance-strategian osakepainoa toteutuneeseen (Kuvio 10).
 
 ![](/images/tuotot/PI_osakeallo.png)<br>
 Kuvio 10. Osakepaino PI vs toteutunut.
 
 Toteutunut osakepaino ilmoitetaan raportointihetkeltä. Vuosituotto taas riippuu koko vuoden
-sijoituksista, ja vuoden aikana myös sijoitusjakaumat muuttuvat. Kuvion 8 mukaan tuoto selittää parhaiten
-osakepaino, joka heijastaa enemmän edellisen vuoden vakavaraisuutta kuin kuluvan. Tämä tarkoittaa
+sijoituksista, ja vuoden aikana myös sijoitusjakaumat muuttuvat. Kuvion 10 ja sovitteen mukaan tuottoa selittää parhaiten
+osakepaino, joka heijastaa lähinnä edellisen vuoden vakavaraisuutta. Tämä tarkoittaa
 käytännössä sitä, että finanssikriisiin ajettiin korkealla osakepainolla, jolloin sijoitustappio muodostui
 suuremmaksi kuin osakepainosta olisi voinut päätellä. Toisaalta kriisin jälkeiseen nousuun mentiin alemmalla
-osakepainolla kuin olisi ollut tarkoituksenmukaista. Toisin sanoen on toimittu myötäsyklisesti.
+osakepainolla kuin olisi ollut tarkoituksenmukaista. Toisin sanoen on toimittu myötäsyklisesti. Tästä
+huolimatta tuotot ovat olleet pitkällä aikavälillä hyvät.
 
 Rajoitteet
 =====
 
-Tässä tarkastellut sijoitusstrategiat ovat yksinkertaistuksia. Laskellmissa mm. ei huomioida sitä, että osaketuottosidonnaisuuden aste vaikuttaa
+Tässä tarkastellut sijoitusstrategiat ovat yksinkertaistuksia. Laskelmissa mm. ei huomioida sitä, että osaketuottosidonnaisuuden aste vaikuttaa
 myös vakavaraisuuspääoman määrään ja vakavaraisuusrajaan. Tulokset lienevät kuitenkin oikeansuuntaisia.
 
 Lopuksi
