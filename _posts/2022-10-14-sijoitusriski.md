@@ -106,21 +106,21 @@ Kuvio 8. Osakepaino OLV 30
 Voisiko työeläkkeissä sijoittaa enemmän osakkeisiin?
 =====
 
+Työeläkkeiden rahoitus lepää noin kolmanneksen verran rahastoinnin ja sijoitustuottojen varassa.
+Suurimmalta osin rahoitus riippuu kuitenkin töissä olevista maksettavien eläkemaksujen varassa. 
+Siis sen, että Suomessa kannattaa tehdä työtä. Sijoitusriski on siten vain osa työeläkkeiden rahoitukseen liittyvää riskiä.
+
 Vuosien 2005-2022 välillä on ollut monta kriisiä: Finanssikriisi, Eurokriisi, Koronakriisi ja Ukrainan sota.
 Näistä huolimatta korkeampi osakepaino olisi tuottanut merkittävästi paremmin kuin toteuma. Tämä kertoo, että osakepainoa nostamalla
 lienee edelleen mahdollista parantaa sijoitustuottoja, ainakin jos tulevaisuus muistuttaa ollenkaan viimeisiä 17 vuotta.
-Kun Ukrainen sodasta joskus taas päästään eroon, osakemarkkina lähtenee taas ylöspäin. 
+Kun Ukrainan sodasta joskus taas päästään eroon, osakemarkkina lähtenee taas ylöspäin. 
 
 Nämä laskelmat tukevat sitä, että osakepainoa olisi voinut hyvinkin nostaa enemmän jo vuonna 2007. 
 Tällainen muutos olisi tarkoittanut, että TyELissä olisi ollut 8-11 mrd euroa enemmän sijoitusvaroja kesällä 2022.
-
-Osakepainon kasvattamiseen liittyy toki muitakin mietittäviä asioita. Tässä on tarkasteltu aikaperiodia, jonka
+Tässä on tarkasteltu aikaperiodia, jonka
 aikana talouskehitys on ollut myrskyisää. Silti sen aikana jatkuvasti korkeampi osakepainon olisi selvästi 
 parantanut työeläkejärjestelmän tuottoja. 
-
-Työeläkkeiden rahoitus lepää noin kolmanneksen verran rahastoinnin ja sijoitustuottojen varassa.
-Suurimmalta osin rahoitus riippuu kuitenkin töissä olevista maksettavien eläkemaksujen varassa. 
-Siis sen, että Suomessa kannattaa tehdä työtä. 
+Osakepainon kasvattamiseen liittyy toki paljon erilaisia mietittäviä asioita, mm. se miten asia on järkevä toteuttaa. 
 
 Osakkeiden tuotot ovat parempia kuin bondien, mutta myös niiden riski on suurempia. Pitkällä aikavälillä suuremmasta
 riskistä pitää maksaa suurempi korvaus. Näin on myös historiassa tapahtunut. Ellei maailma muutu täysin, tulevat
@@ -131,5 +131,5 @@ Johtopäätökset
 =====
 
 Jälkiviisaus on toki aina vähän tympeää. Silti on aiheellista kysyä, onko työeläkkeissä otettu liian vähän sijoitusriskiä
-historiassa erityisesti eläkejärjestelmän pitkä horisontti huomioiden. Näiden laskelmien mukaan sijoitusriskiä olisi
+erityisesti eläkejärjestelmän pitkä horisontti huomioiden. Näiden laskelmien mukaan sijoitusriskiä olisi
 kannattanut ottaa enemmän. Helpoimmin tämä onnistuisi osakepainoa tavalla tai toisella nostamalla. 
