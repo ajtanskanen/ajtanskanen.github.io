@@ -14,7 +14,8 @@ tags:
 Osakkeet ovat olleet työeläkeyhtiöille loistava sijoituskohde viime vuosina, vaikka kuluva vuosi onkin hieman synkempi.
 Vuoden 2017 uudistuksessa osakesijoitusten osuutta lisättiin ja se on kannattanut hyvin. 
 Varoja on kertynyt laskutavasta riippuen 5,0-6,2 miljardia euroa enemmän uudistuksen ansiosta. Mutta jäikö matka kesken?
-Pitäisikö osakkeiden osuutta lisätä edelleen? Suora vastaus on kyllä. Perustelut seuraavassa.
+Pitäisikö osakkeiden osuutta lisätä edelleen? Suora vastaus on kyllä, viimeisten 15 vuoden kokemukset osaketuotoista tukevat tätä
+johtopäätöstä. Perustelut seuraavassa.
 
 Työeläkejärjestelmän horisontti on pitkä. Viimeiset eläkejärjestelmän jo nyt karttuneista eläkeoikeuksista menevät vasta sadan vuoden päästä.
 Eläkejärjestelmän on turha katsoa liikaa seuraavan neljännesvuoden tuottoja. Tähtäin pitää olla pidemmällä: työeläkkeissä
@@ -33,7 +34,7 @@ Kuvio 1. Vuoden 2017 eläkeuudistus paransi myös sijoitustuottoja. OLV<2017 ker
 sijoitussäännöillä. Toteutunut kertoo, mikä se on ollut uudistetuilla säännöillä.
 
 Hyvien osaketuottojen ansiosta varoja on kertynyt selvästi enemmän. 
-Kuviossa 1 esitetty laskenta perustuu [aiemman blogin laskentamalliin](http:/posts/2022/10/allokaatio/).
+Kuviossa 1 esitetty laskenta perustuu [aiemman blogin laskentamalliin](/posts/2022/10/allokaatio/).
 
 Entä jos osakepainoa olisi nostettu enemmän?
 =====

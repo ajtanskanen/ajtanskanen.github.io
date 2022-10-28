@@ -45,7 +45,7 @@ Sijoittavatko työeläkelaitokset myötäsyklisesti?
 =====
 
 Tarkastellaan yksinkertaista sijoitusmalli, jossa sijoituslajeina on joukkovelkakirjat, osakkeet, kiinteistöt ja muut. 
-Näiden sijoituslajien toteutuneet tuotot vuosina 2004 - 2022 on haettu [Telan tuottotietokannasta](https://www.tela.fi/elakevarojen-sijoittaminen/tilastotietokanta/).
+Näiden sijoituslajien toteutuneet tuotot vuosina 2004 - 2022 on haettu [Telan tilastotietokannasta](https://www.tela.fi/elakevarojen-sijoittaminen/tilastotietokanta/).
 
 Kokeillaan kolmea erilaista sijoitusstrategiaa selittämään TyEL-laitosten sijoitustuottoja: Buy-and-Hold, vakioallokaatio ja Portfolio Insurance.
 Kolme strategiaa eroavat toisistaan myötäsyklisyydessä: Buy-and-Hold on suhdanteiden osalta neutraali,
@@ -176,5 +176,5 @@ Lopuksi
 
 Laskelmien mukaan työeläkelaitokset ovat sijoittaneet myötäsyklisesti. Tilannetta on tasapainottanut tuottovaateen
 osaketuottosidonnaisuus, joka on vastasyklinen elementti. Tämä on myös parantanut sijoitustuottoja. 
-[Seuraavassa blogissa](https:/posts/2022/10/osakkeet/) mietitään, kannattaisiko osakepainon nostaminen.
+[Seuraavassa blogissa](/posts/2022/10/osakkeet/) mietitään, kannattaisiko osakepainon nostaminen.
 
