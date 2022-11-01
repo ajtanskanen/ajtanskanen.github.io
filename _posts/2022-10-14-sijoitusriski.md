@@ -112,6 +112,8 @@ Näistä huolimatta korkeampi osakepaino olisi tuottanut merkittävästi paremmi
 lienee edelleen mahdollista parantaa sijoitustuottoja, ainakin jos tulevaisuus muistuttaa ollenkaan viimeisiä 17 vuotta.
 Kun Ukrainan sodasta joskus taas päästään eroon, osakemarkkina lähtenee taas ylöspäin. 
 
+Työeläkerahastojen duraatio on luokkaa 15 vuotta, minkä lisäksi vakavaraisuuspääoman siirtyminen rahastoihin lisää viivettä edelleen.
+Tämä tarkoittaa, että yhden vuoden sijoitustuottojen heilahtelu ei juuri vaikuta eläkkeiden maksuun rahastoista. 
 Nämä laskelmat tukevat sitä, että osakepainoa olisi voinut hyvinkin talouden myrskyistä huolimatta nostaa enemmän jo vuodesta 2007. 
 Korkeampi osakepaino olisi tarkoittanut, että TyELissä olisi ollut 8-11 mrd euroa enemmän sijoitusvaroja kesällä 2022.
 Osakepainon kasvattamiseen liittyy toki paljon erilaisia mietittäviä asioita, mm. se miten asia on järkevä toteuttaa. 
@@ -121,7 +123,7 @@ Suurimmalta osin rahoitus riippuu kuitenkin töissä olevista maksettavien eläk
 Siis sen, että Suomessa kannattaa tehdä työtä. Sijoitusriski on siten vain osa työeläkkeiden rahoitukseen liittyvää riskiä.
 
 Osakkeiden tuotot ovat parempia kuin bondien, mutta myös niiden riski on suurempi. Pitkällä aikavälillä suuremmasta
-riskistä pitää maksaa suurempi korvaus. Näin on myös historiassa tapahtunut. Ellei maailma muutu täysin, tulevat
+riskistä pitää saada suurempi korvaus. Näin on myös historiassa tapahtunut. Ellei maailma muutu täysin, tulevat
 osakkeet olemaan bondeja parempi sijoitusmuoto myös jatkossa, aivan kuten osakepainon reippaampi nostaminen olisi kannattanut
 tässä tarkastellulla periodilla. 
 
