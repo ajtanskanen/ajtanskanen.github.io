@@ -88,8 +88,9 @@ tfr on annetun suuruinen.
 ![Tuotot](/images/demog/comp.png)<br>
 Kuvio 5. Verrataan korkeaa syntyvyyttä (kokonaishedelmällisyys 1,87) perusmalliin (kokonaishedelmällisyys 1,45). 
 
-Hedelmällisyysluku kertoo iän funktiona, kuinka monta lasta nainen saa. Kokonaishedelmällisyysluku
-on summa ikäluokittaisista hedelmällisyysluvuista ja kertoo, montako lasta nainen saa koko elämänsä aikana.
+Hedelmällisyysluku kertoo montako lasta hedelmällisyysikäinen ikäinen nainen vuoden aikana saa.
+Kokonaishedelmällisyysluku on summa ikäluokittaisista hedelmällisyysluvuista ja kertoo, montako lasta 
+nainen saa elämänsä aikana.
 
 Nettomaahanmuutto
 -----
