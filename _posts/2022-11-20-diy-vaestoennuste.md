@@ -10,13 +10,15 @@ tags:
 ---
 
 Syntyvyys on alentunut niin nopeasti, että se uhkaa tehdä väestöennusteet vanhentuneiksi jo niiden julkaisuvuonna.
-Väestöennusteen tekeminen ei kaavojen puolesta ole kovin hankalaa. Vaikeinta on saada malli
-kalibroitua uskottavasti.
+Väestöennusteet ovat silti arvokkaita välineitä tulevaisuuden haasteiden arviointiin. Niiden avulla mm. voidaan
+suunnitella tulevia resurssitarpeita. Myös erilaisten pitkän aikavälin laskelmien perusta on usein väestöennuste.
 
 Suomessa väestöennusteita tekee mm. [Tilastokeskus](https://stat.fi/tilasto/vaenn), 
 [Eläketurvakeskus](https://www.etk.fi/tutkimus-tilastot-ja-ennusteet/ennustelaskelmat/pitkan-aikavalin-laskelmat/), 
 ja [MDI oy](https://www.mdi.fi/ennuste2040/). Laskelmat ovat sinänsä
 luotettavia, mutta on hauska tehdä väestöennuste myös itse. 
+Väestöennusteen tekeminen ei kaavojen puolesta ole kovin hankalaa. Vaikeinta on saada malli
+kalibroitua uskottavasti.
 
 ![Tuotot](/images/demog/tfr.png)<br>
 Kuvio 1. Kokonaishedelmällisyysluku Suomssa.
