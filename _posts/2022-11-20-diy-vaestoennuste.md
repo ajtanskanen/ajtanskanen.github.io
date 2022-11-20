@@ -130,8 +130,12 @@ pitäisi nettomaahanmuutto kasvattaa 30 000 henkilöön vuodessa.
 Johtopäätökset
 =====
 
-Syntyvyyden lasku on alentanut ennustetta Suomen väestön kehityksestä. Väestön määrään
-vaikuttaa, jos syntyvyys kasvaa tai laskee. Politiikan keinoin siihen taitaa kuitenkin olla vaikea vaikuttaa.
-Oikeastaan ainoa, mitä voidaan tehdä, on pyrkiä tekemään ihmisille mahdolliseksi se lapsimäärä, jonka he haluavat.
-Nettomaahanmuuttoon voi vaikuttaa yrittämällä lisätä maahanmuuttoa. Tämä vaatii aktiivista toimintaa, eikä suinkaan sekään ole
-helppoa. Ongelma on kuitenkin niin merkittävä, että molempia keinoja on syytä tosissaan yrittää.
+Syntyvyyden lasku on alentanut ennustetta Suomen väestön tulevasta määrästä. Väestön määrään
+vaikuttaa syntyvyys, kuolleisuus ja maahanmuutto. Erityisesti muutos on tapahtunut viime aikoina syntyvyydessä. 
+Politiikan keinoin siihen taitaa kuitenkin olla vaikea vaikuttaa. On kuitenkin mahdollista 
+pyrkiä tekemään ihmisille mahdolliseksi se lapsimäärä, jonka he haluavat.
+Maahanmuuttoon voi vaikuttaa todennäköisesti helpommin, mutta on turha elätellä kuvitelmaa, että tämä olisi helppoa.
+Se on tehtävissä, mutta vaatii aktiivista toimintaa. Vähenevä väestö tarkoittaa pienempää työvoimaa ja pienempiä
+taloudellisia mahdollisuuksia ylläpitää hyvinvointivaltiota.
+Ongelma on niin merkittävä, että on tarpeen sekä syntyvyyteen että maahanmuuttoon vaikuttavia toimenpiteitä
+on tarpeen tehdä.
