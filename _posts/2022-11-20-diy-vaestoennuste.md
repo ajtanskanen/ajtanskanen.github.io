@@ -9,7 +9,7 @@ tags:
   - väestöennuste
 ---
 
-Syntyvyyden aleneminen on tehnyt väestöennusteet vanhentuneiksi jo niiden julkaisuvuonna.
+Syntyvyys on alentunut niin nopeasti, että se uhkaa tehdä väestöennusteet vanhentuneiksi jo niiden julkaisuvuonna.
 Väestöennusteen tekeminen ei kaavojen puolesta ole kovin hankalaa. Vaikeinta on saada malli
 kalibroitua uskottavasti.
 
@@ -63,7 +63,7 @@ asuu Suomessa vuonna 3000 selvästi nykyistä vähemmän väkeä, noin 3,6 miljo
 vuonna 2500, minkä jälkeen kuolleisuuden aleneminen kasvattaa hitaasti erittäin ikääntyneen väestön määrää.
 
 
-Vaikutukset
+Entä jos
 ======
 
 Sekä kokonaishedelmällisyys että nettomaahanmuutto vaikuttavat voimakkaasti väestön määrään.
@@ -75,16 +75,15 @@ Syntyvyys
 Ennuste tarvitsee tiedoiksi syntyvyyden ikäluokittain datassa. Käytetään tässäkin Tilastokeskuksen aineistoa.
 Mutta miten syntyvyys kehittyy jatkossa? Tähän on mahdoton vastata. 
 
+Tilastokeskus käyttää tuoreinta havaintoa. Eläketurvakeskus tekee tämän lisäksi matalan ja korkean syntyvyyden skenaarioita.
+Näiden lisäksi voisi myös rakentaa stokastisia ennusteita. 
+
 Vuonna 2010 kokonaishedelmällisyysluku oli Suomessa 1,87. Nyt kokonaishedelmällisyysluku on noin 1,37. Kuvio 5 näyttää, millaisia
 vaikutuksia kokonaishedelmällisyysluvulla on väestöön pitkällä aikavälillä. Kuviossa 5 oletetaan, että vuodesta 2021 alkaen
 tfr on annetun suuruinen.
 
 ![Tuotot](/images/demog/comp.png)<br>
-Kuvio 5. Verrataan korkeaa syntyvyyttä (kokonaishedelmällisyyslukua TFR 1,87) perusmalliin (kokonaishedelmällisyys 1,45). 
-
-Tilastokeskus käyttää tuoreinta havaintoa. Eläketurvakeskus tekee tämän lisäksi matalan ja korkean syntyvyyden skenaarioita.
-Näiden lisäksi voisi myös rakentaa stokastisia ennusteita. Oletetaan tässä yksinkertaisuuden vuoksi,
-että syntyvyys säilyy samassa tasossa, mitä on oli vuonna 2021.
+Kuvio 5. Verrataan korkeaa syntyvyyttä (kokonaishedelmällisyys 1,87) perusmalliin (kokonaishedelmällisyys 1,45). 
 
 Hedelmällisyysluku kertoo iän funktiona, kuinka monta lasta nainen saa. Kokonaishedelmällisyysluku
 on summa ikäluokittaisista hedelmällisyysluvuista ja kertoo, montako lasta nainen saa koko elämänsä aikana.
@@ -93,16 +92,23 @@ Nettomaahanmuutto
 -----
 
 Nettomaahanmuutto kasvattaa väestöä kahta kautta: maahanmuuttajat kasvattavat väestöä suoraan. Toisaalta he myös hankkivat
-lapsia, usein kantaväestöä enemmän. Jos nettomaahanmuuttoa ei olisi, kutistuisi väestö matalan syntyvyyden seurauksena hitaasti kohden nollaa.
+lapsia, usein kantaväestöä enemmän. Jos nettomaahanmuuttoa ei olisi, kutistuisi väestö matalan 
+syntyvyyden seurauksena hitaasti kohden nollaa.
 
 ![Tuotot](/images/demog/compzero.png)<br>
 Kuvio 6. Väestöennuste ilman maahanmuuttoa (Nolla) verrattunan perusmalliin (Perus).
 
-Entä, jos nettomaahanmuutto nousisi 30 000 henkilöön vuodessa? Miltä väestörakenne silloin näyttäisi?
+Entä, jos nettomaahanmuutto nousisi 30 000 henkilöön vuodessa? Tai 50 000:een? Miltä väestörakenne silloin näyttäisi?
+Nettomaahanmuuton suuruutta voi verrata ikäluokan kokoon. Aiemmin ikäluokan koko oli Suomessa lähempänä 60 000 henkilöä, suuret ikäluokat
+jopa 108 000 henkilöä, kun taas nuorimmat ikäluokat ovat hieman vajaat 50 000 henkilöä.
+Hieman yksinkertaistaen voi sanoa, että 50 000 hengen nettomaahanmuutto tarkoittaisi efektiivisesti
+suurten ikäluokkien paluuta.
 
 ![Tuotot](/images/demog/comp2.png)<br>
-Kuvio 7. Verrataan Nettomaahanmuuton vaikutusta väestörakenteeseen. Toisessa ennusteessa nettomaahanmuutto on 30 000 henkilöä vuodessa,
-toisessa 15 000 henkilöä vuodessa.
+Kuvio 7. Verrataan nettomaahanmuuton vaikutusta väestörakenteeseen, kun vuosittainen nettomaahanmuutto on 15 000, 30 000 ja 50 000 henkilöä.
+
+Suomen väkiluku kasvaisi reippaasti, jos nettomaahanmuutto nousisi 50 000 henkeen vuodessa. 
+Myös 30 000 henkilön vuosittainen nettomaahanmuutto kasvattaisi väestöä, toisin kuin nykytasoinen nettomaahanmuutto.
 
 Väestö
 ------
@@ -114,10 +120,10 @@ Kuvio 8. Väestöennusteiden kokonaisväkimäärät verrattuna.
 
 Ilman maahanmuuttoa ja syntyvyyden kasvua Suomen väkiluku hiipuu (Kuvio 7). Vuoden 2010 kaltaisella
 syntyvyydellä väestö kasvaisi pitkään. Jos väestön määrä halutaan säilyttää nykytasolla, pitäisi
-syntyvyyden kasvaa tasolle 1,xx tai nettomaahanmuuttoa 22 000 henkilöä vuodessa.
+syntyvyyden kasvaa tasolle 1,65 tai nettomaahanmuuton 24 000 henkilöön vuodessa.
 
-Jos halutaan, että väestön määrä olisi sama kuin se olisi ollut 2010 väestön tasolla, pitäisi nettomaahanmuutto
-kasvattaa 30 000 henkilöön vuodessa.
+Jos halutaan, että väestön määrä olisi karkeasti samalla uralla kuin se olisi ollut 2010 syntyvyyden seurauksena, 
+pitäisi nettomaahanmuutto kasvattaa 30 000 henkilöön vuodessa.
 
 Johtopäätökset
 =====
