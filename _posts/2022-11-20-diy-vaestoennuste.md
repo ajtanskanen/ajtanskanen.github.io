@@ -37,7 +37,7 @@ jaotellusta väestöstä. Alkudata on peräisin [Tilastokeskukselta](https://sta
 tässä esitetyt laskelmat on tehty itse.
 
 ![Tuotot](/images/demog/baseline_stop2022.png)<br>
-Kuvio 1. Esimerkki väestöennusteen alkutilanteesta.
+Kuvio 2. Esimerkki väestöennusteen alkutilanteesta.
 
 Toiseksi, tarvitaan tiedot siitä, miten väestörakenne ajan mukana muuttuu. Tätä varten 
 tarvitaan tiedot syntyvyydestä, kuolleisuudesta, ja maahanmuutosta. 
@@ -113,23 +113,22 @@ Kuvio 7. Verrataan nettomaahanmuuton vaikutusta väestörakenteeseen, kun vuosit
 
 Suomen väkiluku kasvaisi reippaasti, jos nettomaahanmuutto nousisi 50 000 henkeen vuodessa. 
 Myös 30 000 henkilön vuosittainen nettomaahanmuutto kasvattaisi väestöä, toisin kuin nykytasoinen nettomaahanmuutto.
-Jos nettomaahanmuutto olisi 50 000 henkilöä vuodessa, kasvaisi Suomen väkiluku yli 10 miljoonan pitkällä aikavälillä.
-Jos taas kokonaishedelmällisyysluku olisi 1,87 jatkossa, kasvaisi väkiluku yli 8 miljoonan.
 
 Väestö
 ------
 
 Katsotaan sitten vielä, millä tavalla väestön kokonaismäärä muuttuu eri vaihtoehtoissa.
+Ilman maahanmuuttoa ja syntyvyyden kasvua Suomen väkiluku hiipuu (Kuvio 8). Vuoden 2010 kaltaisella
+syntyvyydellä väestö kasvaisi pitkään. Jos väestön määrä halutaan säilyttää nykytasolla, pitäisi
+syntyvyyden kasvaa tasolle 1,65 tai nettomaahanmuuton 24 000 henkilöön vuodessa.
 
 ![Tuotot](/images/demog/popcomp.png)<br>
 Kuvio 8. Väestöennusteiden kokonaisväkimäärät verrattuna. 
 
-Ilman maahanmuuttoa ja syntyvyyden kasvua Suomen väkiluku hiipuu (Kuvio 7). Vuoden 2010 kaltaisella
-syntyvyydellä väestö kasvaisi pitkään. Jos väestön määrä halutaan säilyttää nykytasolla, pitäisi
-syntyvyyden kasvaa tasolle 1,65 tai nettomaahanmuuton 24 000 henkilöön vuodessa.
-
 Jos halutaan, että väestön määrä olisi karkeasti samalla uralla kuin se olisi ollut 2010 syntyvyyden seurauksena, 
 pitäisi nettomaahanmuutto kasvattaa 30 000 henkilöön vuodessa.
+Jos nettomaahanmuutto olisi 50 000 henkilöä vuodessa, kasvaisi Suomen väkiluku yli 10 miljoonan pitkällä aikavälillä.
+Jos taas kokonaishedelmällisyysluku olisi 1,87 jatkossa, kasvaisi väkiluku yli 8 miljoonan.
 
 Johtopäätökset
 =====
