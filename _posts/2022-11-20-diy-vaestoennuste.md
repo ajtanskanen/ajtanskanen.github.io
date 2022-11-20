@@ -77,7 +77,8 @@ Syntyvyys
 Ennuste tarvitsee tiedoiksi syntyvyyden ikäluokittain datassa. Käytetään tässäkin Tilastokeskuksen aineistoa.
 Mutta miten syntyvyys kehittyy jatkossa? Tähän on mahdoton vastata. 
 
-Tilastokeskus käyttää tuoreinta havaintoa. Eläketurvakeskus tekee tämän lisäksi matalan ja korkean syntyvyyden skenaarioita.
+Tilastokeskus käyttää hedelmällisyysluvun tuoreinta havaintoa koko ennusteperiodille.
+Eläketurvakeskus tekee tämän lisäksi matalan ja korkean syntyvyyden skenaarioita.
 Näiden lisäksi voisi myös rakentaa stokastisia ennusteita. 
 
 Vuonna 2010 kokonaishedelmällisyysluku oli Suomessa 1,87. Nyt kokonaishedelmällisyysluku on noin 1,37. Kuvio 5 näyttää, millaisia
