@@ -41,7 +41,8 @@ Toiseksi, tarvitaan tiedot siitä, miten väestörakenne ajan mukana muuttuu. T�
 tarvitaan tiedot syntyvyydestä, kuolleisuudesta, ja maahanmuutosta. 
 
 Kolmanneksi, pitää arvioida, miten syntyvyys, kuolleisuus ja maahanmuutto muuttuvat ajan mukana.
-Tämä on se vaikein kohta. 
+Tämä on se vaikein kohta. Mallissa on oletettu, että sekä nettomaahanmuutto että syntyvyys 
+ovat vakioita ennusteperiodin ajan, mutta kuolleisuuden oletetaan alenevan samalla vauhdilla koko periodin.
 
 Valmis väestöennuste näyttää tältä. Laskelma on ajettu vuoteen 3000 asti, jotta siitä näkyy, millaiseen tasapainoon
 ennuste asettuu. Ennuste vastaa periodilta 2021-2070 melko hyvin Tilastokeskuksen vuoden 2021 väestöennustetta.
@@ -54,8 +55,13 @@ väestörakenne vakioituu. Voisi ajatella, että Suomi hiipuu pois. Näin ei kui
 nettomaahanmuutto on laskelmassa niin suurta, että kantaväestön ja maahanmuuttajien saamien lasten määrä
 riittää yhdessä maahanmuuton kanssa vakioimaan väestörakenteen. Tasapainon saavuttamiseen menee kuitenkin useita satoja vuosia.
 
+![Tuotot](/images/demog/baselinepop.png)<br>
+Kuvio 4. Väestön määrä Perusversiossa väestöennusteesta.
+
 Tämä antaa myös vastauksen siihen, miltä Suomen väestörakenne näyttää vuonna 3000. Jos parametrit pysyvät nykyisellään,
-asuu Suomessa vuonna 3000 selvästi nykyistä vähemmän väkeä, noin 3,6 miljoonaa henkilöä.
+asuu Suomessa vuonna 3000 selvästi nykyistä vähemmän väkeä, noin 3,6 miljoonaa henkilöä (Kuvio 4). Alin väestömäärä saavutetaan
+vuonna 2500, minkä jälkeen kuolleisuuden aleneminen kasvattaa hitaasti erittäin ikääntyneen väestön määrää.
+
 
 Vaikutukset
 ======
