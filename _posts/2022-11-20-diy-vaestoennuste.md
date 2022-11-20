@@ -100,7 +100,7 @@ lapsia, usein kantaväestöä enemmän. Jos nettomaahanmuuttoa ei olisi, kutistu
 syntyvyyden seurauksena hitaasti kohden nollaa.
 
 ![Tuotot](/images/demog/compzero.png)<br>
-Kuvio 6. Väestöennuste ilman maahanmuuttoa (Nolla) verrattunan perusmalliin (Perus).
+Kuvio 6. Väestöennuste ilman maahanmuuttoa (Nolla) verrattuna perusmalliin (Perus).
 
 Entä, jos nettomaahanmuutto nousisi 30 000 henkilöön vuodessa? Tai 50 000:een? Miltä väestörakenne silloin näyttäisi?
 Nettomaahanmuuton suuruutta voi verrata ikäluokan kokoon. Aiemmin ikäluokan koko oli Suomessa lähempänä 60 000 henkilöä, suuret ikäluokat
@@ -113,6 +113,8 @@ Kuvio 7. Verrataan nettomaahanmuuton vaikutusta väestörakenteeseen, kun vuosit
 
 Suomen väkiluku kasvaisi reippaasti, jos nettomaahanmuutto nousisi 50 000 henkeen vuodessa. 
 Myös 30 000 henkilön vuosittainen nettomaahanmuutto kasvattaisi väestöä, toisin kuin nykytasoinen nettomaahanmuutto.
+Jos nettomaahanmuutto olisi 50 000 henkilöä vuodessa, kasvaisi Suomen väkiluku yli 10 miljoonan pitkällä aikavälillä.
+Jos taas kokonaishedelmällisyysluku olisi 1,87 jatkossa, kasvaisi väkiluku yli 8 miljoonan.
 
 Väestö
 ------
@@ -120,7 +122,7 @@ Väestö
 Katsotaan sitten vielä, millä tavalla väestön kokonaismäärä muuttuu eri vaihtoehtoissa.
 
 ![Tuotot](/images/demog/popcomp.png)<br>
-Kuvio 8. Väestöennusteiden kokonaisväkimäärät verrattuna.
+Kuvio 8. Väestöennusteiden kokonaisväkimäärät verrattuna. 
 
 Ilman maahanmuuttoa ja syntyvyyden kasvua Suomen väkiluku hiipuu (Kuvio 7). Vuoden 2010 kaltaisella
 syntyvyydellä väestö kasvaisi pitkään. Jos väestön määrä halutaan säilyttää nykytasolla, pitäisi
