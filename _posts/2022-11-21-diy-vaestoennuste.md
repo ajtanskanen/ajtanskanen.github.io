@@ -1,6 +1,6 @@
 ---
 title: 'Miltä Suomen väestö näyttää vuonna 3000?'
-date: 2022-11-17
+date: 2022-11-21
 permalink: /posts/2022/11/vaestoennuste/
 image: /images/pts/2men.png
 largeimage: /images/pts/2men.png
