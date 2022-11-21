@@ -1,7 +1,7 @@
 ---
 title: 'Pitäisikö työeläkkeissä sijoittaa osakkeisiin enemmän?'
 date: 2022-11-17
-permalink: /posts/2022/11/osakkeet/
+permalink: /posts/2022/11/osakeriski/
 image: /images/tuotot/OLVkorkea_varat.png
 largeimage: /images/tuotot/OLVkorkea_varat.png
 summary: 'Työeläkejärjestelmän tuotot ovat viime vuosina olleet hyvät. Tätä selittää osakepainon kasvu. Paljonko osakkeisiin on varoista sijoitettu?'
