@@ -1,7 +1,7 @@
 ---
 title: 'Miltä Suomen väestö näyttää vuonna 3000?'
 date: 2022-11-21
-permalink: /posts/2022/11/vaestoennuste/
+permalink: /posts/2022/11/vaestoennuste-v2/
 image: /images/demog/2105.png
 largeimage: /images/demog/2105.png
 summary: 'Miten Suomen väestörakenteeseen ja määrän vaikuttaa syntyvyys? Entä maahanmuutto? Ja millainen väestörakenne Suomessa on vuonna 3000? Näihin kysymyksiin etsitään vastauksia tässä blogissa.'
