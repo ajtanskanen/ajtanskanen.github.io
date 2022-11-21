@@ -1,9 +1,9 @@
 ---
 title: 'Miltä Suomen väestö näyttää vuonna 3000?'
 date: 2022-11-21
-permalink: /posts/2022/11/vaestoe2/
-image: /images/demog/baseline100.gif
-largeimage: /images/demog/baseline100.gif
+permalink: /posts/2022/11/vaestoennuste/
+image: /images/demog/2105.png
+largeimage: /images/demog/2105.png
 summary: 'Miten Suomen väestörakenteeseen ja määrän vaikuttaa syntyvyys? Entä maahanmuutto? Ja millainen väestörakenne Suomessa on vuonna 3000? Näihin kysymyksiin etsitään vastauksia tässä blogissa.'
 tags:
   - väestöennuste
@@ -15,7 +15,7 @@ suunnitella tulevia resurssitarpeita. Myös erilaisten pitkän aikavälin laskel
 
 Suomessa väestöennusteita tekee mm. [Tilastokeskus](https://stat.fi/tilasto/vaenn), 
 [Eläketurvakeskus](https://www.etk.fi/tutkimus-tilastot-ja-ennusteet/ennustelaskelmat/pitkan-aikavalin-laskelmat/), 
-ja [MDI oy](https://www.mdi.fi/ennuste2040/). Laskelmat ovat sinänsä
+ja [MDI](https://www.mdi.fi/ennuste2040/). Laskelmat ovat sinänsä
 luotettavia, mutta on hauska tehdä väestöennuste myös itse. 
 Väestöennusteen tekeminen ei kaavojen puolesta ole kovin hankalaa. Vaikeinta on saada malli
 kalibroitua uskottavasti.
