@@ -1,7 +1,7 @@
 ---
 title: 'Miltä Suomen väestö näyttää vuonna 3000?'
 date: 2022-11-21
-permalink: /posts/2022/11/vaestoennuste/
+permalink: /posts/2022/11/vaestoe/
 image: /images/demog/standing.png
 largeimage: /images/demog/standing.png
 summary: 'Miten Suomen väestörakenteeseen ja määrän vaikuttaa syntyvyys? Entä maahanmuutto? Ja millainen väestörakenne Suomessa on vuonna 3000?'
@@ -21,7 +21,7 @@ Väestöennusteen tekeminen ei kaavojen puolesta ole kovin hankalaa. Vaikeinta o
 kalibroitua uskottavasti.
 
 ![Tuotot](/images/demog/tfr.png)<br>
-Kuvio 1. Kokonaishedelmällisyysluku Suomssa.
+Kuvio 1. Kokonaishedelmällisyysluku Suomessa.
 
 Ajankohtaiseksi väestöennusteet tekee syntyvyyden lasku (Kuvio 1). Syntyvyys on Suomessa ennenkin aaltoillut.
 Vuodesta 2010 alkanut hedelmällisyysluvun jyrkkä lasku (Kuvio 1) on kuitenkin poikkeuksellisen suuri, eikä
