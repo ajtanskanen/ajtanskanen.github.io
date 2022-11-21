@@ -65,7 +65,7 @@ asuu Suomessa vuonna 3000 selvästi nykyistä vähemmän väkeä, noin 3,6 miljo
 vuonna 2500, minkä jälkeen kuolleisuuden aleneminen kasvattaa hitaasti erittäin ikääntyneen väestön määrää.
 
 ![Tuotot](/images/demog/popcomp135.png)<br>
-Kuvio 5. Väestön määrä Perusversiossa.
+Kuvio 5. Väestön määrä Perusversiossa (TFR 1,45) ja viimeisimman 12 kk keskiarvon mukaisessa hedelmällisyysluvun 1,35 väestöennusteessa.
 
 Viimeisten 12 kuukauden aikana kokonaishedelmällisyysluku on laskenut 1,35:een. Kuvio 5
 näyttää, miten tämä vaikuttaa väestön määrään.
