@@ -24,9 +24,11 @@ Tähtäin pitääkin olla pidemmällä: voikin perustellusti ajatella, että ty�
 Eläkeuudistus 2017 
 =====
 
-Vuoden 2017 uudistuksessa TyEL-työeläkejärjestelmän osakepainoa nostettiin 10 prosenttiyksikköä. Karkeasti laskien sen vaikutus on toistaiseksi
-ollut 6,2 miljardia euroa enemmän sijoitusvaroja TyELissä (2022 heinäkuun loppuun mennessä; Kuvio 1). 
-Yhteensä eläkevaroja TyELissä on 150 miljardia euroa 
+Vuoden 2017 uudistuksessa TyEL-työeläkejärjestelmän vastuuvelan tuottovaateen osaketuottosidonnaisuutta 
+nostettiin 10 prosenttiyksikköä 20:een prosenttiin. 
+Tämän seurauksena myös sijoitusten osakepaino kasvoi, tosin hieman vähemmän kuin 10 prosenttiyksikköä.
+Karkeasti laskien sen vaikutus on toistaiseksi ollut 6,2 miljardia euroa enemmän sijoitusvaroja TyELissä (2022 heinäkuun loppuun mennessä; Kuvio 1). 
+Yhteensä eläkevaroja TyELissä on 150 miljardia euroa.
 
 ![Tuotot](/images/tuotot/OLVmatala_varat.png)<br>
 Kuvio 1. Vuoden 2017 eläkeuudistus paransi myös sijoitustuottoja. OLV<2017 kertoo, mikä tilanne olisi ollut aiemmilla
@@ -72,7 +74,7 @@ Kuvio 3. Varat skenaariossa 2
 
 Osakepainon kasvattaminen olisi lisännyt tuottojen heiluntaa. Finanssikriisissä 2008 kokonaistuoton pudotus olisi ollut suurempi kuin tapahtui.
 Varat olisivat kuitenkin kriisin jälkeen kasvaneet pudotuksen kiinni 2013 ja vuonna 2022 varoja olisi ollut 8,6 mrd euroa enemmän kuin nyt on.
-Geometrisesti lasketut tuotot olisivat kasvaneet 0,34 prosenttia 5,42 prosenttiin nimellisesti.
+Geometrisesti lasketut vuosituotot olisivat kasvaneet 0,34 prosenttia 5,42 prosenttiin nimellisesti.
 
 ![Tuotot](/images/tuotot/OLVplus10_tuotot.png)<br>
 Kuvio 4. Tuotot skenaariossa 2
@@ -95,7 +97,7 @@ Kuvio 6. Varat skenaariossa 3
 
 Osakepainon kasvattaminen olisi lisännyt tuottojen heiluntaa. Finanssikriisissä 2008 tiputus olisi ollut suurempi kuin OLV+10 -mallissa suuremmasta
 osakepainosta johtuen. Varat olisivat kasvaneet pudotuksen kiinni vuoteen 2014 mennessä ja vuonna 2022 varoja olisi ollut 10,9 mrd euroa enemmän.
-Geometrisesti lasketut tuotot olisivat kasvaneet 0,50 prosenttia 5,51 prosenttiin.
+Geometrisesti lasketut vuosituotot olisivat kasvaneet 0,50 prosenttia 5,51 prosenttiin.
 
 ![Tuotot](/images/tuotot/OLV30_tuotot.png)<br>
 Kuvio 7. Tuotot skenaariossa 3
