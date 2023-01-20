@@ -212,7 +212,10 @@ viime aikoina julkaistu kiivaaseen tahtiin.
 | GPT-3 | 4 pistettä |
 | Aukusti | 3 pistettä |
 
-Viimeisessä kysymyksessä Aukusti saa kolmannen pisteensä. Lopputuloksena Eino voittaa 5 pisteellä, GPT-3 tulee toiseksi 4 pisteellä, ja Aukusti jää tekoälyn taakse 3 pisteellä. GPT-3 ei hyvästä alusta huolimatta onnistu dominoimaan Poppikoulua, vaan jää toiseksi. Tätä ei voi pitää huonona saavutuksena. Itse en tiennyt ensimmäistäkään vastausta.
+Viimeisessä kysymyksessä Aukusti saa kolmannen pisteensä. Lopputuloksena Eino voittaa 5 pisteellä, GPT-3 tulee toiseksi 4 pisteellä, ja Aukusti jää tekoälyn taakse 3 pisteellä. 
+GPT-3 ei hyvästä alusta huolimatta onnistu dominoimaan Poppikoulua, vaan jää kolmanneksi. DaVinci voittaa edeltäjänsä pisteellä,
+mutta Eino voittaa edelleen. 
+Tätä ei voi pitää huonona saavutuksena. Itse en tiennyt ensimmäistäkään vastausta.
 
 ![Kuva 2. Tekoäly ottaa tappion raskaasti.](/images/poppis2.png)
 Kuva 2. Tekoäly ottaa tappion raskaasti.
