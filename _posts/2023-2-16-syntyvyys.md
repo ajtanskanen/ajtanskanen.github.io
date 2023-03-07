@@ -1,10 +1,10 @@
 ---
-title: 'Menikö syntyvyysennuste kohdilleen?'
+title: 'Voiko syntyvyyttä ennustaa?'
 date: 2023-03-1
 permalink: /posts/2023/02/syntyvyys/
 image: /images/syntyvyys/teddybearphoto.png
 largeimage: /images/syntyvyys/teddybearphoto.png
-summary: 'Blogi | Jälkikäteinen arvio siitä, miten 2018 tehty syntyvyysennuste onnistui. Mukana myös uusi ennuste hedelmällisyysluvulle.'
+summary: 'Blogi | Jälkikäteinen arvio siitä, miten hyvin 2018 tehty syntyvyysennuste onnistui. Mukana myös uusi ennuste hedelmällisyysluvulle.'
 tags:
   - syntyvyys
   - kokonaishedelmällisyysluku
@@ -14,9 +14,6 @@ Suomessa syntyvyys on pudonnut rajusti vuoden 2010 jälkeen. Syntyvyyden ennusta
 Osoittautuu, että ennuste oli paljon paremmin kuin osasin edes odottaa. Lopuksi päivitän
 datan ja teen uuden ennusteen. Toivottavasti tällä kertaa menee vihdoin pieleen.
 
-![IRR:t](/images/syntyvyys/tfr.png)
-Kuva 1. Alkuperäinen, vuoden 2018 ennuste kokonaishedelmällisyysluvulle.
-
 # Syntyvyyden ennustaminen
 
 Syntyneiden lasten määrä on Suomessa laskenut 61 000 lapsesta vuonna 2010 noin 44 900:ään vuonna 2022 (Tilastokeskus, 2023). Hedelmällisyysluku on jäämässä vuoden 2022 alustavien tietojen mukaan 1,31:een, joka kaikkien aikojen matalin (Tilastokeskus, 2023). Laskeva trendi on jatkunut lähes koko aikavälin 2010-2023, joten satunnaisvaihtelusta ei ole kysymys (Kuva 1). 
@@ -24,12 +21,13 @@ Syntyneiden lasten määrä on Suomessa laskenut 61 000 lapsesta vuonna 2010 noi
 Tein vuonna 2018 analyysiä syntyvyyden ja hedelmällisyysluvun laskusta. Käytin yksinkertaista regressiomallia, jonka avulla tein myös ennusteen vuosille 2018 - 2030. Kuva 2 näyttää ennusteen yhdessä vertailuaineiston kanssa. Kuvassa musta käyrä näyttää havaitut kokonaishedelmällisyysluvut vuosina 1990-2017 ja arvion vuoden 2018 kokonaishedelmällisyysluvuksi. Turkoosi käyrä näyttää sovitteen 1990-2017. 
 
 ### Kokonaishedelmällisyys
+
 ![IRR:t](/images/syntyvyys/ennuste2018.png)
-Kuva 2. Vertailu vuoden 2018 ennusteen (vihreä Ennuste) osuvuudesta. Punaisella on merkitty dataa, joka ei ollut saatavilla ennustetta tehtäessä. 
+_Kuva 1. Vertailu vuoden 2018 ennusteen (vihreä Ennuste) osuvuudesta. Punaisella on merkitty dataa, joka ei ollut saatavilla ennustetta tehtäessä._
 
 Vuonna 2018 tehty ennuste vuosille 2018-2030 on kuvassa merkitty katkoviivalla. Kun ennustetta vertaa vuosien 2018-2022 havaintoihin, huomaa että ennuste on vuosina 2020 ja 2022 kohdallaan, mutta muina vuosina on eroa. Vuoden 2021 koronapiikkiä tuskin olisi voinut edes ennustaa.  
 
-Kuvan 2 neljästä uudesta havainnosta kaksi on aivan kohdallaan. Erityisesti vuoden 2022 arvio on hyvä: toteutunut oli 1,31 ja ennuste 1,32. Onnistumisesta huolimatta on pettynyt olo: en olisi halunnut nähdä trendin jatkuvan näin hyvin. Mielummin olisin 
+Kuvan 1 neljästä uudesta havainnosta kaksi on aivan kohdallaan. Erityisesti vuoden 2022 arvio on hyvä: toteutunut oli 1,31 ja ennuste 1,32. Onnistumisesta huolimatta on pettynyt olo: en olisi halunnut nähdä trendin jatkuvan näin hyvin. Mielummin olisin 
 
 Ennuste on tehty jatkamalla havaittuja trendeja avioituvuudelle, kaupungistumiselle ja aktiivisten somen käyttäjien osuudelle lineaarisesti ajassa eteenpäin. Muut tekijät pidetään vakiona. Tästä tarkemmin myöhemmin. 
 
@@ -38,9 +36,9 @@ ja 2019 kokonaishedelmällisyysluvut hyvin, mutta poikkeaa sen jälkeen rajusti 
 
 ### Syntyneiden määrä
 ![IRR:t](/images/syntyvyys/syntyneita2018.png)
-Kuva 3. Syntyneiden lukumäärä 2018 verrattuna toteutuneeseen.
+_Kuva 2. Syntyneiden lukumäärä 2018 verrattuna toteutuneeseen._
 
-Vastaava vertailu syntyneiden lukumäärille on kuvassa 3. Se kertoo samaa tarinaa. 
+Vastaava vertailu syntyneiden lukumäärille on kuvassa 2. Se kertoo samaa tarinaa. 
 
 Mistä lasku johtuu?
 ---
@@ -52,10 +50,10 @@ Tässä tarkastellussa regressiomallissa tärkeimmät tekijät ovat kaupungistum
 
 ### Kaupungistuminen
 Kaupungistumista kuvaa sisemmässä kaupungissa, ulommassa kaupungissa ja kehyskaupungissa asuvien osuudet väestöstä. 
-Kuva 4 näyttää ennusteissa käytetyt Tilastokeskuksen datat (Tilastokeskus, 2023b). Tasoero johtuu siitä, että uudemmassa Tilastokeskuksen aineistossa on tehty määritelmämuutos.
+Kuva 3 näyttää ennusteissa käytetyt Tilastokeskuksen datat (Tilastokeskus, 2023b). Tasoero johtuu siitä, että uudemmassa Tilastokeskuksen aineistossa on tehty määritelmämuutos.
 
 ![IRR:t](/images/syntyvyys/sisempikaupunki.png)
-Kuva 4. Sisemmässä kaupungissa asuvien osuus väestöstä vuoden 2018 ennusteessa ja vuoden 2023 ennusteessa.
+_Kuva 3. Sisemmässä kaupungissa asuvien osuus väestöstä vuoden 2018 ennusteessa ja vuoden 2023 ennusteessa._
 
 Sisempi kaupunkialue on kaupunkien tiivis yhtenäinen tehokkaasti rakennettu alue.
 Ulompi kaupunkialue on sisemmän kaupunkialueen reunasta yhtenäisesti jatkuvan
@@ -76,7 +74,7 @@ Avioliittojen määrä on lähinnä proksi parisuhteiden määrälle. Syntyvyyde
 Ilmeisesti viime vuosina pysyvien parisuhteiden määrä on laskenut, vaikka parisuhteiden määrä ei niinkään ole laskenut (Tilastokeskus, 2023c).
 
 ![IRR:t](/images/syntyvyys/avioituvuus.png)
-Kuva 5. Avioituvuus
+_Kuva 4. Avioituvuus_
 
 Avioituvuus jatkaa tämän arvion mukaan laskua. Kulmakertoimen on kuitenkin arvioitu olevan aiempaa loivempi, jolloin
 se ei vähennä yhtä paljon syntyvyyttä kuin kuin 2010 jälkeen.
@@ -85,7 +83,7 @@ se ei vähennä yhtä paljon syntyvyyttä kuin kuin 2010 jälkeen.
 Verrattuna aiempiin harjoitelmiin, mukaan on otettu myös sosiaalisen median aktiivikäyttäjien osuus Tilastokeskuksen Viestintä- ja tietotekniikan käyttö-tutkimuksesta (“Seuraa jotain yhteisöpalvelua yleensä jatkuvasti kirjautuneena tai useasti päivässä”).
 
 ![IRR:t](/images/syntyvyys/some.png)
-Kuva 6. Sosiaalisen median päivittäinen käyttö
+_Kuva 5. Sosiaalisen median päivittäinen käyttö_
 
 Somen käyttöä kuvaa päivittäin sosiaalista mediaa käyttävien osuus (Tilastokeskus, 2023a). 
 Sosiaalisen median käyttö kasvoi koronavuonna 2020 voimakkaasti. Se näyttää saturoituneen, ja tuskin enää jatkossa vaikuttaa
@@ -100,19 +98,19 @@ Tuloksissa parhaana näkyy neljän faktorin ja vakiotermin malli, jossa faktorei
 Aineiston perusteella ei voi tehdä kausaalisia päätelmiä, ainostaan assosiatiivisuutta koskevia. Tämä tietenkin rajoittaa tulkintamahdollisuuksia.
 
 ![IRR:t](/images/syntyvyys/ennuste2023.png)
-Kuva 7. Uusi ennuste kokonaishedelmällisyysluvulle vuosina 2023-2030.
+_Kuva 6. Uusi ennuste kokonaishedelmällisyysluvulle vuosina 2023-2030._
 
 ### Syntyneiden määrä
-Vastaava kehitys näkyy syntyneiden määrässä. Syntyneiden määrään vaikuttaa kokonaishedelmällisyysluvun lisäksi synnytysikäisten naisten määrä. 
+Syntyneiden määrässä näkyy samanlainen kehitys kuin kokonaishedelmällisyysluvussa. Syntyneiden määrään vaikuttaa kokonaishedelmällisyysluvun lisäksi synnytysikäisten naisten määrä, mistä johtuu pidempään kestänyt laskeva trendi.
 
 ![IRR:t](/images/syntyvyys/syntyneita2023.png)
-Kuva 8. Uusi ennuste syntyneiden määrälle vuosina 2023-2030.
+_Kuva 7. Uusi ennuste syntyneiden määrälle vuosina 2023-2030._
 
 ### Vertailu aiempaan ennusteeseen
 Uusi hedelmällisyyslukuennuste on hyvin samankaltainen kuin aiempi ennuste. Uusi ennuste on hieman alempi kuin aiempi (kuva 12).
 
 ![IRR:t](/images/syntyvyys/ennustevertailu.png)
-Kuva 9. Vuosien 2018 ja 2023 ennusteet kokonaishedelmällisyysluvulle.
+_Kuva 8. Vuosien 2018 ja 2023 ennusteet kokonaishedelmällisyysluvulle._
 
 Uuden ennusteen mukaan vuoden 2030 kokonaishedelmällisyysluku on 1,044, kun aiemman ennusteen mukaan se tulee olemaan 1,103.
 Ennuste on vielä synkempi kuin aiempi huolimatta korona-ajan noususta. Tämän ennusteen mukaan se jää väliaikaiseksi. Toivottavasti ennuste on tällä kertaa väärässä, ja syntyvyys kääntyy nousuun.
@@ -124,13 +122,13 @@ sekä todennäköisin malli (HPM) että agregaatti 1024:stä todenäköisimmäst
 Kuvio ovat hieman hankalalukuisia, joten ne voi hyvinkin hypätä yli.
 
 ![IRR:t](/images/syntyvyys/posterior2023.png)
-Taulukko 1. Regression termit, todennäköisin malli
+_Taulukko 1. Regression termit, todennäköisin malli_
 
 ![IRR:t](/images/syntyvyys/bmaposterior2023.png)
-Taulukko 2. Regression termit, aggregaatti
+_Taulukko 2. Regression termit, aggregaatti_
 
 ![IRR:t](/images/syntyvyys/coef2023.png)
-Taulukko 3. Todennäköisyys että faktorin kerroin poikkeaa nollasta (P(B!=0)) kaikissa malleissa. Lisäksi näytetään kuuluvatko faktorit todennäköisimpiin malleihin. Rivi R2 kertoo kuinka suuren osuuden varianssista malli selittää.
+_Taulukko 3. Todennäköisyys että faktorin kerroin poikkeaa nollasta (P(B!=0)) kaikissa malleissa. Lisäksi näytetään kuuluvatko faktorit todennäköisimpiin malleihin. Rivi R2 kertoo kuinka suuren osuuden varianssista malli selittää._
 
 Mallit 1-3 selittävät 97 - 97,9 % datan varianssista. Tällä mittarilla ne siis ovat selitysvoimaisia. 
 Malleissa on 2-5 tekijää, jos vuoden 2021 poikkeavaa hedelmällisyyttä kuvaava dummy-muuttuja huomioidaan.
