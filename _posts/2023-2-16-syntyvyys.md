@@ -28,14 +28,14 @@ Vuonna 2018 tehty ennuste vuosille 2018-2030 on kuvassa merkitty katkoviivalla. 
 
 Kuvan 1 neljästä uudesta havainnosta kaksi on aivan kohdallaan. Erityisesti vuoden 2022 arvio on hyvä: toteutunut oli 1,31 ja ennuste 1,32. Onnistumisesta huolimatta on pettynyt olo: en olisi halunnut nähdä trendin jatkuvan näin hyvin. Mielummin olisin 
 
-Vertailun vuoksi kuvaan 2 oli lisätty kokonaishedelmällisyysluku Tilastokeskuksen väestöennusteesta 2018 (Väestöennuste, pisteviiva) ja kokonaishedelmällisyysluvun trendin lineaarinen jatko. Kiinnostavasti lineaarinen jatko ennustee vuosien 2018 
-ja 2019 kokonaishedelmällisyysluvut hyvin, mutta poikkeaa sen jälkeen rajusti toteutuneista luvuista. Näistä kolmesta ennusteesta faktorimalli on selvästi paras. 
+Vertailun vuoksi kuvaan 2 oli lisätty kokonaishedelmällisyysluku Tilastokeskuksen väestöennusteesta 2018 (Väestöennuste, pisteviiva) ja kokonaishedelmällisyysluvun trendin lineaarinen jatko. Kiinnostavasti lineaarinen jatko ennustaa vuosien 2018 
+ja 2019 kokonaishedelmällisyysluvut hyvin, mutta poikkeaa sen jälkeen toteutuneista luvuista. Näistä kolmesta ennusteesta faktorimalli on selvästi paras. Tämä ei tosin välttämättä tarkoita, että näin on enää muutaman vuoden kuluttua.
 
 ### Syntyneiden määrä
+Syntyneiden määrä kertoo hyvin samankaltaista tarinaa kuin kokonaishedelmällisyysluku. Myös sillä mitattuna faktorimalli tuotti parhaan ennusteen.
+
 ![IRR:t](/images/syntyvyys/syntyneita2018.png)
 _Kuva 2. Syntyneiden lukumäärä 2018 verrattuna toteutuneeseen._
-
-Vastaava vertailu syntyneiden lukumäärille on kuvassa 2. Se kertoo samaa tarinaa. 
 
 ## Mistä lasku johtuu?
 
