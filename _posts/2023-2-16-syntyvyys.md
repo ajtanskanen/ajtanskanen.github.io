@@ -60,7 +60,7 @@ Kuvassa 3 näkyvä tasoero käyrien välillä johtuu siitä, että uudemmassa ai
 Ei ole täysin selvää, miksi kaupungistuminen alentaa syntyvyyttä. Kaupungistumiseen liittyy ainakin anekdotaalisen tiedon mukaan "ikisinkkuus", johon eivät mahdu pysyvät parisuhteet eivätkä lapset. Kaupungistumisen vaikutus kytkeytyy siten osin parisuhteiden laadun muutokseen. Toinen syy, miksi sisempi kaupunki kytkeytyy syntyvyyteen, on se, että perheasuntojen hinnat ovat sisemmässä kaupungissa korkeita ja saattavat vähentää lasten hankintaa.
 
 ### Parisuhteet
-Lienee melko ilmeistä, että syntyvyyden aleneminen liittyy parisuhteiden määrän laskuun (Jalovaara ja Fasang, 2017).Avioituvuutta käytetään mallissa kuvaamaan pysyvien parisuhteiden määrää, jolle se on proksi. Viime vuosina pysyvien parisuhteiden määrä on ilmeisesti laskenut, vaikka parisuhteiden määrä ei välttämättä ole laskenut. Kuva 4 näyttää avioituvuuden kehitystä (Tilastokeskus, 2023c).
+Lienee melko ilmeistä, että syntyvyyden aleneminen liittyy parisuhteiden määrän laskuun (Jalovaara ja Fasang, 2017).Viime vuosina pysyvien parisuhteiden määrä on ilmeisesti laskenut, vaikka parisuhteiden määrä ei välttämättä ole laskenut. Avioituvuutta käytetään mallissa kuvaamaan pysyvien parisuhteiden määrää, jolle se on proksi. Kuva 4 näyttää avioituvuuden kehitystä (Tilastokeskus, 2023c). Avioituvuus tarkoittaa avioliiton solmineiden määrää suhteessa niihin, jotka voisivat mennä naimisiin.
 
 ![IRR:t](/images/syntyvyys/avioituvuus.png)
 _Kuva 4. Avioituvuus_
@@ -82,6 +82,9 @@ Tuloksissa parhaana näkyy kahden faktorin, yhden dummy ja vakiotermin malli, jo
 
 ![IRR:t](/images/syntyvyys/ennuste2023.png)
 _Kuva 6. Uusi ennuste kokonaishedelmällisyysluvulle vuosina 2023-2030._
+
+Kuten vuoden 2018 ennusteessa, tässäkään ennusteessa käytetty menetelmä ei mahdollista kausaalista tulkintaa faktoreille.
+Aineiston perusteella ei siis voi tehdä kausaalisia päätelmiä, ainostaan assosiatiivisuutta koskevia. Tämä tietenkin rajoittaa tulkintamahdollisuuksia.
 
 ### Syntyneiden määrä
 Syntyneiden määrässä näkyy samanlainen kehitys kuin kokonaishedelmällisyysluvussa. Syntyneiden määrään vaikuttaa kokonaishedelmällisyysluvun lisäksi myös synnytysikäisten naisten määrä, mistä johtuu pidempään kestänyt laskeva trendi.
