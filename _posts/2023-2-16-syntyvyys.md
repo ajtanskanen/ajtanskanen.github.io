@@ -12,14 +12,14 @@ tags:
 
 Suomessa syntyvyys on pudonnut rajusti vuoden 2010 jälkeen: Syntyneiden lasten määrä on Suomessa laskenut 61 000 lapsesta vuonna 2010 noin 44 900:ään vuonna 2022. Hedelmällisyysluku on jäämässä vuoden 2022 alustavien tietojen mukaan 1,31:een, joka on kaikkien aikojen matalin (Tilastokeskus, 2023). Laskeva trendi on jatkunut lähes koko aikavälin 2010-2023, joten satunnaisvaihtelusta ei ole kysymys (Kuva 1). Tulevaisuus näyttää synkältä, mutta rakkaus voi yllättää.
 
-# Ennustaminen
+# Vuoden 2018 syntyvyysennuste
 
 Syntyvyyden ennustaminen on vaikeaa, koska syntyvyyden muutokseen vaikuttavia tekijöitä ei kovin hyvin tunneta. Tein [marraskuussa 2018 ennusteen](https://ajtanskanen.github.io/posts/2018/11/Sosiaalisen-median-aktiivik%C3%A4ytt%C3%B6-ja-syntyvyys/) syntyvien lasten lukumäärän ja kokonaishedelmällisyysluvun kehityksestä vuosille 2018-2030. Nyt muutaman vuoden jälkeen on hyvä palata aiheeseen ja tarkastaa, osuiko ennuste kohdilleen. 
 Hieman yllättäen ennuste osoittautui kokolailla hyväksi. 
 
-### Kokonaishedelmällisyys
+### Kokonaishedelmällisyysluku
 ![IRR:t](/images/syntyvyys/ennuste2018.png)
-_Kuva 1. Vertailu vuoden 2018 ennusteen (vihreä Ennuste) osuvuudesta. Punaisella on merkitty dataa, joka ei ollut saatavilla ennustetta tehtäessä._
+_Kuva 1. Vertailu vuoden 2018 faktorimallilla tehdyn kokonaishedelmällisyysluku-ennusteen (vihreä Ennuste) osuvuudesta. Musta käyrä näyttää ennusteeseen käytettävissä olleen datan kokonaishedelmällisyysluvusta. Punaisella on merkitty havainnot kokonaishedelmällisyysluvusta, joka ei ollut saatavilla ennustetta tehtäessä. Sovite-käyrä näyttää faktorimallin sovitteen käytettävissä olleeseen aineistoon._
 
 Ennusteen vuosien 2018-2030 syntyvyydelle ja kokonaishedelmällisyysluvulle perustui yksinkertaiseen bayesilaiseen faktorimalliin. Kuva 1 näyttää faktorimallin ennusteen kokonaishedelmällisyysluvulle yhdessä havaintojen ja vaihtoehtoisten ennusteiden kanssa. Kuvassa 1 musta käyrä näyttää havaitut kokonaishedelmällisyysluvut vuosina 1990-2017 ja arvion vuoden 2018 kokonaishedelmällisyysluvuksi. Turkoosi käyrä näyttää sovitteen vuosille 1990-2017. 
 
@@ -31,7 +31,7 @@ Vertailun vuoksi kuvaan 1 on lisätty kokonaishedelmällisyysluku Tilastokeskuks
 Syntyneiden määrään vaikuttaa kokonaishedelmällisyysluvun lisäksi synnytysikäisten naisten määrä, mistä johtuu syntyvyydessä näkyvä hedelmällisyysluvussa näkyvää pidempään kestänyt laskeva trendi. Syntyneiden määrä kertoo hyvin samankaltaista tarinaa kuin kokonaishedelmällisyysluku. Myös sillä mitattuna faktorimalli tuotti parhaan ennusteen. Osan syntyneiden lukumäärän laskusta selittää synnytysikäisten naisten lukumäärän pieneneminen, mutta ei kaikkea.
 
 ![IRR:t](/images/syntyvyys/syntyneita2018.png)
-_Kuva 2. Syntyneiden lukumäärä 2018 verrattuna toteutuneeseen._
+_Kuva 2. Syntyneiden lukumäärä 2018 verrattuna toteutuneeseen. Vihreä katkoviiva näyttää vuoden 2018 faktorimallilla tehdyn syntyneiden määrä -ennusteen (Ennuste). Musta käyrä näyttää ennusteeseen käytettävissä olleen datan syntyneiden lukumäärästä. Punaisella on merkitty havainnot syntyneiden lukumääristä, jotka eivät olleet saatavilla ennustetta tehtäessä. Sininen Sovite-käyrä näyttää faktorimallin sovitteen käytettävissä olleeseen aineistoon._
 
 ## Mitkä tekijät selittävät syntyvyyttä?
 Selityksiksi syntyvyyden laskulle on esitetty mm. työttömyyttä (Hiilamo, 2017) ja miesten heikkoa kiinnittymistä työsuhteeseen (Miettinen ja Jalovaara, 2015). Muissa maissa syntyvyyden laskun on arvioitu aiheutuvan mm. lapsikuolleisuuden vähenemisestä (Becker ja Barro, 1988), kaupungistumisesta (Martine et al., 2013) ja vanhuuseläkkeiden korkeammasta korvausasteesta (Boldrin et al., 2015). Sen lisäksi että työttömyys alentaisi syntyvyyttä, taloudellisten kriisien on myös havaittu lisänneen syntyvyyttä (Kohler ja Kohler, 2002). Suomessa Korona-kriisin aikana syntyvyys kasvoi vuosina 2020 ja 2021, mutta ei enää 2022.
@@ -53,17 +53,17 @@ väestöstä asuu tiiviisti kaupunkien keskustoissa, sen alempi syntyvyys. Täm�
 edelleen, mikä faktorimallin mukaan tulee jatkossakin alentamaan syntyvyyttä. Kuva 3 näyttää sisemmässä kaupungissa asuvien osuuden (Tilastokeskus, 2023b). 
 
 ![IRR:t](/images/syntyvyys/sisempikaupunki.png)
-_Kuva 3. Sisemmässä kaupungissa asuvien osuus väestöstä vuoden 2018 ennusteessa ja vuoden 2023 ennusteessa._
+_Kuva 3. Sisemmässä kaupungissa asuvien osuus väestöstä vuoden 2018 ennusteen (punainen) aineistossa ja vuoden 2023 (vaaleanpunainen) ennusteen aineistossa. Yhtenäiset viivat näyttävät tilastoaineisto, katkoviivat ennusteet._
 
 Kuvassa 3 näkyvä tasoero käyrien välillä johtuu siitä, että uudemmassa aineistossa on hieman eri määritelmä.
 
 Ei ole täysin selvää, miksi kaupungistuminen alentaa syntyvyyttä. Kaupungistumiseen liittyy ainakin anekdotaalisen tiedon mukaan "ikisinkkuus", johon eivät mahdu pysyvät parisuhteet eivätkä lapset. Kaupungistumisen vaikutus kytkeytyy siten osin parisuhteiden laadun muutokseen. Toinen syy, miksi sisempi kaupunki kytkeytyy syntyvyyteen, on se, että perheasuntojen hinnat ovat sisemmässä kaupungissa korkeita ja saattavat vähentää lasten hankintaa.
 
 ### Parisuhteet
-Lienee melko ilmeistä, että syntyvyyden aleneminen liittyy parisuhteiden määrän laskuun (Jalovaara ja Fasang, 2017).Viime vuosina pysyvien parisuhteiden määrä on ilmeisesti laskenut, vaikka parisuhteiden määrä ei välttämättä ole laskenut. Avioituvuutta käytetään mallissa kuvaamaan pysyvien parisuhteiden määrää, jolle se on proksi. Kuva 4 näyttää avioituvuuden kehitystä (Tilastokeskus, 2023c). Avioituvuus tarkoittaa avioliiton solmineiden määrää suhteessa niihin, jotka voisivat mennä naimisiin.
+Lienee melko ilmeistä, että syntyvyyden aleneminen liittyy uusien pysyvien parisuhteiden määrän laskuun (Jalovaara ja Fasang, 2017). Avioituvuus tarkoittaa avioliiton solmineiden määrää suhteessa niihin, jotka voisivat mennä naimisiin. Avioituvuutta käytetään mallissa kuvastamaan uusien pysyvien parisuhteiden määrää, jolle se on proksi. Kuva 4 näyttää avioituvuuden kehitystä (Tilastokeskus, 2023c). 
 
 ![IRR:t](/images/syntyvyys/avioituvuus.png)
-_Kuva 4. Avioituvuus_
+_Kuva 4. Avioituvuus vuoden 2018 ennusteen (punainen) aineistossa ja vuoden 2023 ennusteen (vaaleanpunainen) aineistossa. Yhtenäiset viivat näyttävät tilastoaineisto, katkoviivat ennusteet._
 
 Kuviossa 4 avioituvuuden tulevaa kehitystä on arvioitu (katkoviiva) niin että avioituvuus laskuaan. Kulmakertoimen on kuitenkin arvioitu olevan aiempaa loivempi.
 
@@ -71,7 +71,7 @@ Kuviossa 4 avioituvuuden tulevaa kehitystä on arvioitu (katkoviiva) niin että 
 Sosiaalisen median vaikutusta mallissa kuvaa sosiaalisen median aktiivikäyttäjien osuus Tilastokeskuksen Viestintä- ja tietotekniikan käyttö-tutkimuksesta (“Seuraa jotain yhteisöpalvelua yleensä jatkuvasti kirjautuneena tai useasti päivässä”; Tilastokeskus, 2023a). Kuva 5 näyttää vuoden 2018 ennusteessa käytetyn datan ja Tilastokeskuksen uuden datan (2023a). Katkoviiva esittää ennustetta sosiaalisen median käytön kehitykselle.
 
 ![IRR:t](/images/syntyvyys/some.png)
-_Kuva 5. Sosiaalisen median päivittäinen käyttö_
+_Kuva 5. Sosiaalisen median päivittäinen käyttö vuoden 2018 ennusteen (punainen) aineistossa ja vuoden 2023 ennusteen (vaaleanpunainen) aineistossa. Yhtenäiset viivat näyttävät tilastoaineisto, katkoviivat ennusteet._
 
 Sosiaalisen median käyttö kasvoi koronavuonna 2020 voimakkaasti. Käyttö näyttää saturoituneen, jolloin sen kasvu ei enää jatkossa vaikuttaa syntyvyyttä alentavasti. 
 
@@ -81,7 +81,7 @@ Sovittamalla faktorimalli uuteen dataan ja arvioimalla faktoreiden tulevaa kehit
 Tuloksissa parhaana näkyy kahden faktorin, yhden dummy ja vakiotermin malli, jossa faktoreina ovat 30-34 -vuotiaiden avioituvuus vuoden viiveellä ja sisäkaupungissa asuvien osuus. Dummy-muuttuja kuvaa tässä vuoden 2021 poikkeavaa muutosta. Näillä faktoreilla on mahdollista selittää noin 97 % kokonaishedelmällisyysluvun varianssista datassa.
 
 ![IRR:t](/images/syntyvyys/ennuste2023.png)
-_Kuva 6. Uusi ennuste kokonaishedelmällisyysluvulle vuosina 2023-2030._
+_Kuva 6. Uusi ennuste kokonaishedelmällisyysluvulle vuosina 2023-2030, joka on tehty vuoden 2023 faktorimallilla (vihreä katkoviiva). Musta käyrä näyttää ennusteeseen käytettävissä olevan datan kokonaishedelmällisyysluvusta. Sovite-käyrä näyttää faktorimallin sovitteen käytettävissä olevaan kokonaishedelmällisyysluku-aineiston. Vertailun vuoksi mukana on myös Tilastokeskuksen vuoden 2021 väestöennusteessa käytetyn kokonaishedelmällisyysluvun._
 
 Kuten vuoden 2018 ennusteessa, tässäkään ennusteessa käytetty menetelmä ei mahdollista kausaalista tulkintaa faktoreille.
 Aineiston perusteella ei siis voi tehdä kausaalisia päätelmiä, ainostaan assosiatiivisuutta koskevia. Tämä tietenkin rajoittaa tulkintamahdollisuuksia.
@@ -90,14 +90,14 @@ Aineiston perusteella ei siis voi tehdä kausaalisia päätelmiä, ainostaan ass
 Syntyneiden määrässä näkyy samanlainen kehitys kuin kokonaishedelmällisyysluvussa. Syntyneiden määrään vaikuttaa kokonaishedelmällisyysluvun lisäksi myös synnytysikäisten naisten määrä, mistä johtuu pidempään kestänyt laskeva trendi.
 
 ![IRR:t](/images/syntyvyys/syntyneita2023.png)
-_Kuva 7. Uusi ennuste syntyneiden määrälle vuosina 2023-2030._
+_Kuva 7. Uusi ennuste syntyneiden määrälle vuosina 2023-2030. Musta Havainto-käyrä näyttää ennusteeseen käytettävissä olevan datan syntyneiden lukumääristä. Sovite-käyrä näyttää faktorimallin sovitteen käytettävissä olevaan syntyneiden lukumäärään. Vertailun vuoksi mukana on myös Tilastokeskuksen vuoden 2021 väestöennuste syntyneiden lukumääristä._
 
 ### Vertailu aiempaan ennusteeseen
 Uusi, vuoden 2023 kokonaishedelmällisyyslukuennuste on muistuttaa aiempaa, vuoden 2018 ennustetta. 
 Uudessa ennusteessa kokonaishedelmällisyysluku on hieman alempi vuosina 2023-2030 on hieman vuoden 2018 ennusteessa (kuva 8).
 
 ![IRR:t](/images/syntyvyys/ennustevertailu.png)
-_Kuva 8. Vuosien 2018 ja 2023 ennusteet kokonaishedelmällisyysluvulle._
+_Kuva 8. Vuoden 2018 ennuste (pistekatkoviiva) ja vuoden 2023 ennuste (katkoviiva) kokonaishedelmällisyysluvulle. Musta käyrä näyttää ennusteeseen käytettävissä olevan datan syntyneiden lukumääristä (Havainto)._
 
 Uuden ennusteen mukaan vuoden 2030 kokonaishedelmällisyysluku on 1,044, kun aiemman ennusteen mukaan se tulee olemaan 1,103. Ennuste on vielä synkempi kuin aiempi huolimatta korona-ajan noususta. Uuden ennusteen mukaan korona-vuosien nousu se jää väliaikaiseksi.
 
