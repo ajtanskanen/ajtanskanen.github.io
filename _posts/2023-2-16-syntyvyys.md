@@ -14,14 +14,14 @@ Suomessa syntyvyys on pudonnut rajusti vuoden 2010 jälkeen: Syntyneiden lasten 
 
 # Vuoden 2018 syntyvyysennuste
 
-Syntyvyyden ennustaminen on vaikeaa, koska syntyvyyden muutokseen vaikuttavia tekijöitä ei kovin hyvin tunneta. Tein [marraskuussa 2018 ennusteen](https://ajtanskanen.github.io/posts/2018/11/Sosiaalisen-median-aktiivik%C3%A4ytt%C3%B6-ja-syntyvyys/) syntyvien lasten lukumäärän ja kokonaishedelmällisyysluvun kehityksestä vuosille 2018-2030. Nyt muutaman vuoden jälkeen on hyvä palata aiheeseen ja tarkastaa, osuiko ennuste kohdilleen. 
+Syntyvyyden ennustaminen on vaikeaa, koska syntyvyyden muutokseen vaikuttavia tekijöitä ei kovin hyvin tunneta. Tein [marraskuussa 2018 ennusteen](https://ajtanskanen.github.io/posts/2018/11/Sosiaalisen-median-aktiivik%C3%A4ytt%C3%B6-ja-syntyvyys/) (Tanskanen, 2018) syntyvien lasten lukumäärän ja kokonaishedelmällisyysluvun kehityksestä vuosille 2018-2030. Nyt muutaman vuoden jälkeen on hyvä palata aiheeseen ja tarkastaa, osuiko ennuste kohdilleen. 
 Hieman yllättäen ennuste osoittautui kokolailla hyväksi. 
 
 ### Kokonaishedelmällisyysluku
 ![IRR:t](/images/syntyvyys/ennuste2018.png)
 _Kuva 1. Vertailu vuoden 2018 faktorimallilla tehdyn kokonaishedelmällisyysluku-ennusteen (vihreä Ennuste) osuvuudesta. Musta käyrä näyttää ennusteeseen käytettävissä olleen datan kokonaishedelmällisyysluvusta. Punaisella on merkitty havainnot kokonaishedelmällisyysluvusta, joka ei ollut saatavilla ennustetta tehtäessä. Sovite-käyrä näyttää faktorimallin sovitteen käytettävissä olleeseen aineistoon._
 
-Ennusteen vuosien 2018-2030 syntyvyydelle ja kokonaishedelmällisyysluvulle perustui yksinkertaiseen bayesilaiseen faktorimalliin. Kuva 1 näyttää faktorimallin ennusteen kokonaishedelmällisyysluvulle yhdessä havaintojen ja vaihtoehtoisten ennusteiden kanssa. Kuvassa 1 musta käyrä näyttää havaitut kokonaishedelmällisyysluvut vuosina 1990-2017 ja arvion vuoden 2018 kokonaishedelmällisyysluvuksi. Turkoosi käyrä näyttää sovitteen vuosille 1990-2017. 
+Ennusteen vuosien 2018-2030 syntyvyydelle ja kokonaishedelmällisyysluvulle perustui yksinkertaiseen bayesilaiseen faktorimalliin (Clyde, 2022). Kuva 1 näyttää faktorimallin ennusteen kokonaishedelmällisyysluvulle yhdessä havaintojen ja vaihtoehtoisten ennusteiden kanssa. Kuvassa 1 musta käyrä näyttää havaitut kokonaishedelmällisyysluvut vuosina 1990-2017 ja arvion vuoden 2018 kokonaishedelmällisyysluvuksi. Turkoosi käyrä näyttää sovitteen vuosille 1990-2017. 
 
 Vuonna 2018 tehty ennuste vuosille 2018-2030 on kuvassa merkitty katkoviivalla. Kun ennustetta vertaa vuosien 2018-2022 havaintoihin, huomaa että ennuste on vuosina 2020 ja 2022 kohdallaan, mutta vuosien 2019 ja 2021 ennusteet poikkeavat toteutuneista. Vuoden 2021 koronapiikkiä tuskin olisi voinut edes ennustaa vuonna 2018. Erityisesti vuoden 2022 arvio on hyvä: toteutunut oli 1,31 ja ennuste 1,32. Onnistumisesta huolimatta on pettynyt olo: en olisi halunnut nähdä laskevan trendin jatkuvan.
 
@@ -129,6 +129,8 @@ Tulevaisuus näyttää entistä vähälapsiselta, mutta rakkaus - ja sen seurauk
 Becker, G.S., Barro, R.J., Reformulation of the economic theory of fertility, The quarterly journal of economics, 1988
 
 Boldrin, M., De Nardi, M., Jones, L.E. Fertility and social security, Journal of Demographic Economics 81, 261-299, https://doi.org/10.1017/dem.2014.14, 2015
+
+Clyde, M., BAS: Bayesian Variable Selection and Model Averaging using Bayesian Adaptive Sampling, R package version 1.6.4, 2022
 
 Doepke, M., Child mortality and fertility decline: Does the Barro-Becker model fit the facts?
 
