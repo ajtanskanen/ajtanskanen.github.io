@@ -21,7 +21,7 @@ Hieman yllättäen ennuste osoittautui kokolailla hyväksi.
 ![IRR:t](/images/syntyvyys/ennuste2018.png)
 _Kuva 1. Vertailu vuoden 2018 ennusteen (vihreä Ennuste) osuvuudesta. Punaisella on merkitty dataa, joka ei ollut saatavilla ennustetta tehtäessä._
 
-Ennusteen vuosien 2018-2030 syntyvyydelle ja kokonaishedelmällisyysluvulle perustui yksinkertaiseen bayesilaiseen regressiomalliin. Kuva 1 näyttää regressiomallin ennusteen kokonaishedelmällisyysluvulle yhdessä havaintojen ja vaihtoehtoisten ennusteiden kanssa. Kuvassa 1 musta käyrä näyttää havaitut kokonaishedelmällisyysluvut vuosina 1990-2017 ja arvion vuoden 2018 kokonaishedelmällisyysluvuksi. Turkoosi käyrä näyttää sovitteen vuosille 1990-2017. 
+Ennusteen vuosien 2018-2030 syntyvyydelle ja kokonaishedelmällisyysluvulle perustui yksinkertaiseen bayesilaiseen faktorimalliin. Kuva 1 näyttää faktorimallin ennusteen kokonaishedelmällisyysluvulle yhdessä havaintojen ja vaihtoehtoisten ennusteiden kanssa. Kuvassa 1 musta käyrä näyttää havaitut kokonaishedelmällisyysluvut vuosina 1990-2017 ja arvion vuoden 2018 kokonaishedelmällisyysluvuksi. Turkoosi käyrä näyttää sovitteen vuosille 1990-2017. 
 
 Vuonna 2018 tehty ennuste vuosille 2018-2030 on kuvassa merkitty katkoviivalla. Kun ennustetta vertaa vuosien 2018-2022 havaintoihin, huomaa että ennuste on vuosina 2020 ja 2022 kohdallaan, mutta vuosien 2019 ja 2021 ennusteet poikkeavat toteutuneista. Vuoden 2021 koronapiikkiä tuskin olisi voinut edes ennustaa vuonna 2018. Erityisesti vuoden 2022 arvio on hyvä: toteutunut oli 1,31 ja ennuste 1,32. Onnistumisesta huolimatta on pettynyt olo: en olisi halunnut nähdä laskevan trendin jatkuvan.
 
@@ -37,7 +37,7 @@ _Kuva 2. Syntyneiden lukumäärä 2018 verrattuna toteutuneeseen._
 Selityksiksi syntyvyyden laskulle on esitetty mm. työttömyyttä (Hiilamo, 2017) ja miesten heikkoa kiinnittymistä työsuhteeseen (Miettinen ja Jalovaara, 2015). Muissa maissa syntyvyyden laskun on arvioitu aiheutuvan mm. lapsikuolleisuuden vähenemisestä (Becker ja Barro, 1988), kaupungistumisesta (Martine et al., 2013) ja vanhuuseläkkeiden korkeammasta korvausasteesta (Boldrin et al., 2015). Sen lisäksi että työttömyys alentaisi syntyvyyttä, taloudellisten kriisien on myös havaittu lisänneen syntyvyyttä (Kohler ja Kohler, 2002). Suomessa Korona-kriisin aikana syntyvyys kasvoi vuosina 2020 ja 2021, mutta ei enää 2022.
 Myös Väestöntutkimuslaitos on analysoinut syitä syntyvyyden laskulle, mutta selkeätä syytä ei ole löytynyt (Rotkirch et al, 2017).
 
-Tässä tarkastellussa regressiomallissa tärkeimmät tekijät ovat kaupungistuminen, avioliittojen määrän lasku ja sosiaalisen median päivittäisen käytön lisääntyminen. 
+Tässä tarkastellussa faktorimallissa tärkeimmät tekijät ovat kaupungistuminen, avioliittojen määrän lasku ja sosiaalisen median päivittäisen käytön lisääntyminen. 
 
 Ennuste faktoreiden kehotyksestä on tehty jatkamalla lineaarisesti ajassa eteenpäin havaittuja trendeja avioituvuudelle, kaupungistumiselle ja aktiivisten somen käyttäjien osuudelle. Muut faktorit pidetään vakioina. Tarkastellaan näitä kolmea tärkeintä faktoria seuraavassa erikseen.
 
@@ -50,7 +50,7 @@ Kaupungistumista kuvaa sisemmässä kaupungissa, ulommassa kaupungissa ja kehysk
 
 Mallissa erityisesti sisemmässä kaupungissa asuvien osuus väestöstä vaikuttaa syntyvyyteen. Mitä suurempi osa
 väestöstä asuu tiiviisti kaupunkien keskustoissa, sen alempi syntyvyys. Tämä osuus tulee todenäköisesti kasvamaan Suomessa
-edelleen, mikä regressiomallin mukaan tulee jatkossakin alentamaan syntyvyyttä. Kuva 3 näyttää sisemmässä kaupungissa asuvien osuuden (Tilastokeskus, 2023b). 
+edelleen, mikä faktorimallin mukaan tulee jatkossakin alentamaan syntyvyyttä. Kuva 3 näyttää sisemmässä kaupungissa asuvien osuuden (Tilastokeskus, 2023b). 
 
 ![IRR:t](/images/syntyvyys/sisempikaupunki.png)
 _Kuva 3. Sisemmässä kaupungissa asuvien osuus väestöstä vuoden 2018 ennusteessa ja vuoden 2023 ennusteessa._
@@ -76,7 +76,7 @@ _Kuva 5. Sosiaalisen median päivittäinen käyttö_
 Sosiaalisen median käyttö kasvoi koronavuonna 2020 voimakkaasti. Käyttö näyttää saturoituneen, jolloin sen kasvu ei enää jatkossa vaikuttaa syntyvyyttä alentavasti. 
 
 # Uusi ennuste
-Sovittamalla regressiomalli uuteen dataan ja arvioimalla faktoreiden tulevaa kehitystä voi tehdä uuden ennusteen kokonaishedelmällisyysluvulle ja syntyneiden lukumäärälle. Kuvassa 6 on näin tehty uusi ennuste kokonaishedelmällisyysluvulle.Vuoden 2018 ennusteessa kokonaishedelmällisyysluku aleni 1,1:een vuonna 2030. Päivitetty, vuoden 2023 ennuste menee vielä alemmas: kokonaishedelmällisyysluku on 1,044 vuonna 2030.
+Sovittamalla faktorimalli uuteen dataan ja arvioimalla faktoreiden tulevaa kehitystä voi tehdä uuden ennusteen kokonaishedelmällisyysluvulle ja syntyneiden lukumäärälle. Kuvassa 6 on näin tehty uusi ennuste kokonaishedelmällisyysluvulle.Vuoden 2018 ennusteessa kokonaishedelmällisyysluku aleni 1,1:een vuonna 2030. Päivitetty, vuoden 2023 ennuste menee vielä alemmas: kokonaishedelmällisyysluku on 1,044 vuonna 2030.
 
 Tuloksissa parhaana näkyy kahden faktorin, yhden dummy ja vakiotermin malli, jossa faktoreina ovat 30-34 -vuotiaiden avioituvuus vuoden viiveellä ja sisäkaupungissa asuvien osuus. Dummy-muuttuja kuvaa tässä vuoden 2021 poikkeavaa muutosta. Näillä faktoreilla on mahdollista selittää noin 97 % kokonaishedelmällisyysluvun varianssista datassa.
 
@@ -98,16 +98,16 @@ _Kuva 8. Vuosien 2018 ja 2023 ennusteet kokonaishedelmällisyysluvulle._
 
 Uuden ennusteen mukaan vuoden 2030 kokonaishedelmällisyysluku on 1,044, kun aiemman ennusteen mukaan se tulee olemaan 1,103. Ennuste on vielä synkempi kuin aiempi huolimatta korona-ajan noususta. Uuden ennusteen mukaan korona-vuosien nousu se jää väliaikaiseksi.
 
-### Regressiomalli
+### Faktorimalli
 
-Taulukoissa 1-3 esitetään bayesilaisten regressiomallien yksityiskohtia. Ne ovat valitettavasti hieman vaikealukuisia.
-Taulukoissa HPM viittaa todennäköisimpään malliin, kun taas BMA viittaa agregaattiin 1024:stä todenäköisimmästä regressiomallista.
+Taulukoissa 1-3 esitetään bayesilaisten faktorimallien yksityiskohtia. Ne ovat valitettavasti hieman vaikealukuisia.
+Taulukoissa HPM viittaa todennäköisimpään malliin, kun taas BMA viittaa agregaattiin 1024:stä todenäköisimmästä faktorimallista.
 
 ![IRR:t](/images/syntyvyys/posterior2023.png)
-_Taulukko 1. Regression termit, todennäköisin malli_
+_Taulukko 1. Todennäköisin faktorimalli_
 
 ![IRR:t](/images/syntyvyys/bmaposterior2023.png)
-_Taulukko 2. Regression termit, aggregaatti_
+_Taulukko 2. Aggregaatti faktorimallit_
 
 ![IRR:t](/images/syntyvyys/coef2023.png)
 _Taulukko 3. Todennäköisyys että faktorin kerroin poikkeaa nollasta (P(B!=0)) kaikissa malleissa. Lisäksi näytetään kuuluvatko faktorit todennäköisimpiin malleihin. Rivi R2 kertoo kuinka suuren osuuden varianssista malli selittää._
