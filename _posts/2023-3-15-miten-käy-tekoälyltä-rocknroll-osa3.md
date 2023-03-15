@@ -7,7 +7,7 @@ summary: 'Blogi | Yle Radio Suomen Poppikoulussa osallistujat kilpailevat priimu
 tags:
   - musiikki
   - AI
-  - tekoäly
+  - tekoäly 
     poppikoulu
 ---
 
