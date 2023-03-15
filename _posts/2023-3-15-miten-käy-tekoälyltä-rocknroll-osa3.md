@@ -18,6 +18,9 @@ miten hyvin tekoäly pärjää ihmisiä vastaan. Aiemmissa jaksoissa on kokeiltu
 Toistaiseksi ihminen on ne voittanut. Nyt OpenAI on kuitenkin julkaissut jälleen uuden, entisiä paremman
 version, GPT-4:n. Miten sen kanssa käy?
 
+Tekoäly vastaan ihminen
+---
+
 Tässä tarkoituksessa valitsin sattumanvaraisen Poppikoulun jakson ja testasin tekoälyn terävyyttä 
 Poppikoulun kysymyksillä. 
 Onni suosi jaksoa, jossa haastaja Aukusti ja priimus Eino vastaavat 60-luvun pop- ja elokuvamusiikkia sekä iskelmää koskeviin kysymyksiin.
@@ -27,7 +30,7 @@ ChatGPT oli selvästi käytettävämpi. Tässä ChatGPT:n sijaan esiintyy GPT-3.
 Maaliskuussa 2023 OpenAI julkaisi jälleen uuden GPT:n. Tällä kertaa version 4. Kokeillaampa sitäkin.
 
 ![Kuva 1. GPT-3:lle kysymykset esitetään tekstimuodossa.](/images/poppis1.png)
-Kuva 1. Kielimallille kysymykset esitetään tekstimuodossa.
+_Kuva 1. Kielimallille kysymykset esitetään tekstimuodossa._
 
 Poppikoulu voi alkaa
 ----
@@ -240,8 +243,16 @@ viime aikoina julkaistu kiivaaseen tahtiin. Tuorein tulokas on GPT-4. Ja niinhä
 | GPT-3 | 4 pistettä |
 | Aukusti | 3 pistettä |
 
+_Taulukko 1. Lopputulokset_
+
 Lopputuloksena Eino ja GPT-4 voittavat tasapistein 7 pisteellä, DaVinci tulee kolmanneksi 5 pisteellä, GPT-3 tulee neljänneksi 4 pisteellä, ja Aukusti jää tekoälyn taakse 3 pisteellä. 
 GPT-4 ei hyvästä alusta huolimatta onnistu dominoimaan Poppikoulua, vaan voitto jää jaetuksi. GPT-4 voittaa kuitenkin selvästi edeltäjänsä DaVincin ja GPT-3:n. Tätä ei voi pitää huonona saavutuksena. Itse en tiennyt ensimmäistäkään vastausta.
 
+Reaktio
+---
+
+GPT-4 onnistui pääsemään voittajaksi tasapisteisiin. Ihmisen päihittäminen jäi kuitenkin tulevaisuuteen. 
+Entä miten GPT-4 suhtautuu lopputulokseen? Perin koulumestarimaisesti.
+
 ![Kuva 2. Tekoäly ottaa tappion raskaasti.](/images/poppisgpt4.png)
-Kuva 2. Shampanjan poksauttelun sijaan GPT-4 juhlii koulumestarimaisesti luennolla.
+_Kuva 2. Shampanjan poksauttelun sijaan GPT-4 juhlii koulumestarimaisesti luennolla._
