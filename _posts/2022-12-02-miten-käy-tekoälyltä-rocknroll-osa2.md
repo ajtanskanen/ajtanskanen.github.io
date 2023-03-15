@@ -1,5 +1,5 @@
 ---
-title: 'Miten käy tekoälyltä rock’n’roll: GPT-3.5 haastaa Aukustin ja Einon'
+title: 'Miten käy tekoälyltä rock’n’roll, osa 2: GPT-3.5 haastaa Aukustin ja Einon'
 date: 2022-12-02
 permalink: /posts/2022/12/Miten-käy-tekoälyltä-rocknroll-v2/
 image: /images/poppis1.jpg
@@ -73,6 +73,8 @@ Tilanne: GPT 2, Aukusti 0, Eino 3, DaVinci 3
 GPT-3 jatkaa kulkuaan varmana vastauksestaan, mutta on jälleen väärässä. Eino sitä vastoin siirtyy johtoon kolmella pisteellä, Aukusti jatkaa pisteittä peränpitäjänä.
 
 Elokuva
+---
+
 Seuraavaan kysymykseen liittyy musiikkinäyte, mutta GPT-3 saa luvan pärjätä ilman.
 
     Lähdetään vuodesta 1953, kun Pekka Puupää oli kesälaitumilla. Elokuvassa kuultiin myös yksi Olavi Virran suosituimmista levytyksistä. Mikä Kärki-Helismaa -klassikko tuossa elokuvassa soi? + musiikkinäyte
@@ -203,7 +205,7 @@ GPT-3 vastaa kaikkiin kysymyksiin yhtä vakuuttavasti. Useimmat vastaukset ovat 
 vaikka oikeat vastaukset ovat varmasti olleet GPT-3:n opetusaineistossa. 
 Jo nykyisessä muodossa tekoäly haastaa ihmiskilpailijat jotakuinkin samalla tasolla. 
 Muutaman vuoden päästä tilanne voi olla jo aivan toinen: uusia, parempia tekoälypohjaisia kielimalleja on 
-viime aikoina julkaistu kiivaaseen tahtiin.
+viime aikoina julkaistu kiivaaseen tahtiin. 
 
 | Kilpailija | Tulos |
 |-------|--------|
@@ -212,7 +214,7 @@ viime aikoina julkaistu kiivaaseen tahtiin.
 | GPT-3 | 4 pistettä |
 | Aukusti | 3 pistettä |
 
-Viimeisessä kysymyksessä Aukusti saa kolmannen pisteensä. Lopputuloksena Eino voittaa 5 pisteellä, GPT-3 tulee toiseksi 4 pisteellä, ja Aukusti jää tekoälyn taakse 3 pisteellä. 
+Viimeisessä kysymyksessä Aukusti saa kolmannen pisteensä. Lopputuloksena Eino voittaa 7 pisteellä, DaVince tulee toiseksi 5 pisteellä, GPT-3 tulee kolmanneksi 4 pisteellä, ja Aukusti jää tekoälyn taakse 3 pisteellä. 
 GPT-3 ei hyvästä alusta huolimatta onnistu dominoimaan Poppikoulua, vaan jää kolmanneksi. DaVinci voittaa edeltäjänsä pisteellä,
 mutta Eino voittaa edelleen. 
 Tätä ei voi pitää huonona saavutuksena. Itse en tiennyt ensimmäistäkään vastausta.
