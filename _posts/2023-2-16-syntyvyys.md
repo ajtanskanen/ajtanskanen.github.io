@@ -121,6 +121,7 @@ Mallit 1-3 selittävät 97 - 97,9 % datan varianssista. Tällä mittarilla ne si
 Vuonna 2018 tehty ennuste osui kohdalleen yllättävän hyvin, erityisesti vuosina 2020 ja 2022. Koronan vaikutusta syntyvyyteen 2021 tuskin olisi ollut mahdollista ennustaa vuonna 2018. Ennusteessa kokonaishedelmällisyyslukuun vaikuttavat erityisesti kaupungistuminen, avioituvuus ja päivittäinen some käyttö, joista erityisesti kaupungistuminen ja avioituminen vaikuttavat jatkossa. 
 
 Pysyvien parisuhteiden määrään tuskin voi vaikuttaa etuuksilla, joten on epätodennäköistä, että etuusmuutoksilla voi kovin paljon vaikuttaa syntyvyyteen. Kaupungistumista taas ei välttämättä ole mahdollista tai edes syytä hidastaa. On epäselvää, miksi kaupungistuminen alentaa syntyvyyttä. Mahdollisia selityksiä ovat esimerkiksi kaupunkilainen ikisinkkuus ja lapsiperheille pienet asunnot.
+Tämän blogin jatkona ![kirjoitin hieman laajemman kuvauksen mallista](/publication/2023-03-25-Can-total-fertility-rate-be-predicted).
 
 Tulevaisuus näyttää entistä vähälapsiselta, mutta rakkaus - ja sen seurauksena lapsiluku - saattaa yllättää.
 
