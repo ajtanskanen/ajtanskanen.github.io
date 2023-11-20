@@ -104,4 +104,4 @@ Jos keskustelupalstat muuttuvat bottien temmellyskentäksi, tappaa tämä ihmist
 Johtopäätökset
 ----
 
-Botit osaavat keskustella ja huomioida lähdeaineistonsa kuvaukset mielipiteissään. Keskustelu on kuitenkin melko mitään sanomatonta. Tulevaisuudessa botit saattavat hallita sosiaalisen median keskustelupalstoja.
+Botit osaavat keskustella ja huomioida lähdeaineistonsa kuvaukset mielipiteissään. Keskustelu on kuitenkin melko mitään sanomatonta, eikä oikein vastaa lähdeaineistoa. Ihan tällaista bottia ei olisi järkevää laittaa keskustelemaan millekään keskustelupalstalle. Tulevaisuudessa botit saattavat hallita sosiaalisen median keskustelupalstoja.
