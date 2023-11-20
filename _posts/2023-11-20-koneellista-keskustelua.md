@@ -90,45 +90,41 @@ Bottien keskustelu työttömyysturvasta oli niin väritöntä, että lisätään
 
 Nyt botit ryhtyvät jo vääntämään ja inttämään. Tekstit näyttävät kyllä X/Twitteriltä, mutta eivät oikein vastaa oikeiden SAK:n ja EK:n twiittejä. 
 
-Melko helposti voi kouluttaa itselleen botin, joka pääsee melko lähelle tavoiteltuja näkemyksiä.
-
 Julkinen talous
 ---
 
 Väännetään särmää hieman pienemmälle ja kokeillaan vielä kerran, jos sävy menisi paremmin kohdilleen.
 Tällä kertaa SAK-botti aloittaa aiheesta "Miten vahvistaa julkista taloutta ja pienentää kestävyysvajetta?"
 
-### SAK-botti
+#### SAK-botti
+> *Työllisyysaste ylös, harmaa talous kuriin, ja investoinnit koulutukseen sekä tutkimukseen vahvaksi! Kun työssäkäyvien määrä kasvaa, kasvaa myös verotulot ja talous. Sijoitukset osaamiseen tuottavat tulevaisuudessa. #kestävyysvaje #julkistalous #työllisyys* 
 
-*Työllisyysaste ylös, harmaa talous kuriin, ja investoinnit koulutukseen sekä tutkimukseen vahvaksi! Kun työssäkäyvien määrä kasvaa, kasvaa myös verotulot ja talous. Sijoitukset osaamiseen tuottavat tulevaisuudessa. #kestävyysvaje #julkistalous #työllisyys* 
+#### EK-botti
+> *Työllisyysasteen nousu 👍, mutta älkäämme unohtako yritysten tarpeita! Ilman kilpailukykyistä toimintaympäristöä ja kevennettyä sääntelytaakkaa emme yllä tavoitteisiin. Harmaa talous on kitkettävä järein ottein! 🔨 Satsaukset osaamiseen ovat hyvä, mutta ne vaativat myös markkinat, jonne innovaatiot voidaan kaupallistaa. #tehokkuus #innovaatio #yritysystävällisyys* 
 
-### EK-botti
+#### SAK-botti
+> *Yritysten kilpailukyky on tärkeää, mutta ei työntekijöiden oikeuksien kustannuksella. Sääntelyn purkamisen on oltava harkittua ja kohtuullista. Markkinoille pääsyn helpottaminen ei saa tarkoittaa työehtojen polkemista. Harmaa talous on torjuttava tiukasti, mutta tasapainoista politiikkaa unohtamatta. Työntekijöiden edut ovat yritysten menestyksen kulmakivi. #työehto #oikeudenmukaisuus #työntekijöidenoikeudet* 
 
-*Työllisyysasteen nousu 👍, mutta älkäämme unohtako yritysten tarpeita! Ilman kilpailukykyistä toimintaympäristöä ja kevennettyä sääntelytaakkaa emme yllä tavoitteisiin. Harmaa talous on kitkettävä järein ottein! 🔨 Satsaukset osaamiseen ovat hyvä, mutta ne vaativat myös markkinat, jonne innovaatiot voidaan kaupallistaa. #tehokkuus #innovaatio #yritysystävällisyys* 
+#### EK-botti
 
-### SAK-botti
-
-*Yritysten kilpailukyky on tärkeää, mutta ei työntekijöiden oikeuksien kustannuksella. Sääntelyn purkamisen on oltava harkittua ja kohtuullista. Markkinoille pääsyn helpottaminen ei saa tarkoittaa työehtojen polkemista. Harmaa talous on torjuttava tiukasti, mutta tasapainoista politiikkaa unohtamatta. Työntekijöiden edut ovat yritysten menestyksen kulmakivi. #työehto #oikeudenmukaisuus #työntekijöidenoikeudet* 
-
-### EK-botti
-
-*Kilpailukyvyn ja työntekijöiden oikeuksien vastakkainasettelu on vanhanaikaista ajattelua. Vahvat yritykset tarvitsevat vahvoja työntekijöitä. Sääntelypurku ei tarkoita työehtojen heikkenemistä, vaan turhan byrokratian karsimista. Työmarkkinoiden joustavuus 🔀➡️ tuottavuus. Harmaan talouden torjunnassa ei kompromisseja! Kaikkien etu, että pelataan samalla säännöillä. #työnantaja #työntekijä #yhteistyölläetu_bp* 
+> *Kilpailukyvyn ja työntekijöiden oikeuksien vastakkainasettelu on vanhanaikaista ajattelua. Vahvat yritykset tarvitsevat vahvoja työntekijöitä. Sääntelypurku ei tarkoita työehtojen heikkenemistä, vaan turhan byrokratian karsimista. Työmarkkinoiden joustavuus 🔀➡️ tuottavuus. Harmaan talouden torjunnassa ei kompromisseja! Kaikkien etu, että pelataan samalla säännöillä. #työnantaja #työntekijä #yhteistyölläetu_bp* 
 
 Menee edelleen inttämiseksi ja varsinainen pihvi, julkisen talouden vahvistaminen, unohtuu boteilta. 
 Ihan ei vielä nämä botit korvaa ihmistä keskustelijana, mutta sinnepäin mennään.
 
-Keskustelunpalstojen tulevaisuus
+Sosiaalisen median ja keskustelunpalstojen tulevaisuus
 ----
 
-Mutta mitä bottin kasvavat kyvyt tarkoittavat keskustelupalstoille? Päivystävätkö jatkossa keskustelupalstoilla todelliset mielipideautomaatit? Olisi melko helppo tehdä botti, joka vastaisi kaikkiin tietyn aihepiirin kommentteihin. Ja jos jokaisella taholla olisi oma botti, hukkuisi sosiaalinen media bottien viesteihin.
+Mutta mitä bottin kasvavat kyvyt tarkoittavat sosiaaliselle medialle ja keskustelupalstoille? Päivystävätkö jatkossa keskustelupalstoilla todelliset mielipideautomaatit? Olisi melko helppo tehdä botti, joka vastaisi kaikkiin tietyn aihepiirin kommentteihin. Tai vaikka seuraisi jotain tiettyä tahoa ja vastaisi aggressiivisesti kaikkiin ko. tahon viesteihin. Jos jokaisella mielipiteeseen vaikuttamaan pyrkivällä taholla olisi oma bottiarmeija, hukkuisi sosiaalinen media bottien viesteihin.
 
+Bottien esittämiä mielipiteitä ei välttämättä pysty erottamaan ihmisten esittämistä. 
+Jokainen voi helposti kouluttaa itselleen botin, joka pääsee melko lähelle tavoiteltuja näkemyksiä.
 Valtiolliset toimijat, kuten Venäjä, voivat hyödyntää -- ja varmasti hyödyntävät jo nyt -- botteja tuottamaan tarkoituksellisen provosoivaa sisältöä. Tämä tuskin tulee vähenemään. 
 
-Bottien esittämiä mielipiteitä ei välttämättä pysty erottamaan ihmisten esittämistä. Selvyyden vuoksi on hyvä todeta, että tämän blogin on kirjoittanut ihminen.
+Jos keskustelupalstat muuttuvat bottien temmellyskentäksi, tappaa tämä ihmisten välisen keskustelun. Elon Muskin huoli boteista ei ole perusteeton. Selvyyden vuoksi on hyvä todeta, että tämän blogin on kirjoittanut ihminen.
 
-Jos keskustelupalstat muuttuvat bottien temmellyskentäksi, tappaa tämä ihmisten välisen keskustelun. Elon Muskin huoli boteista ei ole perusteeton.
 
 Johtopäätökset
 ----
 
-Botit osaavat keskustella ja huomioida lähdeaineistonsa kuvaukset mielipiteissään. Keskustelu on kuitenkin melko mitään sanomatonta, eikä oikein vastaa lähdeaineistoa. Ihan tällaista bottia ei olisi järkevää laittaa keskustelemaan millekään keskustelupalstalle. Tulevaisuudessa botit saattavat hallita sosiaalisen median keskustelupalstoja.
+Botit osaavat keskustella ja huomioida lähdeaineistonsa kuvaukset mielipiteissään. Keskustelun sävyn säätäminen vaatii jonkin verran työtä, eivätkä bottien tekstit aina oikein vastaa lähdeaineistoa. Silti  botit saattavat tulevaisuudessa hallita sosiaalisen median keskustelupalstoja.
