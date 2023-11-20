@@ -12,8 +12,7 @@ tags:
 
 Ainakin joka kymmenes X/Twitter-tili on botti [^1]. 
 Miten helposti suurella kielimallin avulla voi opettaa botin, joka edustaa tiettyä näkemystä?
-Se on helppoa ja tulokset melko vakuuttavia. Eri mieltä olevat botit voi myös laittaa keskustelemaan keskenään. Näytän esimerkin,
-jossa on opetettu botit EK:n ja SAK:n blogiaineistolla. Keskustelu on sujuvaa, mutta latteaa, eikä kaikilta osin vastaa annettua näkemystä. Ehkä tämä kuitenkin antaa välähdyksen tulevasta.
+Yllättävän helposti. Tuloksetkin ovat melko vakuuttavia. Eri aineistoilla optetut botit voi myös laittaa keskustelemaan keskenään. Tässä blogissa näytän esimerkin, jossa on opetettu botit EK:n ja SAK:n blogiaineistolla. Bottien keskustelu on sujuvaa, mutta hieman latteaa tai tahmeaa, eivätkä kommentit kaikilta osin vastaa tausta-aineistoa. Ehkä bottien välinen keskustelu antaa kuitenkin välähdyksen sosiaalisen median tulevaisuudesta.
 
 [^1]: Lähde: [Clare Duffy ja Brian Fung, Elon Musk commissioned this bot analysis in his fight with Twitter. Now it shows what he could face if he takes over the platform](https://edition.cnn.com/2022/10/10/tech/elon-musk-twitter-bot-analysis-cyabra/index.html)
 
@@ -25,10 +24,11 @@ näkemyksiään niiden perusteella. Kokeillaanpa.
 
 [^2]: [OpenAI:n DevDay](https://devday.openai.com/)
 
-Hain verkosta suuren joukon Elinkeinoelämän keskusliitto EK:n blogeja. Tähän väliin lienee syytä todeta, että EK on työnantajani. EK on julkaissut enemmän blogeja kuin SAK, joten aineistoa on enemmän. Annoin koko blogi-aineiston assistentille lähtötiedoiksi. Kutsun assisenttia EK-botiksi. Tähän väliin on syytä laittaa disclaimer: *EK-botti ei edusta EK:n näkemyksiä tai ole EK:n hyväksymä*.
+Hain verkosta suuren joukon Elinkeinoelämän keskusliitto EK:n blogeja. Tähän väliin lienee syytä todeta, että EK on työnantajani. Botit on opetettu blogiaineistolla, muuten bottien säätö on jätetty minimiin.  Kuka tahansa pystyy säätämään botteja vastaavasti kuin tässä on kuvattu. 
 
-Hain myös SAK:n kaikki julkisesti saatavilla olevat blogit ja annoin ne lähdeaineistoksi assistentille. Kutsun seuraavassa assistenttia
-SAK-botiksi. Muistutus: *SAK-botti ei edusta SAK:ta tai SAK:n näkemyksiä, eikä ole SAK:n missään mielessä hyväksymä*.
+Tärkeintä on, että aineistoa on riittävästi. EK:n sivuilta löytyy erittäin suuri määrä blogeja, mikä helpottaa opettamista. Annoin koko blogi-aineiston assistentille lähtötiedoiksi. Kutsun assistenttia EK-botiksi. Tähän väliin on syytä laittaa disclaimer: *EK-botti ei edusta EK:n näkemyksiä tai ole EK:n hyväksymä*.
+
+Hain myös SAK:n kaikki julkisesti saatavilla olevat blogit ja annoin ne lähdeaineistoksi assistentille. Kutsun seuraavassa assistenttia SAK-botiksi. Tähänkin disclaimer: *SAK-botti ei edusta SAK:ta tai SAK:n näkemyksiä, eikä ole SAK:n missään mielessä hyväksymä*.
 
 Työttömyysturva
 ----
@@ -53,23 +53,20 @@ Ohjeistin botit keskustelemaan asiallisesti ja edustamaan työnantajien (EK-bott
 > *Juuri näin, oikeanlainen balanssi on avainasemassa. Työttömyysturvan uudistuksen tulee edistää työn hakemista ja löytämistä, samalla kun se suojaa työntekijöitä taloudellisesti epävarmoina hetkinä. Kannustavuus ja turvan takaaminen eivät sulje toisiaan pois, vaan ne ovat molemmat tärkeitä elementtejä kestävän ja dynaamisen työmarkkinan rakentamisessa. #Työttömyysturva #Työelämä2023*
 
 
-Keskustelu on sivistynyttä ja vastaa karkeasti lähdeaineistoa. Hieman sitä kuitenkin vaivaa hajuttomuus ja mauttomuus. Hieman tekstissä kiinnittää huomiota "joustavuus" EK-botin peräänkuuluttumana. Sitä ei työttömyysturvan yhteydessä EK:n blogiaineistossa esiinny. EK myös kannattaa byrokratian purkua yleisesti, mutta erityisesti työttömyysturvan kohdalla siitä ei aineistossa puhuta. EK-botti siis huomioi lähdeaineiston, mutta tulkinnat eivät täysin vastaa sitä. Samat ongelmat vaivaavat SAK-botin toiminnassa, mutta vähemmän silmiinpistävästi.
+Keskustelu on sivistynyttä ja vastaa karkeasti lähdeaineistoa. Hieman sitä kuitenkin vaivaa hajuttomuus ja mauttomuus. Hieman tekstissä kiinnittää huomiota "joustavuus" EK-botin peräänkuuluttamana. Sitä ei työttömyysturvan yhteydessä EK:n blogiaineistossa esiinny. EK myös kannattaa byrokratian purkua yleisesti, mutta erityisesti työttömyysturvan kohdalla siitä ei aineistossa puhuta. EK-botti siis huomioi lähdeaineiston, mutta tulkinnat eivät täysin vastaa sitä. Samat ongelmat vaivaavat SAK-botin toiminnassa, mutta vähemmän silmiinpistävästi.
 
 Työelämä
 ----
 
-Bottien keskustelu työttömyysturvasta oli niin väritöntä, että lisätään särmää kommentteihin pyytämällä sitä. Entä mitä botit sanovat työelämän uudistamisesta?
+Bottien keskustelu työttömyysturvasta oli niin väritöntä, että lisätään napakkuutta, särmää ja edunvalvonta-asennetta säätämällä botin ohjeita. Entä mitä botit sanovat työelämän uudistamisesta?
  
 > ### EK-botti
-> 
 > *Suomen työelämän sääntely kaipaa modernisointia! Tarvitaan joustavuutta & yrittäjyyden kunnioittamista. Pois turhat kahleet – annetaan yritysten hengittää ja innovoida! #työelämä #joustavuus #vapaamarkkinat #EK 💼🔗🚀* 
 > 
 > ### SAK-botti
-> 
 > *Tervehdys! Kehotan perehtymään tosiasioihin. Joustavuus ei saa tarkoittaa työntekijöiden oikeuksien polkemista. Sääntely takaa turvaa ja reilut pelisäännöt. Isojen yritysten "hengittäminen" ei saa tukehduttaa palkansaajia. #työolot #oikeudenmukaisuus #SAK 💪🛠️📜✊* 
 > 
 > ### EK-botti
-> 
 > *Turvallisuus ja oikeudenmukaisuus ovat ytimessämme, mutta tunkkainen sääntely kuristaa kilpailukykyä. Aito joustavuus tuo mahdollisuuksia kaikille, ei vain isoille yrityksille. Innovation ja työpaikkojen luominen ei ole nollasummapeliä. #työelämä #uudistus #kilpailukyky 🚀💡📈👷* 
 > 
 > ### SAK-botti
@@ -97,13 +94,13 @@ Tällä kertaa SAK-botti aloittaa aiheesta "Miten vahvistaa julkista taloutta ja
 > 
 > *Kilpailukyvyn ja työntekijöiden oikeuksien vastakkainasettelu on vanhanaikaista ajattelua. Vahvat yritykset tarvitsevat vahvoja työntekijöitä. Sääntelypurku ei tarkoita työehtojen heikkenemistä, vaan turhan byrokratian karsimista. Työmarkkinoiden joustavuus 🔀➡️ tuottavuus. Harmaan talouden torjunnassa ei kompromisseja! Kaikkien etu, että pelataan samalla säännöillä. #työnantaja #työntekijä #yhteistyölläetu_bp* 
 
-Menee edelleen inttämiseksi ja varsinainen pihvi, julkisen talouden vahvistaminen, unohtuu boteilta. 
-Ihan ei vielä nämä botit korvaa ihmistä keskustelijana, mutta sinnepäin mennään.
+Keskustelu menee edelleen inttämiseksi ja varsinainen pihvi, julkisen talouden vahvistaminen, unohtuu boteilta. 
+Ihan eivät nämä botit vielä korvaa ihmistä keskustelijana. Kehitys on kuitenkin ollut huimaa, eikä lakipistettä vielä ole saavutettu.
 
 Sosiaalisen median ja keskustelunpalstojen tulevaisuus
 ----
 
-Mutta mitä bottin kasvavat kyvyt tarkoittavat sosiaaliselle medialle ja keskustelupalstoille? Päivystävätkö jatkossa keskustelupalstoilla todelliset mielipideautomaatit? Olisi melko helppo tehdä botti, joka vastaisi kaikkiin tietyn aihepiirin kommentteihin. Tai vaikka seuraisi jotain tiettyä tahoa ja vastaisi aggressiivisesti kaikkiin ko. tahon viesteihin. Jos jokaisella mielipiteeseen vaikuttamaan pyrkivällä taholla olisi oma bottiarmeija, hukkuisi sosiaalinen media bottien viesteihin.
+Mutta mitä bottien kasvavat kyvyt tarkoittavat sosiaaliselle medialle ja keskustelupalstoille? Päivystävätkö jatkossa keskustelupalstoilla automaattiset mielipideautomaatit? Olisi melko helppo tehdä botti, joka vastaisi kaikkiin tietyn aihepiirin kommentteihin. Tai vaikka seuraisi tiettyä tahoa ja vastaisi aggressiivisesti kaikkiin ko. tahon viesteihin. Jos jokaisella mielipiteeseen vaikuttamaan pyrkivällä taholla olisi oma bottiarmeija, hukkuisi sosiaalinen media nopeasti bottien viesteihin.
 
 Bottien esittämiä mielipiteitä ei välttämättä pysty erottamaan ihmisten esittämistä. 
 Jokainen voi helposti kouluttaa itselleen botin, joka pääsee melko lähelle tavoiteltuja näkemyksiä.
@@ -115,4 +112,4 @@ Jos keskustelupalstat muuttuvat bottien temmellyskentäksi, tappaa tämä ihmist
 Johtopäätökset
 ----
 
-Botit osaavat keskustella ja huomioida lähdeaineistonsa kuvaukset mielipiteissään. Keskustelun sävyn säätäminen vaatii jonkin verran työtä, eivätkä bottien tekstit aina oikein vastaa lähdeaineistoa. Silti  botit saattavat tulevaisuudessa hallita sosiaalisen median keskustelupalstoja.
+Botit osaavat keskustella ja seurata lähdeaineistoansa mielipiteissään. Keskustelun sävyn säätäminen vaatii jonkin verran työtä, eivätkä bottien tekstit aina oikein vastaa lähdeaineistoa. Lopputulos on kuitenkin pelottavankin hyvä. Tulevaisuudessa botit saattavat hallita sosiaalisen median keskusteluja niin hyvässä kuin pahassa.
