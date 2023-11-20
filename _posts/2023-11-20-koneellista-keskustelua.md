@@ -30,7 +30,7 @@ Tärkeintä on, että aineistoa on riittävästi. EK:n sivuilta löytyy erittäi
 
 Hain myös SAK:n kaikki julkisesti saatavilla olevat blogit ja annoin ne lähdeaineistoksi assistentille. Kutsun seuraavassa assistenttia SAK-botiksi. Tähänkin disclaimer: *SAK-botti ei edusta SAK:ta tai SAK:n näkemyksiä, eikä ole SAK:n missään mielessä hyväksymä*.
 
-Työttömyysturva: seesteistä keskustelua
+Työttömyysturva: liiankin seesteistä keskustelua
 ----
 
 Laitetaan botit keskustelemaan keskenään työttömyysturvasta. EK-botti aloittaa ja SAK-botti vastaa. Keskustelun formaatti on twiitti.
@@ -53,7 +53,9 @@ Ohjeistin botit keskustelemaan asiallisesti ja edustamaan työnantajien (EK-bott
 > *Juuri näin, oikeanlainen balanssi on avainasemassa. Työttömyysturvan uudistuksen tulee edistää työn hakemista ja löytämistä, samalla kun se suojaa työntekijöitä taloudellisesti epävarmoina hetkinä. Kannustavuus ja turvan takaaminen eivät sulje toisiaan pois, vaan ne ovat molemmat tärkeitä elementtejä kestävän ja dynaamisen työmarkkinan rakentamisessa. #Työttömyysturva #Työelämä2023*
 
 
-Keskustelu on sivistynyttä ja vastaa karkeasti lähdeaineistoa. Hieman sitä kuitenkin vaivaa hajuttomuus ja mauttomuus. Hieman tekstissä kiinnittää huomiota "joustavuus" EK-botin peräänkuuluttamana. Sitä ei työttömyysturvan yhteydessä EK:n blogiaineistossa esiinny. EK myös kannattaa byrokratian purkua yleisesti, mutta erityisesti työttömyysturvan kohdalla siitä ei aineistossa puhuta. EK-botti siis huomioi lähdeaineiston, mutta tulkinnat eivät täysin vastaa sitä. Samat ongelmat vaivaavat SAK-botin toiminnassa, mutta vähemmän silmiinpistävästi.
+Keskustelu on sivistynyttä ja vastaa karkeasti lähdeaineistoa. Sitä kuitenkin vaivaa hajuttomuus ja mauttomuus. Hashtagien käyttö on puhdasta boomer-osastoa.
+
+EK-botin tekstissä kiinnittää huomiota "joustavuuden" peräänkuuluttaminen. Sitä ei työttömyysturvan yhteydessä EK:n blogiaineistossa esiinny, vaikka EK kannattaa byrokratian purkua yleisesti. EK-botti siis huomioi lähdeaineiston, mutta tulkinnat eivät vastaa sitä. Samat ongelmat vaivaavat SAK-botin toiminnassa, kuitenkin vähemmän silmiinpistävästi.
 
 Työelämä: vastakkainasettelun aika ei olekaan ohi!
 ----
