@@ -117,4 +117,4 @@ Jos keskustelupalstat muuttuvat bottien temmellyskentäksi, tappaa tämä ihmist
 Mitä kokeilusta jäi käteen?
 ----
 
-Botit osaavat keskustella ja seurata lähdeaineistoansa mielipiteissään. Keskustelun sävyn säätäminen vaatii jonkin verran työtä, eivätkä bottien tekstit aina oikein vastaa lähdeaineistoa. Lopputulos on kuitenkin parhaimmillaan pelottavan hyvä. Tulevaisuudessa botit saattavat hallita sosiaalisen median keskusteluja niin hyvässä kuin pahassa.
+Botit osaavat keskustella ja seurata lähdeaineistoansa mielipiteissään. Keskustelun sävyn säätäminen vaatii jonkin verran työtä, eivätkä bottien tekstit aina oikein vastaa lähdeaineistoa. Lopputulos on kuitenkin parhaimmillaan pelottavan hyvä. Tulevaisuudessa botit saattavat hallita sosiaalisen median keskusteluja niin hyvässä kuin pahassa. Mihin meitä ihmisiä enää tarvitaan, kun botit hoitavat reikäpäisen jänkkäämisenkin somessa?
