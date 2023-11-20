@@ -96,6 +96,7 @@ Julkinen talous
 ---
 
 Väännetään särmää hieman pienemmälle ja kokeillaan vielä kerran, jos sävy menisi paremmin kohdilleen.
+Tällä kertaa SAK-botti aloittaa aiheesta "Miten vahvistaa julkista taloutta ja pienentää kestävyysvajetta?"
 
 ### SAK-botti
 
@@ -113,6 +114,8 @@ Väännetään särmää hieman pienemmälle ja kokeillaan vielä kerran, jos s�
 
 *Kilpailukyvyn ja työntekijöiden oikeuksien vastakkainasettelu on vanhanaikaista ajattelua. Vahvat yritykset tarvitsevat vahvoja työntekijöitä. Sääntelypurku ei tarkoita työehtojen heikkenemistä, vaan turhan byrokratian karsimista. Työmarkkinoiden joustavuus 🔀➡️ tuottavuus. Harmaan talouden torjunnassa ei kompromisseja! Kaikkien etu, että pelataan samalla säännöillä. #työnantaja #työntekijä #yhteistyölläetu_bp* 
 
+Menee edelleen inttämiseksi ja varsinainen pihvi, julkisen talouden vahvistaminen, unohtuu boteilta. 
+Ihan ei vielä nämä botit korvaa ihmistä keskustelijana, mutta sinnepäin mennään.
 
 Keskustelunpalstojen tulevaisuus
 ----
@@ -124,8 +127,6 @@ Valtiolliset toimijat, kuten Venäjä, voivat hyödyntää -- ja varmasti hyödy
 Bottien esittämiä mielipiteitä ei välttämättä pysty erottamaan ihmisten esittämistä. Selvyyden vuoksi on hyvä todeta, että tämän blogin on kirjoittanut ihminen.
 
 Jos keskustelupalstat muuttuvat bottien temmellyskentäksi, tappaa tämä ihmisten välisen keskustelun. Elon Muskin huoli boteista ei ole perusteeton.
-
-
 
 Johtopäätökset
 ----
