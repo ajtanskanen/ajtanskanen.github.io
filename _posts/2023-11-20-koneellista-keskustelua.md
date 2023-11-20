@@ -1,5 +1,5 @@
 ---
-title: 'Ne tulee ja jyrää meitin: vieläkö ihminen pärjää botille sosiaalisen median keskustelijana?'
+title: 'Ne tulee ja jyrää meitin: hoitaako botti jatkossa myös sosiaalisen median keskustelut?'
 date: 2023-11-20
 permalink: /posts/2023/11/koneellista-keskustelua/
 image: /images/gpts/robot.jpg
@@ -14,7 +14,7 @@ tags:
 
 Ainakin joka kymmenes X/Twitter-tili on botti [^1]. 
 Miten helposti suurella kielimallin avulla voi opettaa botin, joka edustaa tiettyä näkemystä?
-Yllättävän helposti. Tuloksetkin ovat melko vakuuttavia. Eri aineistoilla opetetut botit voi myös laittaa keskustelemaan keskenään. Tässä blogissa näytän esimerkin, jossa on opetettu botit EK:n ja SAK:n blogiaineistolla. Bottien keskustelu on sujuvaa, mutta hieman latteaa tai tahmeaa, eivätkä kommentit kaikilta osin vastaa tausta-aineistoa. Ehkä bottien välinen keskustelu antaa kuitenkin välähdyksen sosiaalisen median tulevaisuudesta.
+Yllättävän helposti. Tuloksetkin ovat melko vakuuttavia. Eri aineistoilla opetetut botit voi myös laittaa keskustelemaan keskenään. Tässä blogissa näytetään, kuinka hyvin botit osaavat keskustella EK:n ja SAK:n blogiaineiston perusteella. Bottien keskustelu on sujuvaa, mutta latteaa tai tahmeaa, eivätkä kommentit aina vastaa tausta-aineistoa. Bottien välinen keskustelu antaa kuitenkin häivähdyksen sosiaalisen median tulevaisuudesta.
 
 [^1]: Lähde: [Clare Duffy ja Brian Fung, Elon Musk commissioned this bot analysis in his fight with Twitter. Now it shows what he could face if he takes over the platform](https://edition.cnn.com/2022/10/10/tech/elon-musk-twitter-bot-analysis-cyabra/index.html)
 
@@ -26,21 +26,19 @@ näkemyksiään niiden perusteella. Kokeillaanpa.
 
 [^2]: [OpenAI:n DevDay](https://devday.openai.com/)
 
-Hain verkosta suuren joukon Elinkeinoelämän keskusliitto EK:n blogeja. Tähän väliin lienee syytä todeta, että EK on työnantajani. Botit on opetettu blogiaineistolla, muuten bottien säätö on jätetty minimiin.  Kuka tahansa pystyy säätämään botteja vastaavasti kuin tässä on kuvattu. 
+Opetuksen aineistoksi on haettu SAK:n ja EK:n blogeja. Botit on opetettu tällä aineistolla, muuten bottien säätö on jätetty minimiin.  Kuka tahansa pystyy säätämään botteja vastaavasti kuin tässä on kuvattu. 
 
-Tärkeintä on, että aineistoa on riittävästi. EK:n sivuilta löytyy erittäin suuri määrä blogeja, mikä helpottaa opettamista. Annoin koko blogi-aineiston assistentille lähtötiedoiksi. Kutsun assistenttia EK-botiksi. 
+Tärkeintä opetuksessa on, että aineistoa on riittävästi. EK:n sivuilta löytyy erittäin suuri määrä blogeja, mikä helpottaa opettamista. Tällä aineistolla opetettua assistenttia kutsutaan EK-botiksi. 
+Samalla tavalla SAK:n on helppo hakea suuri joukko julkisesti saatavilla olevia blogeja. Tällä aineistolla opetettua assistenttia kutsutaan seuraavassa assistenttia SAK-botiksi. 
 
-Hain myös SAK:n kaikki julkisesti saatavilla olevat blogit ja annoin ne lähdeaineistoksi assistentille. Kutsun seuraavassa assistenttia SAK-botiksi. Tähän väliin on syytä laittaa disclaimer.
-
-<p class="panel-note top-padding" markdown="1">*EK-botti ei edusta EK:n näkemyksiä tai ole EK:n hyväksymä.*
-*SAK-botti ei edusta SAK:ta tai SAK:n näkemyksiä, eikä ole SAK:n missään mielessä hyväksymä*. </p>
+<p class="panel-note top-padding" markdown="1">*Sic! EK-botti ei edusta EK:n näkemyksiä eikä tai ole EK:n hyväksymä. SAK-botti ei edusta SAK:ta tai SAK:n näkemyksiä, eikä ole SAK:n missään mielessä hyväksymä*. </p>
 
 Työttömyysturva: liiankin seesteistä keskustelua
 ----
 
 Laitetaan botit keskustelemaan keskenään työttömyysturvasta. EK-botti aloittaa ja SAK-botti vastaa. Keskustelun formaatti on twiitti.
 
-Botit on ohjeistettu keskustelemaan asiallisesti ja edustamaan työnantajien (EK-botti) ja työntekijöiden (SAK-botti) näkemyksiä. Toistetaan nyt vielä uudestaan, että botit *eivät* edusta sen enempää EK:n kuin SAK:n todellista näkemystä. Aineisto on näin valittua, koska se on helposti saatavissa ja sitä on kohtuullinen määrä. Mitä enemmän aineistoa on, sitä paremmin malli on mahdollista opettaa.
+Botit on ohjeistettu keskustelemaan asiallisesti ja edustamaan työnantajien (EK-botti) ja työntekijöiden (SAK-botti) näkemyksiä. Toistetaan nyt vielä uudestaan, että botit *eivät* edusta sen enempää EK:n kuin SAK:n näkemystä. Aineisto on näin valittua, koska se on helposti saatavissa ja sitä on kohtuullinen määrä. Mitä enemmän aineistoa on, sitä paremmin malli on mahdollista opettaa.
 
 > ###  EK-botti
 > *Suomessa työttömyysturvan uudistamisen on keskityttävä kannustavuuden ja joustavuuden parantamiseen. Työn vastaanottamisen tulee aina olla taloudellisesti houkuttelevaa. Järjestelmää tulee yksinkertaistaa ja byrokratiaa vähentää, jotta se tukee paremmin yksilöllisiä työllistymispolkuja. #työttömyysturva #uudistus #työllisyys*
