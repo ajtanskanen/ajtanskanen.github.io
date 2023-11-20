@@ -25,7 +25,7 @@ näkemyksiään niiden perusteella. Kokeillaanpa.
 
 [^2]: [OpenAI:n DevDay](https://devday.openai.com/)
 
-Hain verkosta suuren joukon Elinkeinoelämän keskusliitto EK:n blogeja. Tähän väliin lienee syytä todeta, että EK on työnantajani. EK on julkaissut enemmän blogeja kuin SAK, joten aineistoa on enemmän. Annoin koko blogi-aineiston assistentille lähtötiedoiksi. Kutsun assisenttia EK-botiksi. Taas disclaimer: *EK-botti ei edusta EK:n näkemyksiä tai ole EK:n hyväksymä*.
+Hain verkosta suuren joukon Elinkeinoelämän keskusliitto EK:n blogeja. Tähän väliin lienee syytä todeta, että EK on työnantajani. EK on julkaissut enemmän blogeja kuin SAK, joten aineistoa on enemmän. Annoin koko blogi-aineiston assistentille lähtötiedoiksi. Kutsun assisenttia EK-botiksi. Tähän väliin on syytä laittaa disclaimer: *EK-botti ei edusta EK:n näkemyksiä tai ole EK:n hyväksymä*.
 
 Hain myös SAK:n kaikki julkisesti saatavilla olevat blogit ja annoin ne lähdeaineistoksi assistentille. Kutsun seuraavassa assistenttia
 SAK-botiksi. Muistutus: *SAK-botti ei edusta SAK:ta tai SAK:n näkemyksiä, eikä ole SAK:n missään mielessä hyväksymä*.
@@ -91,6 +91,27 @@ Bottien keskustelu työttömyysturvasta oli niin väritöntä, että lisätään
 Nyt botit ryhtyvät jo vääntämään ja inttämään. Tekstit näyttävät kyllä X/Twitteriltä, mutta eivät oikein vastaa oikeiden SAK:n ja EK:n twiittejä. 
 
 Melko helposti voi kouluttaa itselleen botin, joka pääsee melko lähelle tavoiteltuja näkemyksiä.
+
+Julkinen talous
+---
+
+Väännetään särmää hieman pienemmälle ja kokeillaan vielä kerran, jos sävy menisi paremmin kohdilleen.
+
+### SAK-botti
+
+*Työllisyysaste ylös, harmaa talous kuriin, ja investoinnit koulutukseen sekä tutkimukseen vahvaksi! Kun työssäkäyvien määrä kasvaa, kasvaa myös verotulot ja talous. Sijoitukset osaamiseen tuottavat tulevaisuudessa. #kestävyysvaje #julkistalous #työllisyys* 
+
+### EK-botti
+
+*Työllisyysasteen nousu 👍, mutta älkäämme unohtako yritysten tarpeita! Ilman kilpailukykyistä toimintaympäristöä ja kevennettyä sääntelytaakkaa emme yllä tavoitteisiin. Harmaa talous on kitkettävä järein ottein! 🔨 Satsaukset osaamiseen ovat hyvä, mutta ne vaativat myös markkinat, jonne innovaatiot voidaan kaupallistaa. #tehokkuus #innovaatio #yritysystävällisyys* 
+
+### SAK-botti
+
+*Yritysten kilpailukyky on tärkeää, mutta ei työntekijöiden oikeuksien kustannuksella. Sääntelyn purkamisen on oltava harkittua ja kohtuullista. Markkinoille pääsyn helpottaminen ei saa tarkoittaa työehtojen polkemista. Harmaa talous on torjuttava tiukasti, mutta tasapainoista politiikkaa unohtamatta. Työntekijöiden edut ovat yritysten menestyksen kulmakivi. #työehto #oikeudenmukaisuus #työntekijöidenoikeudet* 
+
+### EK-botti
+
+*Kilpailukyvyn ja työntekijöiden oikeuksien vastakkainasettelu on vanhanaikaista ajattelua. Vahvat yritykset tarvitsevat vahvoja työntekijöitä. Sääntelypurku ei tarkoita työehtojen heikkenemistä, vaan turhan byrokratian karsimista. Työmarkkinoiden joustavuus 🔀➡️ tuottavuus. Harmaan talouden torjunnassa ei kompromisseja! Kaikkien etu, että pelataan samalla säännöillä. #työnantaja #työntekijä #yhteistyölläetu_bp* 
 
 
 Keskustelunpalstojen tulevaisuus
