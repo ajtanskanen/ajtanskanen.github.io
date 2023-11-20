@@ -97,9 +97,10 @@ Tällä kertaa SAK-botti aloittaa aiheesta "Miten vahvistaa julkista taloutta ja
 > 
 > ### EK-botti
 > 
-> *Kilpailukyvyn ja työntekijöiden oikeuksien vastakkainasettelu on vanhanaikaista ajattelua. Vahvat yritykset tarvitsevat vahvoja työntekijöitä. Sääntelypurku ei tarkoita työehtojen heikkenemistä, vaan turhan byrokratian karsimista. Työmarkkinoiden joustavuus 🔀➡️ tuottavuus. Harmaan talouden torjunnassa ei kompromisseja! Kaikkien etu, että pelataan samalla säännöillä. #työnantaja #työntekijä #yhteistyölläetu_bp* 
+> *Kilpailukyvyn ja työntekijöiden oikeuksien vastakkainasettelu on vanhanaikaista ajattelua. Vahvat yritykset tarvitsevat vahvoja työntekijöitä. Sääntelypurku ei tarkoita työehtojen heikkenemistä, vaan turhan byrokratian karsimista. Työmarkkinoiden joustavuus 🔀➡️ tuottavuus. Harmaan talouden torjunnassa ei kompromisseja! Kaikkien etu, että pelataan samalla säännöillä. #työnantaja #työntekijä #yhteistyölläetu* 
 
-Keskustelu menee edelleen inttämiseksi ja varsinainen pihvi, julkisen talouden vahvistaminen, unohtuu boteilta. 
+Keskustelu menee edelleen inttämiseksi ja varsinainen pihvi, julkisen talouden vahvistaminen, unohtuu boteilta. EK-botin slogan "Vahvat yritykset tarvitsevat vahvoja työntekijöitä" on melko erikoinen veto. Hashtagit ovat edelleen boomer-osastolta lainattua.
+
 Ihan eivät nämä botit vielä korvaa ihmistä keskustelijana. Kehitys on kuitenkin ollut huimaa, eikä lakipistettä vielä ole saavutettu.
 
 Sosiaalisen median ja keskustelunpalstojen tulevaisuus
