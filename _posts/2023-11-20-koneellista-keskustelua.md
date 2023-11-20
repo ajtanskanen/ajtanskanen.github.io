@@ -2,7 +2,7 @@
 title: 'Välähdys tulevaisuudesta: suuri kielimalli hoitaa sosiaalisen median keskustelut yksinään'
 date: 2023-11-20
 permalink: /posts/2023/11/koneellista-keskustelua/
-image: /images/poppis1.jpg
+image: /images/gpts/robot.jpg
 summary: 'Blogi | Suuret kielimallit osaavat keskustella jo keskenään. Miltä tämä näyttää?'
 tags:
   - GPT
