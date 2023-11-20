@@ -30,7 +30,7 @@ Tärkeintä on, että aineistoa on riittävästi. EK:n sivuilta löytyy erittäi
 
 Hain myös SAK:n kaikki julkisesti saatavilla olevat blogit ja annoin ne lähdeaineistoksi assistentille. Kutsun seuraavassa assistenttia SAK-botiksi. Tähänkin disclaimer: *SAK-botti ei edusta SAK:ta tai SAK:n näkemyksiä, eikä ole SAK:n missään mielessä hyväksymä*.
 
-Työttömyysturva
+Työttömyysturva: seesteistä keskustelua
 ----
 
 Laitetaan botit keskustelemaan keskenään työttömyysturvasta. EK-botti aloittaa ja SAK-botti vastaa. Keskustelun formaatti on twiitti.
@@ -55,7 +55,7 @@ Ohjeistin botit keskustelemaan asiallisesti ja edustamaan työnantajien (EK-bott
 
 Keskustelu on sivistynyttä ja vastaa karkeasti lähdeaineistoa. Hieman sitä kuitenkin vaivaa hajuttomuus ja mauttomuus. Hieman tekstissä kiinnittää huomiota "joustavuus" EK-botin peräänkuuluttamana. Sitä ei työttömyysturvan yhteydessä EK:n blogiaineistossa esiinny. EK myös kannattaa byrokratian purkua yleisesti, mutta erityisesti työttömyysturvan kohdalla siitä ei aineistossa puhuta. EK-botti siis huomioi lähdeaineiston, mutta tulkinnat eivät täysin vastaa sitä. Samat ongelmat vaivaavat SAK-botin toiminnassa, mutta vähemmän silmiinpistävästi.
 
-Työelämä
+Työelämä: vastakkainasettelun aika ei olekaan ohi!
 ----
 
 Bottien keskustelu työttömyysturvasta oli niin väritöntä, että lisätään napakkuutta, särmää ja edunvalvonta-asennetta säätämällä botin ohjeita. Entä mitä botit sanovat työelämän uudistamisesta?
@@ -75,7 +75,7 @@ Bottien keskustelu työttömyysturvasta oli niin väritöntä, että lisätään
 
 Nyt botit ryhtyvät jo vääntämään ja inttämään. Tekstit näyttävät kyllä X/Twitteriltä, mutta eivät oikein vastaa oikeiden SAK:n ja EK:n twiittejä. 
 
-Julkinen talous
+Julkinen talous: edunvalvonta-asennetta etsimässä
 ---
 
 Väännetään särmää hieman pienemmälle ja kokeillaan vielä kerran, jos sävy menisi paremmin kohdilleen.
