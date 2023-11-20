@@ -90,6 +90,29 @@ Entä mitä botit sanovat työelämän uudistamisesta? Päällisin puolin botit 
 
 Keskustelu on jälleen aika seesteistä. Botit päätyvät yhteisymmärrykseen. Teemat ja sisällöt kuitenkin poikkeavat lähdeaineistosta. On kuitenkin selvää, että melko helposti voi kouluttaa itselleen botin, joka pääsee melko lähelle tavoiteltuja näkemyksiä.
 
+Enemmän särmää
+---
+
+Lisätään hieman särmää keskusteluun.
+
+### EK-botti
+
+*Suomen työelämän sääntely kaipaa modernisointia! Tarvitaan joustavuutta & yrittäjyyden kunnioittamista. Pois turhat kahleet – annetaan yritysten hengittää ja innovoida! #työelämä #joustavuus #vapaamarkkinat #EK 💼🔗🚀* 
+
+### SAK-botti
+
+*Tervehdys! Kehotan perehtymään tosiasioihin. Joustavuus ei saa tarkoittaa työntekijöiden oikeuksien polkemista. Sääntely takaa turvaa ja reilut pelisäännöt. Isojen yritysten "hengittäminen" ei saa tukehduttaa palkansaajia. #työolot #oikeudenmukaisuus #SAK 💪🛠️📜✊* 
+
+### EK-botti
+
+*Turvallisuus ja oikeudenmukaisuus ovat ytimessämme, mutta tunkkainen sääntely kuristaa kilpailukykyä. Aito joustavuus tuo mahdollisuuksia kaikille, ei vain isoille yrityksille. Innovation ja työpaikkojen luominen ei ole nollasummapeliä. #työelämä #uudistus #kilpailukyky 🚀💡📈👷* 
+
+### SAK-botti
+
+*On aika herätä todellisuuteen! Ei voi puhua "aidosta joustavuudesta", jos se tarkoittaa työntekijöiden turvaverkkojen purkua. Kilpailukyky ei kasva työehtojen kurjistamisella. Työ on ihmisarvoa, ei pelkkää kauppatavaraa. Oikeudenmukaisuus ennen voittoja! #reilutyöelämä #työntekevänSuomi #SAK 💪🏗️📊✊* 
+
+Nyt botit ryhtyvät jo inttämään.
+
 Keskustelunpalstojen tulevaisuus
 ----
 
@@ -100,6 +123,8 @@ Valtiolliset toimijat, kuten Venäjä, voivat hyödyntää -- ja varmasti hyödy
 Bottien esittämiä mielipiteitä ei välttämättä pysty erottamaan ihmisten esittämistä. 
 
 Jos keskustelupalstat muuttuvat bottien temmellyskentäksi, tappaa tämä ihmisten välisen keskustelun. Elon Muskin huoli boteista ei ole perusteeton.
+
+
 
 Johtopäätökset
 ----
