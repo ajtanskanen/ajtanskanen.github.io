@@ -30,7 +30,7 @@ Hain verkosta suuren joukon Elinkeinoelämän keskusliitto EK:n blogeja. Tähän
 Hain myös SAK:n kaikki julkisesti saatavilla olevat blogit ja annoin ne lähdeaineistoksi assistentille. Kutsun seuraavassa assistenttia
 SAK-botiksi. Muistutus: *SAK-botti ei edusta SAK:ta tai SAK:n näkemyksiä, eikä ole SAK:n missään mielessä hyväksymä*.
 
-Ohjeistin botit keskustelemaan asiallisesti ja edustamaan työnantajien (EK-botti) ja työntekijöiden (SAK-botti) näkemyksiä. Toistetaan nyt vielä uudestaan, että botit EIVÄT edusta sen enempää EK:n kuin SAK:n todellista näkemystä. Aineisto on näin valittua, koska se on helposti saatavissa.
+Ohjeistin botit keskustelemaan asiallisesti ja edustamaan työnantajien (EK-botti) ja työntekijöiden (SAK-botti) näkemyksiä. Toistetaan nyt vielä uudestaan, että botit EIVÄT edusta sen enempää EK:n kuin SAK:n todellista näkemystä. Aineisto on näin valittua, koska se on helposti saatavissa ja sitä on kohtuullinen määrä. Mitä enemmän aineistoa on, sitä paremmin malli on mahdollista opettaa.
 
 Työttömyysturva
 ----
@@ -70,30 +70,7 @@ Keskustelu on sivistynyttä ja vastaa karkeasti lähdeaineistoa. Hieman sitä ku
 Työelämä
 ----
 
-Entä mitä botit sanovat työelämän uudistamisesta? Päällisin puolin botit puhuvat järkeviä, mutta tarkemmin katsoen tekstissä on ongelmia. Nyt EK-botti mm. haluaa normeja, jotka tuovat joustavuutta. Tämä ei vastaa ainestoa.
-
-### EK-botti
-  
-  *Työelämän päivittäminen edellyttää rohkeita uudistuksia ja nykyhetken tarpeisiin vastaamista. Meidän on rakennettava normeja, jotka antavat yrityksille joustavuutta reagoida markkinoiden muutoksiin, mutta samalla turvataan työntekijöiden hyvinvointi ja edistetään osallistavaa työkulttuuria. Teknologian tuoma muutos vaatii uudenlaista joustoa ja työn ja yksityiselämän yhteensovittamista. Dialogi työmarkkinoiden osapuolten välillä on avainasemassa. #Työelämä #Uudistus #EKvisions*
-  
-### SAK-botti
-  
-  *Rohkeus uudistuksissa on tärkeää, ja SAK kannattaa järjestelmää, joka vastaa nykyajan tarpeisiin ja tukee molempien osapuolten etuja. Työntekijöiden suojelu ja joustavuuden lisääminen eivät ole toisensa poissulkevia. Tehkäämme työelämästä sellainen, jossa teknologian tuomat mahdollisuudet hyödyttävät kaikkia, ja työ- ja yksityiselämän tasapaino toteutuu. Avoin dialogi ja yhteistyö ratkaisevat. #Innovaatio #TyönLaatu #YhdessäEteenpäin*
-  
-### EK-botti
-  
- *Olemme samaa mieltä SAK:n kanssa joustavuuden ja työntekijöiden suojelun tärkeydestä - ne eivät ole toisiaan pois sulkevia. Työelämän uudistuksen on liityttävä yhteen teknologian mahdollisuuksien ja hyvän työn laadun. Tavoitteemme on luoda markkinoiden tarpeisiin vastaava joustava järjestelmä, missä ihmiset voivat yhdistää työn ja yksityiselämän sujuvasti. Dialogi ja yhteistyö ovat olennaisia luotaessa työelämää, jossa kaikki voivat menestyä. #TyöelämäUudistus #EKtyönpuolesta #YhteistyölläVoittoon*
-  
-### SAK-botti
-  
- *On hienoa nähdä yhteisymmärrystä työmarkkinoiden kehittämisessä. SAK korostaa, että uudistukset on toteutettava niin, että ne tukevat työntekijöiden hyvinvointia sekä työ- ja yksityiselämän yhteensovittamista - kun samalla annetaan yrityksille tarvittavaa joustavuutta. Meidän on kehitettävä järjestelmiä, jotka vastaavat tehokkaasti muuttuvaan työelämään sekä huomioivat työntekijöiden turvallisuuden. #TyöntekijätEdellä #JoustavuusJaTurva #SAK*
-
-Keskustelu on jälleen aika seesteistä. Botit päätyvät yhteisymmärrykseen. Teemat ja sisällöt kuitenkin poikkeavat lähdeaineistosta. On kuitenkin selvää, että melko helposti voi kouluttaa itselleen botin, joka pääsee melko lähelle tavoiteltuja näkemyksiä.
-
-Enemmän särmää
----
-
-Lisätään hieman särmää keskusteluun.
+Bottien keskustelu työttömyysturvasta oli niin väritöntä, että lisätään särmää kommentteihin pyytämällä sitä. Entä mitä botit sanovat työelämän uudistamisesta?
 
 ### EK-botti
 
@@ -111,7 +88,10 @@ Lisätään hieman särmää keskusteluun.
 
 *On aika herätä todellisuuteen! Ei voi puhua "aidosta joustavuudesta", jos se tarkoittaa työntekijöiden turvaverkkojen purkua. Kilpailukyky ei kasva työehtojen kurjistamisella. Työ on ihmisarvoa, ei pelkkää kauppatavaraa. Oikeudenmukaisuus ennen voittoja! #reilutyöelämä #työntekevänSuomi #SAK 💪🏗️📊✊* 
 
-Nyt botit ryhtyvät jo inttämään.
+Nyt botit ryhtyvät jo vääntämään ja inttämään. Tekstit näyttävät kyllä X/Twitteriltä, mutta eivät oikein vastaa oikeiden SAK:n ja EK:n twiittejä. 
+
+Melko helposti voi kouluttaa itselleen botin, joka pääsee melko lähelle tavoiteltuja näkemyksiä.
+
 
 Keskustelunpalstojen tulevaisuus
 ----
@@ -120,7 +100,7 @@ Mutta mitä bottin kasvavat kyvyt tarkoittavat keskustelupalstoille? Päivystäv
 
 Valtiolliset toimijat, kuten Venäjä, voivat hyödyntää -- ja varmasti hyödyntävät jo nyt -- botteja tuottamaan tarkoituksellisen provosoivaa sisältöä. Tämä tuskin tulee vähenemään. 
 
-Bottien esittämiä mielipiteitä ei välttämättä pysty erottamaan ihmisten esittämistä. 
+Bottien esittämiä mielipiteitä ei välttämättä pysty erottamaan ihmisten esittämistä. Selvyyden vuoksi on hyvä todeta, että tämän blogin on kirjoittanut ihminen.
 
 Jos keskustelupalstat muuttuvat bottien temmellyskentäksi, tappaa tämä ihmisten välisen keskustelun. Elon Muskin huoli boteista ei ole perusteeton.
 
