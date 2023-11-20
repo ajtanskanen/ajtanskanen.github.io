@@ -14,7 +14,7 @@ tags:
 
 Ainakin joka kymmenes X/Twitter-tili on botti [^1]. 
 Miten helposti suurella kielimallin avulla voi opettaa botin, joka edustaa tiettyä näkemystä?
-Yllättävän helposti. Tuloksetkin ovat melko vakuuttavia. Eri aineistoilla optetut botit voi myös laittaa keskustelemaan keskenään. Tässä blogissa näytän esimerkin, jossa on opetettu botit EK:n ja SAK:n blogiaineistolla. Bottien keskustelu on sujuvaa, mutta hieman latteaa tai tahmeaa, eivätkä kommentit kaikilta osin vastaa tausta-aineistoa. Ehkä bottien välinen keskustelu antaa kuitenkin välähdyksen sosiaalisen median tulevaisuudesta.
+Yllättävän helposti. Tuloksetkin ovat melko vakuuttavia. Eri aineistoilla opetetut botit voi myös laittaa keskustelemaan keskenään. Tässä blogissa näytän esimerkin, jossa on opetettu botit EK:n ja SAK:n blogiaineistolla. Bottien keskustelu on sujuvaa, mutta hieman latteaa tai tahmeaa, eivätkä kommentit kaikilta osin vastaa tausta-aineistoa. Ehkä bottien välinen keskustelu antaa kuitenkin välähdyksen sosiaalisen median tulevaisuudesta.
 
 [^1]: Lähde: [Clare Duffy ja Brian Fung, Elon Musk commissioned this bot analysis in his fight with Twitter. Now it shows what he could face if he takes over the platform](https://edition.cnn.com/2022/10/10/tech/elon-musk-twitter-bot-analysis-cyabra/index.html)
 
