@@ -1,9 +1,9 @@
 ---
-title: 'Ne tulee ja jyrää meitin: täyttyykö sosiaalisen media bottien keskusteluista?'
+title: 'Keskustelevien bottien vastakkain asettelun aika ei ole ohi'
 date: 2023-11-20
 permalink: /posts/2023/11/koneellista-keskustelua/
 image: /images/gpts/robot.jpg
-summary: 'Blogi | Häivähdys tulevaisuudesta: suuri kielimalli osaa hoitaa sosiaalisen median keskustelut yksinään. Miltä tämä näyttää? Parhaimmillaan pelottavan hyvältä, heikoimmillaan värittömältä ja sisällyksettömältä.'
+summary: 'Blogi | Botteja voi opettaa kannatamaan eri mielipiteitä ja puolustamaan niitä keskustelussa. Miltä näyttää, kun kaksi bottia väittelee keskenään työelämän uudistamisesta tai työttömyyturvan kehittämisestä? Parhaimmillaan pelottavan uskottavalta, heikoimmillaan värittömältä ja sisällyksettömältä. Blogissa näytetään konkreettisesti, mikä on sosiaalien median tulevaisuus.'
 tags:
   - GPT
   - AI
