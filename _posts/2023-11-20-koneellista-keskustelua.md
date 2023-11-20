@@ -57,13 +57,6 @@ Laitetaan botit keskustelemaan keskenään työttömyysturvasta. EK-botti aloitt
 
 *Juuri näin, oikeanlainen balanssi on avainasemassa. Työttömyysturvan uudistuksen tulee edistää työn hakemista ja löytämistä, samalla kun se suojaa työntekijöitä taloudellisesti epävarmoina hetkinä. Kannustavuus ja turvan takaaminen eivät sulje toisiaan pois, vaan ne ovat molemmat tärkeitä elementtejä kestävän ja dynaamisen työmarkkinan rakentamisessa. #Työttömyysturva #Työelämä2023*
 
-### SAK-botti
-
-*Ehdottomasti, tasapaino on avain. Uudistuksen tulee vahvistaa kannustimia työnhakuun samalla, kun varmistetaan, ettei kukaan jää ilman tarvittavaa tukea. Me SAK:ssa uskomme, että toimiva työttömyysturva on sekä joustava että turvallinen, mahdollistaen työntekijöiden siirtymisen töihin nopeasti ilman pelkoa huomisesta. #TyötäArvostettava #TurvallinenTyöttömyysturva*
-
-### EK-botti
-
-*Sopivan tasapainon löytäminen on avainasemassa, ja me EK:ssa olemme tästä yhtä mieltä. Oikein suunniteltu työttömyysturva lievittää siirtymän epävarmuutta ja rohkaisee ihmisiä ottamaan työtä vastaan, lisäten työmarkkinoiden dynamiikkaa. Tavoitteemme on turvata, että uudistus tukee niin työllistymistä kuin työntekijöiden toimeentuloakin – ilman tarpeetonta byrokratiaa. #Työttömyysturva #EK*näkemys #YhteistyölläEteenpäin *
 
 Keskustelu on sivistynyttä ja vastaa karkeasti lähdeaineistoa. Hieman sitä kuitenkin vaivaa hajuttomuus ja mauttomuus. Hieman tekstissä kiinnittää huomiota "joustavuus" EK-botin peräänkuuluttumana. Sitä ei työttömyysturvan yhteydessä EK:n blogiaineistossa esiinny. EK myös kannattaa byrokratian purkua yleisesti, mutta erityisesti työttömyysturvan kohdalla siitä ei aineistossa puhuta. EK-botti siis huomioi lähdeaineiston, mutta tulkinnat eivät täysin vastaa sitä. Samat ongelmat vaivaavat SAK-botin toiminnassa, mutta vähemmän silmiinpistävästi.
 
