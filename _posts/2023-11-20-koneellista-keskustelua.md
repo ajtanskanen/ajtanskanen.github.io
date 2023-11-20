@@ -35,7 +35,7 @@ Työttömyysturva: liiankin seesteistä keskustelua
 
 Laitetaan botit keskustelemaan keskenään työttömyysturvasta. EK-botti aloittaa ja SAK-botti vastaa. Keskustelun formaatti on twiitti.
 
-Ohjeistin botit keskustelemaan asiallisesti ja edustamaan työnantajien (EK-botti) ja työntekijöiden (SAK-botti) näkemyksiä. Toistetaan nyt vielä uudestaan, että botit *eivät* edusta sen enempää EK:n kuin SAK:n todellista näkemystä. Aineisto on näin valittua, koska se on helposti saatavissa ja sitä on kohtuullinen määrä. Mitä enemmän aineistoa on, sitä paremmin malli on mahdollista opettaa.
+Botit on ohjeistettu keskustelemaan asiallisesti ja edustamaan työnantajien (EK-botti) ja työntekijöiden (SAK-botti) näkemyksiä. Toistetaan nyt vielä uudestaan, että botit *eivät* edusta sen enempää EK:n kuin SAK:n todellista näkemystä. Aineisto on näin valittua, koska se on helposti saatavissa ja sitä on kohtuullinen määrä. Mitä enemmän aineistoa on, sitä paremmin malli on mahdollista opettaa.
 
 > ###  EK-botti
 > *Suomessa työttömyysturvan uudistamisen on keskityttävä kannustavuuden ja joustavuuden parantamiseen. Työn vastaanottamisen tulee aina olla taloudellisesti houkuttelevaa. Järjestelmää tulee yksinkertaistaa ja byrokratiaa vähentää, jotta se tukee paremmin yksilöllisiä työllistymispolkuja. #työttömyysturva #uudistus #työllisyys*
@@ -60,7 +60,8 @@ EK-botin tekstissä kiinnittää huomiota "joustavuuden" peräänkuuluttaminen. 
 Työelämä: vastakkainasettelun aika ei olekaan ohi!
 ----
 
-Bottien keskustelu työttömyysturvasta oli niin väritöntä, että lisätään napakkuutta, särmää ja edunvalvonta-asennetta säätämällä botin ohjeita. Entä mitä botit sanovat työelämän uudistamisesta?
+Bottien keskustelu työttömyysturvasta oli niin väritöntä, että lisätään napakkuutta, särmää ja edunvalvonta-asennetta säätämällä botin ohjeita. Jospa näin keskustelu saisi edes jotain sävyjä.
+Kokeillaan, mitä mitä botit sanovat työelämän uudistamisesta.
  
 > ### EK-botti
 > *Suomen työelämän sääntely kaipaa modernisointia! Tarvitaan joustavuutta & yrittäjyyden kunnioittamista. Pois turhat kahleet – annetaan yritysten hengittää ja innovoida! #työelämä #joustavuus #vapaamarkkinat #EK 💼🔗🚀* 
