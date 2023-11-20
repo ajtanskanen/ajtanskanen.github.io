@@ -1,5 +1,5 @@
 ---
-title: 'Edunvalvontabottien kamppailu: vastakkain asettelun aika ei ole ohi'
+title: 'Edunvalvontabottien kamppailu: vastakkainasettelun aika ei ole ohi'
 date: 2023-11-20
 permalink: /posts/2023/11/koneellista-keskustelua/
 image: /images/gpts/robot.jpg
