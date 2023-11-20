@@ -1,13 +1,15 @@
 ---
-title: 'Välähdys tulevaisuudesta: suuri kielimalli hoitaa sosiaalisen median keskustelut yksinään'
+title: 'Ne tulee ja jyrää meitin: ihmistä tarvitaan sosiaalisen median keskustelijana?'
 date: 2023-11-20
 permalink: /posts/2023/11/koneellista-keskustelua/
 image: /images/gpts/robot.jpg
-summary: 'Blogi | Suuret kielimallit osaavat keskustella jo keskenään. Miltä tämä näyttää?'
+summary: 'Blogi | Häivähdys tulevaisuudesta: suuri kielimalli osaa hoitaa sosiaalisen median keskustelut yksinään. Miltä tämä näyttää? Parhaimmillaan pelottavan hyvältä, heikoimmillaan värittömältä ja sisällyksettömältä.'
 tags:
   - GPT
   - AI
   - tekoäly 
+  - sosiaalinen media
+  - tulevaisuus
 ---
 
 Ainakin joka kymmenes X/Twitter-tili on botti [^1]. 
@@ -115,4 +117,4 @@ Jos keskustelupalstat muuttuvat bottien temmellyskentäksi, tappaa tämä ihmist
 Mitä kokeilusta jäi käteen?
 ----
 
-Botit osaavat keskustella ja seurata lähdeaineistoansa mielipiteissään. Keskustelun sävyn säätäminen vaatii jonkin verran työtä, eivätkä bottien tekstit aina oikein vastaa lähdeaineistoa. Lopputulos on kuitenkin pelottavankin hyvä. Tulevaisuudessa botit saattavat hallita sosiaalisen median keskusteluja niin hyvässä kuin pahassa.
+Botit osaavat keskustella ja seurata lähdeaineistoansa mielipiteissään. Keskustelun sävyn säätäminen vaatii jonkin verran työtä, eivätkä bottien tekstit aina oikein vastaa lähdeaineistoa. Lopputulos on kuitenkin parhaimmillaan pelottavan hyvä. Tulevaisuudessa botit saattavat hallita sosiaalisen median keskusteluja niin hyvässä kuin pahassa.
