@@ -1,5 +1,5 @@
 ---
-title: 'Ne tulee ja jyrää meitin: hoitaako botti jatkossa myös sosiaalisen median keskustelut?'
+title: 'Ne tulee ja jyrää meitin: täyttyykö sosiaalisen media bottien keskusteluista?'
 date: 2023-11-20
 permalink: /posts/2023/11/koneellista-keskustelua/
 image: /images/gpts/robot.jpg
