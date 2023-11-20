@@ -19,7 +19,7 @@ Yllättävän helposti. Tuloksetkin ovat melko vakuuttavia. Eri aineistoilla opt
 Keskusteleva kielimalli
 ---
 
-ChatGPT on näyttänyt, että suuri kielimalli pystyy uskomattoman ihmismäiseen keskusteluun. Askel askeleelta malli kehittyy paremmaksi. Tuoreimmassa, marraskuun päivityksessä[^2] OpenAI toi käyttöön assistentit, jotka osaavat analysoida tiedostoja ja muokata 
+ChatGPT on näyttänyt, miten suuri kielimalli pystyy uskomattoman ihmismäiseen keskusteluun. Askel askeleelta malli kehittyy paremmaksi. Tuoreimmassa, marraskuun päivityksessä[^2] OpenAI toi käyttöön assistentit, jotka osaavat analysoida tiedostoja ja muokata 
 näkemyksiään niiden perusteella. Kokeillaanpa.
 
 [^2]: [OpenAI:n DevDay](https://devday.openai.com/)
@@ -109,7 +109,7 @@ Valtiolliset toimijat, kuten Venäjä, voivat hyödyntää -- ja varmasti hyödy
 Jos keskustelupalstat muuttuvat bottien temmellyskentäksi, tappaa tämä ihmisten välisen keskustelun. Elon Muskin huoli boteista ei ole perusteeton. Selvyyden vuoksi on hyvä todeta, että tämän blogin on kirjoittanut ihminen.
 
 
-Johtopäätökset
+Mitä kokeilusta jäi käteen?
 ----
 
 Botit osaavat keskustella ja seurata lähdeaineistoansa mielipiteissään. Keskustelun sävyn säätäminen vaatii jonkin verran työtä, eivätkä bottien tekstit aina oikein vastaa lähdeaineistoa. Lopputulos on kuitenkin pelottavankin hyvä. Tulevaisuudessa botit saattavat hallita sosiaalisen median keskusteluja niin hyvässä kuin pahassa.
