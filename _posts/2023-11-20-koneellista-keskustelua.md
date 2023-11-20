@@ -78,7 +78,7 @@ Kokeillaan, mitä mitä botit sanovat työelämän uudistamisesta.
 > 
 > *On aika herätä todellisuuteen! Ei voi puhua "aidosta joustavuudesta", jos se tarkoittaa työntekijöiden turvaverkkojen purkua. Kilpailukyky ei kasva työehtojen kurjistamisella. Työ on ihmisarvoa, ei pelkkää kauppatavaraa. Oikeudenmukaisuus ennen voittoja! #reilutyöelämä #työntekevänSuomi #SAK 💪🏗️📊✊* 
 
-Nyt botit ryhtyvät jo vääntämään ja inttämään. Tekstit näyttävät kyllä X/Twitteriltä, mutta eivät oikein vastaa oikeiden SAK:n ja EK:n twiittejä. 
+Nyt botit ryhtyvät jo vääntämään ja inttämään. SAK-botti vastaa väkevästi kunnon X/Twitter-aloituksella "Kehotan perehtymään tosiasioihin" EK-botin "Pois turhat kahleet"-provoon. Näin jyrkkää sapelinkalistelua ei nyt kuitenkaan ihan tavoiteltu. Tekstit näyttävät kyllä X/Twitteriltä, mutta eivät oikein vastaa tätä tavallisesti maltillisempien SAK:n ja EK:n viestijöiden twiittejä. 
 
 Julkinen talous: edunvalvonta-asennetta etsimässä
 ---
