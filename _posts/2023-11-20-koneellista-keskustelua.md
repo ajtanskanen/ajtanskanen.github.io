@@ -1,5 +1,5 @@
 ---
-title: 'Vieläkö ihminen pärjää botille sosiaalisen median keskustelijana?'
+title: 'Ne tulee ja jyrää meitin: vieläkö ihminen pärjää botille sosiaalisen median keskustelijana?'
 date: 2023-11-20
 permalink: /posts/2023/11/koneellista-keskustelua/
 image: /images/gpts/robot.jpg
