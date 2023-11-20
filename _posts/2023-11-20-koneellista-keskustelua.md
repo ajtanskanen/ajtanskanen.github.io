@@ -1,5 +1,5 @@
 ---
-title: 'Keskustelevien bottien vastakkain asettelun aika ei ole ohi'
+title: 'Edunvalvontabottien kamppailu: vastakkain asettelun aika ei ole ohi'
 date: 2023-11-20
 permalink: /posts/2023/11/koneellista-keskustelua/
 image: /images/gpts/robot.jpg
@@ -21,8 +21,9 @@ Yllättävän helposti. Tuloksetkin ovat melko vakuuttavia. Eri aineistoilla ope
 Keskusteleva kielimalli
 ---
 
-ChatGPT on näyttänyt, miten suuri kielimalli pystyy uskomattoman ihmismäiseen keskusteluun. Askel askeleelta malli kehittyy paremmaksi. Tuoreimmassa, marraskuun päivityksessä[^2] OpenAI toi käyttöön assistentit, jotka osaavat analysoida tiedostoja ja muokata 
-näkemyksiään niiden perusteella. Kokeillaanpa.
+ChatGPT on näyttänyt, miten suuri kielimalli pystyy uskomattoman ihmismäiseen keskusteluun. Askel askeleelta malli kehittyy paremmaksi. Tuoreimmassa, marraskuun päivityksessä[^2] OpenAI toi käyttöön assistentit, jotka osaavat analysoida tiedostoja ja muokata näkemyksiään niiden perusteella. 
+
+SAK:n pääekonomisti [Ilkka Kaukoranta pohti X:ssä automaattisen edunvalvontabotin kehittämistä](https://x.com/ikaukora/status/1722892433355092280?s=20). Siinä on hyvä kohde kokeilla keskustelevia assistentteja. Joten toimeen!
 
 [^2]: [OpenAI:n DevDay](https://devday.openai.com/)
 
