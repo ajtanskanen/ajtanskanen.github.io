@@ -10,16 +10,17 @@ tags:
   - tekoäly 
 ---
 
-Ehkä joka kymmenes X/Twitter-tili on botti [^1]. Miten hyvin suurella kielimallilla voi kirjoittaa tietyllä näkemyksellä varustetun botin?
+Ainakin joka kymmenes X/Twitter-tili on botti [^1]. 
+Miten helposti suurella kielimallin avulla voi opettaa botin, joka edustaa tiettyä näkemystä?
 Se on helppoa ja tulokset melko vakuuttavia. Eri mieltä olevat botit voi myös laittaa keskustelemaan keskenään. Näytän esimerkin,
-jossa on opetettu botit EK:n ja SAK:n blogiaineistolla. Keskustelu on sujuvaa, mutta latteaa. Ehkä tämä kuitenkin antaa välähdyksen tulevasta.
+jossa on opetettu botit EK:n ja SAK:n blogiaineistolla. Keskustelu on sujuvaa, mutta latteaa, eikä kaikilta osin vastaa annettua näkemystä. Ehkä tämä kuitenkin antaa välähdyksen tulevasta.
 
 [^1]: Lähde: [Clare Duffy ja Brian Fung, Elon Musk commissioned this bot analysis in his fight with Twitter. Now it shows what he could face if he takes over the platform](https://edition.cnn.com/2022/10/10/tech/elon-musk-twitter-bot-analysis-cyabra/index.html)
 
 Keskusteleva kielimalli
 ---
 
-ChatGPT on näyttänyt, että suuri kielimalli pystyy uskomattomaan ihmismäiseen keskusteluun. Askel askeleelta malli kehittyy paremmaksi. Tuoreimmassa, marraskuun[^2] päivityksessä OpenAI toi käyttöön assistentit, jotka osaavat analysoida tiedostoja ja muokata 
+ChatGPT on näyttänyt, että suuri kielimalli pystyy uskomattoman ihmismäiseen keskusteluun. Askel askeleelta malli kehittyy paremmaksi. Tuoreimmassa, marraskuun päivityksessä[^2] OpenAI toi käyttöön assistentit, jotka osaavat analysoida tiedostoja ja muokata 
 näkemyksiään niiden perusteella. Kokeillaanpa.
 
 [^2]: [OpenAI:n DevDay](https://devday.openai.com/)
@@ -29,13 +30,12 @@ Hain verkosta suuren joukon Elinkeinoelämän keskusliitto EK:n blogeja. Tähän
 Hain myös SAK:n kaikki julkisesti saatavilla olevat blogit ja annoin ne lähdeaineistoksi assistentille. Kutsun seuraavassa assistenttia
 SAK-botiksi. Muistutus: *SAK-botti ei edusta SAK:ta tai SAK:n näkemyksiä, eikä ole SAK:n missään mielessä hyväksymä*.
 
-Ohjeistin botin keskustelemaan asiallisesti ja edustamaan työnantajien (EK-botti) ja työntekijöiden (SAK-botti) näkemyksiä.
+Ohjeistin botit keskustelemaan asiallisesti ja edustamaan työnantajien (EK-botti) ja työntekijöiden (SAK-botti) näkemyksiä. Toistetaan nyt vielä uudestaan, että botit EIVÄT edusta sen enempää EK:n kuin SAK:n todellista näkemystä. Aineisto on näin valittua, koska se on helposti saatavissa.
 
 Työttömyysturva
 ----
 
-Laitetaan botit keskustelemaan keskenään työttömyysturvasta. EK-botti aloittaa ja SAK-botti vastaa. Keskustelun formaatti
-on twiitti.
+Laitetaan botit keskustelemaan keskenään työttömyysturvasta. EK-botti aloittaa ja SAK-botti vastaa. Keskustelun formaatti on twiitti.
 
 ###  EK-botti
 
@@ -65,12 +65,12 @@ on twiitti.
 
 *Sopivan tasapainon löytäminen on avainasemassa, ja me EK:ssa olemme tästä yhtä mieltä. Oikein suunniteltu työttömyysturva lievittää siirtymän epävarmuutta ja rohkaisee ihmisiä ottamaan työtä vastaan, lisäten työmarkkinoiden dynamiikkaa. Tavoitteemme on turvata, että uudistus tukee niin työllistymistä kuin työntekijöiden toimeentuloakin – ilman tarpeetonta byrokratiaa. #Työttömyysturva #EK*näkemys #YhteistyölläEteenpäin *
 
-Keskustelu on sivistynyttä ja vastaa karkeasti lähdeaineistoa. Hieman sitä kuitenkin vaivaa hajuttomuus ja mauttomuus. Hieman tekstissä kiinnittää huomiota "joustavuus" EK-botin peräänkuuluttumana. Sitä ei työttömyysturvan yhteydessä EK:n blogiaineistossa esiinny. EK myös kannattaa byrokratian purkua yleisesti, mutta erityisesti työttömyysturvan kohdalla siitä ei ole puhuttu. EK-botti siis huomioi lähdeaineiston, mutta tulkinnat eivät täysin vastaa sitä. Samt ongelmat hieman vaivaavat SAK-botin toiminnassa, mutta vähemmän silmiinpistävästi.
+Keskustelu on sivistynyttä ja vastaa karkeasti lähdeaineistoa. Hieman sitä kuitenkin vaivaa hajuttomuus ja mauttomuus. Hieman tekstissä kiinnittää huomiota "joustavuus" EK-botin peräänkuuluttumana. Sitä ei työttömyysturvan yhteydessä EK:n blogiaineistossa esiinny. EK myös kannattaa byrokratian purkua yleisesti, mutta erityisesti työttömyysturvan kohdalla siitä ei aineistossa puhuta. EK-botti siis huomioi lähdeaineiston, mutta tulkinnat eivät täysin vastaa sitä. Samat ongelmat vaivaavat SAK-botin toiminnassa, mutta vähemmän silmiinpistävästi.
 
 Työelämä
 ----
 
-Entä mitä botit sanovat työelämän uudistamisesta? Samat ongelmat vaivaavat: EK-botti haluaa normeja, jotka tuovat joustavuutta. 
+Entä mitä botit sanovat työelämän uudistamisesta? Päällisin puolin botit puhuvat järkeviä, mutta tarkemmin katsoen tekstissä on ongelmia. Nyt EK-botti mm. haluaa normeja, jotka tuovat joustavuutta. Tämä ei vastaa ainestoa.
 
 ### EK-botti
   
