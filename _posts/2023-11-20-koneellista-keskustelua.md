@@ -1,5 +1,5 @@
 ---
-title: 'Ne tulee ja jyrää meitin: ihmistä tarvitaan sosiaalisen median keskustelijana?'
+title: 'Vieläkö ihminen pärjää botille sosiaalisen median keskustelijana?'
 date: 2023-11-20
 permalink: /posts/2023/11/koneellista-keskustelua/
 image: /images/gpts/robot.jpg
@@ -28,9 +28,12 @@ näkemyksiään niiden perusteella. Kokeillaanpa.
 
 Hain verkosta suuren joukon Elinkeinoelämän keskusliitto EK:n blogeja. Tähän väliin lienee syytä todeta, että EK on työnantajani. Botit on opetettu blogiaineistolla, muuten bottien säätö on jätetty minimiin.  Kuka tahansa pystyy säätämään botteja vastaavasti kuin tässä on kuvattu. 
 
-Tärkeintä on, että aineistoa on riittävästi. EK:n sivuilta löytyy erittäin suuri määrä blogeja, mikä helpottaa opettamista. Annoin koko blogi-aineiston assistentille lähtötiedoiksi. Kutsun assistenttia EK-botiksi. Tähän väliin on syytä laittaa disclaimer: *EK-botti ei edusta EK:n näkemyksiä tai ole EK:n hyväksymä*.
+Tärkeintä on, että aineistoa on riittävästi. EK:n sivuilta löytyy erittäin suuri määrä blogeja, mikä helpottaa opettamista. Annoin koko blogi-aineiston assistentille lähtötiedoiksi. Kutsun assistenttia EK-botiksi. 
 
-Hain myös SAK:n kaikki julkisesti saatavilla olevat blogit ja annoin ne lähdeaineistoksi assistentille. Kutsun seuraavassa assistenttia SAK-botiksi. Tähänkin disclaimer: *SAK-botti ei edusta SAK:ta tai SAK:n näkemyksiä, eikä ole SAK:n missään mielessä hyväksymä*.
+Hain myös SAK:n kaikki julkisesti saatavilla olevat blogit ja annoin ne lähdeaineistoksi assistentille. Kutsun seuraavassa assistenttia SAK-botiksi. Tähän väliin on syytä laittaa disclaimer.
+
+<p class="panel-note top-padding" markdown="1">*EK-botti ei edusta EK:n näkemyksiä tai ole EK:n hyväksymä.*
+*SAK-botti ei edusta SAK:ta tai SAK:n näkemyksiä, eikä ole SAK:n missään mielessä hyväksymä*. </p>
 
 Työttömyysturva: liiankin seesteistä keskustelua
 ----
