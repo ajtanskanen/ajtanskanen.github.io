@@ -18,7 +18,7 @@ Yllättävän helposti. Tuloksetkin ovat melko vakuuttavia. Eri aineistoilla ope
 
 [^1]: Lähde: [Clare Duffy ja Brian Fung, Elon Musk commissioned this bot analysis in his fight with Twitter. Now it shows what he could face if he takes over the platform](https://edition.cnn.com/2022/10/10/tech/elon-musk-twitter-bot-analysis-cyabra/index.html)
 
-Keskusteleva kielimalli
+Voiko suuren kielimallin opettaa edunvalvontabotiksi?
 ---
 
 ChatGPT on näyttänyt, miten suuri kielimalli pystyy uskomattoman ihmismäiseen keskusteluun. Askel askeleelta malli kehittyy paremmaksi. Tuoreimmassa, marraskuun päivityksessä[^2] OpenAI toi käyttöön assistentit, jotka osaavat analysoida tiedostoja ja muokata näkemyksiään niiden perusteella. 
