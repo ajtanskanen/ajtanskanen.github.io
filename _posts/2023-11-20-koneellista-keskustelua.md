@@ -1,7 +1,7 @@
 ---
 title: 'Edunvalvontabottien kamppailu: vastakkainasettelun aika ei ole ohi'
 date: 2023-11-20
-permalink: /posts/2023/11/koneellista-keskustelua/
+permalink: /posts/2023/11/koneet-keskustelevat/
 image: /images/gpts/robot.jpg
 summary: 'Blogi | Botteja voi opettaa kannatamaan eri mielipiteitä ja puolustamaan niitä keskustelussa. Miltä näyttää, kun kaksi bottia väittelee keskenään työelämän uudistamisesta tai työttömyyturvan kehittämisestä? Parhaimmillaan pelottavan uskottavalta, heikoimmillaan värittömältä ja sisällyksettömältä. Blogissa näytetään konkreettisesti, mikä on sosiaalien median tulevaisuus.'
 tags:
