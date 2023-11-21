@@ -31,7 +31,7 @@ SAK:n pääekonomisti [Ilkka Kaukoranta pohti X:ssä automaattisen edunvalvontab
 Opetuksen aineistoksi on haettu SAK:n ja EK:n blogeja. Botit on opetettu tällä aineistolla, muuten bottien säätö on jätetty minimiin.  Kuka tahansa pystyy säätämään botteja vastaavasti kuin tässä on kuvattu. 
 
 Tärkeintä opetuksessa on, että aineistoa on riittävästi. EK:n sivuilta löytyy erittäin suuri määrä blogeja, mikä helpottaa opettamista. Tällä aineistolla opetettua assistenttia kutsutaan EK-botiksi. 
-Samalla tavalla SAK:n on helppo hakea suuri joukko julkisesti saatavilla olevia blogeja. Tällä aineistolla opetettua assistenttia kutsutaan seuraavassa assistenttia SAK-botiksi. 
+Samalla tavalla SAK:n on helppo hakea suuri joukko julkisesti saatavilla olevia blogeja. Tällä aineistolla opetettua assistenttia kutsutaan seuraavassa SAK-botiksi. 
 
 <p class="panel-note top-padding" markdown="1">*Sic! EK-botti ei edusta EK:n näkemyksiä eikä ole EK:n hyväksymä. SAK-botti ei edusta SAK:ta tai SAK:n näkemyksiä, eikä se ole SAK:n missään mielessä hyväksymä*. </p>
 
