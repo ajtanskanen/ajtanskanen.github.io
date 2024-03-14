@@ -19,7 +19,7 @@ Tuottavuusloikka
 
 Suuret kielimallit ovat hyviä analysoimaan suuria sekavia, rakenteettomia aineistoja, kuten vaikkapa Suomen lainsäädäntöä. Juristin tasoa suuri kielimalli ei vielä ole, mutta avustavissa juridiikan töissä siitä on jo apua. Yritysjuridiikassa due diligence -analyysiä on jo tehty tekoälyn avulla ja tuottavuusloikka on ollut suuri. Jatkossa tuottavuus tulee kasvamaan, sillä tämän päivän tekoäly on surkeinta, mitä tekoäly tulee koskaan olemaan. 
 
-Tekoälyn sovelluskohteet ovat olleet melko teknisiä: röntgenkuvien analysointia, koneoppimisella toimivia ennustemalleja. Jatkossa tekoäly tulee kaikkialle. Jokaisella tulee olemaan oma tekoälysihteeri, joka osaa järjestää kalenteria, hankkia konserttilippuja, kirjoittaa twiittejä, vastata sähköposteihin. Sellainen on jo olemassa (esimerkiksi Office Co-pilot), mutta tämä on vain alkua. Ihminen vapautuu rutiinitöistä ja pääsee keskittymään siihen, mikä on tärkeintä. Tätä on tuottavuusloikka.
+Tekoälyn sovelluskohteet ovat olleet melko teknisiä: röntgenkuvien analysointia, koneoppimisella toimivia ennustemalleja. Jatkossa tekoäly tulee kaikkialle. Jokaisella tulee olemaan oma tekoälysihteeri, joka osaa järjestää kalenteria, hankkia konserttilippuja, kirjoittaa twiittejä, vastata sähköposteihin. Sellainen on jo olemassa (esimerkiksi MS Officen Copilot), mutta tämä on vain alkua. Ihminen vapautuu rutiinitöistä ja pääsee keskittymään siihen, mikä on tärkeintä. Tätä on tuottavuusloikka.
 
 Juridisoituva arkipäivä
 --
@@ -27,6 +27,7 @@ Juridisoituva arkipäivä
 Esimerkki tekoälyn tuomasta yhteiskunnallisesta muutoksesta on kaiken läpäisevä juridisoituminen: tekoäly mahdollistaa kaiken lainsäädännön reaaliaikaisen soveltamisen kaikissa tilanteissa. Tämä voi johtaa siihen, että yhteiskunnan toiminta juridisoituu ennen näkemättömässä laajuudessa. 
 
 Tekoäly mahdollistaa lainsäädännön valvonnan ennennäkemättömässä laajuudessa. Tekoäly voisi esimerkiksi arvioida jokaisen ihmisen jokaisen teon lainmukaisuutta ympäri vuorokauden, seurata jokaista autoilijaa tai jalankulkijaa jatkuvasti ja sakottaa pienestäkin rikkeestä. Samalla tavalla tekoäly saattaa tarkastaa jokaisen yrityksen ja kansalaisen veroilmoituksen jokaisen yksityiskohdan jokaisessa joka vuosi. Kiinassa tämä nähdään mahdollisuutena, Euroopassa ongelmana.
+
 Kun sääntelyä on todella paljon, tarkoittaa tekoälyn mahdollistama laaja detaljitason valvonta arkielämän juridisoitumista, kun kaikkea tekemistä arvioidaan lainsäädännön näkökulmasta ja toimintaa valvotaan. Kun nykyinen rangaistusasteikko on mitoitettu sen mukaan, ettei läheskään kaikkea tötöilyä saada kiinni, seuraisi täydellisestä valvonnasta valtaisa määrä uusia rikollisia. 
 
 
