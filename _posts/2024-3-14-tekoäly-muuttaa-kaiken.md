@@ -38,7 +38,7 @@ Toisinpäin käännettynä myös valitusten laatiminen helpottuu. Tekoäly tulee
 
 Jokaisella on käsien ulottuvilla oma lähes ilmainen tekoälyjuristi, joka osaa tehdä perustellun valituksen niin kaavaluonnoksesta kuin mistä tahansa viranomaispäätöksestä. Kun valitusreitti on tehty ilmaiseksi, on helppo ennustaa, että suomalainen liberaali mahdollisuus valittaa lähes kaikesta viranomaistoiminnasta tulee tukkimaan valitusreitit. 
 
-Palvelunestohyökkäys -nimellä (Distributed denial of service; DDOS) kutsutaan verkkohyökkäystä, jossa tukitaan palvelu suuntaamalla valtava määrä palvelupyyntöjä siihen. Samalla tavalla voidaan jatkossa – kiitos tekoälyn – tehdä oikeuslaitokselle ja viranomaispalveluille. Kun suuri määrä ihmisiä tekee tätä, voi sitä kutsua vaikka juridiseksi palvelunestohyökkäykseksi (Distributed denial of justice).
+Palvelunestohyökkäys -nimellä (Distributed denial of service; DDOS) kutsutaan verkkohyökkäystä, jossa tukitaan palvelu suuntaamalla valtava määrä palvelupyyntöjä siihen. Samalla tavalla voidaan jatkossa – kiitos tekoälyn – tehdä oikeuslaitokselle ja viranomaispalveluille. Kun suuri määrä ihmisiä tekee tätä, voi sitä kutsua vaikka juridiseksi palvelunestohyökkäykseksi.
 
 Tekoälyä voi myös hyödyntää valitusten käsittelyssä. Tekoälyn generoiman valitustsunamin iskiessä se voi olla ainoa tie käsitellä asianmukaisesti valitukset. Pitäisikö tämä mahdollistaa jossain välissä?
 
@@ -49,5 +49,5 @@ Edelläkävijät määräävät suunnan ja tekevät pelisäännöt. Onko Suomell
 
 Väläyksen tulevasta saa, kun katsoo shakin maailmanmestari Magnus Carlsenin sijoitusta shakkialgoritmien ELO-rankingissa. Carlsen olisi sillä listalla sijalla 175. Maailma tulee muuttumaan hyvin toisenlaiseksi, aivan niin kuin ihmistä paremmat tietokonepelaajat ovat tehneet shakille. On oleellista erottaa lyhyen aikavälin muutos, joka ei ole dramaattinen ja jota usein yliarvioidaan, ja pitkän aikavälin muutos, jota aliarvioidaan mutta joka voi olla dramaattinen. 
 
-Suuren kielimallin kehitys maksaa luokkaa 250 miljoonaa euroa. Jos halutaan pysyä kilpailussa, pitäisi tukea suomalaisia yrityksiä tekoälyn kehityksessä aggressiivisesti. Tämä tarkoittaisi ehkä kymmentä uskottavaa projektia, jotta jokin niistä pääsee maaliin. Tämä vaatisi 2,5 mrd euroa. Tavoite pitää olla maailman paras, ei enempää, ei vähempää. Kymmenen vuoden päästä on turha itkeä, että olisi pitänyt iskeä silloin, kun suuret amerikkalaiset kielimallit valtasivat maailman. Aika satsata tekoälyyn on nyt, myös mahdollistamalla sen käyttö lainsäädännössä.
+Suuren kielimallin kehitys maksaa luokkaa 250 miljoonaa euroa. Jos halutaan pysyä kilpailussa, pitäisi tukea suomalaisia yrityksiä tekoälyn kehityksessä aggressiivisesti. Tämä tarkoittaisi ehkä kymmentä uskottavaa projektia, jotta jokin niistä pääsee maaliin. Tämä vaatisi 2,5 mrd euroa. Tavoite pitää olla maailman paras, ei enempää, ei vähempää. Kymmenen vuoden päästä on turha itkeä, että olisi pitänyt iskeä silloin, kun suuret kielimallit valtasivat maailmaa. Aika satsata tekoälyyn on nyt.
 
