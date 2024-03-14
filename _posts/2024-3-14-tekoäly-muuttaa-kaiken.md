@@ -39,12 +39,14 @@ Jokaisella on käsien ulottuvilla oma lähes ilmainen tekoälyjuristi, joka osaa
 
 Palvelunestohyökkäys -nimellä (Distributed denial of service; DDOS) kutsutaan verkkohyökkäystä, jossa tukitaan palvelu suuntaamalla valtava määrä palvelupyyntöjä siihen. Samalla tavalla voidaan jatkossa – kiitos tekoälyn – tehdä oikeuslaitokselle ja viranomaispalveluille. Kun suuri määrä ihmisiä tekee tätä, voi sitä kutsua vaikka juridiseksi palvelunestohyökkäykseksi (Distributed denial of justice).
 
+Tekoälyä voi myös hyödyntää valitusten käsittelyssä. Tekoälyn generoiman valitustsunamin iskiessä se voi olla ainoa tie käsitellä asianmukaisesti valitukset. Pitäisikö tämä mahdollistaa jossain välissä?
 
-Tulevaisuus on jo täällä
+Aika satsata tekoälyyn on nyt
 --
-
-Väläyksen tulevasta saa, kun katsoo shakin maailmanmestari Magnus Carlsenin sijoitusta shakkialgoritmien ELO-rankingissa. Carlsen olisi sillä listalla sijalla 175. Maailma tulee muuttumaan hyvin toisenlaiseksi, aivan niin kuin ihmistä paremmat tietokonepelaajat ovat tehneet shakille. On oleellista erottaa lyhyen aikavälin muutos, joka ei ole dramaattinen ja jota usein yliarvioidaan, ja pitkän aikavälin muutos, jota aliarvioidaan mutta joka voi olla dramaattinen. 
 
 Edelläkävijät määräävät suunnan ja tekevät pelisäännöt. Onko Suomella tai Euroopalla varaa jäädä tekoälyn kehityksessä perässähiihtäjäksi?  Monta kertaa on kuvattu Euroopan asennetta tekoälyyn kertomalla jalkapallotermeillä, että Eurooppa pelaa kolmella kenttäpelaajalla ja yhdellätoista tuomarilla. Usa on värvännyt joukkueeseensa niin Messin kuin Haalandin. Ei Eurooppa tule pärjäämään pelkkä raitapaita päällään.
 
-Suuren kielimallin kehitys maksaa luokkaa 250 miljoonaa euroa. Jos halutaan pysyä kilpailussa, pitäisi tukea suomalaisia yrityksiä tekoälyn kehityksessä aggressiivisesti. Tämä tarkoittaisi ehkä kymmentä uskottavaa projektia, jotta jokin niistä pääsee maaliin. Tämä vaatisi 2,5 mrd euroa. Tavoite pitää olla maailman paras, ei enempää, ei vähempää. Kymmenen vuoden päästä on turha itkeä, että olisi pitänyt iskeä silloin, kun suuret kielimallit muuttivat maailman. Aika satsata tekoälyyn on nyt.
+Väläyksen tulevasta saa, kun katsoo shakin maailmanmestari Magnus Carlsenin sijoitusta shakkialgoritmien ELO-rankingissa. Carlsen olisi sillä listalla sijalla 175. Maailma tulee muuttumaan hyvin toisenlaiseksi, aivan niin kuin ihmistä paremmat tietokonepelaajat ovat tehneet shakille. On oleellista erottaa lyhyen aikavälin muutos, joka ei ole dramaattinen ja jota usein yliarvioidaan, ja pitkän aikavälin muutos, jota aliarvioidaan mutta joka voi olla dramaattinen. 
+
+Suuren kielimallin kehitys maksaa luokkaa 250 miljoonaa euroa. Jos halutaan pysyä kilpailussa, pitäisi tukea suomalaisia yrityksiä tekoälyn kehityksessä aggressiivisesti. Tämä tarkoittaisi ehkä kymmentä uskottavaa projektia, jotta jokin niistä pääsee maaliin. Tämä vaatisi 2,5 mrd euroa. Tavoite pitää olla maailman paras, ei enempää, ei vähempää. Kymmenen vuoden päästä on turha itkeä, että olisi pitänyt iskeä silloin, kun suuret amerikkalaiset kielimallit valtasivat maailman. Aika satsata tekoälyyn on nyt, myös mahdollistamalla sen käyttö lainsäädännössä.
+
