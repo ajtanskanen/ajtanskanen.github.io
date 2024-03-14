@@ -1,9 +1,9 @@
 ---
 title: 'Tekoäly muuttaa taas kaiken: kohti juridisoituvaa yhteiskuntaa'
 date: 2024-3-14
-permalink: /posts/2024/3/kielimallit/
-image: /images/gpts/robot.jpg
-largeimage: /images/gpts/robot.jpg
+permalink: /posts/2024/3/juridisoituva/
+image: /images/robot_sword.webp
+largeimage: /images/robot_sword.webp
 summary: 'Blogi | Edelläkävijät määräävät suunnan ja tekevät pelisäännöt. Onko Suomella tai Euroopalla varaa jäädä tekoälyn kehityksessä perässähiihtäjäksi?  Monta kertaa on kuvattu Euroopan asennetta tekoälyyn kertomalla jalkapallotermeillä, että Eurooppa pelaa kolmella kenttäpelaajalla ja yhdellätoista tuomarilla. Usa on värvännyt joukkueeseensa niin Messin kuin Haalandin. Ei Eurooppa tule pärjäämään pelkkä raitapaita päällään. Mutta mitä tekoäly muuttaa tulevaisuudesta? Ainakin se juridisoi yhteiskunnan.'
 tags:
   - AI
