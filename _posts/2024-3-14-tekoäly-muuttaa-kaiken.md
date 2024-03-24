@@ -36,7 +36,7 @@ Valitustie palvelunestohyökkäyksenä
 
 Toisinpäin käännettynä myös valitusten laatiminen helpottuu. Tekoäly tulee osaamaan kirjoittaa perusteltuja valituksia mistä tahansa viranomaispäätöksestä. Tämä luo myös aivan uusia mahdollisuuksia valittajille.
 
-Jokaisella on käsien ulottuvilla oma lähes ilmainen tekoälyjuristi, joka osaa tehdä perustellun valituksen niin kaavaluonnoksesta kuin mistä tahansa viranomaispäätöksestä. Kun valitusreitti on tehty ilmaiseksi, on helppo ennustaa, että suomalainen liberaali mahdollisuus valittaa lähes kaikesta viranomaistoiminnasta tulee tukkimaan valitusreitit. 
+Jokaisella on pian käytössä oma lähes ilmainen tekoälyjuristi, joka osaa tehdä perustellun valituksen niin kaavaluonnoksesta kuin mistä tahansa viranomaispäätöksestä. Kun valitusreitti on tehty ilmaiseksi, on helppo ennustaa, että suomalainen liberaali mahdollisuus valittaa lähes kaikesta viranomaistoiminnasta tulee tukkimaan valitusreitit. 
 
 Palvelunestohyökkäys -nimellä (Distributed denial of service; DDOS) kutsutaan verkkohyökkäystä, jossa tukitaan palvelu suuntaamalla valtava määrä palvelupyyntöjä siihen. Samalla tavalla voidaan jatkossa – kiitos tekoälyn – tehdä oikeuslaitokselle ja viranomaispalveluille. Kun suuri määrä ihmisiä tekee tätä, voi sitä kutsua vaikka juridiseksi palvelunestohyökkäykseksi.
 
