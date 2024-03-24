@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my personal wonderland"
+title: "Antti Tanskanen"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
