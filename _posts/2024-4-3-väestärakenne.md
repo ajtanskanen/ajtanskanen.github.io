@@ -1,5 +1,5 @@
 ---
-title: 'Väestörakenne matalan syntyvyyden ja korkean nettomaahanmuuton aikana'
+title: 'Väestörakenne muuttuu matalan syntyvyyden ja maahanmuuton seurauksena'
 date: 2024-4-3
 permalink: /posts/2024/4/migration/
 summary: 'Blogi | Syntyvyys on romahtanut 33 prosenttia vuoden 2010 jälkeen. Samaan aikaan maahanmuutto on kasvanut reippaasti ja väestö kasvaa enemmän maahanmuuton ansiosta kuin syntyvyyden. Miltä näyttää Suomen väestön tulevaisiin?'
@@ -85,18 +85,21 @@ Väestöt seikoittuvat, eivät niinkään korvaudu tässä laskelmassa. Väestö
 Väestörakenne
 ======
 
-Skenaari 1: Matala syntyvyys ja korkea maahanmuutto
+Maahanmuuttajat ovat usein yli 20-vuotiaita, joten maahanmuutto vaikuttaa myösväestörakenteeseen. Lasten määrä on jatkossa maahanmuuton seurauksena pienempi kuin 3-kymppisten määrä.
+
+Skenaario 1: Matala syntyvyys ja korkea maahanmuutto
 ----
 
-Maahanmuuttajat ovat usein yli 20-vuotiaita, joten maahanmuutto vaikuttaa myös väestörakenteeseen. Kuvio 4 näyttää väestörakenteen muutosta.
-Nettomaahanmuutto 58 000 ja tfr 1,25.
+Kuvio 4 näyttää väestörakenteen muutosta. Laskelmassa nettomaahanmuutto 58 000 ja kokonaishedelmällisyysluku 1,25. Tässä käytetään ulkomaalaistaustaisen määritelmänä
+Tilastokeskuksen määritelmää, mistä syystä erotellaan kolme ryhmää: suomalaistaustaiset, ulkomaalaistaustaiset 1. sukupolven edustajat ja ulkomaalaistaustaiset 2. sukupolven edustajat.
+
 
 ![Väestörakenne](/images/migr/segregation.gif)<br>
 Kuvio 4. Väestörakenne vuosina 2022-2200. Suomalaistaustainen väestö (tummanvihreä), ulkomaalaistaustainen (vaaleanvihreä) ja ulkomaalaistaustainen 2. sukupolvi (keltainen).
 
 
 
-Skenaari 2: Korkea syntyvyys ja korkea maahanmuutto
+Skenaario 2: Korkea syntyvyys ja korkea maahanmuutto
 ----
 
 Entä jos palattaisiin vuoden 2010 syntyvyyden tasolle? Se, miten tämä onnistuisi on epäselvää, mutta oletetaan: kokonaishedelmällisyysluku 1,87 ja nettomaahanmuutto 58 000 henkilöä vuodessa.
@@ -105,7 +108,7 @@ Entä jos palattaisiin vuoden 2010 syntyvyyden tasolle? Se, miten tämä onnistu
 Kuvio 5. Väestörakenne korkean syntyvyyden Suomessa
 
 
-Skenaari 3: Matala syntyvyys ja maltillinen maahanmuutto
+Skenaario 3: Matala syntyvyys ja maltillinen maahanmuutto
 ----
 
 Nettomaahanmuutto 30 000 ja tfr 1,25.
@@ -139,12 +142,23 @@ On vaikea uskoa, että syntyvyys tulee nousemaan nykyiseltä tasolta 1,26 (helmi
 pidän todennäköisempänä, että syntyvyys tulee hieman laskemaan. Maahanmuuton ennusteminen on ehkä vielä vaikeampaa. En usko nettomaahanmuuton pysyvän vuoden 2024 tasolla, mutta tuskin
 nettomahanmuutto laskee kuitenkaan kovin alas. Tällä perusteella skenaario 3 on todennäköisin.
 
-Johtopäätökset
+Keskustelu
 ===
 
 Maahanmuutto kasvattaa Suomen väestöä enemmän kuin syntyvyys. Tällä on väistämättä vaikutuksia Suomen väestön rakenteeseen, jos maahanmuutto säilyy vuoden 2023 tasolla ja syntyvyys
 pysyy matalalla tasolla tai jopa alenee. Fiksun politiikan tekeminen vaatii arvioita tulevaisuudesta, vaikka luotettavien ennusteiden tekeminen on vaikeaa. Yleensä tämä kierretään
 kertomalla, että ei tehdä ennusteita vaan skenaarioita, joiden uskottavuus jää päätöksentekijän harteille. 
+
+Syntyvyys
+---
+
+Syntyvyyteen on vaikea vaikuttaa. Kun useissa eri maissa syntyvyys on romahtanut samaan aikaan, on vaikea osoittaa maakohtaista syytä syntyvyyden pienenemiselle.
+[Anna Rotkirch](REF) on argumentoinut, että keskeisenä tekijänä olisi älypuhelimet ja sosiaalinen media, mikä saattaa pitää paikkansa. Politiikkatoimilla (kuten 
+esimerkiksi hedelmöityshoitojen maksuttomuus) lienee mahdollista jonkin verran kasvattaa syntyvyyttä mahdollistamalla ihmisille heidän toivomansa lapsiluku, joka tällä hetkellä [kyselyiden](REF) mukaan ylittää toteuman. Vaikutukset lienevät kuitenkin
+korkeintaan maltillisia.
+
+Maahanmuuttajien integrointi
+---
 
 Maahanmuuttajien osuuden kasvu Suomen väestöstä korostaa maahanmuuttajien integroinnin tärkeyttä, koska Suomi kuitenkin tarvitsee työntekijöitä. 
 Nykyisellä syntyvyydellä on vaikea säilyttää Suomen elintasoa. Esimerkkejä fiksuista ideoista maahanmuuttajien Suomeen integronnista on esimerkiksi
@@ -155,5 +169,8 @@ poikkeaa maahanmuuttajien omasta kielestä. Vaikka Suomessa pärjää englannill
 maahanmuuttajat yhteiskuntaan. Tätä olisi syytä edistää sekä kepillä että porkkanalla. Voisiko kielenopiskelu olla pakollista kaikille Suomessa opiskeleville? Ja maksutonta
 automaattisesti kaikille Suomessa työskenteleville?
 
-Ennusteet tuleva tarkentumaanm mutta joka tapauksessa Suomen väestörakenne tulee muuttumaan näillä syntyvyysluvuilla. Siitä ei pääse mihinkään. 
+Johtopäätökset
+---
+
+Ennusteet tuleva tarkentumaan mutta joka tapauksessa Suomen väestörakenne tulee muuttumaan näillä syntyvyysluvuilla. Siitä ei pääse mihinkään. 
 
