@@ -16,7 +16,7 @@ Korkea maahanmuutto ja matala syntyvyys
 
 Vuonna 2010 kokonaishedelmällisyysluku oli 1,87 lasta naista kohden elämän aikana. Vuonna 2023 kokonaishedelmällisyysluku 1,25 lasta naista kohden elämän aikana. 
 Syntyvyys on siis laskenut 33 prosenttia 13 vuoden aikana. Muutos on ollut raju (Kuvio 1). Samaan aikaan maahanmuutto on kasvanut. Vuonna 2023 oli maahanmuuton ennätysvuosi
-Suomessa: Suomesta muutti pois xx ihmista ja Suomeen muutti yy ihmistä.
+Suomessa: Suomesta muutti pois 13 400 ihmista ja Suomeen muutti 79 200 ihmistä.
 
 ![Väestörakenne](/images/migr/tfr.png)<br>
 Kuvio 1. Kokonaishedelmällisyysluvun kehitys.
@@ -141,5 +141,13 @@ pysyy matalalla tasolla tai jopa alenee. Fiksun politiikan tekeminen vaatii arvi
 kertomalla, että ei tehdä ennusteita vaan skenaarioita, joiden uskottavuus jää päätöksentekijän harteille. 
 
 Maahanmuuttajien osuuden kasvu Suomen väestöstä korostaa maahanmuuttajien integroinnin tärkeyttä, koska Suomi kuitenkin tarvitsee työntekijöitä. 
-Nykyisellä syntyvyydellä on vaikea säilyttää Suomen elintasoa. 
+Nykyisellä syntyvyydellä on vaikea säilyttää Suomen elintasoa. Esimerkkejä fiksuista ideoista maahanmuuttajien Suomeen integronnista on esimerkiksi
+juhlava kansalaisuusseremonia, joka kertoo kansalaisuuden saajille, että on oikeasti hienoa saada nimenomaan Suomen kansalaisuus. Tällaista ei tällä hetkellä ole.
+
+Toinen integroinnin onnistumisessa korostuva seikka on kielenopetuksen tärkeys. Suomi tai ruotsi ei kumpikaan ole kaikkein helpoimpia kieliä, koska se 
+poikkeaa maahanmuuttajien omasta kielestä. Vaikka Suomessa pärjää englannilla, on yhteiskuntaan integroitumisen vuoksi tärkeää oppia paikallinen kieli. Se myös sitoo
+maahanmuuttajat yhteiskuntaan. Tätä olisi syytä edistää sekä kepillä että porkkanalla. Voisiko kielenopiskelu olla pakollista kaikille Suomessa opiskeleville? Ja maksutonta
+automaattisesti kaikille Suomessa työskenteleville?
+
+Ennusteet tuleva tarkentumaanm mutta joka tapauksessa Suomen väestörakenne tulee muuttumaan näillä syntyvyysluvuilla. Siitä ei pääse mihinkään. 
 
