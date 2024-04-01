@@ -7,7 +7,7 @@ tags:
   - syntyvyys
   - maahanmuutto
 ---
-Viimeaikaisen matalan syntyvyyden ja korkean maahanmuuton jäädessä pysyväksi tilaksi Suomen väestörakenne muuttuu melko nopeasti. Väestö ei maahanmuuton ansiosta pienen,
+Viimeaikaisen matalan syntyvyyden ja korkean maahanmuuton jäädessä pysyväksi tilaksi Suomen väestörakenne muuttuu melko nopeasti. Väestö ei maahanmuuton ansiosta pienene,
 kuten muuten kävisi matalan syntyvyyden seurauksena. Pitkällä aikavälillä suurin osa suomalaisista on ulkomaalaistaustaisia, mutta myös suomalaistaustaisten määrä alkaa
 kasvaa merkittävästi. 
 
@@ -38,7 +38,8 @@ Helsingin Sanomat nosti maahanmuuton vaikutuksen Suomen väestörakenteeseen esi
 Nykyiset suomalaistaustaiset ja heidän jälkeläistensä määrä
 ---
 Tarkastellaan aluksi nykyisiä suomalaistaustaisia ja heidän jälkeläisiään. Oletetaan, että suomalaistaustaiset ja ulkomaalaistaustaiset eivät muodosta parisuhteita ja saa yhteisiä lapsia. 
-Näin oletettiin [HS:n laskelmissa](https://www.hs.fi/talous/art-2000010098112.html). Näissä laskelmissa elinikä kasvaa kuolleisuuden vähentyessä.
+Näin oletettiin [HS:n laskelmissa](https://www.hs.fi/talous/art-2000010098112.html). Näissä laskelmissa kokonaishedelmällisyysluku on 1,25, ja elinikä kasvaa kuolleisuuden vähentyessä.
+Nettomaahanmuutto ei vaikuta tähän laskelmaan.
 
 ![Väestörakenne](/images/migr/suomalaistaustaisia.png)<br>
 Kuvio 3. Suomalaistaustaiset ja heidän muiden suomalaistaustaisten kanssa saamien lasten määrä.
@@ -84,7 +85,7 @@ Väestöt seikoittuvat, eivät niinkään korvaudu tässä laskelmassa. Väestö
 Väestörakenne
 ======
 
-Matala syntyvyys ja korkea maahanmuutto
+Skenaari 1: Matala syntyvyys ja korkea maahanmuutto
 ----
 
 Maahanmuuttajat ovat usein yli 20-vuotiaita, joten maahanmuutto vaikuttaa myös väestörakenteeseen. Kuvio 4 näyttää väestörakenteen muutosta.
@@ -95,7 +96,7 @@ Kuvio 4. Väestörakenne vuosina 2022-2200. Suomalaistaustainen väestö (tumman
 
 
 
-Korkea syntyvyys ja korkea maahanmuutto
+Skenaari 2: Korkea syntyvyys ja korkea maahanmuutto
 ----
 
 Entä jos palattaisiin vuoden 2010 syntyvyyden tasolle? Se, miten tämä onnistuisi on epäselvää, mutta oletetaan: kokonaishedelmällisyysluku 1,87 ja nettomaahanmuutto 58 000 henkilöä vuodessa.
@@ -104,7 +105,7 @@ Entä jos palattaisiin vuoden 2010 syntyvyyden tasolle? Se, miten tämä onnistu
 Kuvio 5. Väestörakenne korkean syntyvyyden Suomessa
 
 
-Matala syntyvyys ja keskiverto maahanmuutto
+Skenaari 3: Matala syntyvyys ja maltillinen maahanmuutto
 ----
 
 Nettomaahanmuutto 30 000 ja tfr 1,25.
@@ -126,12 +127,17 @@ Korkea maahanmuutto kasvattaa itse asiassa suomalaistaustaisten määrää. Täm
 Suomssa. Heidän lapsensa lasketaan Tilastokesuksen määritelmässä suomalaistaustaisiksi.
 
 ![Tuotot](/images/migr/vertailu_orig.png)<br>
-Kuvio 5. suomalaistaustaiset
-
-
+Kuvio 5. Suomalaistaustaisten lukumääriä kolmessa skenaariossa.
 
 ![Tuotot](/images/migr/vertailu_migr.png)<br>
 Kuvio 5. Maahanmuuttajat
+
+Skenaariot
+---
+
+On vaikea uskoa, että syntyvyys tulee nousemaan nykyiseltä tasolta 1,26 (helmikuu 2024) ainakaan kovin nopeasti vuoden 2010 tasolle (1,87). Pientä nousua voi tapahtua, mutta 
+pidän todennäköisempänä, että syntyvyys tulee hieman laskemaan. Maahanmuuton ennusteminen on ehkä vielä vaikeampaa. En usko nettomaahanmuuton pysyvän vuoden 2024 tasolla, mutta tuskin
+nettomahanmuutto laskee kuitenkaan kovin alas. Tällä perusteella skenaario 3 on todennäköisin.
 
 Johtopäätökset
 ===
