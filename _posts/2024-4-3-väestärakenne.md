@@ -67,7 +67,7 @@ ulkomaalaistaustainen, on mies suomalaistaustainen vuonna 2012. Tämä ei vielä
 kolmannes ulkomaalaistaustaisista naisista saa lapsen suomalaistaustaisen miehen kanssa tällä hetkellä. 
 
 ![Väestörakenne](/images/migr/population_vrt.png)<br>
-_Kuvio 4. Väestön määrä jaettuna suomalais- ja ulkomaalaistaustaisiin. Suomalaistaustaisia on kaksi versiota: yllä kuvattu HS:ssä tarkasteltu versio ja versio, jossa parisuhteet ulkomaalaisten kanssa on huomioitu._
+_Kuvio 4. Väestön määrä jaettuna suomalais- ja ulkomaalaistaustaisiin. Suomalaistaustaisia on kaksi versiota: yllä kuvattu HS:ssä tarkasteltu versio ja Tilastokeskuksen määritelmän mukainen versio, jossa parisuhteet ulkomaalaisten kanssa on huomioitu._
 
 Oletetaan sitten, että suomalais- ja ulkomaalaistaustaiset solmivat keskenään parisuhteita ja saavat lapsia. Alussa 30 prosentilla ulkomaalaistaustaisisten äitien lapsilla on suomalaistaustainen isä. Jatkosta oletetaan, että parinvalinta muuttuu "värisokeaksi" 50 vuoden kulutessa. Tällöin puoliso valitaan väestöryhmien lukumäärien suhteessa.
 
@@ -80,10 +80,10 @@ Toisen polven ulkomaalaistaustaisten jälkeläiset
 Tilastokeskuksen määritelmän mukaan kahden ulkomaalaistaustaisen henkilön Suomessa syntynyt lapsi on ulkomaalaistaustainen, 
 mutta jos lapsi on syntynyt Suomessa, ovat Suomessa syntyneet lapsenlapset suomalaistaustaisia. 
 Tällä on jonkin verran vaikutusta suomalaistaustaisten määrään pitkällä aikavälillä. Kuvio 5 näyttää, miten tämä edelleen kasvattaa suomalaistaustaisten määrää
-kuvion 4 lisäksi. Kuviossa 5 ulkomaalaistaustaisten Suomessa syntyneitä lapsenlapsia kutsutaan uusiksi suomalaistaustaisiksi.
+kuvion 4 lisäksi. Kuviossa 5 ulkomaalaistaustaisten Suomessa syntyneitä lapsenlapsia kutsutaan _toisen sukupolven uusiksi suomalaistaustaisiksi_.
 
 ![Väestörakenne](/images/migr/population_vrt2.png)<br>
-_Kuvio 5. Väestön määrä jaettuna suomalais- ja ulkomaalaistaustaisiin. Suomalaistaustaisia on kaksi versiota: yllä kuvattu HS:ssä tarkasteltu versio ja versio, jossa parisuhteet ulkomaalaisten kanssa ja toisen sukupolven uudet suomalaistaustaiset on huomioitu._
+_Kuvio 5. Väestön määrä jaettuna suomalais- ja ulkomaalaistaustaisiin. Suomalaistaustaisia on kaksi versiota: yllä kuvattu HS:ssä tarkasteltu versio ja Tilastokeskuksen määritelmän mukainen versio, jossa parisuhteet ulkomaalaisten kanssa ja toisen sukupolven uudet suomalaistaustaiset on huomioitu._
 
 Kun huomioidaan suomalais- ja ulkomaalaistaustaisten parisuhteet ja toisen sukupolven ulkomaalaistaustaisten lapset, näyttää suomalaistaustaisten määrä huomattavasti 
 suuremmalta kuin HS:n jutussa esitetään. Näin siis vaikka syntyvyys ei nykytasolta nousisi. 
