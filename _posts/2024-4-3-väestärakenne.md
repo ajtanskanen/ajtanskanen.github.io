@@ -72,13 +72,13 @@ _Kuvio 4. Väestön määrä jaettuna suomalais- ja ulkomaalaistaustaisiin. Suom
 Oletetaan sitten, että suomalais- ja ulkomaalaistaustaiset solmivat keskenään parisuhteita ja saavat lapsia. Alussa 30 prosentilla ulkomaalaistaustaisisten äitien lapsilla on suomalaistaustainen isä. Jatkosta oletetaan, että parinvalinta muuttuu "värisokeaksi" 50 vuoden kulutessa. Tällöin puoliso valitaan väestöryhmien lukumäärien suhteessa.
 
 Kun huomioidaan suomalais- ja ulkomaalaistaustaisten parisuhteet, näyttää suomalaistaustaisten määrä huomattavasti suuremmalta kuin HS:n jutussakin esitetty 
-nykyisten suomalaistaustaisten jälkeläisineen määrä. 
+nykyisten suomalaistaustaisten jälkeläisineen määrä. Tämä myös tarkoittaa, että väestöt seikoittuvat, eivät niinkään korvaudu. 
 
 Toisen polven ulkomaalaistaustaisten jälkeläiset
 ---
 
-Tilastokeskuksen määritekmä mukaan kahden ulkomaalaistaustaisen henkilön Suomessa syntynyt lapsi on ulkomaalaistaustainen, 
-mutta jos lapsi on syntynyt Suomessa, ovat lapsenlapset suomalaistaustaisia. 
+Tilastokeskuksen määritelmän mukaan kahden ulkomaalaistaustaisen henkilön Suomessa syntynyt lapsi on ulkomaalaistaustainen, 
+mutta jos lapsi on syntynyt Suomessa, ovat Suomessa syntyneet lapsenlapset suomalaistaustaisia. 
 Tällä on jonkin verran vaikutusta suomalaistaustaisten määrään pitkällä aikavälillä. Kuvio 5 näyttää, miten tämä edelleen kasvattaa suomalaistaustaisten määrää
 kuvion 4 lisäksi. Kuviossa 5 ulkomaalaistaustaisten Suomessa syntyneitä lapsenlapsia kutsutaan uusiksi suomalaistaustaisiksi.
 
@@ -88,10 +88,11 @@ _Kuvio 5. Väestön määrä jaettuna suomalais- ja ulkomaalaistaustaisiin. Suom
 Kun huomioidaan suomalais- ja ulkomaalaistaustaisten parisuhteet ja toisen sukupolven ulkomaalaistaustaisten lapset, näyttää suomalaistaustaisten määrä huomattavasti 
 suuremmalta kuin HS:n jutussa esitetään. Näin siis vaikka syntyvyys ei nykytasolta nousisi. 
 
-Väestöt seikoittuvat, eivät niinkään korvaudu. 
-
 Väestörakenne
 ======
+
+Entä miltä väestörakenne näyttää erilaisilla maahanmuutto- ja syntyvyysoletuksilla? Tarkastellaan seuraavassa kolmea skenaariota, joissa varioidaan syntyvyyden ja
+nettomaahanmuuton tasoa. 
 
 Skenaario 1: Matala syntyvyys ja korkea maahanmuutto
 ----
@@ -136,7 +137,7 @@ _Kuvio 9. Väestön määrä kolmessa skenaariossa_
 ![Tuotot](/images/migr/vertailu_orig.png)<br>
 _Kuvio 10. Suomalaistaustaisten lukumääriä kolmessa skenaariossa._
 
-Suomalaistausaisten määrä tulee kaikissa kolmessa skenaariossa laskemaan selvästi tarkasteluperiodilla. Muutos ei kuitenkaan ole dramaattinen.
+Suomalaistaustaisten määrä tulee kaikissa kolmessa skenaariossa laskemaan selvästi tarkasteluperiodilla. Muutos ei kuitenkaan ole dramaattinen.
 Korkea maahanmuutto kasvattaa itse asiassa suomalaistaustaisten määrää verrattuna siihen, että maahanmuutto olisi pienempää. 
 Tämä on seurausta siitä, että Suomeen muuttaneiden ulkomaalaistaustaisten lapset syntyvät
 Suomessa. Heidän lapsensa lasketaan Tilastokeskuksen määritelmässä suomalaistaustaisiksi.
@@ -163,12 +164,12 @@ kertomalla, että ei tehdä ennusteita vaan skenaarioita, joiden uskottavuus ja 
 Syntyvyys
 ---
 
-Syntyvyyteen on vaikea vaikuttaa. Taloudellisten keinojen vaikutus lasten hankintaan on osoittautunut [vaikeaksi](REF).
+Syntyvyyteen on vaikea vaikuttaa. Taloudellisten keinojen vaikutus lasten hankintaan on osoittautunut [heikoksi tai ainakaan niitä ei tunneta](https://journal.fi/fypr/article/view/85090).
 Kun useissa eri maissa syntyvyys on romahtanut samaan aikaan, on vaikea osoittaa maakohtaista syytä syntyvyyden pienenemiselle.
 [Anna Rotkirch](https://www.hs.fi/talous/art-2000010262915.html) on argumentoinut, että keskeisenä tekijänä olisi älypuhelimet ja sosiaalinen media, mikä saattaa pitää paikkansa. Politiikkatoimilla (kuten 
 esimerkiksi hedelmöityshoitojen maksuttomuus) lienee mahdollista jonkin verran kasvattaa syntyvyyttä mahdollistamalla ihmisille heidän toivomansa lapsiluku, joka tällä hetkellä [Väestöliiton kyselyn](https://www.vaestoliitto.fi/ajankohtaista/perhebarometri-valtaosa-suomalaisista-haluaa-ainakin-kaksi-lasta/) mukaan ylittää toteuman. Vaikutukset lienevät kuitenkin korkeintaan maltillisia.
 
-Toinen keino, joka saattaisi vaikuttaa syntyvyyteen, on synnytyskokemuksen parantaminen. Kuulostaa hieman konsulttikieleltä, mutta aiheesta tehdyn [tutkimuksen]() mukaan
+Toinen keino, joka saattaisi vaikuttaa syntyvyyteen, on synnytyskokemuksen parantaminen. Kuulostaa hieman konsulttikieleltä, mutta aiheesta tehdyn [tutkimuksen](https://www.aka.fi/tietysti/tiesitko/vieko-huono-synnytyskokemus-tulevaisuuden-lapsihaaveet/) mukaan
 kielteinen kokemus synnytyksessä on vähentänyt halukkutta hankkia uutta lasta. Tämänkin keinon vaikutukset kokonaissyntyvyyteen lienevät vähäiset.
 
 
@@ -188,5 +189,5 @@ Johtopäätökset
 ---
 
 Tässä esitetyt laskelmat väestörakenteen muutoksesta tuskin ovat viimeinen sana. Ennusteet tulevat varmasti tarkentumaan, mutta
-Suomen väestörakenne tulee muuttumaan näillä syntyvyys- ja maahanmuuttoluvuilla. Eikä se ole huono asia.
+Suomen väestörakenne tulee muuttumaan näillä syntyvyys- ja maahanmuuttoluvuilla. Eikä se välttämättä ole huono asia tai ei ainakaan anneta siitä tulla sellainen.
 
