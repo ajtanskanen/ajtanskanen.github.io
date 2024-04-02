@@ -8,66 +8,66 @@ tags:
   - maahanmuutto
 ---
 Viimeaikaisen matalan syntyvyyden ja korkean maahanmuuton jäädessä pysyväksi tilaksi Suomen väestörakenne muuttuu melko nopeasti. Väestö ei maahanmuuton ansiosta pienene,
-kuten muuten kävisi matalan syntyvyyden seurauksena. Pitkällä aikavälillä suurin osa suomalaisista on ulkomaalaistaustaisia, mutta myös suomalaistaustaisten määrä alkaa
+kuten muuten kävisi matalan syntyvyyden seurauksena. Pitkällä aikavälillä suurin osa suomalaisista on ulkomaalaistaustaisia, mutta myös suomalaistaustaisten määrä 
 kasvaa merkittävästi. 
 
 Korkea maahanmuutto ja matala syntyvyys
 ======
 
-Vuonna 2010 kokonaishedelmällisyysluku oli 1,87 lasta naista kohden elämän aikana. Vuonna 2023 kokonaishedelmällisyysluku 1,25 lasta naista kohden elämän aikana. 
-Syntyvyys on siis laskenut 33 prosenttia 13 vuoden aikana. Muutos on ollut raju (Kuvio 1). Samaan aikaan maahanmuutto on kasvanut. Vuonna 2023 oli maahanmuuton ennätysvuosi
-Suomessa: Suomesta muutti pois 13 400 ihmista ja Suomeen muutti 79 200 ihmistä.
+Vuonna 2010 kokonaishedelmällisyysluku oli 1,87 lasta naista kohden elämän aikana. Vuonna 2023 kokonaishedelmällisyysluku oli 1,25 lasta naista kohden elämän aikana. 
+Syntyvyys on siis laskenut 33 prosenttia 13 vuoden aikana. Muutos on raju (Kuvio 1). Samaan aikaan maahanmuutto on kasvanut. Vuosi 2023 oli maahanmuuton ennätysvuosi
+Suomessa: Suomesta muutti pois 13 400 ihmista ja Suomeen muutti 71 900 ihmistä. 
 
 ![Väestörakenne](/images/migr/tfr.png)<br>
-Kuvio 1. Kokonaishedelmällisyysluvun kehitys.
+_Kuvio 1. Kokonaishedelmällisyysluvun kehitys._
 
-Vuonna 2010 alkoi kokonaishedelmällisyysluvun lasku, joka pysähtyi hetkellisesti koronavuoteen 2020 ja kääntyi hetkelliseen nousuun. Lasku kuitenkin jatkui 2022 ja 2023. 
+Vuonna 2010 alkoi kokonaishedelmällisyysluvun lasku, joka pysähtyi hetkellisesti koronavuoteen 2020 ja kääntyi hetkelliseen nousuun 2021. Lasku kuitenkin jatkui 2022 ja 2023.
+Vuoden 2024 alussa on pieniä merkkejä siitä, että lasku saattaa pysähtyä.
 
 ![nettomaahanmuutto](/images/migr/nettomaahanmuutto.png)<br>
-Kuvio 2. Nettomaahanmuutto ja syntyneiden lukumäärä.
+_Kuvio 2. Nettomaahanmuutto ja syntyneiden lukumäärä._
 
-Nettomaahanmuutto alkoi kasvaa jo Korona-vuonna 2020, mutta erityisesti vuonna 2021 nettomaahanmuutto nousi tasolle, jota ei ole ennen Suomessa nähty. Vuonna 2023 nettomaahanmuutto nousi
-syntyneiden määrää korkeammaksi (Kuvio 2). Kun 2023 syntyi 44 000 lasta ja maahan muutti 58 800 ihmistä enemmän kuin täältä muutti pois, siirtyi tasapaino niin, että pitkällä aikavälillä suurin osa suomalaisista on maahanmuuttaneita.
+Nettomaahanmuutto alkoi kasvaa nopeasti Korona-vuonna 2020, ja vuonna 2021 nettomaahanmuutto nousi tasolle, jota ei ole ennen Suomessa nähty. Vuonna 2023 nettomaahanmuutto nousi
+syntyneiden määrää korkeammaksi (Kuvio 2): Suomessa syntyi 44 000 lasta ja maahan muutti 58 000 ihmistä enemmän kuin täältä muutti pois. 
 Jos nämä suhteet säilyisivät, olisi pitkällä aikavälillä 57 prosenttia Suomessa asuvista muualta muuttaneita.
 
 Väestöennuste
 ===
 
-Helsingin Sanomat nosti maahanmuuton vaikutuksen Suomen väestörakenteeseen esille [Juha-Pekka Raesteen juttusarjassa](https://www.hs.fi/talous/art-2000010098112.html). Siinä esiteltiin laskelmia, joiden mukaan nykyinen suomalaistaustainen väestö jälkeläisineen vähenee alle miljoonan vajaassa sadassa vuodessa. 
-
-Ensin Tilastokeskuksen määritelmät
+Helsingin Sanomat nosti maahanmuuton vaikutuksen Suomen väestörakenteeseen esille [Juha-Pekka Raesteen juttusarjassa](https://www.hs.fi/talous/art-2000010098112.html). Siinä esiteltiin laskelmia, joiden mukaan nykyinen suomalaistaustainen väestö jälkeläisineen vähenee alle miljoonan vajaassa sadassa vuodessa. Tarkastellaan kohta, onko todella näin, mutta
+ensin Tilastokeskuksen määritelmät:
 
 > *Ulkomaalaistaustaisia* ovat ne _"henkilöt, joiden molemmat vanhemmat tai ainoa tiedossa oleva vanhempi on syntynyt ulkomailla"_.<br>
 >
 > *Suomalaistaustaisia* ovat kaikki ne _"henkilöt, joilla vähintään toinen vanhemmista on syntynyt Suomessa."_ 
 
-Tämä on määritelmä, jota seuraavassa käytetään.
+On oleellista määritellä täsmällisesti, mitä tarkastellaan. 
 
 Nykyiset suomalaistaustaiset ja heidän jälkeläistensä määrä
 ---
 Tarkastellaan aluksi nykyisiä suomalaistaustaisia ja heidän jälkeläisiään. Oletetaan, että suomalaistaustaiset ja ulkomaalaistaustaiset eivät muodosta parisuhteita ja saa yhteisiä lapsia. 
-Näin oletettiin [HS:n laskelmissa](https://www.hs.fi/talous/art-2000010098112.html). Näissä laskelmissa kokonaishedelmällisyysluku on 1,25, ja elinikä kasvaa kuolleisuuden vähentyessä.
-Nettomaahanmuutto ei vaikuta tähän laskelmaan.
+Näin oletettiin [HS:n laskelmissa](https://www.hs.fi/talous/art-2000010098112.html). Näissä laskelmissa kokonaishedelmällisyysluku on 1,25, ja elinikä kasvaa kuolleisuuden vähentyessä (toisin kuin [HS:n laskelmissa](https://www.hs.fi/talous/art-2000010098112.html)). Nettomaahanmuutto ei vaikuta tähän laskelmaan.
 
 ![Väestörakenne](/images/migr/suomalaistaustaisia.png)<br>
-Kuvio 3. Suomalaistaustaiset ja heidän muiden suomalaistaustaisten kanssa saamien lasten määrä.
+_Kuvio 3. Nykyiset suomalaistaustaiset ja heidän muiden suomalaistaustaisten kanssa saamien lasten määrä._
 
 Laskelma näyttää _vain_ nykyisten suomalaistaustaisten ja heidän muiden nykyisten suomalaistaustaisten tai nykyisten suomalaistaustaisten jälkeläisten kanssa saamien lasten määrän.
-Laskelmassa siis oletetaan täysi segregaatio suomalaistaustaisten ja ulkomaalaistaustaisten välillä: näiden ryhmien jäsenet eivät saa yhteisiä lapsia. 
-Ulkomaalaistaustaisesta, heidän lapsistaa tai lastenlapsista ei laskelmassa myöskään voi tulla suomalaistaustaista. Seuraavaksi analysoidaan, mikä vaikutus näillä seikoilla on.
+Laskelmassa siis oletetaan, että suomalaistaustaiset ja ulkomaalaistaustaiset eivät saa yhteisiä lapsia. 
+Ulkomaalaistaustaisesta, hänen lapsistaa tai lastenlapsista ei laskelmassa myöskään voi tulla suomalaistaustaista. Seuraavaksi analysoidaan, mikä vaikutus näillä seikoilla on.
 
 Parisuhteet
 ---
 Jos tarkastellaan nykyisiä suomalaistaustaisia ja heidän muiden suomalaistaustaisen kanssa saamiaan jälkeläisiään, jätetään huomiotta myös suomalaistaustaisten yhdessä
-ukomaalaistaustaisten kanssa saamat lapset, jotka myös lasketaan suomalaistaustaisiksi.
+ulkomaalaistaustaisten kanssa saamat lapset, jotka myös lasketaan suomalaistaustaisiksi (kts Tilastokeskuksen määritelmä). 
 [Tilastokeskuksen blogin mukaan](https://www.stat.fi/tup/vl2010/art_2013-09-17_001.html) "vajaa kolmannes kaikista ulkomaalaistaustaisista perheistä on sellaisia, joissa kumpikin puoliso on syntynyt ulkomailla. Lähestulkoon yhtä suuri osuus on perheitä, joissa nainen on syntynyt ulkomailla ja mies Suomessa. Reilussa neljänneksessä ulkomaalaistaustaisista perheistä mies on syntynyt ulkomailla ja nainen Suomessa. Loput perheistä ovat yhden vanhemman perheitä, jotka koostuvat ulkomailla syntyneestä vanhemmasta – yleensä äidistä – sekä hänen lapsistaan." 
 
-Tässä oleellinen luku on se, kuinka moni ulkomaistaustainen nainen saa lapsen suomalaistaustaisen miehen kanssa. Blogin mukaan noin puolet niistä perheistä, joissa nainen on
+Tässä laskelman kannalta oleellinen luku on se, kuinka moni ulkomaistaustainen nainen saa lapsen suomalaistaustaisen miehen kanssa. 
+Blogin mukaan noin puolet niistä perheistä, joissa nainen on
 ulkomaalaistaustainen, on mies suomalaistaustainen vuonna 2012. Tämä ei vielä suoraan tarkoita, että sama luku pätisi ulkomaalaistaustaisiin äiteihin. Oletetaan varovaisesti, että
-kolmannes ulkomaalaistaustaisista naisista saa lapsen suomalaistaustaisen miehen kanssa tällä hetkellä. Jatkossa 
+kolmannes ulkomaalaistaustaisista naisista saa lapsen suomalaistaustaisen miehen kanssa tällä hetkellä. 
 
 ![Väestörakenne](/images/migr/population_vrt.png)<br>
-Kuvio 4. Väestön määrä jaettuna suomalais- ja ulkomaalaistaustaisiin. Suomalaistaustaisia on kaksi versiota.
+_Kuvio 4. Väestön määrä jaettuna suomalais- ja ulkomaalaistaustaisiin. Suomalaistaustaisia on kaksi versiota: yllä kuvattu HS:ssä tarkasteltu versio ja versio, jossa parisuhteet ulkomaalaisten kanssa on huomioitu._
 
 Oletetaan sitten, että suomalais- ja ulkomaalaistaustaiset solmivat keskenään parisuhteita ja saavat lapsia. Alussa 30 prosentilla ulkomaalaistaustaisisten äitien lapsilla on suomalaistaustainen isä. Jatkosta oletetaan, että parinvalinta muuttuu "värisokeaksi" 50 vuoden kulutessa. Tällöin puoliso valitaan väestöryhmien lukumäärien suhteessa.
 
@@ -80,10 +80,10 @@ Toisen polven ulkomaalaistaustaisten jälkeläiset
 Tilastokeskuksen määritekmä mukaan kahden ulkomaalaistaustaisen henkilön Suomessa syntynyt lapsi on ulkomaalaistaustainen, 
 mutta jos lapsi on syntynyt Suomessa, ovat lapsenlapset suomalaistaustaisia. 
 Tällä on jonkin verran vaikutusta suomalaistaustaisten määrään pitkällä aikavälillä. Kuvio 5 näyttää, miten tämä edelleen kasvattaa suomalaistaustaisten määrää
-kuvion 4 lisäksi.
+kuvion 4 lisäksi. Kuviossa 5 ulkomaalaistaustaisten Suomessa syntyneitä lapsenlapsia kutsutaan uusiksi suomalaistaustaisiksi.
 
 ![Väestörakenne](/images/migr/population_vrt2.png)<br>
-Kuvio 5. Väestön määrä jaettuna suomalais- ja ulkomaalaistaustaisiin kahdella eri määritelmällä. 
+_Kuvio 5. Väestön määrä jaettuna suomalais- ja ulkomaalaistaustaisiin. Suomalaistaustaisia on kaksi versiota: yllä kuvattu HS:ssä tarkasteltu versio ja versio, jossa parisuhteet ulkomaalaisten kanssa ja toisen sukupolven uudet suomalaistaustaiset on huomioitu._
 
 Kun huomioidaan suomalais- ja ulkomaalaistaustaisten parisuhteet ja toisen sukupolven ulkomaalaistaustaisten lapset, näyttää suomalaistaustaisten määrä huomattavasti 
 suuremmalta kuin HS:n jutussa esitetään. Näin siis vaikka syntyvyys ei nykytasolta nousisi. 
@@ -99,7 +99,7 @@ Skenaario 1: Matala syntyvyys ja korkea maahanmuutto
 Skenaariossa nettomaahanmuutto on 58 000 ja kokonaishedelmällisyysluku 1,25. 
 
 ![Väestörakenne](/images/migr/segregation.gif)<br>
-Kuvio 5. Väestörakenne vuosina 2022-2200. Suomalaistaustainen väestö (tummanvihreä), ulkomaalaistaustainen (vaaleanvihreä) ja ulkomaalaistaustainen 2. sukupolvi (keltainen).
+_Kuvio 6. Väestörakenne vuosina 2022-2200. Suomalaistaustainen väestö (tummanvihreä), ulkomaalaistaustainen (vaaleanvihreä) ja ulkomaalaistaustainen 2. sukupolvi (keltainen)._
 
 Maahanmuuttajat ovat usein yli 20-vuotiaita, joten maahanmuutto vaikuttaa myös väestörakenteeseen. Tästä johtuu väestön määrän kasvu iän noustessa aina kuviossa 5.
 Lasten määrä on jatkossa maahanmuuton seurauksena pienempi kuin 3-kymppisten määrä.
@@ -111,7 +111,7 @@ Entä jos palattaisiin vuoden 2010 syntyvyyden tasolle? Se, miten tämä onnistu
 Skenaariossa nettomaahanmuutto on 58 000 henkilöä vuodessa.
 
 ![Tuotot](/images/migr/high58000.gif)<br>
-Kuvio 6. Väestörakenne korkean syntyvyyden Suomessa
+_Kuvio 7. Väestörakenne korkean syntyvyyden Suomessa_
 
 Skenaariossa väestön kasvu tulee pääasiassa korkeammasta syntyvyydestä, vaikka myös maahanmuutto kasvattaa väestöä.
 
@@ -121,7 +121,7 @@ Skenaario 3: Matala syntyvyys ja maltillinen maahanmuutto
 Skenaariossa 3 nettomaahanmuutto 30 000 ja kokonaishedelmällisyysluku 1,25. Verrattuna vuoteen 2023 on nettomaahanmuutto maltillista. 
 
 ![Tuotot](/images/migr/medium30000.gif)<br>
-Kuvio 7. Väestörakenne matalan syntyvyyden ja 30 000 nettomaahanmuuton Suomessa
+_Kuvio 8. Väestörakenne matalan syntyvyyden ja 30 000 nettomaahanmuuton Suomessa_
 
 
 Vertailu
@@ -131,10 +131,10 @@ Korkea maahanmuutto kasvattaa väestöä, vaikka syntyvyys on laskenut. Myös 30
 huolimatta matalasta syntyvyydestä.
 
 ![Tuotot](/images/migr/vertailu_pop.png)<br>
-Kuvio 8. Väestön määrä kolmessa skenaariossa
+_Kuvio 9. Väestön määrä kolmessa skenaariossa_
 
 ![Tuotot](/images/migr/vertailu_orig.png)<br>
-Kuvio 9. Suomalaistaustaisten lukumääriä kolmessa skenaariossa.
+_Kuvio 10. Suomalaistaustaisten lukumääriä kolmessa skenaariossa._
 
 Suomalaistausaisten määrä tulee kaikissa kolmessa skenaariossa laskemaan selvästi tarkasteluperiodilla. Muutos ei kuitenkaan ole dramaattinen.
 Korkea maahanmuutto kasvattaa itse asiassa suomalaistaustaisten määrää verrattuna siihen, että maahanmuutto olisi pienempää. 
@@ -142,7 +142,7 @@ Tämä on seurausta siitä, että Suomeen muuttaneiden ulkomaalaistaustaisten la
 Suomessa. Heidän lapsensa lasketaan Tilastokeskuksen määritelmässä suomalaistaustaisiksi.
 
 ![Tuotot](/images/migr/vertailu_migr.png)<br>
-Kuvio 10. Ulkomaalaistaustaisten määrä kolmessa skenaariossa
+_Kuvio 11. Ulkomaalaistaustaisten määrä kolmessa skenaariossa_
 
 Ulkomaalaistaustaisten määrä Suomessa tulee kaikissa kolmessa skenaariossa kasvamaan reippaasti tarkasteluperiodilla. 
 
