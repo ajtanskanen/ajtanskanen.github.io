@@ -41,7 +41,7 @@ ensin Tilastokeskuksen määritelmät:
 >
 > *Suomalaistaustaisia* ovat kaikki ne _"henkilöt, joilla vähintään toinen vanhemmista on syntynyt Suomessa."_ 
 
-On oleellista määritellä täsmällisesti, mitä tarkastellaan. 
+On oleellista määritellä täsmällisesti, mitä tarkastellaan. Näillä määritelmillä ihmiset jaetaan syntyperän mukaan suomalaistaustaisiin ja ulkomaalaistaustaisiin.
 
 Nykyiset suomalaistaustaiset ja heidän jälkeläistensä määrä
 ---
@@ -63,13 +63,13 @@ ulkomaalaistaustaisten kanssa saamat lapset, jotka myös lasketaan suomalaistaus
 
 Tässä laskelman kannalta oleellinen luku on se, kuinka moni ulkomaistaustainen nainen saa lapsen suomalaistaustaisen miehen kanssa. 
 Blogin mukaan noin puolet niistä perheistä, joissa nainen on
-ulkomaalaistaustainen, on mies suomalaistaustainen vuonna 2012. Tämä ei vielä suoraan tarkoita, että sama luku pätisi ulkomaalaistaustaisiin äiteihin. Oletetaan varovaisesti, että
-kolmannes ulkomaalaistaustaisista naisista saa lapsen suomalaistaustaisen miehen kanssa tällä hetkellä. 
+ulkomaalaistaustainen, on mies suomalaistaustainen vuonna 2012. Tämä ei vielä suoraan tarkoita, että sama luku pätisi ulkomaalaistaustaisiin äiteihin. 
 
 ![Väestörakenne](/images/migr/population_vrt.png)<br>
-_Kuvio 4. Väestön määrä jaettuna suomalais- ja ulkomaalaistaustaisiin. Suomalaistaustaisia on kaksi versiota: yllä kuvattu HS:ssä tarkasteltu versio ja Tilastokeskuksen määritelmän mukainen versio, jossa parisuhteet ulkomaalaisten kanssa on huomioitu._
+_Kuvio 4. Väestön määrä jaettuna suomalais- ja ulkomaalaistaustaisiin. Suomalaistaustaisia on kaksi versiota: yllä kuvattu HS:ssä tarkasteltu versio 
+ja ml parit versio, jossa parisuhteet ulkomaalaisten kanssa on huomioitu._
 
-Oletetaan sitten, että suomalais- ja ulkomaalaistaustaiset solmivat keskenään parisuhteita ja saavat lapsia. Alussa 30 prosentilla ulkomaalaistaustaisisten äitien lapsilla on suomalaistaustainen isä. Jatkosta oletetaan, että parinvalinta muuttuu "värisokeaksi" 50 vuoden kulutessa. Tällöin puoliso valitaan väestöryhmien lukumäärien suhteessa.
+Todellisuudessa myös suomalais- ja ulkomaalaistaustaiset solmivat keskenään parisuhteita ja saavat lapsia. Laskelmassa alussa 30 prosentilla ulkomaalaistaustaisisten äitien lapsilla on suomalaistaustainen isä. Tulevaisuudesta oletetaan, että parinvalinta muuttuu "värisokeaksi" 50 vuoden kulutessa. Tällöin puoliso valitaan väestöryhmien lukumäärien suhteessa.
 
 Kun huomioidaan suomalais- ja ulkomaalaistaustaisten parisuhteet, näyttää suomalaistaustaisten määrä huomattavasti suuremmalta kuin HS:n jutussakin esitetty 
 nykyisten suomalaistaustaisten jälkeläisineen määrä. Tämä myös tarkoittaa, että väestöt seikoittuvat, eivät niinkään korvaudu. 
@@ -166,11 +166,10 @@ Syntyvyys
 
 Syntyvyyteen on vaikea vaikuttaa. Taloudellisten keinojen vaikutus lasten hankintaan on osoittautunut [heikoksi tai ainakaan niitä ei tunneta](https://journal.fi/fypr/article/view/85090).
 Kun useissa eri maissa syntyvyys on romahtanut samaan aikaan, on vaikea osoittaa maakohtaista syytä syntyvyyden pienenemiselle.
-[Anna Rotkirch](https://www.hs.fi/talous/art-2000010262915.html) on argumentoinut, että keskeisenä tekijänä olisi älypuhelimet ja sosiaalinen media, mikä saattaa pitää paikkansa. Politiikkatoimilla (kuten 
-esimerkiksi hedelmöityshoitojen maksuttomuus) lienee mahdollista jonkin verran kasvattaa syntyvyyttä mahdollistamalla ihmisille heidän toivomansa lapsiluku, joka tällä hetkellä [Väestöliiton kyselyn](https://www.vaestoliitto.fi/ajankohtaista/perhebarometri-valtaosa-suomalaisista-haluaa-ainakin-kaksi-lasta/) mukaan ylittää toteuman. Vaikutukset lienevät kuitenkin korkeintaan maltillisia.
+[Anna Rotkirch](https://www.hs.fi/talous/art-2000010262915.html) on argumentoinut, että keskeisenä tekijänä olisi älypuhelimet ja sosiaalinen media, mikä saattaa pitää paikkansa. Politiikkatoimilla (kuten esimerkiksi hedelmöityshoitojen maksuttomuus) lienee mahdollista jonkin verran kasvattaa syntyvyyttä mahdollistamalla ihmisille heidän toivomansa lapsiluku, joka tällä hetkellä [Väestöliiton kyselyn](https://www.vaestoliitto.fi/ajankohtaista/perhebarometri-valtaosa-suomalaisista-haluaa-ainakin-kaksi-lasta/) mukaan ylittää toteuman. Vaikutukset lienevät kuitenkin maltillisia.
 
 Toinen keino, joka saattaisi vaikuttaa syntyvyyteen, on synnytyskokemuksen parantaminen. Kuulostaa hieman konsulttikieleltä, mutta aiheesta tehdyn [tutkimuksen](https://www.aka.fi/tietysti/tiesitko/vieko-huono-synnytyskokemus-tulevaisuuden-lapsihaaveet/) mukaan
-kielteinen kokemus synnytyksessä on vähentänyt halukkutta hankkia uutta lasta. Tämänkin keinon vaikutukset kokonaissyntyvyyteen lienevät vähäiset.
+kielteinen kokemus synnytyksessä on vähentänyt halukkuutta hankkia uutta lasta. Tämänkin keinon vaikutukset kokonaissyntyvyyteen lienevät vähäiset.
 
 
 Maahanmuuttajien integrointi
@@ -180,7 +179,7 @@ Maahanmuuttajien osuuden kasvu Suomen väestöstä korostaa maahanmuuttajien int
 säilyttäminen onnistu ilman että Suomessa tehdään työtä.
 Fiksu idea maahanmuuttajien Suomeen integronnista on esimerkiksi juhlava kansalaisuusseremonia, joka kertoo kansalaisuuden saajille, että on oikeasti hienoa saada nimenomaan Suomen kansalaisuus. Tällaista ei tällä hetkellä ole.
 
-Toinen integroinnin onnistumisessa korostuva seikka on kielenopetuksen tärkeys. Suomi tai ruotsi ei kumpikaan ole kaikkein helpoimpia kieliä, koska ne usein
+Toinen integroinnin onnistumisessa korostuva seikka on kielenopetuksen tärkeys. Suomi tai ruotsi ei kumpikaan ole niitä kaikkein helpoimpia kieliä, koska ne usein
 poikkeavat maahanmuuttajien omasta kielestä. Vaikka Suomessa pärjää englannilla, on yhteiskuntaan integroitumisen vuoksi tärkeää oppia paikallinen kieli. Se myös sitoo
 maahanmuuttajat yhteisöön. Tätä olisi syytä edistää sekä kepillä että porkkanalla. Voisiko kielenopiskelu (suomi tai ruotsi) olla pakollista kaikille Suomessa opiskeleville? Ja maksutonta
 automaattisesti kaikille Suomessa työskenteleville?
