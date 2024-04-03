@@ -35,10 +35,10 @@ Väestöennuste
 ===
 
 Helsingin Sanomat nosti maahanmuuton vaikutuksen Suomen väestörakenteeseen esille [Juha-Pekka Raesteen juttusarjassa](https://www.hs.fi/talous/art-2000010098112.html). Siinä esiteltiin laskelmia, joiden mukaan nykyinen suomalaistaustainen väestö jälkeläisineen vähenee alle miljoonan vajaassa sadassa vuodessa. 
-[HS:n laskelmissa](https://www.hs.fi/talous/art-2000010098112.html) tarkasteltiin nykyisiä suomalaistaustaisia naisia ja heidän jälkeläisiään. 
+[HS:n laskelmissa](https://www.hs.fi/talous/art-2000010098112.html) tarkasteltiin nykyisiä suomalaistaustaisia naisia ja heidän jälkeläisiään. Väestön määrä saatiin laskelmassa
+kertomalla näin laskettu luku kahdella.
 
-Tarkastellaan kohta, onko todella näin, mutta
-ensin Tilastokeskuksen määritelmät:
+Tarkastelen kohta, saanko tässä blogissa vastaavan tuloksen, mutta ensin Tilastokeskuksen määritelmät:
 
 > *Ulkomaalaistaustaisia* ovat ne _"henkilöt, joiden molemmat vanhemmat tai ainoa tiedossa oleva vanhempi on syntynyt ulkomailla"_.<br>
 >
@@ -53,9 +53,13 @@ Tarkastellaan aluksi nykyisiä suomalaistaustaisia ja heidän jälkeläisiään.
 ![Väestörakenne](/images/migr/suomalaistaustaisia.png)<br>
 _Kuvio 3. Nykyiset suomalaistaustaiset ja heidän muiden suomalaistaustaisten kanssa saamien lasten määrä._
 
+Tämä laskelma vastaa tuloksiltaan HS:n laskelmaa, vaikka laskutapa onkin toinen: suomalaistaustaisten määrä laskee alle miljoonan tässä laskelmassa noin vuonna 2160.
 Laskelma näyttää _vain_ nykyisten suomalaistaustaisten ja heidän muiden nykyisten suomalaistaustaisten tai nykyisten suomalaistaustaisten jälkeläisten kanssa saamien lasten määrän.
-Laskelmassa siis oletetaan, että suomalaistaustaiset ja ulkomaalaistaustaiset eivät saa yhteisiä lapsia. 
-Ulkomaalaistaustaisesta, hänen lapsistaan tai lastenlapsista ei laskelmassa myöskään voi tulla suomalaistaustaista. Seuraavaksi analysoidaan, mikä vaikutus näillä seikoilla on.
+Laskelmassa siis oletetaan, että suomalaistaustaiset ja ulkomaalaistaustaiset eivät saa yhteisiä lapsia. Tarkkaan ottaen näin ei HS:n laskelmassa oleteta, koska siinä tarkastellaan ainoastaan suomalaistaustaisia naisia, jotka voivat hankkia lapsia yhtä hyvin suomalaistaustaisten kuin ulkomaalaistaustaisten kanssa (sillä ei merkitystä lopputulokseen). 
+
+Tässä tekemässäni laskelmassa on kaksi ongelmaa: (1) ulkomaalaistaustaisten ja suomalaistataustaisten yhdessä saamat suomalaistaustaisten lasten puuttuminen laskelmasta; ja
+(2) ulkomaalaistaustaisesta, hänen lapsistaan tai lastenlapsista ei laskelmassa myöskään voi tulla suomalaistaustaista. 
+Seuraavaksi analysoin, mikä vaikutus näillä seikoilla on.
 
 Parisuhteet
 ---
