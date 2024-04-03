@@ -48,7 +48,7 @@ On oleellista määritellä täsmällisesti, mitä tarkastellaan. Näillä mää
 
 2.1 Nykyiset suomalaistaustaiset ja heidän jälkeläistensä määrä
 ---
-Tarkastellaan aluksi nykyisiä suomalaistaustaisia ja heidän jälkeläisiään. Oletetaan tässä laskelmassa yksinkertaisuuden vuoksi, että suomalaistaustaiset ja ulkomaalaistaustaiset eivät saa yhteisiä lapsia. Näissä laskelmissa kokonaishedelmällisyysluku on 1,25, ja elinikä kasvaa kuolleisuuden vähentyessä (toisin kuin [HS:n laskelmissa](https://www.hs.fi/talous/art-2000010098112.html)). Nettomaahanmuutto ei vaikuta tähän laskelmaan.
+Tarkastellaan aluksi nykyisiä suomalaistaustaisia ja heidän jälkeläisiään. Oletetaan tässä laskelmassa yksinkertaisuuden vuoksi, että suomalaistaustaiset ja ulkomaalaistaustaiset eivät saa yhteisiä lapsia. Näissä laskelmissa kokonaishedelmällisyysluku on 1,25, ja elinikä kasvaa kuolleisuuden vähentyessä. Nettomaahanmuutto ei vaikuta tähän laskelmaan.
 
 ![Väestörakenne](/images/migr/suomalaistaustaisia.png)<br>
 _Kuvio 3. Nykyiset suomalaistaustaiset ja heidän muiden suomalaistaustaisten kanssa saamien lasten määrä._
@@ -65,7 +65,7 @@ Seuraavaksi analysoin, mikä vaikutus näillä seikoilla on.
 ---
 Jos tarkastellaan nykyisiä suomalaistaustaisia ja heidän muiden suomalaistaustaisen kanssa saamiaan jälkeläisiään, jätetään huomiotta myös suomalaistaustaisten yhdessä
 ulkomaalaistaustaisten kanssa saamat lapset, jotka myös lasketaan suomalaistaustaisiksi (kts Tilastokeskuksen määritelmä). 
-Todellisuudessa myös suomalais- ja ulkomaalaistaustaiset solmivat keskenään parisuhteita ja saavat lapsia. 
+Todellisuudessa tietenkin myös suomalais- ja ulkomaalaistaustaiset solmivat keskenään parisuhteita ja saavat lapsia. 
 
 [Tilastokeskuksen blogin mukaan](https://www.stat.fi/tup/vl2010/art_2013-09-17_001.html) "vajaa kolmannes kaikista ulkomaalaistaustaisista perheistä on sellaisia, joissa kumpikin puoliso on syntynyt ulkomailla. Lähestulkoon yhtä suuri osuus on perheitä, joissa nainen on syntynyt ulkomailla ja mies Suomessa. Reilussa neljänneksessä ulkomaalaistaustaisista perheistä mies on syntynyt ulkomailla ja nainen Suomessa. Loput perheistä ovat yhden vanhemman perheitä, jotka koostuvat ulkomailla syntyneestä vanhemmasta – yleensä äidistä – sekä hänen lapsistaan." 
 
