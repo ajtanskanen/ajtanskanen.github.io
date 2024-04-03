@@ -2,14 +2,14 @@
 title: 'Väestörakenne muuttuu matalan syntyvyyden ja maahanmuuton seurauksena'
 date: 2024-4-3
 permalink: /posts/2024/4/migration/
-summary: 'Blogi | Syntyvyys on romahtanut 33 prosenttia vuoden 2010 jälkeen. Samaan aikaan maahanmuutto on kasvanut reippaasti ja väestö kasvaa enemmän maahanmuuton ansiosta kuin syntyvyyden. Miltä näyttää Suomen väestön tulevaisiin?'
+summary: 'Blogi | Syntyvyys on romahtanut 33 prosenttia vuoden 2010 jälkeen. Samaan aikaan maahanmuutto on kasvanut reippaasti ja väestö kasvaa enemmän maahanmuuton ansiosta kuin syntyvyyden. Miltä näyttää Suomen väestön ja väestörakenteen tulevaisiin?'
 tags:
   - syntyvyys
   - maahanmuutto
 ---
-Viimeaikaisen matalan syntyvyyden ja korkean maahanmuuton jäädessä pysyväksi tilaksi Suomen väestörakenne muuttuu melko nopeasti. Väestö ei maahanmuuton ansiosta pienene,
-kuten muuten kävisi matalan syntyvyyden seurauksena. Pitkällä aikavälillä suurin osa suomalaisista on ulkomaalaistaustaisia, mutta myös suomalaistaustaisten määrä 
-kasvaa merkittävästi. 
+Jos viimeaikainen matala syntyvyys ja korkea maahanmuutto jäävät pysyviksi, Suomen väestörakenne tulee muuttumaan melko nopeasti. Matalan syntyvyyden vuoksi väestö alkaa pienentyä,
+kun taas maahanmuutto kasvattaa väestöä. Tämän hetken nettomaahanmuutto kompensoi syntyvyyden pienenemisen ja yhteisvaikutuksena Suomen väestö saattaa kasvaa selvästi tulevaisuudessa.
+Pitkällä aikavälillä suurin osa suomalaisista on ulkomaalaistaustaisia, mutta myös suomalaistaustaisten määrä kasvaa merkittävästi. 
 
 Korkea maahanmuutto ja matala syntyvyys
 ======
@@ -126,8 +126,7 @@ Skenaariossa 3 nettomaahanmuutto 30 000 ja kokonaishedelmällisyysluku 1,25. Ver
 ![Tuotot](/images/migr/medium30000.gif)<br>
 _Kuvio 8. Väestörakenne matalan syntyvyyden ja 30 000 nettomaahanmuuton Suomessa_
 
-
-Vertailu
+Skenaarioiden vertailu
 ---
 
 Korkea maahanmuutto kasvattaa väestöä, vaikka syntyvyys on laskenut. Myös 30 000 henkilö vuodessa oleva nettomaahanmuutto pitää Suomen väestön nykytasolla koko tarkasteluperiodin 
@@ -149,13 +148,6 @@ _Kuvio 11. Ulkomaalaistaustaisten määrä kolmessa skenaariossa_
 
 Ulkomaalaistaustaisten määrä Suomessa tulee kaikissa kolmessa skenaariossa kasvamaan reippaasti tarkasteluperiodilla. 
 
-Miltä tulevaisuuden väestörakenne näyttää?
----
-
-On vaikea uskoa, että syntyvyys tulee nousemaan nykyiseltä tasolta 1,26 (helmikuu 2024) ainakaan kovin nopeasti vuoden 2010 tasolle (1,87). Pientä nousua voi tapahtua, mutta 
-pidän todennäköisempänä, että syntyvyys tulee hieman laskemaan. Maahanmuuton ennusteminen on ehkä vielä vaikeampaa. En usko nettomaahanmuuton pysyvän vuoden 2024 tasolla, mutta tuskin
-nettomaahanmuutto laskee kuitenkaan kovin alas. Tällä perusteella skenaario 3: matala syntyvyys ja maltillinen maahanmuutto on minusta todennäköisin.
-
 Seuraukset
 ===
 
@@ -163,7 +155,14 @@ Maahanmuutto kasvattaa Suomen väestöä enemmän kuin syntyvyys. Tällä on vä
 pysyy matalalla tasolla tai jopa alenee. Fiksun politiikan tekeminen vaatii arvioita tulevaisuudesta, vaikka luotettavien ennusteiden tekeminen on vaikeaa. Yleensä tämä kierretään
 kertomalla, että ei tehdä ennusteita vaan skenaarioita, joiden uskottavuus ja toteutumisen arviointi jää päätöksentekijän harteille. 
 
-Syntyvyys
+Miltä tulevaisuuden väestörakenne näyttää?
+---
+
+On vaikea uskoa, että syntyvyys tulee nousemaan nykyiseltä tasolta 1,26 (helmikuu 2024) ainakaan kovin nopeasti vuoden 2010 tasolle (1,87). Pientä nousua voi tapahtua, mutta 
+pidän todennäköisempänä, että syntyvyys tulee hieman laskemaan. Maahanmuuton ennusteminen on ehkä vielä vaikeampaa. En usko nettomaahanmuuton pysyvän vuoden 2024 tasolla, mutta tuskin
+nettomaahanmuutto laskee kuitenkaan kovin alas. Tällä perusteella skenaario 3: matala syntyvyys ja maltillinen maahanmuutto on minusta todennäköisin.
+
+Syntyvyyteen on vaikeaa vaikuttaa
 ---
 
 Syntyvyyteen on vaikea vaikuttaa. Taloudellisten keinojen vaikutus lasten hankintaan on osoittautunut [heikoksi tai ainakaan niitä ei tunneta](https://journal.fi/fypr/article/view/85090).
