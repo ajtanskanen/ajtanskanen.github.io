@@ -36,7 +36,7 @@ Jos nämä suhteet säilyisivät, olisi pitkällä aikavälillä 57 prosenttia S
 
 Helsingin Sanomat nosti maahanmuuton vaikutuksen Suomen väestörakenteeseen esille [Juha-Pekka Raesteen juttusarjassa](https://www.hs.fi/talous/art-2000010098112.html). Siinä esiteltiin laskelmia, joiden mukaan nykyinen suomalaistaustainen väestö jälkeläisineen vähenee alle miljoonan vajaassa sadassa vuodessa. 
 [HS:n laskelmissa](https://www.hs.fi/talous/art-2000010098112.html) tarkasteltiin nykyisiä suomalaistaustaisia naisia ja heidän jälkeläisiään. Väestön määrä saatiin laskelmassa
-kertomalla näin laskettu luku kahdella.
+kertomalla näin laskettu luku kahdella. [Tunnetut suomalaistaustaiset väestötieteilijät](https://www.ts.fi/puheenvuorot/6288812) kritisoivat laskelmaa.
 
 Tarkastelen kohta, saanko tässä blogissa vastaavan tuloksen, mutta ensin Tilastokeskuksen määritelmät:
 
