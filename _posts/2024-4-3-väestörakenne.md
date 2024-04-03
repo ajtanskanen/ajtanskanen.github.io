@@ -197,3 +197,23 @@ automaattisesti kaikille Suomessa työskenteleville?
 Tässä esitetyt laskelmat väestörakenteen muutoksesta tuskin ovat viimeinen sana. Ennusteet tulevat varmasti tarkentumaan. Jos syntyvyys ja maahanmuutto säilyvät nykytasolla,
 tulee Suomen väestörakenne tulee varmasti muuttumaan. Eikä se välttämättä ole huono asia tai ei ainakaan anneta siitä tulla sellainen.
 
+
+<p><p>
+
+
+
+Liitteet
+===
+
+A Rajoitteet
+---
+
+Lienee reilua todeta lyhyesti, mitä parannuskohteita ja ongelmia tässä esitetetyissä laskelmissa on. 
+
+Ensinnäkin, tulevaisuuden ennusteet ovat tässä yksittäisiä skenaarioita, joissa ei huomioida satunnaisvaihtelua. Tuloksissa ei esitetä myöskään
+luottamusvälejä (tai bayesilaisittain uskottavuusjoukkoja), kuten olisi ehkä hyvä. 
+
+Toiseksi, ulkomaalaistaustaisten kokonaishedelmällisyysluvut poikkeavat suomalaistaustaisten kokonaishedelmällisyysluvuista. Tätä ei ole tässä huomioitu. Tämän lisäksi
+ryhmien sisällä on osajoukkoja, joissa kokonaishedelmällisyysluvut poikkeavat merkittävästi muusta ryhmästä.
+
+Kolmanneksi, lähtötiedot eivät välttämättä kuvaa aivan täysin oikein suomalais- ja ulkomaalaistaustaisien ryhmien kokoja.
