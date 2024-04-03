@@ -198,14 +198,11 @@ Tässä esitetyt laskelmat väestörakenteen muutoksesta tuskin ovat viimeinen s
 tulee Suomen väestörakenne tulee varmasti muuttumaan. Eikä se välttämättä ole huono asia tai ei ainakaan anneta siitä tulla sellainen.
 
 
-<p><p>
 
-
-
-Liitteet
+A Liitteet
 ===
 
-A Rajoitteet
+A.1 Rajoitteet
 ---
 
 Lienee reilua todeta lyhyesti, mitä parannuskohteita ja ongelmia tässä esitetetyissä laskelmissa on. 
