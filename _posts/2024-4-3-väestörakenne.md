@@ -127,7 +127,8 @@ Skenaariossa väestön kasvu tulee pääasiassa korkeammasta syntyvyydestä, vai
 Skenaario 3: Matala syntyvyys ja maltillinen maahanmuutto
 ----
 
-Skenaariossa 3 nettomaahanmuutto 30 000 ja kokonaishedelmällisyysluku 1,25. Verrattuna vuoteen 2023 on nettomaahanmuutto maltillista. 
+Skenaariossa 3 nettomaahanmuutto 30 000 ja kokonaishedelmällisyysluku 1,25. Verrattuna vuoteen 2023 on nettomaahanmuutto maltillista, mutta tätä voi selittää esimerkiksi sillä,
+että skenaario voi tulkita niin, siinä oletetaan ukrainalaisten muuton olleen väliaikaista ja heidän palaavan Ukrainaan sodan päätyttyä.
 
 ![Tuotot](/images/migr/medium30000.gif)<br>
 _Kuvio 8. Väestörakenne matalan syntyvyyden ja 30 000 nettomaahanmuuton Suomessa_
@@ -153,6 +154,19 @@ Suomessa. Heidän lapsensa lasketaan Tilastokeskuksen määritelmässä suomalai
 _Kuvio 11. Ulkomaalaistaustaisten määrä kolmessa skenaariossa_
 
 Ulkomaalaistaustaisten määrä Suomessa tulee kaikissa kolmessa skenaariossa kasvamaan reippaasti tarkasteluperiodilla. 
+
+3.4 Väestöllinen huoltosuhde
+---
+
+Korkea syntyvyys ja suuri nettomaahanmuutto parantaa vanhushuoltosuhdetta (Kuvio 12), mutta ei vanhushuoltosuhdetta aluksi niinkään (Kuvio 13). Tämä johtuu siitä, että
+huoltosuhdetta parantaa suurempi työikäisten määrä, mutta heikentää suurempi lasten määrä. Vanhushuoltosuhteessa näkyy vain suurempi työikäisten määrä. Samasta syystä johtuen skenaarioiden 3 pienempi nettomaahanmuutto näyttää huoltosuhteella mitattuna paremmalta pitkään kuin skenaarion 2 korkeampi syntyvyys ja korkeampi nettomaahanmuutto. Cross-over tapahtuu vasta 2050-luvulla. 
+
+![Tuotot](/images/migr/vertailu_huoltosuhde.png)<br>
+_Kuvio 12. Vanhushuoltosuhde_
+
+![Tuotot](/images/migr/vertailu_vanhushuoltosuhde.png)<br>
+_Kuvio 13. Väestöllinen huoltosuhde skenaarioissa_
+
 
 4 Seuraukset
 ===
