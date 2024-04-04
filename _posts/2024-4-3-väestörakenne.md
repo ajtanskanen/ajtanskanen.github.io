@@ -233,3 +233,6 @@ Toiseksi, ulkomaalaistaustaisten kokonaishedelmällisyysluvut poikkeavat suomala
 ryhmien sisällä on osajoukkoja, joissa kokonaishedelmällisyysluvut poikkeavat merkittävästi muusta ryhmästä.
 
 Kolmanneksi, lähtötiedot eivät välttämättä kuvaa aivan täysin oikein suomalais- ja ulkomaalaistaustaisien ryhmien kokoja.
+
+Neljänneksi, laskelmassa joudutaan tekemään oletuksia siitä, miten ulkomaalaistaustaiset naiset hankkivat lapsia yhdessä suomalaistaustaisten miesten kanssa. Tämän suhteen ennustaminen
+on hankalaa ja perustuu arvioon.
