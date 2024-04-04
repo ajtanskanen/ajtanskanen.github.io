@@ -158,15 +158,20 @@ Ulkomaalaistaustaisten määrä Suomessa tulee kaikissa kolmessa skenaariossa ka
 3.4 Väestöllinen huoltosuhde
 ---
 
-Korkea syntyvyys ja suuri nettomaahanmuutto parantaa vanhushuoltosuhdetta (Kuvio 12), mutta ei vanhushuoltosuhdetta aluksi niinkään (Kuvio 13). Tämä johtuu siitä, että
+Vanhushuoltosuhde tarkoittaa 65 vuotta täyttäneiden lukumäärän suhdetta 15-64 -vuotiden määrään. 
+Väestöllinen huoltosuhde tarkoittaa vanhushuoltosuhdetta lisättynä alle 15-vuotiaiden lukumäärän suhteella 15-64 -vuotiden määrään. 
+Luvut kertovat, kuinka monta huollettavaa on sataa työikäistä kohden.
+
+![Tuotot](/images/migr/vertailu_vanhushuoltosuhde.png)<br>
+_Kuvio 12. Vanhushuoltosuhde_
+
+Korkea syntyvyys ja suuri nettomaahanmuutto parantaa vanhushuoltosuhdetta (Kuvio 12), mutta ei huoltosuhdetta aluksi niinkään (Kuvio 13). Tämä johtuu siitä, että
 huoltosuhdetta parantaa suurempi työikäisten määrä, mutta heikentää suurempi lasten määrä. Vanhushuoltosuhteessa näkyy vain suurempi työikäisten määrä. Samasta syystä johtuen skenaarioiden 3 pienempi nettomaahanmuutto näyttää huoltosuhteella mitattuna paremmalta pitkään kuin skenaarion 2 korkeampi syntyvyys ja korkeampi nettomaahanmuutto. Cross-over tapahtuu vasta 2050-luvulla. 
 
 ![Tuotot](/images/migr/vertailu_huoltosuhde.png)<br>
-_Kuvio 12. Vanhushuoltosuhde_
-
-![Tuotot](/images/migr/vertailu_vanhushuoltosuhde.png)<br>
 _Kuvio 13. Väestöllinen huoltosuhde skenaarioissa_
 
+Verrattuna Tilastokeskuksen väestöennusteeseen 2021 sekä huoltosuhde että vanhushuoltosuhde näyttävät kehittyvän positiivisemmin. Tämä on seurausta aiempaa matalammasta syntyvyydestä ja suuremmasta nettomaahanmuutosta. Pitkällä aikavälilä erityisesti syntyvyyden lasku heikentää pitkällä aikavälillä.
 
 4 Seuraukset
 ===
