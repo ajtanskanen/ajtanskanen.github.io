@@ -14,7 +14,7 @@ Pitkällä aikavälillä suurin osa suomalaisista on ulkomaalaistaustaisia, mutt
 1 Korkea maahanmuutto ja matala syntyvyys
 ======
 
-Vuonna 2010 kokonaishedelmällisyysluku oli 1,87 lasta naista kohden elämän aikana. Vuonna 2023 kokonaishedelmällisyysluku oli 1,25 lasta naista kohden elämän aikana. 
+Vuonna 2010 kokonaishedelmällisyysluku oli 1,87 lasta naista kohden elämän aikana. Vuonna 2023 kokonaishedelmällisyysluku oli 1,26 lasta naista kohden elämän aikana. 
 Syntyvyys on siis laskenut 33 prosenttia 13 vuoden aikana. Muutos on raju (Kuvio 1). Samaan aikaan maahanmuutto on kasvanut. Vuosi 2023 oli maahanmuuton ennätysvuosi
 Suomessa: Suomesta muutti pois 13 400 ihmista ja Suomeen muutti 71 900 ihmistä. 
 
@@ -48,7 +48,7 @@ On oleellista määritellä täsmällisesti, mitä tarkastellaan. Näillä mää
 
 2.1 Nykyiset suomalaistaustaiset ja heidän jälkeläistensä määrä
 ---
-Tarkastellaan aluksi nykyisiä suomalaistaustaisia ja heidän jälkeläisiään. Oletetaan tässä laskelmassa yksinkertaisuuden vuoksi, että suomalaistaustaiset ja ulkomaalaistaustaiset eivät saa yhteisiä lapsia. Näissä laskelmissa kokonaishedelmällisyysluku on 1,25, ja elinikä kasvaa kuolleisuuden vähentyessä. Nettomaahanmuutto ei vaikuta tähän laskelmaan.
+Tarkastellaan aluksi nykyisiä suomalaistaustaisia ja heidän jälkeläisiään. Oletetaan tässä laskelmassa yksinkertaisuuden vuoksi, että suomalaistaustaiset ja ulkomaalaistaustaiset eivät saa yhteisiä lapsia. Näissä laskelmissa kokonaishedelmällisyysluku on 1,26, ja elinikä kasvaa kuolleisuuden vähentyessä. Nettomaahanmuutto ei vaikuta tähän laskelmaan.
 
 ![Väestörakenne](/images/migr/suomalaistaustaisia.png)<br>
 _Kuvio 3. Nykyiset suomalaistaustaiset ja heidän muiden suomalaistaustaisten kanssa saamien lasten määrä._
@@ -105,9 +105,9 @@ nettomaahanmuuton tasoa.
 3.1 Skenaario 1: Matala syntyvyys ja korkea maahanmuutto
 ----
 
-Skenaariossa nettomaahanmuutto on 58 000 ja kokonaishedelmällisyysluku 1,25. 
+Skenaariossa nettomaahanmuutto on 58 000 ja kokonaishedelmällisyysluku 1,26. 
 
-![Väestörakenne](/images/migr/segregation.gif)<br>
+![Väestörakenne](/images/migr/sliding.gif)<br>
 _Kuvio 6. Väestörakenne vuosina 2022-2200. Suomalaistaustainen väestö (tummanvihreä), ulkomaalaistaustainen (vaaleanvihreä) ja ulkomaalaistaustainen 2. sukupolvi (keltainen)._
 
 Maahanmuuttajat ovat usein yli 20-vuotiaita, joten maahanmuutto vaikuttaa myös väestörakenteeseen. Tästä johtuu väestön määrän kasvu iän noustessa aina kuviossa 5.
@@ -127,7 +127,7 @@ Skenaariossa väestön kasvu tulee pääasiassa korkeammasta syntyvyydestä, vai
 Skenaario 3: Matala syntyvyys ja maltillinen maahanmuutto
 ----
 
-Skenaariossa 3 nettomaahanmuutto 30 000 ja kokonaishedelmällisyysluku 1,25. Verrattuna vuoteen 2023 on nettomaahanmuutto maltillista, mutta tätä voi selittää esimerkiksi sillä,
+Skenaariossa 3 nettomaahanmuutto 30 000 ja kokonaishedelmällisyysluku 1,26. Verrattuna vuoteen 2023 on nettomaahanmuutto maltillista, mutta tätä voi selittää esimerkiksi sillä,
 että skenaario voi tulkita niin, siinä oletetaan ukrainalaisten muuton olleen väliaikaista ja heidän palaavan Ukrainaan sodan päätyttyä.
 
 ![Tuotot](/images/migr/medium30000.gif)<br>
