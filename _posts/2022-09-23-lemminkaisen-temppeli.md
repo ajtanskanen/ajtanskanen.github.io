@@ -16,7 +16,7 @@ kertomuksissa on Gumbostrandissa sijaitseva kivipaasi, jonka alta pitäisi löyt
 sinetöity Lemminkäisen Temppeli. Sitä kaivetaan taas esille.
 
 ![Lemminkäisen Temppeli](/images/temppeli/temppeli.jpeg)
-Lemminkäisen Temppeli 23.9.2022
+_Lemminkäisen Temppeli 23.9.2022_
 
 Kaivaukset
 =====
@@ -30,7 +30,7 @@ Nyt niitä suoritetaan taas vakavammalla mielellä. Kesällä 2022 kaivinkone ku
 luota aina kallioon asti. Merkkejä tarinoiden temppelistä ei ole löytynyt, ja tuskin löytyykään.
 
 ![Templeberget-logo](/images/temppeli/tempelberget.jpeg)
-Uusimpia kaivauksia suorittaa Tempelberget.
+_Uusimpia kaivauksia suorittaa Tempelberget._
 
 Kaivausten rahoittajat vetäytyivät vuonna 1990, kun Bockin tilalla majailleita vieraita pidätettiin hasiksen poltosta.
 Bock tuomittiin kolmen kuukauden ehdolliseen vankeuteen ja 15 000 markan korvauksiin
@@ -47,7 +47,7 @@ Matkalla temppelille
 ====
 
 ![Reitti temppelille](/images/temppeli/reitti.png)
-Reitti Lemminkäisen Temppelille Helsingin suunnasta.
+_Reitti Lemminkäisen Temppelille Helsingin suunnasta._
 
 Lemminkäisen Temppeli on noin 30 kilometrin päässä Helsingin keskustasta. Matka on enimmäiseen moottoritietä, joten
 se sujuu nopeasti. Porvoon moottoritieltä käännytään Uudelle Porvoontielle (tie numero 170 kartassa).
@@ -79,7 +79,7 @@ Siinä kerrotaan mm. Lemminkäisen Temppelistä.
 > Vuoren nimi on vaanereitten kielellä Kyypelivuori. Kyypelivuoressa on Lemminkäisen temppeli.
 
 ![Reitti temppelille](/images/temppeli/luolan_sisus.jpeg)
-Luolan sisällä pohjavettä riittää, kulta-aarteita vähemmän.
+_Luolan sisällä pohjavettä riittää, kulta-aarteita vähemmän._
 
 Mitä luolasta pitäisi löytyä? Bockin mukaan edessä pitäisi olla vesilukko ja sen takana
 varastohuoneita, muinaisten päälliköiden kultapatsaita ja vaikka mitä.
@@ -89,6 +89,23 @@ varastohuoneita, muinaisten päälliköiden kultapatsaita ja vaikka mitä.
 > 
 > Vuoren varastotila on muodoltaan laajeneva spiraali: spol, strut, kål, spiral. Spiraalin varrella on jokaista paratiisiajan sukupolven Ukkoa varten oma sali kamareineen. Kaikki varastohuoneet rakennettiin jo paratiisiaikana ja vuorattiin 
 > kullalla. Koko valtava rakennelma on vuorattu kullalla, jotta varastotila olisi vedenpitävä.
+
+Päivitys talvella 2024
+====
+
+Talvella 2024 luolan suuaukko on täyttynyt vedellä. Vesi pitää pumpata pois, vaikka luola on korkealla kukkulalla.
+Nyt vesi on taas jäänyt loukkuun Lemminkäisen Temppelin kaivauksille.
+
+![Reitti temppelille](/images/temppeli/täyttynyt.jpeg)
+_Luolan sisäänkäynti on täyttynyt vedellä_
+
+Luolan viereen on kasattu kymmeniä pieniä kivikasoja. 
+
+![Reitti temppelille](/images/temppeli/kivet.jpeg)
+_Kiviä on pinottu kasoiksi._
+
+Tempelberget myi [temppelin ulkomaille](https://yle.fi/a/74-20022217) vuonna 2023. On epäselvää, jatkuvatko kaivaukset vai eivät ja
+milloin ne jatkuvat.
 
 Lopuksi
 =====
