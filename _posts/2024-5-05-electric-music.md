@@ -23,7 +23,7 @@ Lähtökohta on Pentti Saarikosken nuoruudenruno "Kevät jo saa, minä en".
 Ja tästä algoritmin pitää luonnollisesti tehdä blues.
 
 <video preload="auto" controls>
-  <source src="/images/musiikki/Kevät_jo_saa_blues.webm" type="video/webm">
+  <source src="/images/musiikki/Kevät_jo_saa.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
 _Tekoälyelin: Kevät jo saa_
@@ -76,12 +76,13 @@ Laukoo ku vornanen baaris
 ```
 
 Hieman yllättäen kuitenkin sanat muuttuvat viron kieltä muistuttaviksi kesken kaiken.
-Tulos on selvästi odotuksia parempi. Ei ollenkaan huono.
+Tulos on silti selvästi odotuksia parempi. Ei ollenkaan huono.
 
 Kokeilu 4: Vappubiisi
 ===
 
-Tehdäänpä loppuun abbahenkinen vappubiisi. Tyylilajiksi valitaan jälleen eurodisko. Sanoitus löytyy valmiina Larin-Kyöstin Vappulaulusta.
+Tehdäänpä loppuun abbahenkinen vappubiisi. Tyylilajiksi valitaan jälleen eurodisko. Sanoitus löytyy valmiina [Larin-Kyöstin](https://fi.wikipedia.org/wiki/Larin-Ky%C3%B6sti) Vappulaulusta.
+Jälleen tyylilajina on eurodance.
 
 <video preload="auto" controls>
   <source src="/images/musiikki/Vappu.webm" type="video/webm">
