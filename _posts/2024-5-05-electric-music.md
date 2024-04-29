@@ -97,4 +97,4 @@ No miten on? Taidetta ja hissimusiikkia?
 
 Tekoäly tekee taiteelle saman mitä Kehruu-Jenny teki kutojille. Kuka tahansa voi tehdä laadukasta taidetta, joka näyttää ja kuulostaa oikealta. 
 Tekoäly tekee sen, mitä Punk yritti: demokratisoi taiteen. Mutta muuttuuko taide tasapaksuksi vai onko edessä laadukkaan taiteen kulta-aika? 
-Ainakin taidetta ja taiteilijoita tulee olemaan paljon. Osa siitä varmasti jää muzakiksi, mutta mukana tulee varmasti myös helmiä.
+Ainakin taidetta ja taiteilijoita tulee olemaan paljon. Osa tekeleistä jää muzakiksi, mutta mukana tulee varmasti myös helmiä.
