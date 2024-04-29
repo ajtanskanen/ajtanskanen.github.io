@@ -61,10 +61,12 @@ _Tekoälyelin: Laukoo ku Vornane baaris._
 
 Kertsi toimii, mutta Hieman yllättäen sanoitukset muuttuvat käsittämättömilsi (viroa?) kesken kaiken.
 
->>bang bang kakskaks milliä, 
->>viinaa ja chilliä
->>Meitsi laukoo ku vornanen
->>Laukoo ku vornanen baaris
+```
+bang bang kakskaks milliä, 
+viinaa ja chilliä
+Meitsi laukoo ku vornanen
+Laukoo ku vornanen baaris
+```
 
 
 Kokeilu 4: Vappubiisi
