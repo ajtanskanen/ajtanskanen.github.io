@@ -1,5 +1,5 @@
 ---
-title: 'Tapaus Udio: Tekeekö tekoäly taidetta vai taiteilijoita?'
+title: 'Musiikki: Tekeekö tekoäly taidetta vai taiteilijoita?'
 date: 2024-5-05
 permalink: /posts/2024/5/aimusic/
 summary: 'Blogi | Tapaus Udio: Tekeekö tekoäly taidetta vai taiteilijoita? Ainakin tekoäly demokratisoi musiikin tekemisen.'
@@ -9,16 +9,18 @@ tags:
   - työttömyysturva
 ---
 
-Tekoäly tanssii ja soi, piirtää ja veistää. Mutta tekeekö tekoäly vain sielutonta sotkua?
-Aiemmat tekoälysovellukset musiikintuottamiseen ovat olleet ideatonta poukkoilua. Muutoksen tähän toi udio.com, joka tekee musiikkia tasolla, johon on aiemmin vaadittu muusikko.
+Tekoäly tanssii ja soi, piirtää ja veistää. Mutta osaako tekoäly tehdä kuunneltavia muusiikkikappaleita?
+Useimmat tekoälytuotokset ovat olleet melko mielikuvituksettomia, mutta koneet kehittyvät.
+Nyt algoritmit ovat sillä tasolla, että tekoäly tekee sen, mitä Punk yritti: demokratisoi taiteen.
 
 Kokeilu 1: Saarikosken Blues
 ===
 
-Käytetään testien tekoon udio.com -palvelua, jossa voi tehdä omilla sanoilla kokonaisia biisejä.
+Testataan Udio.com -palvelua musiikin tekemiseen. Siinä syötetään kappaleen kuvaava prompti ja valinnaisesti omat sanat.
+Kappaleesiin voi lisätä alun, erilaisia osia ja lopun. Aloiteteaan bluesista.
 
-Blues toimii hienosti. Kokeilaan Pentti Saarikosken nuoruudenrunoa "Kevät jo saa, minä en" kertosäkeenä.
-Ja tästä pitää luonnollisesti tehdä blues.
+Lähtökohta on Pentti Saarikosken nuoruudenruno "Kevät jo saa, minä en".
+Ja tästä algoritmin pitää luonnollisesti tehdä blues.
 
 <video preload="auto" controls>
   <source src="/images/musiikki/Kevät_jo_saa_blues.webm" type="video/webm">
@@ -26,7 +28,7 @@ Ja tästä pitää luonnollisesti tehdä blues.
 </video>
 _Tekoälyelin: Kevät jo saa_
 
-Koneen musisointi kuulostaa yllättävän sielukkaalta kuulostaa, vaikka taustalla onkin sieluton algoritmi.
+Koneen musisointi kuulostaa yllättävän sielukkaalta, vaikka taustalla on sieluton algoritmi.
 
 Kokeilu 2: Punk
 ======
@@ -51,7 +53,12 @@ Kokeilu 3: Laukoo ku Vornane baaris
 ===
 
 [Kansanedustaja Vornanen](https://www.hs.fi/politiikka/art-2000010390707.html) ampui varoituslaukauksen baarissa. 
-Tästä on helppo riimitellä sanoja. X:ssä esiteltyjen sanoitusten pohjalta tehdyllä sanoituksella tehty eurodance kuulostaa jo ihan oikealta.
+Apulannan keskushahmo Toni Wirtanen riimitteli aiheesta X:ssä
+
+![Keskustelu](/images/musiikki/x_keskustelu.png)
+
+Näiden pohjalta on helppo muokata kappaleeseen sanoja. Valitaan kuitenkin tyyliksi eurodancepop.
+Tulos löytyy alta: Laukoo ku Vornane baaris.
 
 <video preload="auto" controls="" loop="">
   <source src="/images/musiikki/Laukoo_baaris.webm" type="video/webm">
@@ -59,7 +66,7 @@ Tästä on helppo riimitellä sanoja. X:ssä esiteltyjen sanoitusten pohjalta te
 </video>
 _Tekoälyelin: Laukoo ku Vornane baaris._
 
-Kertsi toimii, mutta Hieman yllättäen sanoitukset muuttuvat käsittämättömilsi (viroa?) kesken kaiken.
+Kertsi svengaa kuin hirvi.
 
 ```
 bang bang kakskaks milliä, 
@@ -68,6 +75,8 @@ Meitsi laukoo ku vornanen
 Laukoo ku vornanen baaris
 ```
 
+Hieman yllättäen kuitenkin sanat muuttuvat viron kieltä muistuttaviksi kesken kaiken.
+Tulos on selvästi odotuksia parempi. Ei ollenkaan huono.
 
 Kokeilu 4: Vappubiisi
 ===
@@ -80,10 +89,11 @@ Tehdäänpä loppuun abbahenkinen vappubiisi. Tyylilajiksi valitaan jälleen eur
 </video>
 _Tekoälyelin: Larin-Kyöstin Vappulaulu._
 
-Biisinä ei kovin kummoinen, mutta torvisektiot kuulostavat hauskoilta.
+Biisinä ei kovinkaan loistava, mutta sanoitukset lauletaan tässä hyvin. Yksi koukuttava virhekin on päässyt mukaan.
 
-Yhteenveto
+No miten on? Taidetta ja hissimusiikkia?
 ===
 
-
-Tekoäly aiheuttaa jo nyt taiteen tekemiselle saman mitä kehruujenny teki kutojille. Kuka tahansa voi tehdä laadukasta taidetta, joka näyttää ja kuulostaa oikealta. Tekoäly demokratisoi taiteen. Mutta muuttuuko se tasapaksuksi vai onko edessä laadukkaan taiteen hyökyaalto? Ainakin taidetta ja taiteilijoita tulee olemaan paljon!
+Tekoäly tekee taiteelle saman mitä Kehruu-Jenny teki kutojille. Kuka tahansa voi tehdä laadukasta taidetta, joka näyttää ja kuulostaa oikealta. 
+Tekoäly tekee sen, mitä Punk yritti: demokratisoi taiteen. Mutta muuttuuko taide tasapaksuksi vai onko edessä laadukkaan taiteen kulta-aika? 
+Ainakin taidetta ja taiteilijoita tulee olemaan paljon. Osa siitä varmasti jää muzakiksi, mutta mukana tulee varmasti myös helmiä.
