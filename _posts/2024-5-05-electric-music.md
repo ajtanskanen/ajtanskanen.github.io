@@ -2,6 +2,7 @@
 title: 'Musiikki: Tekeekö tekoäly taidetta vai taiteilijoita?'
 date: 2024-5-05
 permalink: /posts/2024/5/aimusic/
+image: /images/musiikki/vappupäivä.webp
 summary: 'Blogi | Tapaus Udio: Tekeekö tekoäly taidetta vai taiteilijoita? Ainakin tekoäly demokratisoi musiikin tekemisen.'
 tags:
   - avoimet työpaikat
