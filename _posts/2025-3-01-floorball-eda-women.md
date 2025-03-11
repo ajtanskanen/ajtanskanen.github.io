@@ -1,0 +1,76 @@
+---
+title: 'Mistä salibandyn maalit tehdään naisten F-Liigassa?'
+date: 2025-03-01
+permalink: /posts/2025/3/salibandy_eda_women/
+summary: 'Blogi | Analysoidaan Naisten F-Liigan salibandyotteluiden dataa. Kartat näyttävät, mistä maaleja tehdään. Jakaumista selviää, miltä etäisyydeltä maalit tehdään.'
+tags:
+  - salibandy
+  - tilastot
+  - maalit
+---
+
+Salibandyliitto jakaa F-Liigan maalitilastoja ottelukohtaisesti. Niistä näkyy kiinnostavia asioita, mutta jakaumat puuttuvat. Tässä blogissa yritetään ymmärtää, mistä maalit syntyvät F-Liigassa.
+
+1 Laukaisudata
+===
+
+F-Liiga jakaa sivuillaan jaetaan tietoja siitä, mistä ottelun kuluessa on maalia kohti laukaistu. Syvempi analyysi sivuilta kuitenkin puuttuu. Siitä syytä keräsin tietoa sivuilta ja yhdistelin sitä analyysiä varten. 
+
+Tarkastellaan kautta 2024-2025 maaliskuun alussa. Vastaavan analyysin voi toki tehdä mille ajanhetkelle tahansa. Tässä tulokset perustuvat vain kauden 2024-2025 naisten F-Liigan dataan.
+
+2 Laukausten ja maalin jakaumat
+====
+
+Kuvio 1 näyttää tiheysjakauman, joka kertoo mistäpäin kenttää vedetyt vedot ovat päätyneet maaliin. Kuvio on samanlainen korkeuskäyrästö kuin maastokartasta löytyy. Kuvion perusteella on selvää, että paras paikka tehdä maaleja on maalivahvin alueella heti maalin edustalla.
+
+![Maalien jakauma](/images/floorball/naiset/laukausmaali.png)<br>
+_Kuvio 1. Mistä päin kenttää maaleja on tehty._
+
+Kun sitä vertaa Kuvioon 2, joka näyttää, mistäpäin kenttää on lauottu, on ero melkoinen. Maaleja syntyy paljon läheltä maalia (Kuvio 3), pidemmältä ammutut menevät ohi, ne torjutaan tai ne blokataan (Kuviot 4 ja 5).
+
+Noin 13 prosenttia kaikista vedoista lähtee maalivahdin alueelta, mutta maaleista sieltä syntyy 30 prosenttia. Osuudet ovat lähes samat kuin miehillä.
+
+![Vetojen jakauma](/images/floorball/naiset/laukauskaikki.png)<br>
+_Kuvio 2. Kaikki laukaukset. Kaavio näyttää laukausten lähtöpaikan tiheysjakauman._
+
+![Vetojen jakauma](/images/floorball/naiset/laukauskohti.png)<br>
+_Kuvio 3. Laukaukset kohti maalia._
+
+Kuviot 4 ja 5 näyttävät, että laukauksia ammutaan paljon maalin edustan lisäksi jääkiekkokielleä B-pisteiltä, mutta niistä ei tulosta juuri synny. Tämä myös selittää kuvioiden 2 ja 3 eron.
+
+![Vetojen jakauma](/images/floorball/naiset/laukausohi.png)<br>
+_Kuvio 4. Laukaukset ohi._
+
+![Vetojen jakauma](/images/floorball/naiset/laukausblokattu.png)<br>
+_Kuvio 5. Blokatut laukaukset._
+
+3 Etäisyyden vaikutus maaleihin
+====
+
+Etäisyyden funktiona maalien ja blokattujen laukausten osuus yhteensä kaikista laukauksista on jotakuinkin vakio. 
+Maaleja tehdään läheltä maalia, pidemmältä ammuttujen laukausten blokkaus kasvaa etäisyyden kasvaessa (Kuvio 4).
+
+![Vetojen jakauma etäisyyden mukaan](/images/floorball/naiset/distance.png)<br>
+_Kuvio 4. Miltä etäisyydeltä tapahtuu laukaukselle mitä._
+
+Samalla tavoin maaliin menneiden laukausten kumulaativinen osuus etäisyyden suhteen kasvaa selvästi nopeammin kuin kaikkien laukausten.
+Tämäkin kertoo siitä, että maaleissa läheltä ammutut laukaukset korostuvat.
+
+![Vetojen jakauma etäisyyden mukaan](/images/floorball/naiset/distance2.png)<br>
+_Kuvio 5. Miltä etäisyydeltä tapahtuu laukaukselle mitä._
+
+4 Kulman vaikutus maaleihin
+====
+
+Se, mistä kulmasta laukaus tulee, vaikuttaa maalin syntyyn. Laukaisukulmissa korostuu kolme piikkiä: keskeltä ja B-pisteiltä.
+Maalit tehdään pääosin keskeltä, mutta hieman yllättäen vasemmalta laidalta tehdään enemmän maaleja kuin oikealta.
+Samoin maaleja tehdään enemmän suurista kulmista kuin aiempien kuvien perusteella odottaisi.
+
+![Vetojen jakauma etäisyyden mukaan](/images/floorball/naiset/kulma.png)<br>
+_Kuvio 6. Mistä kulmasta tapahtuu laukaukselle mitä._
+
+
+5 Johtopäätökset
+===
+
+Maaleissa vedon paikalla on väliä. Läheltä vedetyt menevät maaliit, kaukaa vedetyt blokataan.

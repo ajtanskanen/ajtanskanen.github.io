@@ -93,9 +93,9 @@ Kun oikea vastaus olisi ollut <i>Sinun silmiesi tähden</i>, ei kysymyksestä ir
     Aukusti: Danny
     DaVinci: Tauno Palo
 
-Tilanne: GPT 2, Aukusti 1, Eino 4, DaVinci 3
+Tilanne: GPT 2, Aukusti 1, Eino 3, DaVinci 3
     
-Spede-elokuvat eivät ole GPT-3:n vahvinta osaamista. Eino sitä vastoin tästäkin pisteen ja vahvistaa johtoaan. Hurjasta alusta huolimatta GPT:n ote on alkanut lipsua.
+Spede-elokuvat eivät ole GPT-3:n vahvinta osaamista: Danny on oikea vastaus. Aukusti sitä vastoin tästäkin pisteen. Hurjasta alusta huolimatta GPT:n ote on alkanut lipsua.
 
     David Bowien vuoden 1984 rock-video oli 21 minuuttia pitkä. Peräti, tämmöinen minielokuva oikeastaan. Mikä oli kappale, mistä tämä video tehtiin?
     GPT-3: The song was "China Girl" from David Bowie's album "Let's Dance"
@@ -103,7 +103,7 @@ Spede-elokuvat eivät ole GPT-3:n vahvinta osaamista. Eino sitä vastoin tästä
     Aukusti: Spaceman
     DaVinci: Kappale, josta video tehtiin, on nimeltään "Blue Jean".
 
-Tilanne: GPT 2, Aukusti 1, Eino 4, DaVinci 4
+Tilanne: GPT 2, Aukusti 1, Eino 3, DaVinci 4
     
 David Bowien <i>Blue Jean</i> ei sitä vastoin ole kenellekään tuttu. Jatketaan elokuvakysymyksiä.
 
@@ -113,7 +113,7 @@ David Bowien <i>Blue Jean</i> ei sitä vastoin ole kenellekään tuttu. Jatketaa
     Aukusti: Ei vastausta
     DaVinci: Elokuva oli Bat Out of Hell.
 
-Tilanne: GPT 3, Aukusti 1, Eino 5, DaVinci 4
+Tilanne: GPT 3, Aukusti 1, Eino 4, DaVinci 4
     
 <i>Wayne's World</i> oli oikea vastaus. Elokuvakysymykset olivat siinä. Siirrytään Jokeri-kysymysten pariin.
 
@@ -125,7 +125,7 @@ Jokeri
     Eino: Autoja
     DaVinci: Neil Young keräilee kaikenlaisia pienoismalleja, mukaan lukien raidat, junat, linja-autoja, purjealukset, helikoptereita ja muita lentokoneita. Hänen keräilynsä sisältää myös kuorma-autoja, traktoreita, kalustoa, kuorma-autoja ja sotilasajoneuvoja.
 
-Tilanne: GPT 3, Aukusti 1, Eino 5, DaVinci 4
+Tilanne: GPT 3, Aukusti 1, Eino 4, DaVinci 4
     
 Neil Youngin pienoisrautateiden keräily on aivan liian vaikea niin osallistujille kuin GPT:lle.
 
@@ -135,7 +135,7 @@ Neil Youngin pienoisrautateiden keräily on aivan liian vaikea niin osallistujil
     Eino: Japani
     DaVinci: Taiko-rummut ovat alun perin Japanista ja suurimman osan taiko-rummuista käytetään Japanissa. Kuuluisimpia taiko-rummuttajia ovat muun muassa Eitetsu Hayashi, Leonard Eto ja Daisuke Gōda.
 
-Tilanne: GPT 4, Aukusti 2, Eino 6, DaVinci 5
+Tilanne: GPT 4, Aukusti 2, Eino 5, DaVinci 5
  
 Vihdoin taiko-rumpujen kohdalla jokainen osallistujista kerää pisteen. Priimus Eino johtaa edelleen pisteellä GPT:tä.
 
@@ -145,7 +145,7 @@ Vihdoin taiko-rumpujen kohdalla jokainen osallistujista kerää pisteen. Priimus
     Eino: Kirsi Kunnas
     DaVinci: Kysymyksen kysymyksen kuollut runoilija, lasten- ja aikuisten kirjailija, ja sanoittaja on Kari Tapio (1952–2019).
     
-Tilanne: GPT 4, Aukusti 2, Eino 6, DaVinci 5
+Tilanne: GPT 4, Aukusti 3, Eino 5, DaVinci 5
 
 Jukka Itkonen ja myös seuraavan kysymyksen <i>Swallow the Sun</i> ovat liian vaikea tunnistaa. Niistä ei pisteitä.
 
@@ -155,7 +155,7 @@ Jukka Itkonen ja myös seuraavan kysymyksen <i>Swallow the Sun</i> ovat liian va
     Eino: Lordi
     DaVinci: Moon Flowers on Kube-yhtyeen studioalbumi, joka julkaistiin vuonna 2020.
     
-Tilanne: GPT 4, Aukusti 2, Eino 6, DaVinci 5
+Tilanne: GPT 4, Aukusti 3, Eino 5, DaVinci 5
 
 Iskelmä
 ----
@@ -166,7 +166,7 @@ Iskelmä
     Aukusti: Brita Koivunen
     DaVinci: Tämä kysymys ei ole tarkka, mutta uskotaan, että tarkoitettu henkilö on Olavi Paavolainen. Paavolainen aloitti soittamisen syyspihlajan alla vuonna 1942 ja kuoli vuonna 1989 72-vuotiaana Helsingissä.
 
-Tilanne: GPT 4, Aukusti 2, Eino 6, DaVinci 5
+Tilanne: GPT 4, Aukusti 3, Eino 5, DaVinci 5
 
 GPT-3 on täysin vakuuttunut, että Urho Kekkonen kuoli vuonna 1989 ja aloitti uraansa syyspihlajan alla. Tämä ei taida olla aivan oikein. <i>Henri Thiil</i> taas ei ole kenellekään kilpailijoista tuttu.
 
@@ -176,7 +176,7 @@ GPT-3 on täysin vakuuttunut, että Urho Kekkonen kuoli vuonna 1989 ja aloitti u
     Aukusti: Rakastan elämää
     DaVinci: Rakastan sinua elämä, kunnes hautaan asti, en koskaan hetkeäkään tahtoisi jättää pois.
 
-Tilanne: GPT 4, Aukusti 2, Eino 6, DaVinci 5
+Tilanne: GPT 4, Aukusti 3, Eino 5, DaVinci 5
 
 ”Päättyy yö, aamu saa, uusi päivä kun kirkkaana koittaa” olisi ollut oikea vastaus sanoitukseen. Ei pisteitä.
 
@@ -186,7 +186,7 @@ Tilanne: GPT 4, Aukusti 2, Eino 6, DaVinci 5
     Aukusti: Charlie Brown
     DaVinci: A-puolella tuolloin oli kappale nimeltään "Fool To Cry".
     
-Tilanne: GPT 4, Aukusti 2, Eino 6, DaVinci 5
+Tilanne: GPT 4, Aukusti 3, Eino 5, DaVinci 5
 
 Vicky Rostin kappale <i>Siinä ruutia on, kun minä rakastun</i> näyttää olevan tuntematon. Vielä viimeinen kysymys.
 
@@ -196,7 +196,7 @@ Vicky Rostin kappale <i>Siinä ruutia on, kun minä rakastun</i> näyttää olev
     Aukusti: Jukka Kuoppamäki
     DaVinci: Sävellys on Katri Helenan ja Juha Vainion.
 
-Tilanne: GPT 4, Aukusti 3, Eino 7, DaVinci 5
+Tilanne: GPT 4, Aukusti 4, Eino 6, DaVinci 5
 
 Lopputulos
 ----
@@ -209,10 +209,10 @@ viime aikoina julkaistu kiivaaseen tahtiin.
 
 | Kilpailija | Tulos |
 |-------|--------|
-| Eino | 7 pistettä |
+| Eino | 6 pistettä |
 | DaVinci | 5 pistettä |
 | GPT-3 | 4 pistettä |
-| Aukusti | 3 pistettä |
+| Aukusti | 4 pistettä |
 
 Viimeisessä kysymyksessä Aukusti saa kolmannen pisteensä. Lopputuloksena Eino voittaa 7 pisteellä, DaVince tulee toiseksi 5 pisteellä, GPT-3 tulee kolmanneksi 4 pisteellä, ja Aukusti jää tekoälyn taakse 3 pisteellä. 
 GPT-3 ei hyvästä alusta huolimatta onnistu dominoimaan Poppikoulua, vaan jää kolmanneksi. DaVinci voittaa edeltäjänsä pisteellä,
