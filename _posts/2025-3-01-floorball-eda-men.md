@@ -78,9 +78,16 @@ _Kuvio 6. Maalit._
 ![Vetojen jakauma etäisyyden mukaan](/images/floorball/miehet/angle_laukauskaikki.png)<br>
 _Kuvio 7. Kaikki laukaukset._
 
+5 Joukkueiden kuviot
+===
 
+![alt text](/images/floorball/miehet/joukkueet_laukauskaikki.png)
+_Kuvio 8. Kaikki laukaukset._
 
-5 Johtopäätökset
+![alt text](/images/floorball/miehet/joukkueet_laukausmaali.png)
+_Kuvio 9. Maalit._
+
+6 Johtopäätökset
 ===
 
 Maaleissa vedon paikalla on väliä. Läheltä vedetyt menevät maaliit, kaukaa vedetyt blokataan.

@@ -50,6 +50,14 @@ Naisten F-Liigassa TPS on aivan omilla lukemillaan xG:ssä. Se on jauhanut xG:t�
 _Kuvio 3. xG joukkueille naisten F-Liigassa._
 
 
+xG:llä voi myös analysoida, miten hyvin joukkueiden puolustus toimii. Kun laskee xG:n joukkuetta vastaan, näkee arvion siitä, miten hyvin joukkuen puolustaa. 
+
+![Maalien jakauma](/images/floorball/xG/xG_laaja_naiset.png)<br>
+_Kuvio 4. xG joukkueille naisten F-Liigassa._
+
+Taulukosta 4 näkyy, että TPS sekä tekee tehokkaasti maaleja että myös puolustaa vahvasti. Sitä vastaan on tehty maaleja vähän ja myös xG TPS:ää vastaan on F-Liigan toiseksi matalin 57,9 maalia. Kuitenkin toteuma 39 maalia in tätäkin matalampi.
+
+
 3 Pelaajien xG
 ===
 
@@ -60,6 +68,8 @@ Justus Kainulainen on kuuluisa hurjasta vedostaan. Hän onkin xG-erolla:llä mit
 
 ![Maalien jakauma](/images/floorball/xG/xG_players_men.png)<br>
 _Kuvio 3. xG pelaajille miesten F-Liigassa._
+
+Vastaavasti Erä-Viikingit tekee maaleja odotettuun tahtiin, mutta puolustaa hyvin. Sitä vastaan on tehty vähän maaleja ja myös xG sitä vastaan on matala. 
 
 3.2 Naiset
 ---

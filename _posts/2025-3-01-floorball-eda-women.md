@@ -69,8 +69,16 @@ Samoin maaleja tehdään enemmän suurista kulmista kuin aiempien kuvien peruste
 ![Vetojen jakauma etäisyyden mukaan](/images/floorball/naiset/kulma.png)<br>
 _Kuvio 6. Mistä kulmasta tapahtuu laukaukselle mitä._
 
+5 Joukkueiden kuviot
+===
 
-5 Johtopäätökset
+![alt text](/images/floorball/naiset/joukkueet_laukauskaikki.png)
+_Kuvio 8. Kaikki laukaukset._
+
+![alt text](/images/floorball/naiset/joukkueet_laukausmaali.png)
+_Kuvio 9. Maalit._
+
+6 Johtopäätökset
 ===
 
 Maaleissa vedon paikalla on väliä. Läheltä vedetyt menevät maaliit, kaukaa vedetyt blokataan.
