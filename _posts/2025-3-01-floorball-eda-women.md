@@ -1,6 +1,6 @@
 ---
 title: 'Mistä salibandyn maalit tehdään naisten F-Liigassa?'
-date: 2025-03-01
+date: 2025-03-12
 permalink: /posts/2025/3/salibandy_eda_women/
 summary: 'Blogi | Analysoidaan Naisten F-Liigan salibandyotteluiden dataa. Kartat näyttävät, mistä maaleja tehdään. Jakaumista selviää, miltä etäisyydeltä maalit tehdään.'
 tags:
@@ -9,7 +9,7 @@ tags:
   - maalit
 ---
 
-Salibandyliitto jakaa F-Liigan maalitilastoja ottelukohtaisesti. Niistä näkyy kiinnostavia asioita, mutta jakaumat puuttuvat. Tässä blogissa yritetään ymmärtää, mistä maalit syntyvät F-Liigassa.
+Salibandyliitto jakaa F-Liigan maalitilastoja ottelukohtaisesti. Niistä näkyy kiinnostavia asioita, mutta jakaumat puuttuvat. Tässä blogissa yritetään ymmärtää, mistä maalit syntyvät naisten F-Liigassa. Maaleissa vedon paikalla on väliä. Läheltä vedetyt menevät maaliit, kaukaa vedetyt blokataan.
 
 1 Laukaisudata
 ===
@@ -21,14 +21,14 @@ Tarkastellaan kautta 2024-2025 maaliskuun alussa. Vastaavan analyysin voi toki t
 2 Laukausten ja maalin jakaumat
 ====
 
-Kuvio 1 näyttää tiheysjakauman, joka kertoo mistäpäin kenttää vedetyt vedot ovat päätyneet maaliin. Kuvio on samanlainen korkeuskäyrästö kuin maastokartasta löytyy. Kuvion perusteella on selvää, että paras paikka tehdä maaleja on maalivahvin alueella heti maalin edustalla.
+Kuvio 1 näyttää tiheysjakauman, joka kertoo mistäpäin kenttää vedetyt vedot ovat päätyneet maaliin. Kuvio on samanlainen korkeuskäyrästö kuin maastokartasta löytyy. Kuvion perusteella on selvää, että paras paikka tehdä maaleja on maalialueella heti maalin edustalla.
 
 ![Maalien jakauma](/images/floorball/naiset/laukausmaali.png)<br>
 _Kuvio 1. Mistä päin kenttää maaleja on tehty._
 
 Kun sitä vertaa Kuvioon 2, joka näyttää, mistäpäin kenttää on lauottu, on ero melkoinen. Maaleja syntyy paljon läheltä maalia (Kuvio 3), pidemmältä ammutut menevät ohi, ne torjutaan tai ne blokataan (Kuviot 4 ja 5).
 
-Noin 13 prosenttia kaikista vedoista lähtee maalivahdin alueelta, mutta maaleista sieltä syntyy 30 prosenttia. Osuudet ovat lähes samat kuin miehillä.
+Noin 13 prosenttia kaikista vedoista lähtee maalialueelta, mutta maaleista sieltä syntyy 30 prosenttia. Osuudet ovat lähes samat kuin miehillä.
 
 ![Vetojen jakauma](/images/floorball/naiset/laukauskaikki.png)<br>
 _Kuvio 2. Kaikki laukaukset. Kaavio näyttää laukausten lähtöpaikan tiheysjakauman._
@@ -77,17 +77,12 @@ Joukkueiden laukauskartoissa on selviä eroja. Koovee laukoo erityisesti lähelt
 ![alt text](/images/floorball/naiset/joukkueet_laukauskaikki.png)
 _Kuvio 8. Kaikki laukaukset._
 
-Joukkueiden maalikartat ovat enemmän samanlaisia kuin vetokartat. Kuitenkin PSS:n maalikartta näyttää poikkeavalta. Se näkyy myös siinä, että PSS:llä on matalin osuus maaleista tehtynä maalivahdin alueelta. Samalla tavoin SaiPa tekee maalinsa hieman kauempaa. Koovee taas tekee yli 41 prosenttia maaleista maalinedustalta.
+Joukkueiden maalikartat ovat enemmän samanlaisia kuin vetokartat. Kuitenkin PSS:n maalikartta näyttää poikkeavalta. Se näkyy myös siinä, että PSS:llä on matalin osuus maaleista tehtynä maalialueelta. Samalla tavoin SaiPa tekee maalinsa hieman kauempaa. Koovee taas tekee yli 41 prosenttia maaleista maalinedustalta.
 
 ![alt text](/images/floorball/naiset/joukkueet_laukausmaali.png)
 _Kuvio 9. Maalit._
 
-Maaleista OLS ja EräViikingit tekevät 37 prosenttia maalivahdin alueelta. Muilla joukkueilla se on selvästi alempi. Kärkijoukkueet tekevät vain noin 26 prosenttia maaleista maalivahdin alueelta. Tämäkin on reilusti korkeampi vetojen osuus 9-14 prosenttia.
+Maaleista OLS ja EräViikingit tekevät 37 prosenttia maalialueelta. Muilla joukkueilla se on selvästi alempi. Kärkijoukkueet tekevät vain noin 26 prosenttia maaleista maalialueelta. Tämäkin on reilusti korkeampi vetojen osuus 9-14 prosenttia.
 
 ![alt text](/images/floorball/naiset/d_naiset.png)
-_Kuvio 10. Mikä osuus vedoista ja maaleista ammutaan maalivahdin 4x5 alueelta. Mukana myös tieto vetojen ja maalilaukausten keskietäisyydestä._
-
-6 Johtopäätökset
-===
-
-Maaleissa vedon paikalla on väliä. Läheltä vedetyt menevät maaliit, kaukaa vedetyt blokataan.
+_Kuvio 10. Mikä osuus vedoista ja maaleista ammutaan 4m x 5m maalialueelta. Mukana myös tieto vetojen ja maalilaukausten keskietäisyydestä._

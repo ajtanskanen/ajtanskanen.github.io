@@ -1,6 +1,6 @@
 ---
 title: 'Salibandyn xG ja maalit'
-date: 2025-03-10
+date: 2025-03-12
 permalink: /posts/2025/3/salibandy_xG/
 summary: 'Blogi | Analysoidaan odotettujen maalien määrää, siis xG:tä, F-Liigassa.'
 tags:
@@ -9,7 +9,7 @@ tags:
   - maalit
 ---
 
-Miten lasketaan xG salibandyn datoista? Entä millaisia eroja joukkueiden välillä on xG:ssä? Tämä blogi vastaa näihin kysymyksiin.
+Miten lasketaan maaliodottama xG salibandyn datoista? Entä millaisia eroja joukkueiden välillä on xG:ssä? Tämä blogi vastaa näihin kysymyksiin.
 
 1 xG ja data
 ===
@@ -75,8 +75,3 @@ Naisissa Miisa Turunen on omilla lukemillaan: kun xG on 17, on hän tehnyt maale
 
 ![Maalien jakauma](/images/floorball/xG/xG_players_women.png)<br>
 _Kuvio 4. xG pelaajille naisten F-Liigassa._
-
-Johtopäätökset
-===
-
-Maaleissa vedon paikalla on väliä. Läheltä vedetyt menevät maaliit, kaukaa vedetyt blokataan.
