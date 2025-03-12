@@ -69,14 +69,23 @@ Samoin maaleja tehdään enemmän suurista kulmista kuin aiempien kuvien peruste
 ![Vetojen jakauma etäisyyden mukaan](/images/floorball/naiset/kulma.png)<br>
 _Kuvio 6. Mistä kulmasta tapahtuu laukaukselle mitä._
 
-5 Joukkueiden kuviot
+5 Joukkueiden väliset erot
 ===
+
+Joukkueiden laukauskartoissa on selviä eroja. Koovee laukoo erityisesti läheltä
 
 ![alt text](/images/floorball/naiset/joukkueet_laukauskaikki.png)
 _Kuvio 8. Kaikki laukaukset._
 
+Joukkueiden maalikartat ovat enemmän samanlaisia kuin vetokartat. Kuitenkin PSS:n maalikartta näyttää poikkeavalta. Se näkyy myös siinä, että PSS:llä on matalin osuus maaleista tehtynä maalivahdin alueelta. Samalla tavoin SaiPa tekee maalinsa hieman kauempaa. Koovee taas tekee yli 41 prosenttia maaleista maalinedustalta.
+
 ![alt text](/images/floorball/naiset/joukkueet_laukausmaali.png)
 _Kuvio 9. Maalit._
+
+Maaleista OLS ja EräViikingit tekevät 37 prosenttia maalivahdin alueelta. Muilla joukkueilla se on selvästi alempi. Kärkijoukkueet tekevät vain noin 26 prosenttia maaleista maalivahdin alueelta. Tämäkin on reilusti korkeampi vetojen osuus 9-14 prosenttia.
+
+![alt text](/images/floorball/naiset/mva_naiset.png)
+_Kuvio 10. Mikä osuus vedoista ja maaleista ammutaan maalivahdin 4x5 alueelta._
 
 6 Johtopäätökset
 ===

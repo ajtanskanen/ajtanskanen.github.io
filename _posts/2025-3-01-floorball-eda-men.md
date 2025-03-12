@@ -78,14 +78,23 @@ _Kuvio 6. Maalit._
 ![Vetojen jakauma etäisyyden mukaan](/images/floorball/miehet/angle_laukauskaikki.png)<br>
 _Kuvio 7. Kaikki laukaukset._
 
-5 Joukkueiden kuviot
+5 Joukkueiden väliset erot
 ===
+Joukkueiden laukauskartoissa on selviä eroja. Oilers laukoo paljon oikealta läheltä laitaa, ja saakin sieltä jonkin verran maaleja. Kuitenkin Oilersilla maalit painottuvat maalivahdinalueelta vedettyihin.
 
 ![alt text](/images/floorball/miehet/joukkueet_laukauskaikki.png)
 _Kuvio 8. Kaikki laukaukset._
 
+Joukkueiden maalikartat ovat enemmän samanlaisia keskenään kuin laukauskartat.
+
+
 ![alt text](/images/floorball/miehet/joukkueet_laukausmaali.png)
 _Kuvio 9. Maalit._
+
+Maaleista OLS ja EräViikingit tekevät 37 prosenttia maalivahdin alueelta. Muilla joukkueilla se on selvästi alempi. Kärkijoukkueet tekevät vain noin 26 prosenttia maaleista maalivahdin alueelta. Tämäkin on reilusti korkeampi vetojen osuus 9-14 prosenttia.
+
+![alt text](/images/floorball/miehet/mva_miehet.png)
+_Kuvio 10. Mikä osuus vedoista ja maaleista ammutaan maalivahdin 4x5 alueelta._
 
 6 Johtopäätökset
 ===
