@@ -26,20 +26,25 @@ Kuviossa 1 esitetään kentän hyökkäyspääty. Kuvio on samanlainen korkeusk�
 ![Maalien jakauma](/images/floorball/naiset/laukausmaali.png)<br>
 _Kuvio 1. Mistä päin kenttää maaleja on tehty._
 
-Kun sitä vertaa Kuvioon 2, joka näyttää, mistäpäin kenttää on lauottu, on ero melkoinen. Maaleja syntyy paljon läheltä maalia (Kuvio 3), pidemmältä ammutut menevät ohi, ne torjutaan tai ne blokataan (Kuviot 4 ja 5).
+Kuvio 2 näyttää mistäpäin kenttää on lauottu.
+Kun Kuviota 1 vertaa Kuvioon 2, näkyy selvä ero. Maaleja syntyy pääasiassa läheltä maalia (Kuvio 1), pidemmältä ammutut menevät usein ohi (Kuvio 4), ne torjutaan (Kuvio 3) tai ne blokataan (Kuvio 5).
 
-Noin 13 prosenttia kaikista vedoista lähtee maalialueelta, mutta maaleista sieltä syntyy 30 prosenttia. Osuudet ovat lähes samat kuin miehillä.
+Noin 13 prosenttia kaikista vedoista lähtee maalialueelta, mutta maaleista sieltä syntyy 30 prosenttia. Osuudet ovat lähes samat kuin miehillä (12 prosenttia ja 28 prosenttia).
 
 ![Vetojen jakauma](/images/floorball/naiset/laukauskaikki.png)<br>
 _Kuvio 2. Kaikki laukaukset. Kaavio näyttää laukausten lähtöpaikan tiheysjakauman._
 
+Verrattuna miesten laukaisupaikkoihin, ampuvat naiset lähempää maalia ja enemmän keskisektorista. Tämä toki on järkevääkin, koska tällöin maalejakin syntyy enemmän. 
+
 ![Vetojen jakauma](/images/floorball/naiset/laukauskohti.png)<br>
 _Kuvio 3. Laukaukset kohti maalia._
 
-Kuviot 4 ja 5 näyttävät, että laukauksia ammutaan paljon maalin edustan lisäksi jääkiekkokielleä B-pisteiltä, mutta niistä ei tulosta juuri synny. Tämä myös selittää kuvioiden 2 ja 3 eron.
+Kuviot 4 ja 5 näyttävät, että laukauksia ammutaan paljon maalin edustan lisäksi jääkiekkokiellä B-pisteiltä, mutta niistä ei tulosta juuri synny. Tämä myös selittää kuvioiden 1 ja 2 eron.
 
 ![Vetojen jakauma](/images/floorball/naiset/laukausohi.png)<br>
 _Kuvio 4. Laukaukset ohi._
+
+Erityisesti kaukaa vedetyt laukaukset blokataan kertoo Kuvio 5. Maalialueelta lauotuista vain pieni osa blokataan.
 
 ![Vetojen jakauma](/images/floorball/naiset/laukausblokattu.png)<br>
 _Kuvio 5. Blokatut laukaukset._
@@ -47,8 +52,11 @@ _Kuvio 5. Blokatut laukaukset._
 3 Etäisyyden vaikutus maaleihin
 ====
 
-Etäisyyden funktiona maalien ja blokattujen laukausten osuus yhteensä kaikista laukauksista on jotakuinkin vakio. 
-Maaleja tehdään läheltä maalia, pidemmältä ammuttujen laukausten blokkaus kasvaa etäisyyden kasvaessa (Kuvio 4).
+Etäisyyden kasvaessa maalista on vaikeampi tehdä maalia (Kuvio 4). 
+Blokattujen laukausten osuus kasvaa etäisyyden kasvaessa. Ohilaukausten osuus säilyy jotakuinkin vakiona yli 4 metrin etäisyyksillä. Hieman yllättäen torjuntojen osuus on korkeimillaan hieman alle 2 metrin etäisyydellä. Tätä pienemmillä etäisyyksillä maalivahdin reaktiot eivät ilmeisesti riitä torjuntaan ja pidemmillä etäisyyksillä blokkausten osuus kasvaa niin paljon, että se vähentää torjuntojen osuutta.
+Nämä tulokset vastaavat hyvin havaintoja miesten tilastoista.
+
+Yli 1,5 metriä pidemmillä etäisyyksillä maalien ja blokattujen laukausten osuus yhteensä kaikista laukauksista on jotakuinkin vakio 50 prosenttia kaikista laukauksista.
 
 ![Vetojen jakauma etäisyyden mukaan](/images/floorball/naiset/distance.png)<br>
 _Kuvio 4. Miltä etäisyydeltä tapahtuu laukaukselle mitä._
@@ -57,7 +65,15 @@ Samalla tavoin maaliin menneiden laukausten kumulaativinen osuus etäisyyden suh
 Tämäkin kertoo siitä, että maaleissa läheltä ammutut laukaukset korostuvat.
 
 ![Vetojen jakauma etäisyyden mukaan](/images/floorball/naiset/distance2.png)<br>
-_Kuvio 5. Miltä etäisyydeltä tapahtuu laukaukselle mitä._
+_Kuvio 5. Etäisyyden vaikutus maalille asti päässeiden laukausten vaikutukseen._
+
+Kuvio 6 näyttää, miten maalien synty riippuu etäisyydestä. Huolimatta siitä, että alle 2,5 metristä ammutaan vähän, syntyy maaleja siltä etäisyydeltä hyvällä prosentilla, kuten myös kuvio 4 näyttää.
+
+Samalla tavoin maaliin menneiden laukausten kumulaativinen osuus etäisyyden suhteen kasvaa selvästi nopeammin kuin kaikkien laukausten (Kuvio 6).
+Tämäkin kertoo siitä, että maaleissa läheltä ammutut laukaukset korostuvat.
+
+![Vetojen jakauma etäisyyden mukaan](/images/floorball/naiset/maali_vs_kaikki.png)<br>
+_Kuvio 6. Etäisyyden vaikutus maalien syntyyn kumulatiivisesti._
 
 4 Kulman vaikutus maaleihin
 ====
@@ -67,12 +83,12 @@ Maalit tehdään pääosin keskeltä, mutta hieman yllättäen vasemmalta laidal
 Samoin maaleja tehdään enemmän suurista kulmista kuin aiempien kuvien perusteella odottaisi.
 
 ![Vetojen jakauma etäisyyden mukaan](/images/floorball/naiset/kulma.png)<br>
-_Kuvio 6. Mistä kulmasta tapahtuu laukaukselle mitä._
+_Kuvio 7. Mistä kulmasta tapahtuu laukaukselle mitä._
 
 5 Joukkueiden väliset erot
 ===
 
-Joukkueiden laukauskartoissa on selviä eroja. Koovee laukoo erityisesti läheltä
+Joukkueiden laukauskartoissa on selviä eroja. Koovee ja ÅIF laukovat erityisesti läheltä. TPS:n laukaisukartassa näyttää olevan Minni Hiiren korvat.O2-Jyväskylä ja SSRA taas laukovat lähinnä maalialueen ulkopuolelta.
 
 ![alt text](/images/floorball/naiset/joukkueet_laukauskaikki.png)
 _Kuvio 8. Kaikki laukaukset._
@@ -84,5 +100,5 @@ _Kuvio 9. Maalit._
 
 Maaleista OLS ja EräViikingit tekevät 37 prosenttia maalialueelta. Muilla joukkueilla se on selvästi alempi. Kärkijoukkueet tekevät vain noin 26 prosenttia maaleista maalialueelta. Tämäkin on reilusti korkeampi vetojen osuus 9-14 prosenttia.
 
-![alt text](/images/floorball/naiset/d_naiset.png)
+![alt text](/images/floorball/naiset/d_naiset2.png)
 _Kuvio 10. Mikä osuus vedoista ja maaleista ammutaan 4m x 5m maalialueelta. Mukana myös tieto vetojen ja maalilaukausten keskietäisyydestä._

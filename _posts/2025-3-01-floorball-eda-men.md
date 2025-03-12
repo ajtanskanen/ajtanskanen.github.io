@@ -21,7 +21,8 @@ Tarkastellaan seuraavaksi kauden tilannetta 2024-2025 maaliskuun alussa. Vastaav
 2 Laukaisukartat
 ====
 
-Salibandykentä koko on 20m x 40 m. Kuvio 1 näyttää maaliin menneiden vetojen tiheysjakauman hyökkäyspäässä, joka kertoo mistäpäin kenttää vedetyt vedot ovat päätyneet maaliin. Kuvio on samanlainen korkeuskäyrästö kuin maastokartasta löytyy, joten sitä on hyvä kutsua laukaisukartaksi. Kuvion 1 perusteella on selvää, että paras paikka tehdä maaleja on heti maalin edustalla. Tätä aluetta kutsutaan maalialueeksi, eikä syyttä.
+Salibandykentä koko on 20m x 40 m. Kuvio 1 näyttää maaliin menneiden vetojen tiheysjakauman, joka kertoo mistäpäin kenttää vedetyt vedot ovat päätyneet maaliin. 
+Kuviossa 1 esitetään kentän hyökkäyspääty. Kuvio on samanlainen korkeuskäyrästö kuin maastokartasta löytyy, joten sitä on hyvä kutsua laukaisukartaksi. Kuvion 1 perusteella on selvää, että paras paikka tehdä maaleja on heti maalin edustalla. Tätä aluetta kutsutaan maalialueeksi, eikä syyttä.
 
 ![Maalien jakauma](/images/floorball/miehet/laukausmaali.png)<br>
 _Kuvio 1. Mistä päin kenttää maaleja on tehty._
@@ -42,7 +43,7 @@ Kuviot 4 ja 5 näyttävät, että laukauksia ammutaan paljon maalin edustan lis�
 ![Vetojen jakauma](/images/floorball/miehet/laukausohi.png)<br>
 _Kuvio 4. Laukaukset ohi._
 
-Erityisesti kaukaa vedetyt laukaukset blokattaan kertoo Kuvio 5. Maalialueelta lauotuista vain pieni osa blokataan.
+Erityisesti kaukaa vedetyt laukaukset blokataan kertoo Kuvio 5. Maalialueelta lauotuista vain pieni osa blokataan.
 
 ![Vetojen jakauma](/images/floorball/miehet/laukausblokattu.png)<br>
 _Kuvio 5. Blokatut laukaukset._
@@ -63,7 +64,7 @@ _Kuvio 4. Miltä etäisyydeltä tapahtuu laukaukselle mitä._
 Kuviossa 5 "laukauskohti" tarkoittaa oleellisesti torjuttujen laukausten osuutta kaikista niistä laukauksista, jotka joko torjutaan tai menevät maaliin. Siitä näkee, että torjuntaprosentti on luokkaa 20-25, kun vedot lähtevät alle 1,5 metrin päästä maalista. Siitä aina 4 metriin torjuntaprosentti on noin 35, mistä torjuntojen osuus kasvaa kohti 85 prosenttia 16 metriin päässä maalilta. Torjuntojen osuus kaikista maalille asti tulleista vedoista siis kasvaa etäisyyden kasvaessa, toisin kuin kuvio 4 antoi ymmärtää.
 
 ![Vetojen jakauma etäisyyden mukaan](/images/floorball/miehet/distance2.png)<br>
-_Kuvio 5. Miltä etäisyydeltä tapahtuu laukaukselle mitä._
+_Kuvio 5. Etäisyyden vaikutus maalille asti päässeiden laukausten vaikutukseen._
 
 Kuvio 6 näyttää, miten maalien synty riippuu etäisyydestä. Huolimatta siitä, että alle 2,5 metristä ammutaan vähän, syntyy maaleja siltä etäisyydeltä hyvällä prosentilla, kuten myös kuvio 4 näyttää.
 
@@ -102,6 +103,6 @@ _Kuvio 10. Maalit._
 
 OLS ja EräViikingit tekevät 37 prosenttia maaleistaan maalialueelta. Muilla joukkueilla osuus on selvästi alempi. Kärkijoukkueet Classic, Krp, Indians ja Oilers tekevät vain noin 26 prosenttia maaleista maalialueelta. Tämäkin on reilusti korkeampi kuin maalialueelta ammuttujen vetojen osuus 11-14 prosenttia.
 
-![alt text](/images/floorball/miehet/d_miehet.png)
+![alt text](/images/floorball/miehet/d_miehet2.png)
 _Kuvio 11. Mikä osuus vedoista ja maaleista ammutaan maalialuen 4m x 5m alueelta. Mukana myös tieto vetojen ja maalilaukausten keskietäisyydestä._
 
