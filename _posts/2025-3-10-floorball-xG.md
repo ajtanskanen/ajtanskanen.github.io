@@ -36,7 +36,7 @@ Classicin ja SPV:n xG:t ovat lähes samat, mutta SPV:n xG-ero on -4,1. Peli tuot
 
 Oilersin xG on selvästi korkein kaikista joukkueista. Sen peli on tällä mittarilla kaikkein laadukkainta. Maaleja se ei kuitenkaan ole pystynyt niistä tekemään yhtä tehokkaasti kuin KrP, Classi tai Indians. 
 
-![Maalien jakauma](/images/floorball/xG/xG_teams_men.png)<br>
+![Maalien jakauma](/images/floorball/xG/xG_laaja_miehet.png)<br>
 _Kuvio 1. xG joukkueille miesten F-Liigassa._
 
 Heikoin joukkue miesten F-Liigassa on LASB, kun mittarina käytetään xG:tä. Sen peli ei tuota hyvin vetopaikkoja. Heikoin konvertoimaan vetopaikat maaleiksi on kuitenkin OLS, joka on onnistunut saaman vetoja hyviltä paikoilta, mutta xG-ero on jopa -35,1 maalia. 
@@ -46,14 +46,11 @@ Heikoin joukkue miesten F-Liigassa on LASB, kun mittarina käytetään xG:tä. S
 
 Naisten F-Liigassa TPS on aivan omilla lukemillaan xG:ssä. Se on jauhanut xG:tä 35 maalia enemmän kuin seuraavana oleva Classic. Tämä näkyy myös sarjataulukossa, jossa TPS johtaa ja Classic on toinen. Karkeasti xG kertoo sijoituksen sarjataulukossa.
 
-![Maalien jakauma](/images/floorball/xG/xG_teams_women.png)<br>
+![Maalien jakauma](/images/floorball/xG/xG_laaja_naiset.png)<br>
 _Kuvio 3. xG joukkueille naisten F-Liigassa._
 
 
-xG:llä voi myös analysoida, miten hyvin joukkueiden puolustus toimii. Kun laskee xG:n joukkuetta vastaan, näkee arvion siitä, miten hyvin joukkuen puolustaa. 
-
-![Maalien jakauma](/images/floorball/xG/xG_laaja_naiset.png)<br>
-_Kuvio 4. xG joukkueille naisten F-Liigassa._
+xG:llä voi myös analysoida, miten hyvin joukkueiden puolustus toimii. Kun laskee xG:n joukkuetta vastaan (xGA), näkee arvion siitä, miten hyvin joukkuen puolustaa. 
 
 Taulukosta 4 näkyy, että TPS sekä tekee tehokkaasti maaleja että myös puolustaa vahvasti. Sitä vastaan on tehty maaleja vähän ja myös xG TPS:ää vastaan on F-Liigan toiseksi matalin 57,9 maalia. Kuitenkin toteuma 39 maalia in tätäkin matalampi.
 
