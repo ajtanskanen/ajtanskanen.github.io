@@ -62,7 +62,9 @@ _Kuvio 5. Miltä etäisyydeltä tapahtuu laukaukselle mitä._
 Kuviossa 5 laukauskohti on oleellisesti torjuttujen laukausten osuus kaikista laukauksista, jotka joko torjutaan tai menevät maaliin. Siitä näkee, että torjuntaprosentti on luokkaa 20-25, kun vedot lähtevät alle 1,5 metrin päästä maalista. Siitä aina 4 metriin torjuntaprosentti on noin 35, mistä torjuntojen osuus kasvaa kohti 85 prosenttia 16 metriin päässä maalilta.
 
 ![Vetojen jakauma etäisyyden mukaan](/images/floorball/miehet/maali_vs_kaikki.png)<br>
-_Kuvio 6. Miltä etäisyydeltä tapahtuu laukaukselle mitä._
+_Kuvio 6. Etäisyyden vaikutus maalien syntyyn kumulatiivisesti._
+
+Kuvio 6 näyttää, miten maalien synty riippuu etäisyydestä. Huolimatta siitä, että alle 2,5 metristä ammutaan vähän, syntyy maaleja siltä etäisyydeltä hyvällä prosentilla, kuten myös kuvio 4 näyttää.
 
 
 4 Kulman vaikutus maaleihin
@@ -73,26 +75,26 @@ Maalit tehdään pääosin keskeltä, mutta hieman yllättäen vasemmalta laidal
 Samoin maaleja tehdään enemmän suurista kulmista kuin aiempien kuvien perusteella odottaisi.
 
 ![Vetojen jakauma etäisyyden mukaan](/images/floorball/miehet/angle_laukausmaali.png)<br>
-_Kuvio 6. Maalit._
+_Kuvio 7. Maalit._
 
 ![Vetojen jakauma etäisyyden mukaan](/images/floorball/miehet/angle_laukauskaikki.png)<br>
-_Kuvio 7. Kaikki laukaukset._
+_Kuvio 8. Kaikki laukaukset._
 
 5 Joukkueiden väliset erot
 ===
 Joukkueiden laukauskartoissa on selviä eroja. Oilers laukoo paljon oikealta läheltä laitaa, ja saakin sieltä jonkin verran maaleja. Kuitenkin Oilersilla maalit painottuvat maalinalueelta vedettyihin.
 
 ![alt text](/images/floorball/miehet/joukkueet_laukauskaikki.png)
-_Kuvio 8. Kaikki laukaukset._
+_Kuvio 9. Kaikki laukaukset._
 
 Joukkueiden maalikartat ovat enemmän samanlaisia keskenään kuin laukauskartat.
 
 
 ![alt text](/images/floorball/miehet/joukkueet_laukausmaali.png)
-_Kuvio 9. Maalit._
+_Kuvio 10. Maalit._
 
 Maaleista OLS ja EräViikingit tekevät 37 prosenttia maalialueelta. Muilla joukkueilla se on selvästi alempi. Kärkijoukkueet tekevät vain noin 26 prosenttia maaleista maalialueelta. Tämäkin on reilusti korkeampi vetojen osuus 9-14 prosenttia.
 
 ![alt text](/images/floorball/miehet/d_miehet.png)
-_Kuvio 10. Mikä osuus vedoista ja maaleista ammutaan maalialuen 4m x 5m alueelta. Mukana myös tieto vetojen ja maalilaukausten keskietäisyydestä._
+_Kuvio 11. Mikä osuus vedoista ja maaleista ammutaan maalialuen 4m x 5m alueelta. Mukana myös tieto vetojen ja maalilaukausten keskietäisyydestä._
 
