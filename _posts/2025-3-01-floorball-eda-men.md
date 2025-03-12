@@ -93,8 +93,8 @@ _Kuvio 9. Maalit._
 
 Maaleista OLS ja EräViikingit tekevät 37 prosenttia maalivahdin alueelta. Muilla joukkueilla se on selvästi alempi. Kärkijoukkueet tekevät vain noin 26 prosenttia maaleista maalivahdin alueelta. Tämäkin on reilusti korkeampi vetojen osuus 9-14 prosenttia.
 
-![alt text](/images/floorball/miehet/mva_miehet.png)
-_Kuvio 10. Mikä osuus vedoista ja maaleista ammutaan maalivahdin 4x5 alueelta._
+![alt text](/images/floorball/miehet/d_miehet.png)
+_Kuvio 10. Mikä osuus vedoista ja maaleista ammutaan maalivahdin 4x5 alueelta. Mukana myös tieto vetojen ja maalilaukausten keskietäisyydestä._
 
 6 Johtopäätökset
 ===
