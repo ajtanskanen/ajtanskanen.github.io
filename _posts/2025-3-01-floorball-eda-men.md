@@ -106,3 +106,4 @@ OLS ja EräViikingit tekevät 37 prosenttia maaleistaan maalialueelta. Muilla jo
 ![alt text](/images/floorball/miehet/d_miehet2.png)
 _Kuvio 11. Mikä osuus vedoista ja maaleista ammutaan maalialuen 4m x 5m alueelta. Mukana myös tieto vetojen ja maalilaukausten keskietäisyydestä._
 
+Oilers ampuu joukkueista keskimäärin kauimpaa maalista. Myös maaliin menneiden vetojen keskimääräinen etäisyys maalista on suurin. 

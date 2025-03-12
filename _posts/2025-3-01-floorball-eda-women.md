@@ -98,7 +98,9 @@ Joukkueiden maalikartat ovat enemmän samanlaisia kuin vetokartat. Kuitenkin PSS
 ![alt text](/images/floorball/naiset/joukkueet_laukausmaali.png)
 _Kuvio 9. Maalit._
 
-Maaleista OLS ja EräViikingit tekevät 37 prosenttia maalialueelta. Muilla joukkueilla se on selvästi alempi. Kärkijoukkueet tekevät vain noin 26 prosenttia maaleista maalialueelta. Tämäkin on reilusti korkeampi vetojen osuus 9-14 prosenttia.
+Maaleista Koovee tekee yli 41 prosenttia ja Classic ja ÅIF tekevät noin 35 prosenttia maaleista maalialueelta. Näillä kolmella myös vedoista muita korkeampi osuus lähteee maalialueelta. Heikoin tässä on PSS, jonka maaleista vain yksi viidestä tehdään maalialueelta. Tämä näkyy selvästi myös Kuviosta 9.
+
+Saipa tekee 21 prosenttia maaleista maalialueelta, vaikka vedoista sieltä lähtee alle 7 prosenttia. Saipalla maaliin menneiden vetojen keskietäisyys on kaikista joukkueista suurin. ÅIF:llä taas pienin.
 
 ![alt text](/images/floorball/naiset/d_naiset2.png)
 _Kuvio 10. Mikä osuus vedoista ja maaleista ammutaan 4m x 5m maalialueelta. Mukana myös tieto vetojen ja maalilaukausten keskietäisyydestä._
