@@ -1,5 +1,5 @@
 ---
-title: 'Mistä salibandyn maalit tehdään naisten F-Liigassa?'
+title: 'Mistä naiset tekevät maalit F-Liigassa? Salibandy osa 2'
 date: 2025-03-12
 permalink: /posts/2025/3/salibandy_eda_women/
 summary: 'Blogi | Analysoidaan Naisten F-Liigan salibandyotteluiden dataa. Kartat näyttävät, mistä maaleja tehdään. Jakaumista selviää, miltä etäisyydeltä maalit tehdään.'
@@ -9,19 +9,19 @@ tags:
   - maalit
 ---
 
-Salibandyliitto jakaa F-Liigan maalitilastoja ottelukohtaisesti. Niistä näkyy kiinnostavia asioita, mutta jakaumat puuttuvat. Tässä blogissa yritetään ymmärtää, mistä maalit syntyvät naisten F-Liigassa. Maaleissa vedon paikalla on väliä. Läheltä vedetyt menevät maaliit, kaukaa vedetyt blokataan.
+Salibandyssä sillä on väliä, mistä veto lähtee. Tässä blogissa yritetään ymmärtää, mistä maalit syntyvät naisten F-Liigassa. Tulokset hieman yksinkertaistaen: läheltä vedetyt menevät maaliit, kaukaa vedetyt blokataan. 
 
 1 Laukaisudata
 ===
 
-F-Liiga jakaa sivuillaan jaetaan tietoja siitä, mistä ottelun kuluessa on maalia kohti laukaistu. Syvempi analyysi sivuilta kuitenkin puuttuu. Siitä syytä keräsin tietoa sivuilta ja yhdistelin sitä analyysiä varten. 
+[Osassa 1](/posts/2025/3/salibandy_eda_men/) analysoitiin miesten F-Liigaa. Nyt analysoidaan naisten F-Liigaa. 
+Tarkastellaan seuraavaksi kauden tilannetta 2024-2025 maaliskuun alussa. Tässä tulokset perustuvat vain kauden 2024-2025 naisten F-Liigan dataan.
 
-Tarkastellaan kautta 2024-2025 maaliskuun alussa. Vastaavan analyysin voi toki tehdä mille ajanhetkelle tahansa. Tässä tulokset perustuvat vain kauden 2024-2025 naisten F-Liigan dataan.
-
-2 Laukausten ja maalin jakaumat
+2 Laukaisukartat
 ====
 
-Kuvio 1 näyttää tiheysjakauman, joka kertoo mistäpäin kenttää vedetyt vedot ovat päätyneet maaliin. Kuvio on samanlainen korkeuskäyrästö kuin maastokartasta löytyy. Kuvion perusteella on selvää, että paras paikka tehdä maaleja on maalialueella heti maalin edustalla.
+Salibandykentä koko on 20m x 40 m. Kuvio 1 näyttää maaliin menneiden vetojen tiheysjakauman, joka kertoo mistäpäin kenttää vedetyt vedot ovat päätyneet maaliin. 
+Kuviossa 1 esitetään kentän hyökkäyspääty. Kuvio on samanlainen korkeuskäyrästö kuin maastokartasta löytyy, joten sitä on hyvä kutsua laukaisukartaksi. Kuvion 1 perusteella on selvää, että paras paikka tehdä maaleja on heti maalin edustalla. Tätä aluetta kutsutaan maalialueeksi, eikä syyttä.
 
 ![Maalien jakauma](/images/floorball/naiset/laukausmaali.png)<br>
 _Kuvio 1. Mistä päin kenttää maaleja on tehty._

@@ -1,5 +1,5 @@
 ---
-title: 'Salibandyn xG ja maalit'
+title: 'Salibandyn xG ja maalit - Salibandy osa 3'
 date: 2025-03-12
 permalink: /posts/2025/3/salibandy_xG/
 summary: 'Blogi | Analysoidaan odotettujen maalien määrää, siis xG:tä, F-Liigassa.'
@@ -11,10 +11,8 @@ tags:
 
 Miten lasketaan maaliodottama xG salibandyn datoista? Entä millaisia eroja joukkueiden välillä on xG:ssä? Tämä blogi vastaa näihin kysymyksiin.
 
-1 xG ja data
+1 Odotetut maalit xG
 ===
-
-F-Liigan sivuilla jaetaan tietoja, mistä ottelun kuluessa on maalia kohti laukaistu. Syvemopi analyysi kuitenkin puuttuu. Siitä syytä keräsin tietoa sivuilta ja yhdistelin sitä. Tarkastellaan aluksi miesten F-Liigaa.
 
 xG tarkoittaa odotettua maalien määrää. Se voidaan laskea eri tavoilla. Tässä on käytetty kaikkein helpointa tapaa. Tällöin xG lasketaan pelkästään laukaisujen määrän ja paikan perusteella. Kenttä jaetaan ensin ruudukoihin, joista lasketaan jokaiselle, montako laukausta ja maalia on tehty ko. ruudusta. Tämä suhde kertoo todennäköisyyden ruudusta laukaistulle vedolle mennä maaliin. Näin saadaan todennäköisyysjakauma vedoille.
 
@@ -23,6 +21,9 @@ Kun lasketaan odotettujen maalien määrä ottelussa, siis xG, lasketaan jokaise
 xG-ero kertoo tehtyjen maalien ja xG:n erotuksen. Mitä korkeampi se on, sitä laadukkaampaa on joukkueen viimeistely. Osaltaan se kertoo myös sen, että xG ei suinkaan ole koko tarina. Se ei mm. kerro, miten muut pelaajat ovat sijoittuneet vetotilanteessa.
 
 Mitä korkeampi on joukkueen xG, sitä laadukkaampaa on sen peli. 
+Samalla tavalla myös xG-ero, siis tehtyjen maalien ja xG:n ero kertoo joukkueen pelin tasosta. Jos joukkue pystyy toistuvasti ylittämään xG:n, on sen pystyttävä luomaan laadukkaampia vetoja kuin mitä xG ennustaa.
+
+Vastinpari xG:lle on joukkuetta vastaan tehty xG, jota merkitään xGA:lla. Se kertoo siitä, miten laadukkaita maalintekopaikkoja joukkueen puolustus salliin. Mitä korkeampi xGA, sitä heikompi puolustus.
 
 2 Joukkueiden xG
 ===
@@ -75,3 +76,8 @@ Naisissa Miisa Turunen on omilla lukemillaan: kun xG on 17, on hän tehnyt maale
 
 ![Maalien jakauma](/images/floorball/xG/xG_players_women.png)<br>
 _Kuvio 4. xG pelaajille naisten F-Liigassa._
+
+4 Rajoituksia
+===
+
+Tässä on esitelty xG:n laskentaa yksinkertaistetusti. Osin se johtuu saatavilla olevasta datasta. 
