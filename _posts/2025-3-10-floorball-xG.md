@@ -25,7 +25,7 @@ xG-ero kertoo tehtyjen maalien ja xG:n erotuksen. Mitä korkeampi se on, sitä l
 Mitä korkeampi on joukkueen xG, sitä laadukkaampaa on sen peli. 
 Samalla tavalla myös xG-ero, siis tehtyjen maalien ja xG:n ero kertoo joukkueen pelin tasosta. Jos joukkue pystyy toistuvasti ylittämään xG:n, on sen pystyttävä luomaan laadukkaampia vetoja kuin mitä xG ennustaa.
 
-Vastinpari xG:lle on joukkuetta vastaan tehty xG, jota merkitään xGA:lla. Se kertoo siitä, miten laadukkaita maalintekopaikkoja joukkueen puolustus salliin. Mitä korkeampi xGA, sitä heikompi puolustus.
+Vastinpari xG:lle on joukkuetta vastaan tehty xG, jota merkitään xGA:lla. Se kertoo siitä, miten laadukkaita maalintekopaikkoja joukkueen puolustus salliin. Mitä korkeampi xGA, sitä heikompi puolustus. Jos joukkuetta vastaan on tehty maaleja vähemmän kuin xGA antaa odottaa, on joukkueen puolustus ollut hyvää.
 
 2 Joukkueiden xG
 ===
@@ -42,23 +42,26 @@ Oilersin xG on selvästi korkein kaikista joukkueista. Sen peli on tällä mitta
 ![Maalien jakauma](/images/floorball/xG/xG_laaja_miehet.png)<br>
 _Taulukko 1. xG joukkueille miesten F-Liigassa._
 
-Heikoin joukkue miesten F-Liigassa on LASB, kun mittarina käytetään xG:tä. Sen peli ei tuota hyvin vetopaikkoja. Heikoin konvertoimaan vetopaikat maaleiksi on kuitenkin OLS, joka on onnistunut saaman vetoja hyviltä paikoilta, mutta xG-ero on jopa -35,1 maalia. 
+Maalidottamalla mitattuna heikoin joukkue miesten F-Liigassa on LASB. Sen peli ei tuota hyvin vetopaikkoja (matala xG). Heikoin konvertoimaan vetopaikat maaleiksi on kuitenkin OLS, joka on onnistunut saaman vetoja hyviltä paikoilta, mutta xG-ero on jopa -35,1 maalia. 
 
-Oilers on onnistunut tekemään enemmän maaleja kuin odottaman xG verran. Tämän lisäksi Oilersin puolustus on ollut niin tiivis, että maaleja sitä vastaan on tehty jopa vähemmän sitä vastaantehtyjen maalien odottama XGA
+Oilers on onnistunut tekemään enemmän maaleja kuin odottaman xG verran. Tämän lisäksi Oilersin puolustus on ollut niin tiivis, että maaleja sitä vastaan on tehty jopa vähemmän sitä vastaantehtyjen maaliodottaman XGA:n verran.
+
+Heikoin XGA on Jymyllä ja LASBilla. Molemmille on vieläpä tehty enemmän maaleja kuin sarjan heikoin XGA antaa odottaa. EräViikingit on tehnyt vähemmän maaleja kuin xG antaa odottaa, mutta puolustanut tiiviisti, jolloin sitä vastaa on tehty vähemmän maaleja kuin xGA antaa odottaa.
 
 2.2 Naiset
 ===
+
+Naisten F-Liigassa erot kärjen ja häntäpään välillä ovat valtavat kaikilla mittareilla mitattuna: niin xG:llä, xGA:lla kuin tehtyjen maalien perusteella mitattuna.
+Kärki on suorittanut hyvin xG:llä mitattuna mutta myös ylittänyt xG:n. Samoin kärjen puolustus on ollut hyvää xGA:lla mitattuna.
 
 Naisten F-Liigassa TPS on aivan omilla lukemillaan xG:ssä. Se on jauhanut xG:tä 35 maalia enemmän kuin seuraavana oleva Classic. Tämä näkyy myös sarjataulukossa, jossa TPS johtaa ja Classic on toinen. Karkeasti xG kertoo sijoituksen sarjataulukossa.
 
 ![Maalien jakauma](/images/floorball/xG/xG_laaja_naiset.png)<br>
 _Taulukko 2. xG joukkueille naisten F-Liigassa._
 
+Taulukosta 2 näkyy, että TPS sekä tekee tehokkaasti maaleja että myös puolustaa vahvasti. Sitä vastaan on tehty maaleja vähän ja myös xGA TPS:ää vastaan on F-Liigan toiseksi matalin 57,9 maalia. Kuitenkin toteuma 39 maalia in tätäkin matalampi. Hajonta on naisten F-Liigassa suurta.
 
-xG:llä voi myös analysoida, miten hyvin joukkueiden puolustus toimii. Kun laskee xG:n joukkuetta vastaan (xGA), näkee arvion siitä, miten hyvin joukkuen puolustaa. 
-
-Taulukosta 2 näkyy, että TPS sekä tekee tehokkaasti maaleja että myös puolustaa vahvasti. Sitä vastaan on tehty maaleja vähän ja myös xG TPS:ää vastaan on F-Liigan toiseksi matalin 57,9 maalia. Kuitenkin toteuma 39 maalia in tätäkin matalampi.
-
+Vastaavasti Erä-Viikingit tekee maaleja odotettuun tahtiin, mutta puolustaa hyvin. Sitä vastaan on tehty vähän maaleja ja myös xGA sitä vastaan on matala. 
 
 3 Pelaajien xG
 ===
@@ -66,12 +69,10 @@ Taulukosta 2 näkyy, että TPS sekä tekee tehokkaasti maaleja että myös puolu
 3.1 Miehet
 ----
 
-Justus Kainulainen on kuuluisa hurjasta vedostaan. Hän onkin xG-erolla:llä mitattuna toiseksi paras liigassa. Paras on kuitenkin Tiitus Salokangas, joka on onnistunut taikomaan yli kaksinkertaisen määrän maaleja xG:hen verrattuna. Hän on vastannut yksinään lähes puolesta Classicin xG-erosta.
+Justus Kainulainen on kuuluisa hurjasta vedostaan. Hän onkin xG-erolla:llä mitattuna toiseksi paras miesten F-Liigassa. Paras on kuitenkin Tiitus Salokangas, joka on onnistunut taikomaan yli kaksinkertaisen määrän maaleja xG:hen verrattuna. Hän on vastannut yksinään lähes puolesta Classicin xG-erosta.
 
 ![Maalien jakauma](/images/floorball/xG/xG_players_men.png)<br>
 _Taulukko 3. xG pelaajille miesten F-Liigassa._
-
-Vastaavasti Erä-Viikingit tekee maaleja odotettuun tahtiin, mutta puolustaa hyvin. Sitä vastaan on tehty vähän maaleja ja myös xG sitä vastaan on matala. 
 
 3.2 Naiset
 ---
