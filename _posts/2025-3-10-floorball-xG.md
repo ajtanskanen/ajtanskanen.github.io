@@ -1,6 +1,6 @@
 ---
 title: 'Salibandyn xG ja maalit - Salibandy osa 3'
-date: 2025-03-12
+date: 2025-03-16
 permalink: /posts/2025/3/salibandy_xG/
 summary: 'Blogi | Analysoidaan odotettujen maalien määrää, siis xG:tä, F-Liigassa.'
 tags:
