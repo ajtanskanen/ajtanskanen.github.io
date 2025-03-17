@@ -36,6 +36,7 @@ Toimialoja ovat
 Helsingin pörssissä on 17 sykslistä osaketta ja 78 defensiivistä osaketta, jos defensiivisen rajana pidetään beta 0,9:ää ja syklisen beta 1,1. Kaikkiaan osakkeita on aineistossa 118 osaketta. Tarkasteltu aikaväli on 2015-1-1 - 2025-3-15 päivädataa. Markkinaindeksinä on käytetty EuroSTOXX600 indeksiä.
 
 ![Sykliset](/images/financial/beta.png)
+_Kuvio 1. Helsingin pörssin osakkeiden beta-arvioita._
 
 Syklisin osake on Outokumpu ja defensiivisin Viking Line. Keskimääräinen beta on 0,83, mikä tässä luokittelussa menee defensiiviseksi.
 
@@ -50,10 +51,10 @@ Syklisellä osakkeella tarkoitetaan osaketta, jonka arvoon talouden suhdanteiden
 Syklisiin osakkeisiin sijoittaminen tarjoaa sijoittajalle mahdollisuuden hyötyä talouden suhdannevaihteluista.
 
 Syklisiä toimialoja ovat yleisesti energia, perusteollisuus, teollisuustuotteet ja -palvelut, rahoitus ja teknologia. 
-Syklisiä voisivat olla esimerkiksi  Cargotec, Finnair, Konecranes, Metso Outotec, Neste, Nokian Renkaat, Nordea, Outokumpu, Tieto-Evry ja UPM.
+Syklisiä ovat esimerkiksi  Cargotec, Konecranes, Metso Outotec, Neste, Nokian Renkaat, Outokumpu ja Valmet.
 
 ![Sykliset](/images/financial/syklisetosakkeet.png)
-
+_Kuvio 2. Syklisiä osakkeet_
 
 4 Defensiiviset osakkeet
 ===
@@ -66,10 +67,10 @@ Defensiivisiä toimialoja ovat puolestaan peruskulutustuotteet, terveydenhuolto,
 Esimerkiksi ruoka, hygieniatuotteet, dataliittymät ja lääkkeet ovat viimeisiä, joista säästetään, siis defensiivisiä.
 Defensiivisiä osakkeita ovat olleet esimerkiksi Kesko, jonka ruokakauppa tuottaa hyvin myös huonompina aikoina.
 
-Defensiivisiä ovat esimerkiksi Kesko, Orion, Atria, Elisa ja Anora ovat syklisiä.
+Defensiivisiä ovat esimerkiksi Kesko, Orion, Atria, Elisa ja Anora.
 
 ![Esimerkkejä defensiivisistä osakkeista](/images/financial/defensiivisetosakkeet.png)
-
+_Kuvio 3. Defensiivisiä osakkeita_
 
 
 Disclaimer! Tämä ole minkäänlainen sijoitusneuvo, vaan aikasarja-analyysi julkisesti saatavilla olevasta datasta.
