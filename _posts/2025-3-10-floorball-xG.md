@@ -74,6 +74,9 @@ Justus Kainulainen on kuuluisa hurjasta vedostaan. Hän onkin xG-erolla:llä mit
 ![Maalien jakauma](/images/floorball/xG/xG_players_men.png)<br>
 _Taulukko 3. xG pelaajille miesten F-Liigassa._
 
+Kaikkiaan 281 pelaajaa on tehnyt F-Liigassa maaleja. Pelaajista 110:llä on positiivinen xG. Yli 10 maalia tehneitä pelaajia on 70 ja heistä 46:lla on positiivinen xG.
+Toisin sanoen, paljon maaleja tehneillä on pääsääntöisesti keskimääräistä korkeampi xG.
+
 3.2 Naiset
 ---
 
@@ -81,6 +84,8 @@ Naisissa Miisa Turunen on omilla lukemillaan: kun xG on 17, on hän tehnyt maale
 
 ![Maalien jakauma](/images/floorball/xG/xG_players_women.png)<br>
 _Taulukko 4. xG pelaajille naisten F-Liigassa._
+
+Kaikkiaan 275 pelaajaa on tehnyt F-Liigassa maaleja. Pelaajista 101:llä on positiivinen xG. Jos rajoitutaan yli 10 maalia tehneisiin, on pelaajia 33 kappaletta, ja heistä 31:llä on positiivinen xG.
 
 4 Rajoituksia
 ===
