@@ -72,5 +72,7 @@ Defensiivisiä ovat esimerkiksi Kesko, Orion, Atria, Elisa ja Anora.
 ![Esimerkkejä defensiivisistä osakkeista](/images/financial/defensiivisetosakkeet.png)
 _Kuvio 3. Defensiivisiä osakkeita_
 
+Pelkän alan perusteella ei voi sanoa, onko osake defensiivinen vai syklinen. Esimerkiksi Teollisuustuotteet ja -palvelut (Industrials) -alaan kuuluvia osakkeita on sekä defensiivisissä että syklisissä.
+
 
 Disclaimer! Tämä ole minkäänlainen sijoitusneuvo, vaan aikasarja-analyysi julkisesti saatavilla olevasta datasta.
