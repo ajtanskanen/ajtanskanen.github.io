@@ -9,13 +9,12 @@ tags:
   - sijoittaminen
 ---
 
-Osakkeet voi jakaa defensiivisiin ja syklisiin betan avulla. Tässä lyhyt analyysi siitä, kumpaan joukkoon eri osakkeet Helsingin pörssissä menevät.
+Osakkeet voi jakaa defensiivisiin ja syklisiin sen mukaan, kuinka herkkiä osakkeet ovat yleiselle markkinaliikkeelle. Defensiiviset osakkeet eivät ole erityisen herkkiä yleiselle markkinaliikkeelle, sykliset taas ovat. Tässä lyhyt analyysi siitä, kumpaan joukkoon eri osakkeet Helsingin pörssissä menevät.
 
 1 Helsingin Pörssin osakkeet
 ===
 
-Helsingin pörssissä Nasdaq OMXH:ssa on listattuna 140 osaketta. Jokainen osake on sijoitettu johonkin sektoriin, esimerkiksi UPM kuuluu Basic materials -sektoriin.
-
+Helsingin pörssissä Nasdaq OMXH:ssa on listattuna 134 osaketta päälistalla. Jokainen osake on sijoitettu johonkin sektoriin, esimerkiksi UPM kuuluu Teollisuustuotteet ja -palvelut (engl. Basic materials) -sektoriin.
 Toimialoja ovat
 
 - Energia
@@ -30,12 +29,16 @@ Toimialoja ovat
 - Teknologia
 - Kiinteistöyhtiöt
 
+On ajateltu, että sektorit määräävät defensiivisyyden tai syklisyyden. Mutta onko näin?
+
+Tarkasteltu aikaväli on 2015-1-1 - 2025-3-15 päivädataa. Markkinaindeksinä on käytetty EuroSTOXX600 indeksiä.
+
 2 Defensiivisyys ja syklisyys Helsingin pörssissä
 ===
 
-Helsingin pörssissä on 17 sykslistä osaketta ja 78 defensiivistä osaketta, jos defensiivisen rajana pidetään beta 0,9:ää ja syklisen beta 1,1. Kaikkiaan osakkeita on aineistossa 118 osaketta. Tarkasteltu aikaväli on 2015-1-1 - 2025-3-15 päivädataa. Markkinaindeksinä on käytetty EuroSTOXX600 indeksiä.
+Helsingin pörssissä on 17 syklistä osaketta ja 78 defensiivistä osaketta, jos defensiivisen rajana pidetään beta 0,9:ää ja syklisen beta 1,1. Kaikkiaan osakkeita on aineistossa 118 osaketta. 
 
-![Sykliset](/images/financial/beta.png)
+![Sykliset](/images/financial/beta.png)<br>
 _Kuvio 1. Helsingin pörssin osakkeiden beta-arvioita._
 
 Syklisin osake on Outokumpu ja defensiivisin Viking Line. Keskimääräinen beta on 0,83, mikä tässä luokittelussa menee defensiiviseksi.
@@ -53,7 +56,7 @@ Syklisiin osakkeisiin sijoittaminen tarjoaa sijoittajalle mahdollisuuden hyöty�
 Syklisiä toimialoja ovat yleisesti energia, perusteollisuus, teollisuustuotteet ja -palvelut, rahoitus ja teknologia. 
 Syklisiä ovat esimerkiksi  Cargotec, Konecranes, Metso Outotec, Neste, Nokian Renkaat, Outokumpu ja Valmet.
 
-![Sykliset](/images/financial/syklisetosakkeet.png)
+![Sykliset](/images/financial/syklisetosakkeet.png)<br>
 _Kuvio 2. Syklisiä osakkeet_
 
 4 Defensiiviset osakkeet
@@ -69,10 +72,20 @@ Defensiivisiä osakkeita ovat olleet esimerkiksi Kesko, jonka ruokakauppa tuotta
 
 Defensiivisiä ovat esimerkiksi Kesko, Orion, Atria, Elisa ja Anora.
 
-![Esimerkkejä defensiivisistä osakkeista](/images/financial/defensiivisetosakkeet.png)
+![Esimerkkejä defensiivisistä osakkeista](/images/financial/defensiivisetosakkeet.png)<br>
 _Kuvio 3. Defensiivisiä osakkeita_
 
 Pelkän alan perusteella ei voi sanoa, onko osake defensiivinen vai syklinen. Esimerkiksi Teollisuustuotteet ja -palvelut (Industrials) -alaan kuuluvia osakkeita on sekä defensiivisissä että syklisissä.
+
+5 Toimialoittain
+===
+
+Toimialoittainen beta Helsingin pörssissä.
+
+![Esimerkkejä defensiivisistä osakkeista](/images/financial/industrybeta.png)<br>
+_Kuvio 4. Markkinaliikeherkkyys (beta) toimialoittain_
+
+Toimialoista energia on keskimäärin syklisin, ja rahoitus defensiivisin. Toimiala ei kuitenkaan määrää osakkeen defensiivisyyttä tai syklisyyttä. Esimerkiksi Etteplan on defensiivinen osake, vaikka moni Teollisuustuotteet ja -palvelut -toimialan osake on syklinen, esimerkiksi Konecranes.
 
 
 Disclaimer! Tämä ole minkäänlainen sijoitusneuvo, vaan aikasarja-analyysi julkisesti saatavilla olevasta datasta.
