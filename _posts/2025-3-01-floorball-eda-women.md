@@ -2,6 +2,8 @@
 title: 'Mistä maalit tehdään naisten F-Liigassa? Salibandy osa 2'
 date: 2025-03-16
 permalink: /posts/2025/3/salibandy_eda_women/
+image: /images/floorball/naiset/joukkueet_laukauskaikki.png
+largeimage: /images/floorball/naiset/joukkueet_laukauskaikki.png
 summary: 'Blogi | Analysoidaan Naisten F-Liigan salibandyotteluiden dataa. Kartat näyttävät, mistä maaleja tehdään. Jakaumista selviää, miltä etäisyydeltä maalit tehdään.'
 tags:
   - salibandy
@@ -95,7 +97,7 @@ _Kuvio 8. Kaikki laukaukset._
 
 Joukkueiden maalikartat ovat enemmän samanlaisia kuin vetokartat. Kuitenkin PSS:n maalikartta näyttää poikkeavalta. Se näkyy myös siinä, että PSS:llä on matalin osuus maaleista tehtynä maalialueelta. Samalla tavoin SaiPa tekee maalinsa hieman kauempaa. Koovee taas tekee yli 41 prosenttia maaleista maalinedustalta.
 
-![alt text](/images/floorball/naiset/joukkueet_laukausmaali.png)
+![alt text](/images/floorball/naiset/joukkueet_laukausmaali.png)<br>
 _Kuvio 9. Maalit._
 
 Maaleista Koovee tekee yli 41 prosenttia ja Classic ja ÅIF tekevät noin 35 prosenttia maaleista maalialueelta. Näillä kolmella myös vedoista muita korkeampi osuus lähteee maalialueelta. Heikoin tässä on PSS, jonka maaleista vain yksi viidestä tehdään maalialueelta. Tämä näkyy selvästi myös Kuviosta 9.

@@ -2,6 +2,8 @@
 title: 'Salibandyn xG ja maalit - Salibandy osa 3'
 date: 2025-03-16
 permalink: /posts/2025/3/salibandy_xG/
+image: /images/floorball/xG/miehet_goals_xG.png
+largeimage: /images/floorball/xG/miehet_goals_xG.png
 summary: 'Blogi | Analysoidaan odotettujen maalien määrää, siis xG:tä, F-Liigassa.'
 tags:
   - salibandy
@@ -26,6 +28,8 @@ Mitä korkeampi on joukkueen xG, sitä laadukkaampaa on sen peli.
 Samalla tavalla myös xG-ero, siis tehtyjen maalien ja xG:n ero kertoo joukkueen pelin tasosta. Jos joukkue pystyy toistuvasti ylittämään xG:n, on sen pystyttävä luomaan laadukkaampia vetoja kuin mitä xG ennustaa.
 
 Vastinpari xG:lle on joukkuetta vastaan tehty xG, jota merkitään xGA:lla. Se kertoo siitä, miten laadukkaita maalintekopaikkoja joukkueen puolustus salliin. Mitä korkeampi xGA, sitä heikompi puolustus. Jos joukkuetta vastaan on tehty maaleja vähemmän kuin xGA antaa odottaa, on joukkueen puolustus ollut hyvää.
+
+Aineistona analyysissä on kauden 2024-2025 runkosarjan data.
 
 2 Joukkueiden xG
 ===
