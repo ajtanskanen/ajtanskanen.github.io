@@ -58,7 +58,7 @@ Heikoin XGA on Jymyllä ja LASBilla. Molemmille on vieläpä tehty enemmän maal
 ![Maalien jakauma](/images/floorball/xG/miehet_goals_xG.png)<br>
 _Kuvio 2. xG vastaa melko hyvin tehtyjen maalien määrää eri joukkueilla. Oranssi katkoviiva kuvaa tilannetta, jossa xG on sama kuin tehtyjen maalien määrä._
 
-Ainoastaan F-Liigan neljän sarjakärki on pystynyt ylittämään maaliodottaman. SPV on lähellä rajaa ja kaikki muut alapuolella. Regressioviiva (sininen käyrä kuviossa 2) kertoo, että mitä korkeampi xG sitä enemmän toteuma ylittää xG:n.
+Ainoastaan F-Liigan neljän sarjakärki on pystynyt ylittämään maaliodottaman. SPV on lähellä rajaa ja kaikki muut alapuolella. Regressioviiva (sininen käyrä kuviossa 2) kertoo, että mitä korkeampi xG sitä enemmän toteuma ylittää xG:n. Tämä tarkoittaa, että tässä käytetty tapa laskea xG ei sisällä riittävästi tietoja.
 
 2.2 Naiset
 ===
@@ -108,7 +108,11 @@ _Taulukko 4. xG pelaajille naisten F-Liigassa._
 Kaikkiaan 275 pelaajaa on tehnyt F-Liigassa maaleja. Pelaajista 101:llä on positiivinen xG. Jos rajoitutaan yli 10 maalia tehneisiin, on pelaajia 33 kappaletta, ja heistä 31:llä on positiivinen xG.
 
 
-4 Rajoituksia
+4 Kehityskohteita ja rajoituksia
 ===
 
-Tässä on esitelty xG:n laskentaa yksinkertaistetusti. Osin se johtuu saatavilla olevasta datasta. Tarkemmin xG:n saisi laskettua esimerkiksi tekoälymenetelmillä, jos tarkempaa dataa mm. syötöistä olisi saatavana.
+Tässä on tehty xG:n laskentaa yksinkertaistetusti. Osin se johtuu saatavilla olevasta datasta. 
+
+Tulosten mukaan tässä käytetty tapa laskea xG ei sisällä riittävästi tietoja. Se näkyi siinä, että xG systemaattisesti aliarvioi tehtyjen maalien lukumäärää kärkijoukkueilla ja yliarvioi tehtyjen maalien määrää häntäpään joukkueilla. Sama ilmiö oli havaittavissa sekä naisten että miesten F-Liigassa. 
+
+Tarkempaa laskentaa olisi mahdollista tehdä, jos tarkempaa dataa vetoihin annetuista syötöistä ja vastustajan sijoittumisesta vetotilanteessa olisi saatavilla. Tällöin laskenta edellyttäisi koneoppimismenetelmien käyttöä, mutta se olisi lähinnä kiinnostava harjoitus. Data kuitenkin puuttuu.

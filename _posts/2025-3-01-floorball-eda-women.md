@@ -54,28 +54,28 @@ _Kuvio 5. Blokatut laukaukset._
 3 Etäisyyden vaikutus maaleihin
 ====
 
-Etäisyyden kasvaessa maalista on vaikeampi tehdä maalia (Kuvio 4). 
+Etäisyyden kasvaessa maalista on vaikeampi tehdä maalia (Kuvio 6). 
 Blokattujen laukausten osuus kasvaa etäisyyden kasvaessa. Ohilaukausten osuus säilyy jotakuinkin vakiona yli 4 metrin etäisyyksillä. Hieman yllättäen torjuntojen osuus on korkeimillaan hieman alle 2 metrin etäisyydellä. Tätä pienemmillä etäisyyksillä maalivahdin reaktiot eivät ilmeisesti riitä torjuntaan ja pidemmillä etäisyyksillä blokkausten osuus kasvaa niin paljon, että se vähentää torjuntojen osuutta.
 Nämä tulokset vastaavat hyvin havaintoja miesten tilastoista.
 
 Yli 1,5 metriä pidemmillä etäisyyksillä maalien ja blokattujen laukausten osuus yhteensä kaikista laukauksista on jotakuinkin vakio 50 prosenttia kaikista laukauksista.
 
 ![Vetojen jakauma etäisyyden mukaan](/images/floorball/naiset/distance.png)<br>
-_Kuvio 4. Miltä etäisyydeltä tapahtuu laukaukselle mitä._
+_Kuvio 6. Miltä etäisyydeltä tapahtuu laukaukselle mitä._
 
 Samalla tavoin maaliin menneiden laukausten kumulaativinen osuus etäisyyden suhteen kasvaa selvästi nopeammin kuin kaikkien laukausten.
 Tämäkin kertoo siitä, että maaleissa läheltä ammutut laukaukset korostuvat.
 
 ![Vetojen jakauma etäisyyden mukaan](/images/floorball/naiset/distance2.png)<br>
-_Kuvio 5. Etäisyyden vaikutus maalille asti päässeiden laukausten vaikutukseen._
+_Kuvio 7. Etäisyyden vaikutus maalille asti päässeiden laukausten vaikutukseen._
 
-Kuvio 6 näyttää, miten maalien synty riippuu etäisyydestä. Huolimatta siitä, että alle 2,5 metristä ammutaan vähän, syntyy maaleja siltä etäisyydeltä hyvällä prosentilla, kuten myös kuvio 4 näyttää.
+Kuvio 7 näyttää, miten maalien synty riippuu etäisyydestä. Huolimatta siitä, että alle 2,5 metristä ammutaan vähän, syntyy maaleja siltä etäisyydeltä hyvällä prosentilla, kuten myös kuvio 6 näyttää.
 
-Samalla tavoin maaliin menneiden laukausten kumulaativinen osuus etäisyyden suhteen kasvaa selvästi nopeammin kuin kaikkien laukausten (Kuvio 6).
+Samalla tavoin maaliin menneiden laukausten kumulaativinen osuus etäisyyden suhteen kasvaa selvästi nopeammin kuin kaikkien laukausten (Kuvio 8).
 Tämäkin kertoo siitä, että maaleissa läheltä ammutut laukaukset korostuvat.
 
 ![Vetojen jakauma etäisyyden mukaan](/images/floorball/naiset/maali_vs_kaikki.png)<br>
-_Kuvio 6. Etäisyyden vaikutus maalien syntyyn kumulatiivisesti._
+_Kuvio 8. Etäisyyden vaikutus maalien syntyyn kumulatiivisesti._
 
 4 Kulman vaikutus maaleihin
 ====
@@ -85,7 +85,7 @@ Maalit tehdään pääosin keskeltä, mutta hieman yllättäen vasemmalta laidal
 Samoin maaleja tehdään enemmän suurista kulmista kuin aiempien kuvien perusteella odottaisi.
 
 ![Vetojen jakauma etäisyyden mukaan](/images/floorball/naiset/kulma.png)<br>
-_Kuvio 7. Mistä kulmasta tapahtuu laukaukselle mitä._
+_Kuvio 9. Mistä kulmasta tapahtuu laukaukselle mitä._
 
 5 Joukkueiden väliset erot
 ===
@@ -93,16 +93,16 @@ _Kuvio 7. Mistä kulmasta tapahtuu laukaukselle mitä._
 Joukkueiden laukauskartoissa on selviä eroja. Koovee ja ÅIF laukovat erityisesti läheltä. TPS:n laukaisukartassa näyttää olevan Minni Hiiren korvat.O2-Jyväskylä ja SSRA taas laukovat lähinnä maalialueen ulkopuolelta.
 
 ![alt text](/images/floorball/naiset/joukkueet_laukauskaikki.png)
-_Kuvio 8. Kaikki laukaukset._
+_Kuvio 10. Kaikki laukaukset._
 
 Joukkueiden maalikartat ovat enemmän samanlaisia kuin vetokartat. Kuitenkin PSS:n maalikartta näyttää poikkeavalta. Se näkyy myös siinä, että PSS:llä on matalin osuus maaleista tehtynä maalialueelta. Samalla tavoin SaiPa tekee maalinsa hieman kauempaa. Koovee taas tekee yli 41 prosenttia maaleista maalinedustalta.
 
 ![alt text](/images/floorball/naiset/joukkueet_laukausmaali.png)<br>
-_Kuvio 9. Maalit._
+_Kuvio 11. Maalit._
 
-Maaleista Koovee tekee yli 41 prosenttia ja Classic ja ÅIF tekevät noin 35 prosenttia maaleista maalialueelta. Näillä kolmella myös vedoista muita korkeampi osuus lähteee maalialueelta. Heikoin tässä on PSS, jonka maaleista vain yksi viidestä tehdään maalialueelta. Tämä näkyy selvästi myös Kuviosta 9.
+Maaleista Koovee tekee yli 41 prosenttia ja Classic ja ÅIF tekevät noin 35 prosenttia maaleista maalialueelta. Näillä kolmella myös vedoista muita korkeampi osuus lähteee maalialueelta. Heikoin tässä on PSS, jonka maaleista vain yksi viidestä tehdään maalialueelta. Tämä näkyy selvästi myös Kuviosta 11.
 
 Saipa tekee 21 prosenttia maaleista maalialueelta, vaikka vedoista sieltä lähtee alle 7 prosenttia. Saipalla maaliin menneiden vetojen keskietäisyys on kaikista joukkueista suurin. ÅIF:llä taas pienin.
 
 ![alt text](/images/floorball/naiset/d_naiset2.png)
-_Kuvio 10. Mikä osuus vedoista ja maaleista ammutaan 4m x 5m maalialueelta. Mukana myös tieto vetojen ja maalilaukausten keskietäisyydestä._
+_Taulukko 1. Mikä osuus vedoista ja maaleista ammutaan 4m x 5m maalialueelta. Mukana myös tieto vetojen ja maalilaukausten keskietäisyydestä._

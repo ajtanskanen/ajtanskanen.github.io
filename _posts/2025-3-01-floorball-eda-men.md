@@ -1,9 +1,9 @@
 ---
 title: 'Mistä salibandyn maalit tehdään miesten F-Liigassa ? Salibandy osa 1'
 date: 2025-03-16
-image: /images/floorball/naiset/joukkueet_laukauskaikki.png
+image: /images/floorball/miehet/joukkueet_laukauskaikki.png
 largeimage: /images/floorball/miehet/laukauskaikki.png
-permalink: /images/floorball/miehet/laukauskaikki.png
+permalink: /posts/2025/3/salibandy_eda_men/
 summary: 'Blogi | Analysoidaan miesten F-Liigan salibandyotteluiden dataa. Kartat näyttävät, mistä maaleja tehdään. Jakaumista selviää, miltä etäisyydeltä maalit tehdään.'
 tags:
   - salibandy

@@ -88,4 +88,4 @@ _Kuvio 4. Markkinaliikeherkkyys (beta) toimialoittain_
 Toimialoista energia on keskimäärin syklisin, ja rahoitus defensiivisin. Toimiala ei kuitenkaan määrää osakkeen defensiivisyyttä tai syklisyyttä. Esimerkiksi Etteplan on defensiivinen osake, vaikka moni Teollisuustuotteet ja -palvelut -toimialan osake on syklinen, esimerkiksi Konecranes.
 
 
-Disclaimer! Tämä ole minkäänlainen sijoitusneuvo, vaan aikasarja-analyysi julkisesti saatavilla olevasta datasta.
+Muistus loppuun: Tämä ole minkäänlainen sijoitusneuvo, vaan aikasarja-analyysi julkisesti saatavilla olevasta datasta.
