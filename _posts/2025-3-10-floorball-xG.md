@@ -46,6 +46,13 @@ Maalidottamalla mitattuna heikoin joukkue miesten F-Liigassa on LASB. Sen peli e
 
 Oilers on onnistunut tekemään enemmän maaleja kuin odottaman xG verran. Tämän lisäksi Oilersin puolustus on ollut niin tiivis, että maaleja sitä vastaan on tehty jopa vähemmän sitä vastaantehtyjen maaliodottaman XGA:n verran.
 
+![Maalien jakauma](/images/floorball/xG/miehet_xGA_xG.png)<br>
+_Kuvio 1. xGA/maalit vastaan vs xG/maalit joukkueille miesten F-Liigassa. Oranssit pisteet toteuma, siniset xG._
+
+![Maalien jakauma](/images/floorball/xG/miehet_goals_xG.png)<br>
+_Kuvio 2. xG vastaa melko hyvin tehtyjen maalien määrää eri joukkueilla._
+
+
 Heikoin XGA on Jymyllä ja LASBilla. Molemmille on vieläpä tehty enemmän maaleja kuin sarjan heikoin XGA antaa odottaa. EräViikingit on tehnyt vähemmän maaleja kuin xG antaa odottaa, mutta puolustanut tiiviisti, jolloin sitä vastaa on tehty vähemmän maaleja kuin xGA antaa odottaa.
 
 2.2 Naiset
@@ -64,10 +71,10 @@ Taulukosta 2 näkyy, että TPS sekä tekee tehokkaasti maaleja että myös puolu
 Vastaavasti Erä-Viikingit tekee maaleja odotettuun tahtiin, mutta puolustaa hyvin. Sitä vastaan on tehty vähän maaleja ja myös xGA sitä vastaan on matala. Tämä näkyy myös kuviosta 3, joka osoittaa, että korkea xG yhdistyy matalaan xGA:han. Tämän voi myös sanoa, että hyvin puolustavat joukkueet ovat sekä antaneet vain vähän maalintekotilanteita vastustajalle että päässeet itse paljon hyviin maalintekotilanteita. 
 
 ![Maalien jakauma](/images/floorball/xG/naiset_xGA_xG.png)<br>
-_Taulukko 3. xG joukkueille naisten F-Liigassa._
+_Kuvio 3. xGA/maalit vastaan vs xG/maalit joukkueille naisten F-Liigassa. Oranssit pisteet toteuma, siniset xG._
 
 ![Maalien jakauma](/images/floorball/xG/naiset_goals_xG.png)<br>
-_Taulukko 4. xG vastaa melko hyvin tehtyjen maalien määrää eri joukkueilla._
+_Kuvio 4. xG vastaa melko hyvin tehtyjen maalien määrää eri joukkueilla._
 
 
 3 Pelaajien xG
@@ -79,7 +86,7 @@ _Taulukko 4. xG vastaa melko hyvin tehtyjen maalien määrää eri joukkueilla._
 Justus Kainulainen on kuuluisa hurjasta vedostaan. Hän onkin xG-erolla:llä mitattuna toiseksi paras miesten F-Liigassa. Paras on kuitenkin Tiitus Salokangas, joka on onnistunut taikomaan yli kaksinkertaisen määrän maaleja xG:hen verrattuna. Hän on vastannut yksinään lähes puolesta Classicin xG-erosta.
 
 ![Maalien jakauma](/images/floorball/xG/xG_players_men.png)<br>
-_Taulukko 5. xG pelaajille miesten F-Liigassa._
+_Taulukko 3. xG pelaajille miesten F-Liigassa._
 
 Kaikkiaan 281 pelaajaa on tehnyt F-Liigassa maaleja. Pelaajista 110:llä on positiivinen xG. Yli 10 maalia tehneitä pelaajia on 70 ja heistä 46:lla on positiivinen xG.
 Toisin sanoen, paljon maaleja tehneillä on pääsääntöisesti keskimääräistä korkeampi xG.
@@ -90,7 +97,7 @@ Toisin sanoen, paljon maaleja tehneillä on pääsääntöisesti keskimääräis
 Naisissa Miisa Turunen on omilla lukemillaan: kun xG on 17, on hän tehnyt maaleja 29. Tästä huolimatta SaiPan xG-ero on negatiivinen.
 
 ![Maalien jakauma](/images/floorball/xG/xG_players_women.png)<br>
-_Taulukko 6. xG pelaajille naisten F-Liigassa._
+_Taulukko 4. xG pelaajille naisten F-Liigassa._
 
 Kaikkiaan 275 pelaajaa on tehnyt F-Liigassa maaleja. Pelaajista 101:llä on positiivinen xG. Jos rajoitutaan yli 10 maalia tehneisiin, on pelaajia 33 kappaletta, ja heistä 31:llä on positiivinen xG.
 
