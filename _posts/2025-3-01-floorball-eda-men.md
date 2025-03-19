@@ -18,7 +18,7 @@ Salibandyliitto jakaa F-Liigan maalitilastoja ottelukohtaisesti. Niistä näkyy 
 
 Tässä analysoitu data on peräisin F-Liigan tulospalvelusta. Siellä jaetaan tietoa siitä, mistä päin kenttää on vedetty ja onko veto suuntautunut kohti maalia, mennyt maaliin, blokattu tai mennyt ohi. Syvempi datan analyysiä sivuilta kuitenkin on niukasti. 
 
-Tarkastellaan seuraavaksi kauden tilannetta 2024-2025 maaliskuun alussa. Vastaavan analyysin voi toki tehdä mille ajanhetkelle tahansa. Tässä tulokset perustuvat vain kauden 2024-2025 miesten F-Liigan dataan.
+Tarkastellaan seuraavaksi kauden tilannetta 2024-2025 maaliskuun puolivälissä. Vastaavan analyysin voi toki tehdä mille ajanhetkelle tahansa. Tässä tulokset perustuvat vain kauden 2024-2025 miesten F-Liigan dataan. Aineistona on kauden 2024-25 koko runkosarja.
 
 2 Laukaisukartat
 ====
@@ -55,57 +55,57 @@ Laukaisukartat kertovat, että maaleista suuri osa syntyy läheltä.
 3 Etäisyyden vaikutus maaleihin
 ====
 
-Etäisyyden kasvaessa maalista on vaikeampi tehdä maalia (Kuvio 4). 
+Etäisyyden kasvaessa maalista on vaikeampi tehdä maalia (Kuvio 6). 
 Blokattujen laukausten osuus kasvaa etäisyyden kasvaessa. Ohilaukausten osuus säilyy jotakuinkin vakiona yli 4 metrin etäisyyksillä. Hieman yllättäen torjuntojen osuus on korkeimillaan hieman alle 2 metrin etäisyydellä. Tätä pienemmillä etäisyyksillä maalivahdin reaktiot eivät ilmeisesti riitä torjuntaan ja pidemmillä etäisyyksillä blokkausten osuus kasvaa niin paljon, että se vähentää torjuntojen osuutta.
 
 Yli 1,5 metriä pidemmillä etäisyyksillä maalien ja blokattujen laukausten osuus yhteensä kaikista laukauksista on jotakuinkin vakio 50 prosenttia kaikista laukauksista.
 
 ![Vetojen jakauma etäisyyden mukaan](/images/floorball/miehet/distance.png)<br>
-_Kuvio 4. Miltä etäisyydeltä tapahtuu laukaukselle mitä._
+_Kuvio 6. Miltä etäisyydeltä tapahtuu laukaukselle mitä._
 
-Kuviossa 5 "laukauskohti" tarkoittaa oleellisesti torjuttujen laukausten osuutta kaikista niistä laukauksista, jotka joko torjutaan tai menevät maaliin. Siitä näkee, että torjuntaprosentti on luokkaa 20-25, kun vedot lähtevät alle 1,5 metrin päästä maalista. Siitä aina 4 metriin torjuntaprosentti on noin 35, mistä torjuntojen osuus kasvaa kohti 85 prosenttia 16 metriin päässä maalilta. Torjuntojen osuus kaikista maalille asti tulleista vedoista siis kasvaa etäisyyden kasvaessa, toisin kuin kuvio 4 antoi ymmärtää.
+Kuviossa 7 "laukauskohti" tarkoittaa oleellisesti torjuttujen laukausten osuutta kaikista niistä laukauksista, jotka joko torjutaan tai menevät maaliin. Siitä näkee, että torjuntaprosentti on luokkaa 20-25, kun vedot lähtevät alle 1,5 metrin päästä maalista. Siitä aina 4 metriin torjuntaprosentti on noin 35, mistä torjuntojen osuus kasvaa kohti 85 prosenttia 16 metriin päässä maalilta. Torjuntojen osuus kaikista maalille asti tulleista vedoista siis kasvaa etäisyyden kasvaessa, toisin kuin kuvio 6 antoi ymmärtää.
 
 ![Vetojen jakauma etäisyyden mukaan](/images/floorball/miehet/distance2.png)<br>
-_Kuvio 5. Etäisyyden vaikutus maalille asti päässeiden laukausten vaikutukseen._
+_Kuvio 7. Etäisyyden vaikutus maalille asti päässeiden laukausten vaikutukseen._
 
-Kuvio 6 näyttää, miten maalien synty riippuu etäisyydestä. Huolimatta siitä, että alle 2,5 metristä ammutaan vähän, syntyy maaleja siltä etäisyydeltä hyvällä prosentilla, kuten myös kuvio 4 näyttää.
+Kuvio 8 näyttää, miten maalien synty riippuu etäisyydestä. Huolimatta siitä, että alle 2,5 metristä ammutaan vähän, syntyy maaleja siltä etäisyydeltä hyvällä prosentilla, kuten myös kuvio 6 näyttää.
 
-Samalla tavoin maaliin menneiden laukausten kumulaativinen osuus etäisyyden suhteen kasvaa selvästi nopeammin kuin kaikkien laukausten (Kuvio 6).
+Samalla tavoin maaliin menneiden laukausten kumulaativinen osuus etäisyyden suhteen kasvaa selvästi nopeammin kuin kaikkien laukausten (Kuvio 8).
 Tämäkin kertoo siitä, että maaleissa läheltä ammutut laukaukset korostuvat.
 
 ![Vetojen jakauma etäisyyden mukaan](/images/floorball/miehet/maali_vs_kaikki.png)<br>
-_Kuvio 6. Etäisyyden vaikutus maalien syntyyn kumulatiivisesti._
+_Kuvio 8. Etäisyyden vaikutus maalien syntyyn kumulatiivisesti._
 
 
 4 Kulman vaikutus maaleihin
 ====
 
-Se, mistä kulmasta laukaus tulee, vaikuttaa maalin syntyyn. Laukaisukulmissa korostuu kolme piikkiä: keskeltä ja B-pisteiltä (Kuvio 7).
+Se, mistä kulmasta laukaus tulee, vaikuttaa maalin syntyyn. Laukaisukulmissa korostuu kolme piikkiä: keskeltä ja B-pisteiltä (Kuvio 9).
 
 ![Vetojen jakauma etäisyyden mukaan](/images/floorball/miehet/angle_laukauskaikki.png)<br>
-_Kuvio 7. Kaikki laukaukset._
+_Kuvio 9. Kaikki laukaukset._
 
 Maalit tehdään pääosin keskeltä. Maaleja tehdään kuitenkin myös jonkin verran suurista kulmista. 
 
 ![Vetojen jakauma etäisyyden mukaan](/images/floorball/miehet/angle_laukausmaali.png)<br>
-_Kuvio 8. Maalit._
+_Kuvio 10. Maalit._
 
 5 Joukkueiden väliset erot
 ===
-Joukkueiden laukauskartoissa on selviä eroja (Kuvio 9). Oilers laukoo paljon oikealta läheltä laitaa, ja saakin sieltä jonkin verran maaleja. Kuitenkin Oilersilla maalit painottuvat maalinalueelta vedettyihin. OLS laukoo hyvin eri tavalla kuin muut joukkueet: sen laukaukset lähtevät korostetusti maalialueelta ja sen edustalta painottuen vasempaan laitaan.
+Joukkueiden laukauskartoissa on selviä eroja (Kuvio 11). Oilers laukoo paljon oikealta läheltä laitaa, ja saakin sieltä jonkin verran maaleja. Kuitenkin Oilersilla maalit painottuvat maalinalueelta vedettyihin. OLS laukoo hyvin eri tavalla kuin muut joukkueet: sen laukaukset lähtevät korostetusti maalialueelta ja sen edustalta painottuen vasempaan laitaan.
 
 ![alt text](/images/floorball/miehet/joukkueet_laukauskaikki.png)
-_Kuvio 9. Kaikki laukaukset._
+_Kuvio 11. Kaikki laukaukset._
 
 Joukkueiden maalikartat ovat enemmän samanlaisia keskenään kuin laukauskartat.
 Maalit tehdään keskittyen maalialueeseen, ehkä LASBia lukuunottamatta. LASB tekee samaa tahtia maaleja myös vasemmalta laidalta kuin maalialueelta.
 
 ![alt text](/images/floorball/miehet/joukkueet_laukausmaali.png)
-_Kuvio 10. Maalit._
+_Kuvio 12. Maalit._
 
 OLS ja EräViikingit tekevät 37 prosenttia maaleistaan maalialueelta. Muilla joukkueilla osuus on selvästi alempi. Kärkijoukkueet Classic, Krp, Indians ja Oilers tekevät vain noin 26 prosenttia maaleista maalialueelta. Tämäkin on reilusti korkeampi kuin maalialueelta ammuttujen vetojen osuus 11-14 prosenttia.
 
 ![alt text](/images/floorball/miehet/d_miehet2.png)
-_Kuvio 11. Mikä osuus vedoista ja maaleista ammutaan maalialuen 4m x 5m alueelta. Mukana myös tieto vetojen ja maalilaukausten keskietäisyydestä._
+_Taulukko 1. Mikä osuus vedoista ja maaleista ammutaan maalialuen 4m x 5m alueelta. Mukana myös tieto vetojen ja maalilaukausten keskietäisyydestä._
 
 Oilers ampuu joukkueista keskimäärin kauimpaa maalista. Myös maaliin menneiden vetojen keskimääräinen etäisyys maalista on suurin. 

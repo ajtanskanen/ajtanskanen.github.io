@@ -17,7 +17,7 @@ Salibandyssä sillä on väliä, mistä veto lähtee. Tässä blogissa yritetä�
 ===
 
 [Osassa 1](/posts/2025/3/salibandy_eda_men/) analysoitiin miesten F-Liigaa. Nyt analysoidaan naisten F-Liigaa. 
-Tarkastellaan seuraavaksi kauden tilannetta 2024-2025 maaliskuun alussa. Tässä tulokset perustuvat vain kauden 2024-2025 naisten F-Liigan dataan.
+Tarkastellaan seuraavaksi kauden tilannetta 2024-2025 maaliskuun puolivälissä. Tässä tulokset perustuvat kauden 2024-2025 naisten F-Liigan koko runkosarjan dataan.
 
 2 Laukaisukartat
 ====
