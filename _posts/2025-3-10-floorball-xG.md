@@ -49,11 +49,12 @@ Oilers on onnistunut tekemään enemmän maaleja kuin odottaman xG verran. Täm�
 ![Maalien jakauma](/images/floorball/xG/miehet_xGA_xG.png)<br>
 _Kuvio 1. xGA/maalit vastaan vs xG/maalit joukkueille miesten F-Liigassa. Oranssit pisteet toteuma, siniset xG._
 
-![Maalien jakauma](/images/floorball/xG/miehet_goals_xG.png)<br>
-_Kuvio 2. xG vastaa melko hyvin tehtyjen maalien määrää eri joukkueilla._
-
-
 Heikoin XGA on Jymyllä ja LASBilla. Molemmille on vieläpä tehty enemmän maaleja kuin sarjan heikoin XGA antaa odottaa. EräViikingit on tehnyt vähemmän maaleja kuin xG antaa odottaa, mutta puolustanut tiiviisti, jolloin sitä vastaa on tehty vähemmän maaleja kuin xGA antaa odottaa.
+
+![Maalien jakauma](/images/floorball/xG/miehet_goals_xG.png)<br>
+_Kuvio 2. xG vastaa melko hyvin tehtyjen maalien määrää eri joukkueilla. Oranssi katkoviiva kuvaa tilannetta, jossa xG on sama kuin tehtyjen maalien määrä._
+
+Ainoastaan F-Liigan neljän sarjakärki on pystynyt ylittämään maaliodottaman. SPV on lähellä rajaa ja kaikki muut alapuolella. Regressioviiva (sininen käyrä kuviossa 2) kertoo, että mitä korkeampi xG sitä enemmän toteuma ylittää xG:n.
 
 2.2 Naiset
 ===
@@ -74,8 +75,9 @@ Vastaavasti Erä-Viikingit tekee maaleja odotettuun tahtiin, mutta puolustaa hyv
 _Kuvio 3. xGA/maalit vastaan vs xG/maalit joukkueille naisten F-Liigassa. Oranssit pisteet toteuma, siniset xG._
 
 ![Maalien jakauma](/images/floorball/xG/naiset_goals_xG.png)<br>
-_Kuvio 4. xG vastaa melko hyvin tehtyjen maalien määrää eri joukkueilla._
+_Kuvio 4. xG vastaa melko hyvin tehtyjen maalien määrää eri joukkueilla. Oranssi katkoviiva kuvaa tilannetta, jossa xG on sama kuin tehtyjen maalien määrä._
 
+Naisten F-Liigan kuudesta kärkijoukkueesta viisi on pystynyt ylittämään maaliodottaman. Kuusikosta vain EräViikingit on alittanut odottaman. Kaikki muut joukkueet ovat odottaman alapuolella. Regressioviiva (sininen käyrä kuviossa 4) kertoo, että mitä korkeampi xG sitä enemmän toteuma keskimäärin ylittää xG:n.
 
 3 Pelaajien xG
 ===
