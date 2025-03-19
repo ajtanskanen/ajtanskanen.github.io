@@ -115,4 +115,4 @@ Tässä on tehty xG:n laskentaa yksinkertaistetusti. Osin se johtuu saatavilla o
 
 Tulosten mukaan tässä käytetty tapa laskea xG ei sisällä riittävästi tietoja. Se näkyi siinä, että xG systemaattisesti aliarvioi tehtyjen maalien lukumäärää kärkijoukkueilla ja yliarvioi tehtyjen maalien määrää häntäpään joukkueilla. Sama ilmiö oli havaittavissa sekä naisten että miesten F-Liigassa. 
 
-Tarkempaa laskentaa olisi mahdollista tehdä, jos tarkempaa dataa vetoihin annetuista syötöistä ja vastustajan sijoittumisesta vetotilanteessa olisi saatavilla. Tällöin laskenta edellyttäisi koneoppimismenetelmien käyttöä, mutta se olisi lähinnä kiinnostava harjoitus. Data kuitenkin puuttuu.
+Nyt käytetyllä tavalla ei ole mahdollista erotella sitä, syntyvätkö maalit laukaisijan hyvyyden vai maalitilanteen laadun vuoksi. Ainoa käytetty aineisto on vetojen sijainti. Tarkempaa laskentaa olisi mahdollista tehdä, jos tarkempaa dataa vetoihin annetuista syötöistä ja vastustajan sijoittumisesta vetotilanteessa olisi saatavilla. Tällöin laskenta edellyttäisi koneoppimismenetelmien käyttöä, mutta se olisi lähinnä kiinnostava harjoitus. Data kuitenkin puuttuu.
