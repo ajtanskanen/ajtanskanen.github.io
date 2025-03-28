@@ -14,32 +14,57 @@ tags:
 
 Maaliodottama xG kertoo, kuinka monta maalia ottelussa esiintyneistä tilanteista yleensä olisi tehty. Tässä blogissa analysoidaan Classicin ja EräViikinkien pudotuspelisarjan tuloksia.
 
-1 Pudotuspelit
+Pudotuspelit
 ===
 
 Classic voitti runkosarjan, EräViikingit oli sijalla kahdeksan, viimeisenä pudotuspeleihin pääseenä. Runkosarjassa Classic teki hurjaa jälkeä xG-mielessä: 
 
 ![Maalien jakauma](/images/floorball/xG/miehet_goals_xG.png)<br>
-_Kuvio 2. xG vastaa melko hyvin tehtyjen maalien määrää eri joukkueilla. Oranssi katkoviiva kuvaa tilannetta, jossa xG on sama kuin tehtyjen maalien määrä._
+_Kuvio 1. Maaliodottama xG verrattuna tehtyihin maaleihin._
+
+Classicin peli tuotti paljon maalipaikkoja peleissä, kuten maaliodottama (Kuvio 1) näyttää. Tämän lisäksi Classic teki maaleja xG:n ennustamaa kovemmalla tahdilla.
+
+EräViikinkien peli tuotti selvästi Classicin peliä vähemmän maalipaikkoja. Näistäkin paikoista EräViikingit onnistuivat Classicia harvemmin maalinteossa (Kuvio 1).
 
 Tämän blogin xG:t on laskettu F-Liigan vetosijaintien perustella, kuten [aiemmassa blogissa](https://ajtanskanen.github.io/posts/2025/3/salibandy_xG/) kuvataan.
 
 
-2 Ensimmäinen ottelu: Classic 10 - EräViikingit 11
+Ensimmäinen ottelu: Classic 10 - EräViikingit 11
 ===
 
 Classic lähti peliin takki auki, EräViikingit taas kääntöpeliin hyvin valmistautuneena. Ensimmäinen maali nähtiin jo 6 sekunnin kohdalla, kun Classic iski Ervin harhasyötön seurauksena ensimmäisen maalin. 
 
 Peli aaltoili päästä päähän, eikä puolustus ollut kohdillaan. Syystäkin pelistä on arvioitu, että se oli valmentajan painajainen.
 
-> Classic xG 5.634286800929575 EräViikingit xG 5.221489227906606
+Pelissä Classic [laukoi maalia](https://tulospalvelu.fliiga.com/match/864688/stats) kohden 58 kertaa, Ervi 36. Tämä antaisi ymmärtää, että Classic olisi ollut reilusti niskan päällä. Maaliodottama tukee tätä näkökulmaa.
+
+> Classic xG 5.634 EräViikingit xG 5.221
 
 Erot xG:ssä ovat melko pieniä, vain 0,4 maalia. Kuitenkin xG veikkaa väärää voittajaa. Molemmat joukkueet ylittivät rajusti xG:nsä, Ervi erityisesti. 
 
 
-3 Toinen ottelu: EräViikingit 4 - Classic 9
+Toinen ottelu: EräViikingit 4 - Classic 9
 ===
 
+Pelitapahtumien perusteella Classic oli lähes kaikessa EräViikinkejä edellä. 
 xG:n näkökulmasta Classic oli selvästi parempi. Classicin xG oli 
 
-> EräViikingit xG 4.401584847249191 Classicin xG 7.992924880513779
+Pelissä Classic [laukoi maalia](https://tulospalvelu.fliiga.com/match/864689/stats) kohden 54 kertaa, Ervi 28. Tämä antaisi ymmärtää, että Classic olisi ollut reilusti niskan päällä. Maaliodottama tukee tätä näkökulmaa.
+
+> EräViikingit xG 4.402 Classicin xG 7.993
+
+
+Kolmas ottelu: Classic x - EräViikingit x
+===
+
+Neljäs ottelu: EräViikingit x - Classic x
+===
+
+Viides ottelu: Classic x - EräViikingit x
+===
+
+Kuudes ottelu: EräViikingit x - Classic x
+===
+
+Seitsemäs ottelu: Classic x - EräViikingit x
+===

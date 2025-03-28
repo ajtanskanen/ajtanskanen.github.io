@@ -1,5 +1,5 @@
 ---
-title: 'Mistä maalit tehdään naisten F-Liigassa? Salibandy osa 2'
+title: 'Maalit tehdään naisten F-Liigassa läheltä'
 date: 2025-03-16
 permalink: /posts/2025/3/salibandy_eda_women/
 image: /images/floorball/naiset/joukkueet_laukauskaikki.png

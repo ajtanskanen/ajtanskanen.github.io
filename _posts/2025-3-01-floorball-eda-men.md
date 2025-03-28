@@ -1,5 +1,5 @@
 ---
-title: 'Mistä salibandyn maalit tehdään miesten F-Liigassa ? Salibandy osa 1'
+title: 'Mistä salibandyn maalit tehdään miesten F-Liigassa?'
 date: 2025-03-16
 image: /images/floorball/miehet/joukkueet_laukauskaikki.png
 largeimage: /images/floorball/miehet/laukauskaikki.png
