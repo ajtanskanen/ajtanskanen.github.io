@@ -17,8 +17,20 @@ Maaliodottama xG kertoo, kuinka monta maalia ottelussa esiintyneistä tilanteist
 1 Maaliodottama xG
 ===
 
+Kuvio 1 kertoo ottelussa tehtyjen maalien määrän ja maaliodottaman erotuksen. Aineisto, johon xG on sovitettu, on sama kuin analyysiaineisto, joten eron keskiarvon pitäisi olla nolla. Kiinnostavampi asia on ero hajonta. Eron keskiarvo on 0,054 ja keskihajonta 3,94 maalia ottelua kohden. Ottelutuloksissa on muutamia todella suuria, yli 10 maalin virheitä.
+
+![Maalien jakauma](/images/floorball/xG/distmen_frq_minus_xG.png)<br>
+_Kuvio 1. Virhe ottelussa tehtyjen maalien määrässä._
+
+
+
+
 2 Kotijoukkueen etu
 ===
+
+![Maalien jakauma](/images/floorball/xG/koti_miinus_vieraas.png)<br>
+_Kuvio 1. Montako maalia kotijoukkue tekee vierasta enemmän. Toteuman ja maaliodottama xG:n vertailu._
+
 
 3 Ennustaako xG ottelun tuloksen?
 ===
