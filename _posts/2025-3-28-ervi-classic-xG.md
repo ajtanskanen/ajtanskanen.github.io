@@ -54,8 +54,15 @@ Pelissä Classic [laukoi maalia](https://tulospalvelu.fliiga.com/match/864689/st
 > EräViikingit xG 4.402 Classicin xG 7.993
 
 
-Kolmas ottelu: Classic x - EräViikingit x
+Kolmas ottelu: Classic 8 - EräViikingit 3
 ===
+
+Kolmannesssa ottelussa Classic [laukoi maalia kohden](https://tulospalvelu.fliiga.com/match/864690/stats) 33 kertaa Ervin 24:ää vastaan. 
+
+> Classicin xG 4.353 EräViikingit xG 3.052
+
+Maaliodottaman mukana Classic ylisuoritti reilusti. Maaliodottama Classicilla on 4,353, kun taas tehdyt maalit ovat 8. EräViikingit taas suoritti keskitasolla. Maaliodottama oli 3,052 ja tehdyt maalit 3. Maaliodottoman mukaan Classic olisi voittanut, kuten kävi todellisuudessakin.
+
 
 Neljäs ottelu: EräViikingit x - Classic x
 ===
