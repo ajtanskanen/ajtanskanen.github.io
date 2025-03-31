@@ -12,15 +12,21 @@ tags:
   - xG  
 ---
 
-Maaliodottama xG kertoo, kuinka monta maalia ottelussa esiintyneistä tilanteista yleensä olisi tehty. Mutta miten lasketaan maaliodottama xG salibandyn datasta? Entä millaisia eroja joukkueiden välillä on xG:ssä? Tämä blogi vastaa näihin kysymyksiin.
+Maaliodottama xG kertoo, kuinka monta maalia ottelussa esiintyneistä tilanteista F-Liiga -joukkue keskimäärin tekee. Tämä blogi kertoo, millaisia eroja toteutuneen tuloksen ja maaliodottaman välillä on miesten F-Liigassa.
 
-1 Maaliodottama xG
+1 Maaliodottaman ero toteumaan
 ===
 
-Kuvio 1 kertoo ottelussa tehtyjen maalien määrän ja maaliodottaman erotuksen. Aineisto, johon xG on sovitettu, on sama kuin analyysiaineisto, joten eron keskiarvon pitäisi olla nolla. Kiinnostavampi asia on ero hajonta. Eron keskiarvo on 0,054 ja keskihajonta 3,94 maalia ottelua kohden. Ottelutuloksissa on muutamia todella suuria, yli 10 maalin virheitä.
+Kuvio 1 kertoo ottelussa tehtyjen maalien määrän ja maaliodottaman xG:n erotuksen miesten F-Liigassa. Toisin sanoen, Kuvio 1 näyttää, kuinka suuri "virhe" on maaliodottamassa.
+
+Aineisto, johon xG on sovitettu, on sama kuin analyysiaineisto, joten eron keskiarvon pitäisi olla nolla. Näin se lähes onkin. Eron keskiarvo on 0,054 maalia ottelussa.
+
+Keskiarvoa kiinnostavampi asia on toteuman ja xG:n eron keskihajonta. Eron keskihajonta on 3,94 maalia ottelua kohden. Ottelutuloksissa on muutamia todella suuria, yli 10 maalin eroja. Toisin sanoen, muutamassa ottelussa joukkue on ali- tai ylisuorittanut maaliodottamaan nähden erittäin paljon.
 
 ![Maalien jakauma](/images/floorball/predict/distmen_frq_minus_xG.png)<br>
-_Kuvio 1. Virhe ottelussa tehtyjen maalien määrässä._
+_Kuvio 1. Tehtyjen maalien ja maaliodottaman ero maaleina ottelua kohden._
+
+
 
 2 Kotijoukkueen etu
 ===
@@ -44,3 +50,6 @@ Kotivoitoista maaliodottama ennusti oikein voittajan 125:ssä kaikkiaan 206:sta 
 Vierasvoitoista maaliodottama ennusti 60 kaikkiaan 83:sta tarkkuus siis 72 prosenttia (maaliodottamien ero on vähintään 0,2).
 Tasapelin (maaliodottaman ero alle 0,4) maaliodottama ennusti 5 kaikkiaan 17:sta tarkkuus siis 29 prosenttia.
 Maaliodottama siis ennusti vierasvoitot parhaiten. 
+
+Kotijoukkueen tehtyjen maalien ja maaliodottaman ero on korkeintaan 1 maali/ottelu 37 prosentissa otteluista.
+Vierasjoukkueen tehtyjen maalien ja maaliodottaman ero on korkeintaan 1 maali/ottelu 33 prosentissa otteluista.
