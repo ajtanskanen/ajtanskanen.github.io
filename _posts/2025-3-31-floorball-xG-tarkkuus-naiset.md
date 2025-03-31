@@ -23,7 +23,7 @@ Aineisto, johon xG on sovitettu, on sama kuin analyysiaineisto, joten eron keski
 
 Keskiarvoa kiinnostavampi asia on toteuman ja xG:n eron keskihajonta. Eron keskihajonta on 3,94 maalia ottelua kohden. Ottelutuloksissa on muutamia todella suuria, yli 10 maalin eroja. Toisin sanoen, muutamassa ottelussa joukkue on ali- tai ylisuorittanut maaliodottamaan nähden erittäin paljon.
 
-![Maalien jakauma](/images/floorball/predict/distmen_frq_minus_xG_naiset.png)<br>
+![Maalien jakauma](/images/floorball/predict/distwomen_frq_minus_xG.png)<br>
 _Kuvio 1. Tehtyjen maalien ja maaliodottaman ero maaleina ottelua kohden._
 
 2 Kotijoukkueen etu
@@ -40,14 +40,21 @@ _Kuvio 2. Montako maalia kotijoukkue tekee vierasta enemmän. Toteuman ja maalio
 
 Jos ottelun tuloksen laskee xG:n avullaa, saa arvion siitä, montako maalia syntyisi, jos kaikki joukkueet olisivat yhtä hyviä viimeistelemään. 
 
-Aineistossa otteluita on 206, joista kotivoitto 106, vierasvoitto 83 ja tasapeli 17.
+Aineistossa otteluita on 132, joista kotivoitto 69, vierasvoitto 57 ja tasapeli 6.
 Maaliodottama saa otteluissa oikean voittajan 138:ssa ottelussa. Osuus on siis 67 prosenttia.
-Jos vaaditaan, että maaliodottaman ero on vähintään 0,2, maaliodottama ennusti oikein voittajan 125:ssä kaikkiaan 206:sta ottelusta, siis tarkkuudella 61 prosenttia.
+Jos vaaditaan, että maaliodottaman ero on vähintään 0,2, maaliodottama ennusti oikein voittajan 102:ssä kaikkiaan 132:sta ottelusta, siis tarkkuudella 77 prosenttia.
 
-Kotivoitoista maaliodottama ennusti oikein voittajan 125:ssä kaikkiaan 206:sta ottelusta. Tarkkuus oli siis 61 prosenttia, kun voiton ennustaminen tarkoittaa sitä, että kotijoukkueen maaliodottama on 0,2 korkeampi kuin vierasjoukkueen.
-Vierasvoitoista maaliodottama ennusti 60 kaikkiaan 83:sta tarkkuus siis 72 prosenttia (maaliodottamien ero on vähintään 0,2).
+Kotivoitoista maaliodottama ennusti oikein voittajan 56:ssä kaikkiaan 69:sta ottelusta. Tarkkuus oli siis 81 prosenttia, kun voiton ennustaminen tarkoittaa sitä, että kotijoukkueen maaliodottama on 0,2 korkeampi kuin vierasjoukkueen.
+Vierasvoitoista maaliodottama ennusti 44 kaikkiaan 57:sta tarkkuus siis 72 prosenttia (maaliodottamien ero on vähintään 0,2).
 Tasapelin (maaliodottaman ero alle 0,4) maaliodottama ennusti 5 kaikkiaan 17:sta tarkkuus siis 29 prosenttia.
 Maaliodottama siis ennusti vierasvoitot parhaiten. 
 
-Kotijoukkueen tehtyjen maalien ja maaliodottaman ero on korkeintaan 1 maali/ottelu 37 prosentissa otteluista.
-Vierasjoukkueen tehtyjen maalien ja maaliodottaman ero on korkeintaan 1 maali/ottelu 33 prosentissa otteluista.
+Kotijoukkueen tehtyjen maalien ja maaliodottaman ero on korkeintaan 1 maali/ottelu 55 prosentissa otteluista.
+Vierasjoukkueen tehtyjen maalien ja maaliodottaman ero on korkeintaan 1 maali/ottelu 73 prosentissa otteluista.
+
+otteluita 132, oikeavoittaja 102, osuus 0.7727272727272727
+kotivoitto 69, oikeavoittaja 56, osuus 0.8115942028985508
+tasapeli 6, oikeatulos 2, osuus 0.3333333333333333
+vierasvoitto 57, oikeavoittaja 44, osuus 0.7719298245614035
+virhe05_koti 73, osuus 0.553030303030303
+virhe05_vieras 96, osuus 0.7272727272727273
