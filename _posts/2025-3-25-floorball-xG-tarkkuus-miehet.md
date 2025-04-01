@@ -42,10 +42,10 @@ Jos ottelun tuloksen laskee xG:n avullaa, saa arvion siitä, montako maalia synt
 
 Aineistossa otteluita on 206, joista kotivoitto 106, vierasvoitto 83 ja tasapeli 17.
 Maaliodottama saa otteluissa oikean voittajan 138:ssa ottelussa. Osuus on siis 67 prosenttia.
-Jos vaaditaan, että maaliodottaman ero on vähintään 0,2, maaliodottama ennusti oikein voittajan 125:ssä kaikkiaan 206:sta ottelusta, siis tarkkuudella 61 prosenttia.
+Jos vaaditaan, että maaliodottaman ero on vähintään 0,2, maaliodottama ennusti oikein voittajan 126:ssä kaikkiaan 207:sta ottelusta, siis tarkkuudella 61 prosenttia.
 
-Kotivoitoista maaliodottama ennusti oikein voittajan 125:ssä kaikkiaan 206:sta ottelusta. Tarkkuus oli siis 61 prosenttia, kun voiton ennustaminen tarkoittaa sitä, että kotijoukkueen maaliodottama on 0,2 korkeampi kuin vierasjoukkueen.
-Vierasvoitoista maaliodottama ennusti 60 kaikkiaan 83:sta tarkkuus siis 72 prosenttia (maaliodottamien ero on vähintään 0,2).
+Kotivoitoista maaliodottama ennusti oikein voittajan 60:ssä kaikkiaan 106:sta ottelusta. Tarkkuus oli siis 57 prosenttia (kun maaliodottaman pitää olla 0,2 korkeampi).
+Vierasvoitoista maaliodottama ennusti 61 kaikkiaan 84:sta tarkkuus siis 73 prosenttia (maaliodottamien ero on vähintään 0,2).
 Tasapelin (maaliodottaman ero alle 0,4) maaliodottama ennusti 5 kaikkiaan 17:sta tarkkuus siis 29 prosenttia.
 Maaliodottama siis ennusti vierasvoitot parhaiten. 
 

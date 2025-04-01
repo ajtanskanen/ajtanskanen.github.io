@@ -78,3 +78,7 @@ Kuudes ottelu: EräViikingit x - Classic x
 
 Seitsemäs ottelu: Classic x - EräViikingit x
 ===
+
+Yhteenveto
+===
+
