@@ -63,9 +63,12 @@ Kolmannesssa ottelussa Classic [laukoi maalia kohden](https://tulospalvelu.fliig
 
 Maaliodottaman mukana Classic ylisuoritti reilusti. Maaliodottama Classicilla on 4,353, kun taas tehdyt maalit ovat 8. EräViikingit taas suoritti keskitasolla. Maaliodottama oli 3,052 ja tehdyt maalit 3. Maaliodottoman mukaan Classic olisi voittanut, kuten kävi todellisuudessakin.
 
-
-Neljäs ottelu: EräViikingit x - Classic x
+Neljäs ottelu: EräViikingit 0 - Classic 14
 ===
+
+Classic murskasi EräViikingit neljännessä ottelussa. Maaliodottaman mukaan tuloksen ei olisi kuitenkaan pitänyt olla aivan näin selkeä, vaikka tilanteidenkin mukaan Classicilla oli selvä ylivoima. Laukaukset menivät Classicille 41 - 22.
+
+> EräViikingit xG 2.374 Classic xG 7.715
 
 Viides ottelu: Classic x - EräViikingit x
 ===
