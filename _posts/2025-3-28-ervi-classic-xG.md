@@ -75,11 +75,8 @@ EräViikinkien maaliodottama on laskenut ottelu ottelulta: Ensimmäisessä ottel
 Viides ottelu: Classic x - EräViikingit x
 ===
 
-Kuudes ottelu: EräViikingit x - Classic x
-===
-
-Seitsemäs ottelu: Classic x - EräViikingit x
-===
+Viides ottelu on Classicille mahdollisuus katkaista sarja ja jatkaa loppupeleihin.
+EräViikinkien maaliodottama on laskenut ottelu ottelulta. Laskeeko se viidennessä ottelussa jo alle yhden?
 
 Yhteenveto
 ===
