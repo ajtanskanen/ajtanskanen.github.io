@@ -38,8 +38,6 @@ _Kuvio 2. Montako maalia kotijoukkue tekee vierasta enemmän. Toteuman ja maalio
 3 Ennustaako xG ottelun tuloksen?
 ===
 
-Jos ottelun tuloksen laskee xG:n avullaa, saa arvion siitä, montako maalia syntyisi, jos kaikki joukkueet olisivat yhtä hyviä viimeistelemään. 
-
 Aineistossa otteluita on 132, joista kotivoitto 69, vierasvoitto 57 ja tasapeli 6.
 Maaliodottama saa otteluissa oikean voittajan 104:ssa ottelussa. Osuus on siis 79 prosenttia.
 Jos vaaditaan, että maaliodottaman ero on vähintään 0,2, maaliodottama ennusti oikein voittajan 102:ssä kaikkiaan 132:sta ottelusta, siis tarkkuudella 77 prosenttia.
@@ -49,5 +47,9 @@ Vierasvoitoista maaliodottama ennusti 44 kaikkiaan 57:sta tarkkuus siis 72 prose
 Tasapelin (maaliodottaman ero alle 0,4) maaliodottama ennusti 2 kaikkiaan 6:sta tarkkuus siis 33 prosenttia.
 Maaliodottama siis ennusti kotivoitot parhaiten, toisin kuin miehillä.
 
-Kotijoukkueen tehtyjen maalien ja maaliodottaman ero on korkeintaan 1 maali/ottelu 31 prosentissa otteluista.
-Vierasjoukkueen tehtyjen maalien ja maaliodottaman ero on korkeintaan 1 maali/ottelu 39 prosentissa otteluista.
+Kotijoukkueen tehtyjen maalien ja maaliodottaman ero korkeintaan 1 maali/ottelu oli 31 prosentissa otteluista.
+Vierasjoukkueen tehtyjen maalien ja maaliodottaman ero korkeintaan 1 maali/ottelu oli 39 prosentissa otteluista.
+
+Maaliodottama antaa siis pääsääntöisesti oikeansuuntaisia tuloksia, mutta ei täysin vastaa todellisuutta. Keskeinen syy tähän lienee se, että
+tässä on laskettu maaliodottama huomioiden vain vetopaikka. Sitä ei ole huomioitu, miten vastustaja on ryhmittynyt, onko ylivoimapeli käynnissä tai lähteekö veto syötöstä.
+Jos nämä seikat huomioitaisiin, paranisi maalidottaman tarkkuus. Naisten otteluissa maaliodottama antoi hieman parempia tuloksia kuin miesten otteluissa.

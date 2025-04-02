@@ -38,16 +38,21 @@ _Kuvio 2. Montako maalia kotijoukkue tekee vierasta enemmän. Toteuman ja maalio
 3 Ennustaako xG ottelun tuloksen?
 ===
 
-Jos ottelun tuloksen laskee xG:n avullaa, saa arvion siitä, montako maalia syntyisi, jos kaikki joukkueet olisivat yhtä hyviä viimeistelemään. 
+Jos ottelun tuloksen laskee maaliodottama xG:n avulla, saa arvion siitä, montako maalia syntyisi, jos kaikki joukkueet olisivat yhtä hyviä viimeistelemään. 
+Maaliodottama kertoo tässä tapauksessa sen, miten hyviä maalintekopaikkoja joukkueet ovat luoneet.
 
 Aineistossa otteluita on 206, joista kotivoitto 106, vierasvoitto 83 ja tasapeli 17.
-Maaliodottama saa otteluissa oikean voittajan 138:ssa ottelussa. Osuus on siis 67 prosenttia.
+Maaliodottama löytää otteluissa oikean voittajan 138:ssa ottelussa. Osuus on siis 67 prosenttia.
 Jos vaaditaan, että maaliodottaman ero on vähintään 0,2, maaliodottama ennusti oikein voittajan 126:ssä kaikkiaan 207:sta ottelusta, siis tarkkuudella 61 prosenttia.
 
-Kotivoitoista maaliodottama ennusti oikein voittajan 60:ssä kaikkiaan 106:sta ottelusta. Tarkkuus oli siis 57 prosenttia (kun maaliodottaman pitää olla 0,2 korkeampi).
-Vierasvoitoista maaliodottama ennusti 61 kaikkiaan 84:sta tarkkuus siis 73 prosenttia (maaliodottamien ero on vähintään 0,2).
-Tasapelin (maaliodottaman ero alle 0,4) maaliodottama ennusti 5 kaikkiaan 17:sta tarkkuus siis 29 prosenttia.
-Maaliodottama siis ennusti vierasvoitot parhaiten. 
+Kotivoitoista maaliodottama ennusti oikein voittajan 60:ssä kaikkiaan 106:sta ottelusta. Tarkkuus oli siis 57 prosenttia (maaliodottamien ero vähintään 0,2 korkeampi).
+Vierasvoitoista maaliodottama ennusti 61 kaikkiaan 84:sta, tarkkuus siis 73 prosenttia.
+Tasapelin (maaliodottamien ero alle 0,4) maaliodottama ennusti 5 kaikkiaan 17:sta tarkkuus siis 29 prosenttia.
+Maaliodottama ennusti vierasvoitot parhaiten. 
 
-Kotijoukkueen tehtyjen maalien ja maaliodottaman ero on korkeintaan 1 maali/ottelu 37 prosentissa otteluista.
-Vierasjoukkueen tehtyjen maalien ja maaliodottaman ero on korkeintaan 1 maali/ottelu 33 prosentissa otteluista.
+Kotijoukkueen tehtyjen maalien ja maaliodottaman ero on korkeintaan 1 maali/ottelu oli 37 prosentissa otteluista.
+Vierasjoukkueen tehtyjen maalien ja maaliodottaman ero on korkeintaan 1 maali/ottelu oli 33 prosentissa otteluista.
+
+Maaliodottama antaa siis pääsääntöisesti oikeansuuntaisia tuloksia, mutta ei täysin vastaa todellisuutta. Keskeinen syy tähän lienee se, että
+tässä on laskettu maaliodottama huomioiden vain vetopaikka. Sitä ei ole huomioitu, miten vastustaja on ryhmittynyt, onko ylivoimapeli käynnissä tai lähteekö veto syötöstä.
+Jos nämä seikat huomioitaisiin, paranisi maalidottaman tarkkuus.
