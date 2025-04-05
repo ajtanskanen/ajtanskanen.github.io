@@ -1,6 +1,6 @@
 ---
 title: 'Pudotuspelisarja EräViikingit vastaan Classic xG:n valossa'
-date: 2025-03-28
+date: 2025-04-05
 permalink: /posts/2025/3/ervi_classi_xG/
 image: /images/floorball/xG/miehet_goals_xG.png
 largeimage: /images/floorball/xG/miehet_goals_xG.png
@@ -72,12 +72,18 @@ Classic murskasi EräViikingit neljännessä ottelussa. Maaliodottaman mukaan tu
 
 EräViikinkien maaliodottama on laskenut ottelu ottelulta: Ensimmäisessä ottelussa se oli 5,2, toisessa 4,4, kolmannessa 3, neljännessä vain 2,4. 
 
-Viides ottelu: Classic x - EräViikingit x
+Viides ottelu: Classic 7 - EräViikingit 2
 ===
 
 Viides ottelu on Classicille mahdollisuus katkaista sarja ja jatkaa loppupeleihin.
-EräViikinkien maaliodottama on laskenut ottelu ottelulta. Laskeeko se viidennessä ottelussa jo alle yhden?
+EräViikinkien maaliodottama on laskenut ottelu ottelulta. Laskeeko se viidennessä ottelussa jo alle yhden? No ei laskenut. Ottelu oli tilastojen mukaan tulosta tiukempi: laukaukset menivät Classic 38 Ervi 32. Ero oli pienempi kuin edellisissiä otteluissa. Myös maaliodottama kertoo samaa
+
+> Classic xG 5.248950737697182 EräViikingit xG 4.640418510501705
+
+Classic ylisuoritti maaliodottamaan verrattuna reilusti, Eräviikingit alisuoritti. Silti Ervi sai käänneetyä heikkenevän maaliodottaman.
 
 Yhteenveto
 ===
+
+Maaliodottaman mukaan oikea joukkue -- Classic -- voitti sarjan. Maaliodottaman mukaan tiukimmat ottelut olivat ensimmäinen ja viimeinen, muissa maaliodottamien ero oli selvä. EräViikinkien maaliodottama laski neljänteen otteluun saakka, mutta ratkaisevassa viidennessä ottelussa joukkue sai irti selvästi paremman esityksen. Tällä kertaa se ei kuitenkaan riittänyt.
 
