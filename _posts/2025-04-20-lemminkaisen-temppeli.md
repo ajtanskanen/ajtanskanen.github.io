@@ -1,5 +1,5 @@
 ---
-title: 'Lemminkäisen temppeliä Sipoossa'
+title: 'Lemminkäisen temppeli Sipoossa'
 date: 2025-04-20
 permalink: /posts/2025/04/lemminkäisen-temppeli/
 image: /images/temppeli/temppeli.jpeg
@@ -15,7 +15,7 @@ Ior Bockin omalaatuisissa tarinoissa Sipoon Gumbostrand on lähes maailman napa:
 kertomuksissa on Gumbostrandissa sijaitseva kivipaasi, jonka alta pitäisi löytyä kauan sitten
 sinetöity Lemminkäisen Temppeli. Sitä kaivetaan taas esille.
 
-![Lemminkäisen Temppeli](/images/temppeli/fly.jpeg)
+![Lemminkäisen Temppeli](/images/temppeli/fly.jpg)
 _Lemminkäisen Temppeli 20.4.2025_
 
 Kaivaukset
