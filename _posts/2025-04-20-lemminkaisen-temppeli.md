@@ -13,7 +13,7 @@ tags:
 
 Ior Bockin omalaatuisissa tarinoissa Sipoon Gumbostrand on lähes maailman napa: keskeinen paikka
 kertomuksissa on Gumbostrandissa sijaitseva kivipaasi, jonka alta pitäisi löytyä kauan sitten
-sinetöity Lemminkäisen Temppeli. Sitä kaivetaan taas esille.
+sinetöity Lemminkäisen Temppeli. Sitä on kaivetaan useita kertoja esille.
 
 ![Lemminkäisen Temppeli](/images/temppeli/fly.jpg)
 _Lemminkäisen Temppeli 20.4.2025_
