@@ -18,8 +18,8 @@ _Kuvio 1. YLEn uutisten yhteisjakauma._
 ===
 
 Suurella kielimallilla voi luokitella kirjotuksia. Tässä käytetään Anthropicin Claude Opus 4.0 -mallia.
-Tarkastelemme 83 uutista YLEn verkkosivuilla, jotka haettiin scraperilla. Aineistosta on poistettu 6 uutista, joita scraper ei onnistunut keräämään kunnolla (pääosin vain otsikko tuli mukaan ja varsinainen teksti jäi pois). Lisäksi yhdessä tapauksessa (numero 11) Claude ei osannut tuottaa numeerista arviota.
-Aineisto ja tulokset ovat liitteenä blogin lopussa.
+Tarkastelemme 83 uutista YLEn verkkosivuilla, jotka haettiin scraperilla. Aineistosta on poistettu 7 uutista, joita scraper ei onnistunut keräämään kunnolla (pääosin vain otsikko tuli mukaan ja varsinainen teksti jäi pois). Lisäksi yhdessä tapauksessa Claude ei osannut tuottaa numeerista arviota.
+Tulokset lähdeviittauksiin ovat liitteenä blogin lopussa.
 
 Promptit, joita analyysissä on käytetty ovat kaikessa yksinkertaisuudessaan tällainen (mitään muuta promptia ei analyysissä käytetä):
 Systeemi-prompti:
@@ -32,18 +32,22 @@ Promptin tarkoituksena on tuottaa numeerinen arvio YLEn kirjoituksen poliittisuu
 
 Jokaista tekstiä varten keskustelu avataan uudestaan, jotta aiemmat vastaukset eivät sotke tuloksia. Lämpötila on 1.0, jotta tulokset olisivat toistettavissa.
 
+Blogin analyysin ei ole tarkoitus olla kattava. Aineistossa oli vain 83 juttua, joista 76 päätyi lopulliseen analyysiin. Laajempi tutkimus kertoisi paremmin, miten neutraalia Ylen uutisointi on ja paikallistaisi mahdolliset ylilyönnit eri suuntiin. Samaa metodologiaa voi käyttä helposti muihinkin viestintävälineisiin. 
+Clauden vastaukset muuttuvat eri ajokerroilla hieman, vaikka promptit ja aineistot pysyvät samoina. Vaihtelu ei kuitenkaan vaikuta oleva kovin suurta.
+
+
 2 Arvot ja poliittisuus
 ===
 
 Kirjoitusten arvojen keskiarvo on -0,84 ja mediaani 0,0. Asteikko on -10 -- +10, joten keskimäärin kirjoitusten arvot ovat lähellä neutraalia, vaikka ne painottuvat arvoliberaaliin suuntaan.
 
 ![YLEn uutisten arvojen jakauma](/images/YLE/arvot.png)<br>
-_Kuvio 2. YLEn uutisten arvojen jakauma._
+_Kuvio 2. YLEn uutisjuttujen arvojen jakauma._
 
 Arvojen jakauma painottuu arvoliberaaliin suuntaan. Kuitenkin selvästi arvokonservatiivisia havaintoja on myös joukossa.
 
 ![YLEn uutisten poliittisuuden jakauma](/images/YLE/poliittinen.png)<br>
-_Kuvio 3. YLEn uutisten poliittisuuden jakauma._
+_Kuvio 3. YLEn uutisjuttujen poliittisuuden jakauma._
 
 Kirjoitusten poliittisen näkökulman keskiarvo on -0,63 ja mediaani 0,0. Asteikko on -10 -- +10, joten keskimäärin kirjoitusten arvot ovat lähellä neutraalia, vaikka ne painottuvat arvoliberaaliin suuntaan.
 
@@ -65,7 +69,7 @@ Sudenmetsästyksestä kertova juttu (https://yle.fi/a/74-20165944) arvioidaan ar
 
 3.2 Vaalirahoitus
 ==
-Vaalirahoituksesta kertova juttu (https://yle.fi/a/74-20167070) arvioidaan arvoliberaaliksi (-5) ja vasemmistolaisesta näkökulmasta kirjoitetuksi (-5).
+Vaalirahoituksesta kertova juttu (https://yle.fi/a/74-20167070) arvioidaan arvoliberaaliksi (-6) ja vasemmistolaisesta näkökulmasta kirjoitetuksi (-3.5).
 
 > Kirjoitus on kirjoitettu vasemmistolaisesta näkökulmasta. Tämä näkyy siinä, että oppositiopuolueiden (SDP, Vihreät) kriittiset näkemykset nostetaan keskeisesti esiin, erityisesti Tiina Elon kommentti siitä, että vaalit eivät saa olla rahalla ratkaistava kilpailu. Myös oikeusministeriön ja Transparency Internationalin vastustus mainitaan. Kokoomuksen perustelut muutokselle esitetään lyhyesti ilman syvempää analyysiä, mikä viittaa kriittiseen näkökulmaan hallituksen toimintaa kohtaan.
 
@@ -83,28 +87,22 @@ Maamiinakiellosta kertovat juttu (https://yle.fi/a/74-20167477) arvioidaan liev�
 3.4 Sofia Virta
 ==
 
-Sofia Virraste kertova juttu () arvioidaan arvoliberaaliksi (-6) ja selvästi vasemmistolaiseksi (-7).
+Sofia Virraste kertova juttu (https://yle.fi/a/74-20163230) arvioidaan lievästi arvoliberaaliksi (-3) ja maltillisen vasemmistolaiseksi (-3).
 
-> Kirjoitus on selkeästi arvoliberaalista näkökulmasta. Tämä näkyy erityisesti Sofia Virtan siteeraamisessa, jossa puhutaan oikeudesta 'rakastaa ketä haluaa' ja liberaalien arvojen puolustamisesta. Lisäksi korostetaan tasa-arvo- ja ihmisoikeuskysymyksiä. Kirjoitus ei kyseenalaista näitä arvoja vaan esittää ne myönteisinä tavoitteina.
-> Kirjoitus on vahvasti vasemmistolainen. Keskeiset teemat ovat hyvinvointivaltion puolustaminen, sosiaaliturvasta ja koulutuksesta leikkaamisen vastustaminen, vihreä verouudistus (ympäristölle haitallisten yritystukien leikkaaminen), sekä hallituksen leikkauspolitiikan kritiikki. Puolustusmenojen nostamista kritisoidaan, koska rahat ovat 'pois muista hyvinvointivaltion palveluista'. Nämä ovat klassisia vasemmistolaisia teemoja.
+> Kirjoitus lähtee lievästi arvoliberaalista näkökulmasta. Tämä näkyy esimerkiksi myönteisenä asenteena maahanmuuttajanuoriin, sukupuolten tasa-arvokysymyksiin ja kriittisenä näkemyksenä perussuomalaisten politiikkaa kohtaan. Kuitenkin näkökulma pysyy suhteellisen neutraalina toimittajan roolissa.
+
+> Kirjoitus on lievästi vasemmistolainen. Puheenjohtaja Sofia Virta korostaa hyvinvointivaltion pelastamista, lasten ja nuorten suojelemista leikkauksilta, sekä ympäristönäkökulmia. Kirjoitus käsittelee oppositiossa olevan vihreän puolueen näkemyksiä oikeistohallitusta vastaan, mikä tuo vasemmistolaisen näkökulman esiin.
 
 3.5 Mika Poutala
 ==
 
-Mika Poutalasta kertova juttu () arvioidaan arvoneutraaliksi (-6) ja poliittisesti neutraaliksi (-7).
+Mika Poutalasta kertova juttu (https://yle.fi/a/74-20162150) arvioidaan arvoneutraaliksi (0) ja poliittisesti neutraaliksi (0).
 
 > Teksti on neutraali reportaasi henkilön liikuntaharrastuksista ja ministerinimityksen kuvaus. Siinä ei ole arvovalintoihin viittaavia elementtejä tai kannanottoja yhteiskunnallisiin arvoihin. Keskittyy vain faktojen esittämiseen henkilön taustoista ja tavoista.
 
 > Teksti ei ota kantaa vasemmisto-oikeisto-akseliin liittyviin kysymyksiin. Se on puhdas henkilöön liittyvä faktakuvaus ilman poliittisia kannanottoja tai viittauksia talouspolitiikkaan, hyvinvointivaltioon tai muihin poliittisiin kysymyksiin. Kristillisdemokraattinen puoluetausta mainitaan, mutta sitä ei arvoteta.
 
-4 Analyysistä
-===
-
-Tämän blogin analyysin ei ole tarkoitus olla kattava. Aineistossa oli vain 83 juttua, joista 76 päätyi lopulliseen analyysiin. Laajempi tutkimus kertoisi paremmin, miten neutraalia Ylen uutisointi on ja paikallistaisi mahdolliset ylilyönnit eri suuntiin. Samaa metodologiaa voi käyttä helposti muihinkin viestintävälineisiin. 
-
-Clauden vastaukset muuttuvat eri ajokerroilla hieman, vaikka promptit ja aineistot pysyvät samoina. Vaihtelu ei kuitenkaan vaikuta oleva kovin suurta.
-
-5 Yhteenveto
+4 Yhteenveto
 ===
 
 Onko Ylen uutiskirjoittaminen epäpoliittista ja arvovapaata? Ei, mutta se on kylläkin melko neutraalia. Toimittajan oma arvomaailma näkyy jutuissa, mutta niin sen tietyssä määrin pitääkin. Tuloksissa näkyy lievä vasemmistolais-arvoliberaali painotus, mutta verrattuna julkisen keskustelun käsityksiin, vinouma on pientä. Tämän analyysin lopputulos on se, että melko pienellä viilauksella Yle voisi tehdä omasta uutistoiminnasta vieläkin neutraalimpaa.  
@@ -126,7 +124,6 @@ Liite
 |  8 | Puolustusvaliokunta puoltaa miinasopimuksesta irtautumista                                                                    | https://yle.fi/a/74-20167408      |     5   |                    4   |
 |  9 | Presidentti Stubb osallistuu Bilderberg-tapaamiseen Tukholmassa – mukana myös Sanna Marin                                     | https://yle.fi/a/74-20167377      |     0   |                    0   |
 | 10 | Elinkeinoministeriksi nousee pian perussuomalainen fysiikan tohtori, jota kehutaan jopa oppositiosta                          | https://yle.fi/a/74-20165321      |    -4   |                   -3   |
-| 11 | Netin halpakauppojen suitsimista vaativa kansalaisaloite menee eduskuntaan                                                    | https://yle.fi/a/74-20167299      |   nan   |                  nan   |
 | 12 | Ex-ministeri Carl Haglund valittiin Aktian toimitusjohtajaksi                                                                 | https://yle.fi/a/74-20167326      |     0   |                    0   |
 | 13 | Israelin parlamentti torppasi opposition aloitteen parlamentin hajottamisesta                                                 | https://yle.fi/a/74-20167286      |     0   |                    0   |
 | 14 | Sebastian Tynkkynen hakee perus­suomalaisten kolmanneksi vara­puheenjohtaksi                                                  | https://yle.fi/a/74-20167274      |     2   |                    6   |
