@@ -38,7 +38,7 @@ _Kuvio 1. YLEn uutisten arvojen jakauma._
 
 Arvojen jakauma painottuu arvoliberaaliin suuntaan.
 
-![YLEn uutisten poliittisuuden jakauma](/images/YLE/politiikka.png)<br>
+![YLEn uutisten poliittisuuden jakauma](/images/YLE/poliittinen.png)<br>
 _Kuvio 2. YLEn uutisten poliittisuuden jakauma._
 
 Arvojen jakauma painottuu vasemmistoon.
@@ -54,11 +54,15 @@ Arvojen ja polittiisen näkökulman Yhteisjakauma...
 5.1 Sudenmetsästys
 ==
 
-Esimerkiksi Sudenmetsästyksestä kertovat juttu (https://yle.fi/a/74-20165944) arvioidaan arvokonservatiiviseksi (+5) ja lievästi oikeistolaiseksi (+3), koska 
+Esimerkiksi sudenmetsästyksestä kertovat juttu (https://yle.fi/a/74-20165944) arvioidaan arvokonservatiiviseksi (+5) ja lievästi oikeistolaiseksi (+3), koska 
 
-> xxx
+
+> Kirjoitus käsittelee sudenmetsästyksen mahdollistamista, mikä heijastaa jossain määrin arvokonservatiivista näkemystä, jossa korostetaan ihmisen oikeutta hallita luontoa ja maaseudun elinkeinojen suojelua. Teksti on kuitenkin neutraalisti muotoiltu, eikä siinä oteta voimakkaasti kantaa suuntaan tai toiseen. Arvoliberaali näkökulma korostaisi todennäköisesti enemmän luonnonsuojelua ja eläinten oikeuksia.
+
+> Kirjoitus on sävyltään melko neutraali uutisteksti, joka kertoo ministeriön toimista. Kuitenkin susimetsästyksen helpottaminen liittyy usein maaseudun elinkeinojen, kuten karjatalouden ja metsästyksen edistämiseen, jotka ovat perinteisesti oikeistolaisia teemoja. Vasemmistolaisesta näkökulmasta korostettaisiin todennäköisesti enemmän ympäristönsuojelua ja luonnon monimuotoisuutta.
 
 5.2 Vaalirahoitus
+==
 
 vastaavasti vaalirahoituksesta kertova juttu (https://yle.fi/a/74-20167070) arvioidaan arvoliberaaliksi (-6) ja vasemmistolaisesta näkökulmasta kirjoitetuksi (-5), koska
 
