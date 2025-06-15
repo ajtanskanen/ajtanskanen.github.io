@@ -18,7 +18,7 @@ _Kuvio 1. YLEn uutisjuttujen poliitisen näkökulma (vaaka-akseli) ja arvojen (p
 ===
 
 Suurella kielimallilla voi luokitella kirjoituksia. Tässä käytetään Anthropicin Claude Opus 4.0 -mallia.
-Tarkastelemme 83 uutista YLEn verkkosivuilla, jotka haettiin scraperilla. Aineistosta on poistettu 8 uutista, joita scraper ei onnistunut keräämään kunnolla (pääosin vain otsikko tuli mukaan ja varsinainen teksti jäi pois). Lisäksi yhdessä tapauksessa Claude ei osannut tuottaa numeerista arviota.
+Tarkastelemme 83 uutista YLEn verkkosivuilla, jotka haettiin scraperilla. Aineistosta on poistettu 7 uutista, joita scraper ei onnistunut keräämään kunnolla (pääosin vain otsikko tuli mukaan ja varsinainen teksti jäi pois). Lisäksi yhdessä tapauksessa Claude ei osannut tuottaa numeerista arviota.
 Tulokset lähdeviittauksiin ovat liitteenä blogin lopussa.
 
 Promptit, joita analyysissä on käytetty ovat kaikessa yksinkertaisuudessaan tällainen (mitään muuta promptia ei analyysissä käytetä):
