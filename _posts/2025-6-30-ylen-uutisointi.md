@@ -61,33 +61,33 @@ Arvojen ja polittiisen näkökulman Yhteisjakauma (Kuvio 1) näyttää että suu
 3.1 Sudenmetsästys
 ==
 
-Sudenmetsästyksestä kertova juttu (https://yle.fi/a/74-20165944) arvioidaan arvokonservatiiviseksi (+5) ja lievästi oikeistolaiseksi (+3).
+Sudenmetsästyksestä kertova [juttu](https://yle.fi/a/74-20165944) arvioidaan lievästi arvokonservatiiviseksi (+2) ja maltillisen oikeistolaiseksi (+3).
 
-> Kirjoitus käsittelee sudenmetsästyksen mahdollistamista, mikä heijastaa jossain määrin arvokonservatiivista näkemystä, jossa korostetaan ihmisen oikeutta hallita luontoa ja maaseudun elinkeinojen suojelua. Teksti on kuitenkin neutraalisti muotoiltu, eikä siinä oteta voimakkaasti kantaa suuntaan tai toiseen. Arvoliberaali näkökulma korostaisi todennäköisesti enemmän luonnonsuojelua ja eläinten oikeuksia.
+> Suden metsästyksen helpottaminen on tyypillisesti oikeistolainen teema, joka korostaa maaseudun elinkeinoja, omaisuuden suojaa ja yksilön oikeuksia suhteessa ympäristönsuojeluun. Toisaalta tekstissä mainitaan hoitosuunnitelman päivitys ja lupamenettely, jotka viittaavat sääntelyyn. Kokonaisuutena lievästi oikeistolainen sävy.
 
-> Kirjoitus on sävyltään melko neutraali uutisteksti, joka kertoo ministeriön toimista. Kuitenkin susimetsästyksen helpottaminen liittyy usein maaseudun elinkeinojen, kuten karjatalouden ja metsästyksen edistämiseen, jotka ovat perinteisesti oikeistolaisia teemoja. Vasemmistolaisesta näkökulmasta korostettaisiin todennäköisesti enemmän ympäristönsuojelua ja luonnon monimuotoisuutta.
+> Kirjoitus käsittelee suden metsästyksen mahdollistamista, mikä yleisesti liittyy arvokonservatiiviseen näkemykseen perinteisistä elinkeinoista, maaseudun elämäntavasta ja ihmisen oikeudesta hallita luontoa. Teksti on kuitenkin neutraalisti muotoiltu uutinen, joka ei ota voimakkaasti kantaa puolesta tai vastaan.
 
 3.2 Vaalirahoitus
 ==
-Vaalirahoituksesta kertova juttu (https://yle.fi/a/74-20167070) arvioidaan arvoliberaaliksi (-6) ja vasemmistolaisesta näkökulmasta kirjoitetuksi (-3.5).
+Vaalirahoituksesta kertova [juttu](https://yle.fi/a/74-20167070) arvioidaan arvoliberaaliksi (-3,5) ja vasemmistolaisesta näkökulmasta kirjoitetuksi (-6).
 
-> Kirjoitus on kirjoitettu vasemmistolaisesta näkökulmasta. Tämä näkyy siinä, että oppositiopuolueiden (SDP, Vihreät) kriittiset näkemykset nostetaan keskeisesti esiin, erityisesti Tiina Elon kommentti siitä, että vaalit eivät saa olla rahalla ratkaistava kilpailu. Myös oikeusministeriön ja Transparency Internationalin vastustus mainitaan. Kokoomuksen perustelut muutokselle esitetään lyhyesti ilman syvempää analyysiä, mikä viittaa kriittiseen näkökulmaan hallituksen toimintaa kohtaan.
+> Kirjoitus on selvästi kriittinen oikeistohallituksen päätöstä kohtaan nostaa vaalirahoituksen ilmoitusrajoja. Se nostaa esiin opposition (SDP, Vihreät) kriittiset kannat ja antaa heille äänen. Lisäksi mainitaan, että ehdotus tuli kokoomuksen Vestmanilta, ei hallituksen esityksestä. Kirjoitus korostaa huolta siitä, että raha saa liikaa valtaa vaaleissa, mikä on tyypillinen vasemmistolainen huolenaihe.
 
-> Kirjoitus on kirjoitettu arvoliberaalista näkökulmasta, sillä siinä korostetaan poliittisen rahoituksen avoimuutta ja läpinäkyvyyttä. Kirjoituksessa tuodaan kriittisesti esiin ilmoitusrajan nostaminen ja nostetaan esiin opposition ja järjestöjen huolta vaalirahoituksen avoimuuden vähenemisestä. Avoimuuden ja demokraattisen läpinäkyvyyden korostaminen on tyypillisesti arvoliberaali positio.
+> Kirjoitus korostaa vaalirahoituksen avoimuutta ja läpinäkyvyyttä demokratian edellytyksenä. Tämä on liberaali arvo, sillä se painottaa kansalaisten oikeutta tietää ja vallan valvontaa. Kirjoitus esittää kriittisesti hallituksen päätöksen nostaa ilmoitusrajoja, mikä viittaa avoimuuden ja läpinäkyvyyden arvostamiseen.
 
-3.3 Maamiinat
+3.3 Jalkaväkimiinat
 ==
 
-Maamiinakiellosta kertovat juttu (https://yle.fi/a/74-20167477) arvioidaan lievästi arvokonservatiiviseksi (+2) ja näkökulmaltaan maltillisen oikeistolaiseksi (+3).
+Jalkaväkimiinakiellosta kertovat [juttu](https://yle.fi/a/74-20167408) arvioidaan selvästi arvokonservatiiviseksi (+5) ja näkökulmaltaan oikeistolaiseksi (+4).
 
-> Kirjoitus on arvoulottuvuudeltaan melko neutraali, mutta suhtautuminen jalkaväkimiinojen valmistukseen ja vientiin on pragmaattinen ja elinkeinoelämää korostava. Kirjoituksessa ei ilmene huolta humanitaarisista kysymyksistä tai kansainvälisestä sopimuksesta irtautumisen eettisistä ulottuvuuksista. Vähäinen kriittisyys viittaa lievästi arvokonservatiiviseen näkökulmaan, jossa turvallisuus- ja talousnäkökulmat ohittavat humanitaariset arvot.
+> Tekstissä kannatetaan Ottawan sopimuksesta irtautumista ja jalkaväkimiinojen palauttamista puolustusjärjestelmään turvallisuustilanteen perusteella. Tämä on arvokonservatiivinen kanta, koska se asettaa turvallisuuden ihmisoikeuksien ja kansainvälisten humanitaaristen sopimusten edelle. Kansainvälisistä sopimuksista irtautuminen on myös konservatiivista reaalipolitiikkaa.
 
-> Kirjoitus korostaa vientipotentiaalia, yritystoimintaa ja suomalaisen puolustusteollisuuden mahdollisuuksia. Valiokunnan puheenjohtajan (Keskusta) sitaatit edustavat pragmaattista, oikeistoliberaalia näkemystä, jossa korostetaan elinkeinovapautta ja markkinamahdollisuuksia. Vasemmistoliiton kriittinen eriävä mielipide mainitaan vain lyhyesti. Kokonaisuudessaan teksti edustaa maltillista oikeistolaista näkökulmaa, jossa taloudelliset mahdollisuudet painottuvat.
+> Jalkaväkimiinoista luopuminen ja kansainvälisten sopimusten allekirjoittaminen on ollut erityisesti vasemmiston ja liberaalien puolueiden ajama linja. Irtautumisen kannattaminen on pikemminkin oikeiston ja keskustan turvallisuuspoliittista linjaa. Että vain vasemmistoliitto jätti eriävän mielipiteen tukee tätä tulkintaa.
 
 3.4 Sofia Virta
 ==
 
-Sofia Virraste kertova juttu (https://yle.fi/a/74-20163230) arvioidaan lievästi arvoliberaaliksi (-3) ja maltillisen vasemmistolaiseksi (-3).
+Sofia Virraste kertova [juttu](https://yle.fi/a/74-20163230) arvioidaan lievästi arvoliberaaliksi (-3) ja maltillisen vasemmistolaiseksi (-3).
 
 > Kirjoitus lähtee lievästi arvoliberaalista näkökulmasta. Tämä näkyy esimerkiksi myönteisenä asenteena maahanmuuttajanuoriin, sukupuolten tasa-arvokysymyksiin ja kriittisenä näkemyksenä perussuomalaisten politiikkaa kohtaan. Kuitenkin näkökulma pysyy suhteellisen neutraalina toimittajan roolissa.
 
@@ -96,7 +96,7 @@ Sofia Virraste kertova juttu (https://yle.fi/a/74-20163230) arvioidaan lievästi
 3.5 Mika Poutala
 ==
 
-Mika Poutalasta kertova juttu (https://yle.fi/a/74-20162150) arvioidaan arvoneutraaliksi (0) ja poliittisesti neutraaliksi (0).
+Mika Poutalasta kertova [juttu](https://yle.fi/a/74-20162150) arvioidaan arvoneutraaliksi (0) ja poliittisesti neutraaliksi (0).
 
 > Teksti on neutraali reportaasi henkilön liikuntaharrastuksista ja ministerinimityksen kuvaus. Siinä ei ole arvovalintoihin viittaavia elementtejä tai kannanottoja yhteiskunnallisiin arvoihin. Keskittyy vain faktojen esittämiseen henkilön taustoista ja tavoista.
 
