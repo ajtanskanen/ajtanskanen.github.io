@@ -2,33 +2,34 @@
 title: 'Ylen uutisoinnin poliittisuus ja arvot'
 date: 2025-06-30
 permalink: /posts/2025/6/ylenuutisointi/
-summary: 'Blogi | Ylen uutisointia on toisinaan pidetty vihervasemmistolaisena, toisinaan oikeistolaisena, vaikka uutisoinnin pitäisi olla neutraalia. Uutisoinnin neutraaliutta voi analysoida suurilla kielimalleilla. Tässä käytämme Anthropicin Claude Sonet 4.0:aa, jonka mukaan Ylen uutisointi on pääosin neutraalia, vaikka keskimäärin se on hieman kallellaan poliittiseen vasemmistoon ja arvoliberaaliin suuntaan.'
+summary: 'Blogi | Ylen uutisointia on toisinaan pidetty vihervasemmistolaisena, toisinaan oikeistolaisena, vaikka uutisoinnin pitäisi olla neutraalia. Uutisoinnin neutraaliutta voi analysoida suurilla kielimalleilla. Tässä käytämme Anthropicin Claudea, jonka mukaan Ylen uutisointi on pääosin neutraalia, vaikka keskimäärin se on hieman kallellaan poliittiseen vasemmistoon ja arvoliberaaliin suuntaan.'
 tags:
   - ylen uutisointi
   - poliittisuus
   - arvot
 ---
 
-Ylen uutisointia on erityisesti Perussuomalaisten taholta arvosteltu vihervasemistolaiseksi. 
+Ylen uutisointia on toisinaan arvosteltu vihervasemistolaiseksi ja liian arvoliberaaliksi. Tätä voi analysoida melko neutraalisti suurella kielimallilla. 
 
 1 Menetelmä ja aineisto
 ===
 
-Suurella kielimallilla voi luokitella kirjotuksia. Tässä käytetään Anthropicin Claude Sonet 4.0 -mallia.
-Tarkastelemme 83 uutista YLEn verkkosivuilla, jotka haettiin scraperilla. Aineisto ja tulokset ovat saatavilla.
+Suurella kielimallilla voi luokitella kirjotuksia. Tässä käytetään Anthropicin Claude Opus 4.0 -mallia.
+Tarkastelemme 83 uutista YLEn verkkosivuilla, jotka haettiin scraperilla. Aineistosta on poistettu 7 uutista, joita scraper ei onnistunut keräämään kunnolla (pääosin vain otsikko tuli mukaan ja varsinainen teksti jäi pois). Lisäksi yhdessä tapauksessa (numero 11) Claude ei osannut tuottaa numeerista arviota.
+Aineisto ja tulokset ovat liitteenä blogin lopussa.
 
-2 Promptit
-===
+Promptit, joita analyysissä on käytetty ovat kaikessa yksinkertaisuudessaan tällainen (mitään muuta promptia ei analyysissä käytetä):
+Systeemi-prompti:
+> You are an AI assistant tasked with analyzing political biases in works. Your goal is to provide insightful commentary on polical leaning, and liberal/conservative leaning. output in JSON format with keys: \“arvot\” (asteikko (-10,10)), \"poliittinen suuntaus\" (asteikko (-10,10)), \"perustelut arvot\", and \"perustelut poliittinen suuntaus\".\n
 
-Prompti, jota analyysissä on käytetty on kaikessa yksinkertaisuudessaan tällainen (mitään muuta promptia ei analyysissä käytetä):
-
+Analyysi-prompti:
 > Analysoi kirjoitus. Onko se kirjoitettu arvoliberaalista vai arvokonservatiivisesta näkökulmasta? arvioi asteikolla (-10,10). Arvo -10 tarkoittaa hyvin arvoliberaalia, arvo 10 hyvin arvokonservatiivista. Entä onko se kirjoitettu vai oikeistolaisesta näkökulmasta? arvioi asteikolla (-10,10). Arvo -10 tarkoittaa hyvin vasemmistolaista, arvo 10 hyvin oikeistolaista. Vastaa JSON muodossa. (encode special chars properly)
 
 Promptin tarkoituksena on tuottaa numeerinen arvio YLEn kirjoituksen poliittisuudesta ja sen arvoista. Poliittisuus arvioidaan vasemmisto-oikeisto -akselilla, kun taas kirjoituksen arvot arvioidaan arvoliberaali-konservatiivi -akselilla. Näiden pitäisi vastata esimerkiksi Helsingin Sanomien tekemien arvokarttojen asteikkoja, vaikka metodologia on erilainen.
 
 Jokaista tekstiä varten keskustelu avataan uudestaan, jotta aiemmat vastaukset eivät sotke tuloksia. Lämpötila on 1.0, jotta tulokset olisivat toistettavissa.
 
-4 Arvot ja poliittisuus
+2 Arvot ja poliittisuus
 ===
 
 Kirjoitusten arvojen keskiarvo on -1,45 ja mediaani -0,5. Asteikko on -10 -- +10, joten keskimäärin kirjoitusten arvot ovat lähellä neutraalia, vaikka ne painottuvat arvoliberaaliin suuntaan.
@@ -41,44 +42,46 @@ Arvojen jakauma painottuu arvoliberaaliin suuntaan.
 ![YLEn uutisten poliittisuuden jakauma](/images/YLE/poliittinen.png)<br>
 _Kuvio 2. YLEn uutisten poliittisuuden jakauma._
 
-Arvojen jakauma painottuu vasemmistoon.
+Kirjoitusten poliittisen näkökulman keskiarvo on -1,45 ja mediaani -0,5. Asteikko on -10 -- +10, joten keskimäärin kirjoitusten arvot ovat lähellä neutraalia, vaikka ne painottuvat arvoliberaaliin suuntaan.
+
+Poliittisten näkökulmien jakauma painottuu vasemmistoon.
 
 ![YLEn uutisten poliittisuuden jakauma](/images/YLE/jakauma.png)<br>
 _Kuvio 3. YLEn uutisten yhteisjakauma._
 
 Arvojen ja polittiisen näkökulman Yhteisjakauma...
 
-5 Esimerkkejä
+3 Esimerkkejä tuloksista
 ===
 
-5.1 Sudenmetsästys
+3.1 Sudenmetsästys
 ==
 
 Esimerkiksi sudenmetsästyksestä kertovat juttu (https://yle.fi/a/74-20165944) arvioidaan arvokonservatiiviseksi (+5) ja lievästi oikeistolaiseksi (+3), koska 
-
 
 > Kirjoitus käsittelee sudenmetsästyksen mahdollistamista, mikä heijastaa jossain määrin arvokonservatiivista näkemystä, jossa korostetaan ihmisen oikeutta hallita luontoa ja maaseudun elinkeinojen suojelua. Teksti on kuitenkin neutraalisti muotoiltu, eikä siinä oteta voimakkaasti kantaa suuntaan tai toiseen. Arvoliberaali näkökulma korostaisi todennäköisesti enemmän luonnonsuojelua ja eläinten oikeuksia.
 
 > Kirjoitus on sävyltään melko neutraali uutisteksti, joka kertoo ministeriön toimista. Kuitenkin susimetsästyksen helpottaminen liittyy usein maaseudun elinkeinojen, kuten karjatalouden ja metsästyksen edistämiseen, jotka ovat perinteisesti oikeistolaisia teemoja. Vasemmistolaisesta näkökulmasta korostettaisiin todennäköisesti enemmän ympäristönsuojelua ja luonnon monimuotoisuutta.
 
-5.2 Vaalirahoitus
+3.2 Vaalirahoitus
 ==
+vastaavasti vaalirahoituksesta kertova juttu (https://yle.fi/a/74-20167070) arvioidaan arvoliberaaliksi (-5) ja vasemmistolaisesta näkökulmasta kirjoitetuksi (-5), koska
 
-vastaavasti vaalirahoituksesta kertova juttu (https://yle.fi/a/74-20167070) arvioidaan arvoliberaaliksi (-6) ja vasemmistolaisesta näkökulmasta kirjoitetuksi (-5), koska
+> Kirjoitus on kirjoitettu vasemmistolaisesta näkökulmasta. Tämä näkyy siinä, että oppositiopuolueiden (SDP, Vihreät) kriittiset näkemykset nostetaan keskeisesti esiin, erityisesti Tiina Elon kommentti siitä, että vaalit eivät saa olla rahalla ratkaistava kilpailu. Myös oikeusministeriön ja Transparency Internationalin vastustus mainitaan. Kokoomuksen perustelut muutokselle esitetään lyhyesti ilman syvempää analyysiä, mikä viittaa kriittiseen näkökulmaan hallituksen toimintaa kohtaan.
 
-> xxx
+> Kirjoitus on kirjoitettu arvoliberaalista näkökulmasta, sillä siinä korostetaan poliittisen rahoituksen avoimuutta ja läpinäkyvyyttä. Kirjoituksessa tuodaan kriittisesti esiin ilmoitusrajan nostaminen ja nostetaan esiin opposition ja järjestöjen huolta vaalirahoituksen avoimuuden vähenemisestä. Avoimuuden ja demokraattisen läpinäkyvyyden korostaminen on tyypillisesti arvoliberaali positio.
 
-5.3 Miinat
+3.3 Miinat
 ==
 
 - arvot: 4
-- poliittinen suuntaus: 5,
+- poliittinen suuntaus: 5
 
 > Kirjoitus on miltei neutraali uutismaisessa sävyssään, mutta siinä ei kyseenalaisteta miinojen käyttöönottoa humanitääriseltä kannalta. Siitä puuttuvat ihmisoikeusjärjestöjen huolet siviileistä ja vammoista. Vasemmistoliiton ja SPR:n kriittinen kanta mainitaan vain ohimennen. Tämä viittaa arvokonservatiiviseen painotukseen, jossa turvallisuus ja taloudelliset mahdollisuudet menevät humanitääristen näkökohtien edelle.
 
 > Kirjoitus keskittyy positiivisesti puolustusteollisuuden liiketoimintamahdollisuuksiin ja vientipotentiaaliin. Keskustan edustajan näkemykset esitetään kritiikittä. Tekstissä korostetaan osaamista ja tuotantokykyä, ei työntekijöiden oikeuksia tai sosiaalisia vaikutuksia. Mainehaitat käsitellään lähinnä liiketoiminnallisina riskeinä, ei eettisinä ongelmina. Nämä viittaavat maltilliseen oikeistolaiseen näkökulmaan.
 
-6 Yhteenveto
+5 Yhteenveto
 ===
 
 Onko Ylen uutiskirjoittaminen epäpoliittista ja arvovapaata? Ei, mutta hyvin neutraalia kyllä. Toimittajan oma arvomaailma näkyy jutuissa, mutta niin sen tietyssä määrin pitääkin. Tuloksissa näkyy lievä vasemmistolais-arvoliberaali painotus, mutta verrattuna julkiseen keskusteluun on se maltillista. Tämän analyysin lopputulos on se, että melko pienellä viilauksella Yle voisi tehdä omasta uutistoiminnasta vieläkin neutraalimpaa.  
@@ -86,8 +89,6 @@ Onko Ylen uutiskirjoittaminen epäpoliittista ja arvovapaata? Ei, mutta hyvin ne
 
 Liite
 ===
-
-Aineisto oli alunperin 83 uutista. Niistä on poistettu 7 kappaletta, joita scraper ei onnistunut keräämään kunnolla. Lisäksi yhdessä tapauksessa (numero 11) Claude ei osannut tuottaa numeerista arviota.
 
 
 |    | otsikko                                                                                                                      | Linkki                       |   arvot |   poliittinen suuntaus |
