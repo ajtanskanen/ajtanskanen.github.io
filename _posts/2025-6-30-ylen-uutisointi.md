@@ -18,7 +18,7 @@ _Kuvio 1. YLEn uutisjuttujen poliitisen näkökulma (vaaka-akseli) ja arvojen (p
 ===
 
 Suurella kielimallilla voi luokitella kirjoituksia. Tässä käytetään Anthropicin Claude Opus 4.0 -mallia.
-Tarkastelemme 83 uutista YLEn verkkosivuilla, jotka haettiin scraperilla. Aineistosta on poistettu 7 uutista, joita scraper ei onnistunut keräämään kunnolla (pääosin vain otsikko tuli mukaan ja varsinainen teksti jäi pois). Lisäksi yhdessä tapauksessa Claude ei osannut tuottaa numeerista arviota.
+Tarkastelemme 83 uutista YLEn verkkosivuilla, jotka haettiin scraperilla. Aineistosta on poistettu 8 uutista, joita scraper ei onnistunut keräämään kunnolla (pääosin vain otsikko tuli mukaan ja varsinainen teksti jäi pois). Lisäksi yhdessä tapauksessa Claude ei osannut tuottaa numeerista arviota.
 Tulokset lähdeviittauksiin ovat liitteenä blogin lopussa.
 
 Promptit, joita analyysissä on käytetty ovat kaikessa yksinkertaisuudessaan tällainen (mitään muuta promptia ei analyysissä käytetä):
@@ -143,7 +143,6 @@ Liite
 | 30 | Amerikkalaiskenraali tyrmää kansalliskaartin lähettämisen Los Angelesiin                                                      | https://yle.fi/a/74-20166874      |    -6   |                   -7   |
 | 31 | Saarikolle ja Nurmiselle vapautus kansanedustajan tehtävästä                                                                  | https://yle.fi/a/74-20166984      |     0   |                    0   |
 | 32 | Kultaranta-keskustelut alkavat ensi maanantaina – teemana muuttuva maailmanjärjestys                                          | https://yle.fi/a/74-20166853      |     0   |                    0   |
-| 33 | Tasavallan presidentti Alexander Stubbin isännöimät Kultaranta-keskustelut ensi viikolla suorana Yle TV1:ssä ja Yle Areenassa | https://yle.fi/aihe/a/20-10008795 |   nan   |                  nan   |
 | 34 | Vasemmistoliiton varakansanedustaja eroaa puolueesta – kritisoi Johannes Yrttiahon saamaa kohtelua                            | https://yle.fi/a/74-20166886      |    -1   |                   -7   |
 | 35 | Isotalus ja Pietilä Kokkolan johtoon                                                                                          | https://yle.fi/a/74-20166799      |     0   |                    0   |
 | 36 | Eduskunta hakee entiseltä kansanedustajalta Ano Turtiaiselta ulosotossa kymmeniätuhansia euroja                               | https://yle.fi/a/74-20166725      |     0   |                    0   |
@@ -183,7 +182,6 @@ Liite
 | 70 | Trump ja Saksan Merz kohtasivat Valkoisessa talossa – ”Antaa lapsien tapella”, totesi Trump Ukrainasta                        | https://yle.fi/a/74-20166047      |     0   |                    1   |
 | 71 | Hallitus tiukentaa pysyvän oleskeluluvan ehtoja – edellytyksiin kuuluu kielitaito, bonusta 40 000 euron vuosituloista         | https://yle.fi/a/74-20166033      |     4   |                    6   |
 | 72 | Kansanedustaja Karoliina Partanen kertoo joutuneensa seksuaalisen häirinnän kohteeksi – oikeudenkäynti maanantaina            | https://yle.fi/a/74-20165996      |    -3   |                    0   |
-| 73 | ”Kokoomus on kuin pukki kaalimaan vartijana” – oppositio ei ollut kyselytunnilla tyytyväinen hallituksen talouslääkkeisiin    | https://yle.fi/a/74-20166013      |   nan   |                  nan   |
 | 74 | Ministeriö haluaa, että susia voisi metsästää Suomessa jo ensi vuonna                                                         | https://yle.fi/a/74-20165944      |     3   |                    2   |
 | 75 | Katso paljon puhuva video, jolla ministerit kommentoivat rasismikoulutusta – Wille Rydman vastaa pitkän hiljaisuuden jälkeen  | https://yle.fi/a/74-20165908      |    -4   |                   -3   |
 | 76 | Halla-aho: Kukaan ei epäile Antti Pelttaria maanpetoksesta, eduskunnan kansliatoimikunta päätti lisäkuulemisista              | https://yle.fi/a/74-20165925      |    -2.5 |                    0.5 |
