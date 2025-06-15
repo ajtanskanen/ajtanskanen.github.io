@@ -12,12 +12,12 @@ tags:
 Ylen uutisointia on toisinaan arvosteltu vihervasemistolaiseksi ja liian arvoliberaaliksi. Mutta onko näin? Tätä voi analysoida melko neutraalisti suurella kielimallilla. 
 
 ![YLEn uutisten poliittisuuden jakauma](/images/YLE/jakauma.png)<br>
-_Kuvio 1. YLEn uutisten yhteisjakauma._
+_Kuvio 1. YLEn uutisjuttujen poliitisen näkökulma (vaaka-akseli) ja arvojen (pystyakseli) yhteisjakauma._
 
 1 Menetelmä ja aineisto
 ===
 
-Suurella kielimallilla voi luokitella kirjotuksia. Tässä käytetään Anthropicin Claude Opus 4.0 -mallia.
+Suurella kielimallilla voi luokitella kirjoituksia. Tässä käytetään Anthropicin Claude Opus 4.0 -mallia.
 Tarkastelemme 83 uutista YLEn verkkosivuilla, jotka haettiin scraperilla. Aineistosta on poistettu 7 uutista, joita scraper ei onnistunut keräämään kunnolla (pääosin vain otsikko tuli mukaan ja varsinainen teksti jäi pois). Lisäksi yhdessä tapauksessa Claude ei osannut tuottaa numeerista arviota.
 Tulokset lähdeviittauksiin ovat liitteenä blogin lopussa.
 
@@ -39,7 +39,7 @@ Clauden vastaukset muuttuvat eri ajokerroilla hieman, vaikka promptit ja aineist
 2 Arvot ja poliittisuus
 ===
 
-Kirjoitusten arvojen keskiarvo on -0,84 ja mediaani 0,0. Asteikko on -10 -- +10, joten keskimäärin kirjoitusten arvot ovat lähellä neutraalia, vaikka ne painottuvat arvoliberaaliin suuntaan.
+Kirjoitusten arvojen keskiarvo on -0,84 ja mediaani 0,0, kun asteikko on -10 -- +10. Kirjoitusten arvot ovat lähellä neutraalia, vaikka ne painottuvat arvoliberaaliin suuntaan.
 
 ![YLEn uutisten arvojen jakauma](/images/YLE/arvot.png)<br>
 _Kuvio 2. YLEn uutisjuttujen arvojen jakauma._
@@ -49,9 +49,7 @@ Arvojen jakauma painottuu arvoliberaaliin suuntaan. Kuitenkin selvästi arvokons
 ![YLEn uutisten poliittisuuden jakauma](/images/YLE/poliittinen.png)<br>
 _Kuvio 3. YLEn uutisjuttujen poliittisuuden jakauma._
 
-Kirjoitusten poliittisen näkökulman keskiarvo on -0,63 ja mediaani 0,0. Asteikko on -10 -- +10, joten keskimäärin kirjoitusten arvot ovat lähellä neutraalia, vaikka ne painottuvat arvoliberaaliin suuntaan.
-
-Poliittisten näkökulmien jakauma painottuu vasemmistoon.
+Kirjoitusten poliittisen näkökulmien keskiarvo on -0,63 ja mediaani 0,0. Asteikko on -10 -- +10. Kirjoitusten arvot ovat lähellä neutraalia, vaikka niiden näkökulmaat keskimäärin painottuvat vasemmistoon.
 
 Arvojen ja polittiisen näkökulman Yhteisjakauma (Kuvio 1) näyttää että suurin osa uutisista on vasemmisto/arvoliberaali - oikeisto/arvokonservatismi -akselilla. Yhteisjakaumassa on vähän havaintoja oikeisto/arvoliberaali -neljänneksestä tai vasemmisto/arvokonservatiivi -neljänneksestä. Tämä sama ilmiö näkyy vaalien yhteydessä tehdyissä ehdokkaiden arvokartoissa.
 
