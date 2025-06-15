@@ -81,10 +81,15 @@ vastaavasti vaalirahoituksesta kertova juttu (https://yle.fi/a/74-20167070) arvi
 
 > Kirjoitus keskittyy positiivisesti puolustusteollisuuden liiketoimintamahdollisuuksiin ja vientipotentiaaliin. Keskustan edustajan näkemykset esitetään kritiikittä. Tekstissä korostetaan osaamista ja tuotantokykyä, ei työntekijöiden oikeuksia tai sosiaalisia vaikutuksia. Mainehaitat käsitellään lähinnä liiketoiminnallisina riskeinä, ei eettisinä ongelmina. Nämä viittaavat maltilliseen oikeistolaiseen näkökulmaan.
 
+4 Analyysin puutteet
+===
+
+Tämän blogin analyysin ei ole tarkoitus olla kattava. Aineistossa oli vain 83 juttua, joista 76 päätyi lopulliseen analyysiin. Laajempi tutkimus kertoisi paremmin, miten neutraalia Ylen uutisointi on ja paikallistaisi mahdolliset ylilyönnit eri suuntiin. Samaa metodologiaa voi käyttä helposti muihinkin viestintävälineisiin.
+
 5 Yhteenveto
 ===
 
-Onko Ylen uutiskirjoittaminen epäpoliittista ja arvovapaata? Ei, mutta hyvin neutraalia kyllä. Toimittajan oma arvomaailma näkyy jutuissa, mutta niin sen tietyssä määrin pitääkin. Tuloksissa näkyy lievä vasemmistolais-arvoliberaali painotus, mutta verrattuna julkiseen keskusteluun on se maltillista. Tämän analyysin lopputulos on se, että melko pienellä viilauksella Yle voisi tehdä omasta uutistoiminnasta vieläkin neutraalimpaa.  
+Onko Ylen uutiskirjoittaminen epäpoliittista ja arvovapaata? Ei, mutta se on kylläkin melko neutraalia. Toimittajan oma arvomaailma näkyy jutuissa, mutta niin sen tietyssä määrin pitääkin. Tuloksissa näkyy lievä vasemmistolais-arvoliberaali painotus, mutta verrattuna julkisen keskustelun käsityksiin, vinouma on pientä. Tämän analyysin lopputulos on se, että melko pienellä viilauksella Yle voisi tehdä omasta uutistoiminnasta vieläkin neutraalimpaa.  
 
 
 Liite
