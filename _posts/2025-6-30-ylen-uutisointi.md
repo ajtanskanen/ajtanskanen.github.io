@@ -12,49 +12,50 @@ tags:
 Ylen uutisointia on toisinaan arvosteltu vihervasemistolaiseksi ja liian arvoliberaaliksi. Mutta onko näin? Tätä voi analysoida melko neutraalisti suurella kielimallilla. 
 
 ![YLEn uutisten poliittisuuden jakauma](/images/YLE/jakauma.png)<br>
-_Kuvio 1. YLEn uutisjuttujen poliitisen näkökulma (vaaka-akseli) ja arvojen (pystyakseli) yhteisjakauma._
+_Kuvio 1. YLEn uutisjuttujen poliittisen näkökulman (vaaka-akseli) ja arvojen (pystyakseli) yhteisjakauma._
 
 1 Menetelmä ja aineisto
 ===
 
-Suurella kielimallilla voi luokitella kirjoituksia. Tässä käytetään Anthropicin Claude Opus 4.0 -mallia.
-Tarkastelemme 83 uutista YLEn verkkosivuilla, jotka haettiin scraperilla. Aineistosta on poistettu 7 uutista, joita scraper ei onnistunut keräämään kunnolla (pääosin vain otsikko tuli mukaan ja varsinainen teksti jäi pois). Lisäksi yhdessä tapauksessa Claude ei osannut tuottaa numeerista arviota.
-Tulokset lähdeviittauksiin ovat liitteenä blogin lopussa.
+Suurella kielimallilla voi luokitella kirjoituksia erilaisilla perusteilla. Tässä käytetään Anthropicin Claude Opus 4 -mallia.
+Tarkastelen 83 uutisjuttua YLEn verkkosivuilla. Juttujen teksti haettiin scraperilla analyysiä varten. Tästä aineistosta on poistettu 7 uutista, joita scraper ei onnistunut keräämään kunnolla koska vain otsikko tuli mukaan ja varsinainen teksti jäi pois. Lisäksi yhdessä tapauksessa Claude ei osannut tuottaa numeerista arviota. Lista jutuista ja tulokset löytyy tiiviissä muodossa blogin lopussa.
 
-Promptit, joita analyysissä on käytetty ovat kaikessa yksinkertaisuudessaan tällainen (mitään muuta promptia ei analyysissä käytetä):
+Promptit, joita analyysissä on käytetty, ovat yksinkertaisia. Mitään muita prompteja ei analyysissä käytetä.
+
 Systeemi-prompti:
 > You are an AI assistant tasked with analyzing political biases in works. Your goal is to provide insightful commentary on polical leaning, and liberal/conservative leaning. output in JSON format with keys: \“arvot\” (asteikko (-10,10)), \"poliittinen suuntaus\" (asteikko (-10,10)), \"perustelut arvot\", and \"perustelut poliittinen suuntaus\".\n
 
 Analyysi-prompti:
 > Analysoi kirjoitus. Onko se kirjoitettu arvoliberaalista vai arvokonservatiivisesta näkökulmasta? arvioi asteikolla (-10,10). Arvo -10 tarkoittaa hyvin arvoliberaalia, arvo 10 hyvin arvokonservatiivista. Entä onko se kirjoitettu vasemmistolaisesta vai oikeistolaisesta näkökulmasta? arvioi asteikolla (-10,10). Arvo -10 tarkoittaa hyvin vasemmistolaista, arvo 10 hyvin oikeistolaista. Vastaa JSON muodossa. (encode special chars properly)
 
-Promptin tarkoituksena on tuottaa numeerinen arvio YLEn kirjoituksen poliittisuudesta ja sen arvoista. Poliittisuus arvioidaan vasemmisto-oikeisto -akselilla, kun taas kirjoituksen arvot arvioidaan arvoliberaali-konservatiivi -akselilla. Näiden pitäisi vastata esimerkiksi Helsingin Sanomien tekemien arvokarttojen asteikkoja, vaikka metodologia on erilainen.
+Promptien tarkoituksena on tuottaa numeerinen arvio YLEn jutun poliittisesta näkökulmasta ja siitä, mitä arvonäkökulmasta juttu on kirjoitettu. Poliittinen näkökulma arvioidaan vasemmisto-oikeisto -akselilla, kun taas kirjoituksen arvot arvioidaan arvoliberaali-konservatiivi -akselilla. Näiden pitäisi vastata esimerkiksi Helsingin Sanomien tekemien arvokarttojen asteikkoja, vaikka metodologia on erilainen.
 
-Jokaista tekstiä varten keskustelu avataan uudestaan, jotta aiemmat vastaukset eivät sotke tuloksia. Lämpötila on 1.0, jotta tulokset olisivat toistettavissa.
+Jokaista tekstiä varten keskustelu Clauden kanssa avataan uudestaan, jotta aiemmat vastaukset eivät sotke tuloksia. Lämpötila on mallinnuksessa 1.0, jotta tulokset olisivat mahdollisimman toistettavissa. Clauden vastaukset muuttuvat eri ajokerroilla hieman, vaikka promptit ja aineistot pysyvät samoina. Vaihtelu ei kuitenkaan vaikuta olevan kovin suurta.
 
-Blogin analyysin ei ole tarkoitus olla kattava. Aineistossa oli vain 83 juttua, joista 76 päätyi lopulliseen analyysiin. Laajempi tutkimus kertoisi paremmin, miten neutraalia Ylen uutisointi on ja paikallistaisi mahdolliset ylilyönnit eri suuntiin. Samaa metodologiaa voi käyttä helposti muihinkin viestintävälineisiin. 
-Clauden vastaukset muuttuvat eri ajokerroilla hieman, vaikka promptit ja aineistot pysyvät samoina. Vaihtelu ei kuitenkaan vaikuta oleva kovin suurta.
+Blogin analyysin ei ole tarkoitus olla kattava. Aineistossa oli vain 83 juttua, joista 76 päätyi lopulliseen analyysiin. Laajempi tutkimus kertoisi paremmin, miten neutraalia Ylen uutisointi on ja paikallistaisi mahdolliset ylilyönnit eri suuntiin. Samaa metodologiaa voi käyttää myös muidenkin viestintävälineiden juttujen analysointiin. 
 
 
 2 Arvot ja poliittisuus
 ===
 
-Kirjoitusten arvojen keskiarvo on -0,84 ja mediaani 0,0, kun asteikko on -10 -- +10. Kirjoitusten arvot ovat lähellä neutraalia, vaikka ne painottuvat arvoliberaaliin suuntaan.
+Juttujen arvojen keskiarvo on -0,84 ja mediaani 0,0, kun asteikko on -10 -- +10. Kirjoitusten arvot ovat lähellä neutraalia, vaikka ne painottuvat arvoliberaaliin (asteikossa negatiiviseen) suuntaan.
 
 ![YLEn uutisten arvojen jakauma](/images/YLE/arvot.png)<br>
 _Kuvio 2. YLEn uutisjuttujen arvojen jakauma._
 
-Arvojen jakauma painottuu arvoliberaaliin suuntaan. Kuitenkin selvästi arvokonservatiivisia havaintoja on myös joukossa.
+Vaikka arvojen jakauma painottuu arvoliberaaliin suuntaan, on joukossa myös selvästi arvokonservatiivisesta näkökulmasta kirjoitettuja juttuja.
 
 ![YLEn uutisten poliittisuuden jakauma](/images/YLE/poliittinen.png)<br>
 _Kuvio 3. YLEn uutisjuttujen poliittisuuden jakauma._
 
-Kirjoitusten poliittisen näkökulmien keskiarvo on -0,63 ja mediaani 0,0. Asteikko on -10 -- +10. Kirjoitusten arvot ovat lähellä neutraalia, vaikka niiden näkökulmaat keskimäärin painottuvat vasemmistoon.
+Kirjoitusten poliittisten näkökulmien keskiarvo on -0,63 ja mediaani 0,0. Asteikko on -10 -- +10. Kirjoitusten arvot ovat lähellä neutraalia, vaikka niiden näkökulmaat keskimäärin painottuvat vasemmistoon (asteikossa negatiivinen).
 
-Arvojen ja polittiisen näkökulman Yhteisjakauma (Kuvio 1) näyttää että suurin osa uutisista on vasemmisto/arvoliberaali - oikeisto/arvokonservatismi -akselilla. Yhteisjakaumassa on vähän havaintoja oikeisto/arvoliberaali -neljänneksestä tai vasemmisto/arvokonservatiivi -neljänneksestä. Tämä sama ilmiö näkyy vaalien yhteydessä tehdyissä ehdokkaiden arvokartoissa.
+Arvojen ja polittiisen näkökulman yhteisjakauma (Kuvio 1) osoittaa että suurin osa uutisjutuista on vasemmisto/arvoliberaali - oikeisto/arvokonservatismi -akselilla. Yhteisjakaumassa on vähän havaintoja oikeisto/arvoliberaali -neljänneksestä tai vasemmisto/arvokonservatiivi -neljänneksestä. Tämä sama ilmiö näkyy vaalien yhteydessä tehdyissä ehdokkaiden arvokartoissa. Myös yhteisjakauma näyttää, että juttujen paino on hyvin neutraali.
 
 3 Esimerkkejä tuloksista
 ===
+
+Seuraavaksi käyn hieman yksityiskohtaisemmin läpi muutaman jutun. Arvion jälkeen esitetään Clauden perustelut arvostelulle.
 
 3.1 Sudenmetsästys
 ==
@@ -103,7 +104,7 @@ Mika Poutalasta kertova [juttu](https://yle.fi/a/74-20162150) arvioidaan arvoneu
 4 Yhteenveto
 ===
 
-Onko Ylen uutiskirjoittaminen epäpoliittista ja arvovapaata? Ei, mutta se on kylläkin melko neutraalia. Toimittajan oma arvomaailma näkyy jutuissa, mutta niin sen tietyssä määrin pitääkin. Tuloksissa näkyy lievä vasemmistolais-arvoliberaali painotus, mutta verrattuna julkisen keskustelun käsityksiin, vinouma on pientä. Tämän analyysin lopputulos on se, että melko pienellä viilauksella Yle voisi tehdä omasta uutistoiminnasta vieläkin neutraalimpaa.  
+Onko Ylen uutiskirjoittaminen epäpoliittista ja arvovapaata? Ei, mutta se on kylläkin melko neutraalia. Toimittajan oma arvomaailma näkyy jutuissa, mutta niin sen tietyssä määrin pitääkin. Tuloksista näkyy lievä vasemmistolais-arvoliberaali painotus, mutta verrattuna julkisen keskustelun käsityksiin, vinouma on pientä. Tämän analyysin lopputulos on se, että melko pienellä viilauksella Yle voisi tehdä omasta uutistoiminnasta vieläkin neutraalimpaa. 
 
 
 Liite
