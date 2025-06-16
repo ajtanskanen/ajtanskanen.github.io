@@ -30,6 +30,6 @@ This is my personal site and does not have any connection to my employer.
 
 Contact
 =====
-Should you have any comments or questions on my musings, or even corrections on them, I am more than happy to <a href="email:antti.tanskanen@iki.fi">receive them!</a>
+Should you have any comments or questions on my musings, or corrections on them, I am more than happy to <a href="email:antti.tanskanen@iki.fi">receive them!</a>
 
 
