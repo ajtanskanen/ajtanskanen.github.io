@@ -1,6 +1,6 @@
 ---
 title: 'Ylen uutisoinnin poliittisuus ja arvot'
-date: 2025-06-30
+date: 2025-06-20
 permalink: /posts/2025/6/ylenuutisointi/
 summary: 'Blogi | Ylen uutisointia on toisinaan pidetty vihervasemmistolaisena, toisinaan oikeistolaisena, vaikka uutisoinnin pitäisi olla neutraalia. Uutisoinnin neutraaliutta voi analysoida suurilla kielimalleilla. Tässä käytämme Anthropicin Claudea, jonka mukaan Ylen uutisointi on pääosin neutraalia, vaikka keskimäärin se on hieman kallellaan poliittiseen vasemmistoon ja arvoliberaaliin suuntaan.'
 tags:
