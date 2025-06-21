@@ -9,7 +9,8 @@ tags:
   - arvot
 ---
 
-Ylen uutisointia on toisinaan arvosteltu vihervasemistolaiseksi ja liian arvoliberaaliksi. Mutta onko näin? Tätä voi analysoida melko neutraalisti suurella kielimallilla. 
+Ylen uutisointia on toisinaan arvosteltu vihervasemistolaiseksi ja liian arvoliberaaliksi. Mutta onko näin? Tässä blogissa Ylen uutisjuttujen arvoja ja poliittista näkökulmaa analysoidaan suurella kielimallilla. 
+Tulosten mukaan jutuissa näkyy lievä vasemmistolais-arvoliberaali painotus, mutta kokonaisuutena uutisointi on melko neutraalia.
 
 ![YLEn uutisten poliittisuuden jakauma](/images/YLE/jakauma.png)<br>
 _Kuvio 1. YLEn uutisjuttujen poliittisen näkökulman (vaaka-akseli) ja arvojen (pystyakseli) yhteisjakauma._
