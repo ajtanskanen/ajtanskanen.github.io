@@ -66,7 +66,7 @@ Arvojen ja polittiisen näkökulman yhteisjakauma (Kuvio 1) osoittaa että suuri
 5 Esimerkkejä tuloksista
 ===
 
-Seuraavaksi käyn hieman yksityiskohtaisemmin läpi muutaman jutun. Arvion jälkeen esitetään Clauden perustelut arvostelulle.
+Seuraavaksi käyn hieman yksityiskohtaisemmin läpi Clauden arviot muutamasta pääkirjoituksesta.
 
 5.1 Myllypuro uudistui ja kaikki voittivat – paitsi ennakkoluulot
 ==
@@ -114,7 +114,7 @@ Seuraavaksi käyn hieman yksityiskohtaisemmin läpi muutaman jutun. Arvion jälk
 6 Yhteenveto
 ===
 
-Tulosten mukaan HS tunnustaa arvokysymyksissä selvästi väriä: pääkirjoitukset on kirjoitettu vahvasti arvoliberaalista näkökulmasta. Poliittisesti tulos ei ole yhtä selvä, vaikka pääkirjoituksissa painottuu vahvasti maltillinen vasemmistolaisuus. Ehkä Björn Wahlroos oli oikeassa, kun hän haastattelussa kertoi pitävänsä Helsingin Sanomia oikeistodemokraattina.
+Tulosten mukaan HS tunnustaa arvokysymyksissä selvästi väriä: pääkirjoitukset on kirjoitettu vahvasti arvoliberaalista näkökulmasta. Poliittisesti tulos ei ole yhtä selvä, vaikka pääkirjoituksissa painottuu vahvasti maltillinen vasemmistolaisuus. Näiden tulosten mukaan Helsingin Sanomien pääkirjoitusten näkökulma muistuttaa hieman tannerilaista oikeistososialidemokraattiaa. 
 
 
 Liite
