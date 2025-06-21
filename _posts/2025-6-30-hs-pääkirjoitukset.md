@@ -1,6 +1,6 @@
 ---
 title: 'Helsingin sanomien pääkirjoitusten poliittisuus ja arvot'
-date: 2025-06-30
+date: 2025-06-21
 permalink: /posts/2025/6/paakirjoitukset/
 summary: 'Blogi | Helsingin Sanomien pääkirjoituksissa otetaan usein kantaa ajankohtaisiin asioihin. Uutisoinnin neutraaliutta voi analysoida suurilla kielimalleilla. Tässä käytämme Anthropicin Claudea, jonka mukaan HS:n pääkirjoitukset painottuvat vahvasti arvoliberalismia kannattaviksi ja maltillisen vasemmistolaisiksi.'
 tags:
@@ -105,8 +105,7 @@ Seuraavaksi käyn hieman yksityiskohtaisemmin läpi muutaman jutun. Arvion jälk
 
 5.5 Telakka tuo rahaa ja työtä Suomeen
 ==
-
-Telakasta kertova [pääkirjoitus](https://www.hs.fi/paakirjoitukset/art-2000011272057.html) arvioidaan arvoneutraaliksi (0) ja poliittisesti neutraaliksi (0).
+[Telakasta kertova pääkirjoitus](https://www.hs.fi/paakirjoitukset/art-2000011272057.html) arvioidaan arvoneutraaliksi (0) ja poliittisesti neutraaliksi (0).
 
 > Teksti ei käsittele varsinaisia arvopohjaan liittyviä kysymyksiä. Se keskittyy käytännön talousteemoihin kuten työllisyyteen, vientiin ja jalostusarvoon. Maininta Ruotsista viittaa konservatiiviseen argumenttiin asevelvollisuuden ja teollisuuden säilyttämisen puolesta. Kansallisen edun korostaminen viittaa lievästi konservatiiviseen ajatteluun.
 
