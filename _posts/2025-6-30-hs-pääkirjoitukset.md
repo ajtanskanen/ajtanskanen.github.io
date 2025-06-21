@@ -107,7 +107,7 @@ Seuraavaksi käyn hieman yksityiskohtaisemmin läpi muutaman jutun. Arvion jälk
 5.5 Telakka tuo rahaa ja työtä Suomeen
 ==
 
-Mika Poutalasta kertova [juttu](https://yle.fi/a/74-20162150) arvioidaan arvoneutraaliksi (0) ja poliittisesti neutraaliksi (0).
+Telakasta kertova [pääkirjoitus](https://yle.fi/a/74-20162150) arvioidaan arvoneutraaliksi (0) ja poliittisesti neutraaliksi (0).
 
 > Teksti ei käsittele varsinaisia arvopohjaan liittyviä kysymyksiä. Se keskittyy käytännön talousteemoihin kuten työllisyyteen, vientiin ja jalostusarvoon. Maininta Ruotsista viittaa konservatiiviseen argumenttiin asevelvollisuuden ja teollisuuden säilyttämisen puolesta. Kansallisen edun korostaminen viittaa lievästi konservatiiviseen ajatteluun.
 
