@@ -11,8 +11,6 @@ tags:
 
 Helsingin Sanomat on arvostettu suomalainen instituutio, joka ei ole vain passiivinen asioiden seuraaja, vaan ottaa lehtenä kantaa ajankohtaisiin asioihin. Lehden linjaa esitellään pääkirjoituksissa. Tässä blogissa analysoidaan, mihin kohtaan arvokarttaa pääkirjoitukset sijoittuvat. Tulosten mukaan HS on vahvasti arvoliberaali ja lievästi vasemmistolainen lehti.
 
-Alun perin Helsingin Sanomat perustettiin nuorsuomalaisen Päivälehden jatkajaksi. Se aatemaailma tulee siis porvarillis-liberaalista, sosiaalisia asioita korostaneesta nuorsuomalaisesta liikkeestä.
-
 ![HS:n uutisten poliittisuuden jakauma](/images/HS/jakauma.png)<br>
 _Kuvio 1. HS:n uutisjuttujen poliittisen näkökulman (vaaka-akseli) ja arvojen (pystyakseli) yhteisjakauma._
 
@@ -41,12 +39,11 @@ Promptien tarkoituksena on tuottaa numeerinen arvio kirjoituksen poliittisesta n
 
 Jokaista tekstiä varten keskustelu Clauden kanssa avataan uudestaan, jotta aiemmat vastaukset eivät sotke tuloksia. Lämpötila on mallinnuksessa 1.0, jotta tulokset olisivat mahdollisimman toistettavissa. Clauden vastaukset muuttuvat eri ajokerroilla hieman, vaikka promptit ja aineistot pysyvät samoina. Vaihtelu ei kuitenkaan vaikuta olevan kovin suurta.
 
-
 3 Arvot
 ===
 
 Pääkirjoitukset ovat selvästi arvoliberaaleja: keskiarvo on -2,3 asteikolla (-10; 10). Tyypillinen pääkirjoitus on sekin selvästi arvoliberaali, sillä mediaani on -2.
-Tämä lienee odotettua, koska HS perustettiin kannattamaan liberaaleja arvoja.
+Tämä lienee odotettua, koska HS on jo aikoinaan perustettu kannattamaan liberaaleja arvoja.
 
 ![HS:n pääkirjoitusten arvojen jakauma](/images/HS/arvot.png)<br>
 _Kuvio 2. HS:n pääkirjoitusten arvojen jakauma._
