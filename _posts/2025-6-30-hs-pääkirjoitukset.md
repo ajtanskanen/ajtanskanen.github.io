@@ -28,8 +28,7 @@ Blogin analyysin ei ole tarkoitus olla kattava. Aineistossa oli vain 39 pääkir
 ===
 
 Suurella kielimallilla voi luokitella kirjoituksia erilaisilla perusteilla. Tässä käytetään Anthropicin Claude Opus 4 -mallia.
-Tarkastelen 83 uutisjuttua YLEn verkkosivuilla. Juttujen teksti haettiin scraperilla analyysiä varten. Tästä aineistosta on poistettu 7 uutista, joita scraper ei onnistunut keräämään kunnolla koska vain otsikko tuli mukaan ja varsinainen teksti jäi pois. Lisäksi yhdessä tapauksessa Claude ei osannut tuottaa numeerista arviota. Lista jutuista ja tulokset löytyy tiiviissä muodossa blogin lopussa.
-
+Lista jutuista ja tulokset löytyy tiiviissä muodossa blogin lopussa.
 Promptit, joita analyysissä on käytetty, ovat yksinkertaisia. Mitään muita prompteja ei analyysissä käytetä.
 
 Systeemi-prompti:
@@ -49,8 +48,8 @@ Jokaista tekstiä varten keskustelu Clauden kanssa avataan uudestaan, jotta aiem
 Pääkirjoitukset ovat selvästi arvoliberaaleja: keskiarvo on -2,3 asteikolla (-10; 10). Tyypillinen pääkirjoitus on sekin selvästi arvoliberaali, sillä mediaani on -2.
 Tämä lienee odotettua, koska HS perustettiin kannattamaan liberaaleja arvoja.
 
-![YLEn uutisten arvojen jakauma](/images/HS/arvot.png)<br>
-_Kuvio 2. YLEn uutisjuttujen arvojen jakauma._
+![HS:n pääkirjoitusten arvojen jakauma](/images/HS/arvot.png)<br>
+_Kuvio 2. HS:n pääkirjoitusten arvojen jakauma._
 
 Vaikka arvojen jakauma painottuu vahvasti arvoliberaaliin suuntaan, on pääkirjoitusten joukossa myös arvokonservatiivisesta näkökulmia.
 
@@ -59,8 +58,8 @@ Vaikka arvojen jakauma painottuu vahvasti arvoliberaaliin suuntaan, on pääkirj
 
 Kirjoitusten näkökulmien on hyvin lievästi vasemmistolainen: keskiarvo on -0,5 asteikolla (-10; 10). Tyypillinen pääkirjoitus taas on maltillisen vasemmistolainen, sillä mediaani on -2. Tämä siis tarkoittaa, että myös pääkirjoitusten joukossa on selvästi oikeistolaisia pääkirjoituksia. Tämä näkyy kuviosta 3.
 
-![YLEn uutisten poliittisuuden jakauma](/images/HS/poliittinen.png)<br>
-_Kuvio 3. YLEn uutisjuttujen poliittisuuden jakauma._
+![HS:n pääkirjoitusten poliittisuuden jakauma](/images/HS/poliittinen.png)<br>
+_Kuvio 3. HS:n pääkirjoitusten poliittisuuden jakauma._
 
 Arvojen ja polittiisen näkökulman yhteisjakauma (Kuvio 1) osoittaa että suurin osa uutisjutuista on vasemmisto/arvoliberaali - oikeisto/arvokonservatismi -akselilla. Yhteisjakaumassa on vähän havaintoja oikeisto/arvoliberaali -neljänneksestä tai vasemmisto/arvokonservatiivi -neljänneksestä. Tämä sama ilmiö näkyy vaalien yhteydessä tehdyissä ehdokkaiden arvokartoissa. Myös yhteisjakauma näyttää, että juttujen paino on hyvin neutraali.
 
@@ -80,7 +79,7 @@ Seuraavaksi käyn hieman yksityiskohtaisemmin läpi muutaman jutun. Arvion jälk
 
 5.2 Ilmailun työtaistelu
 ==
-[Ilmailun työtaistelusta kertova pääkirjoitus](https://yle.fi/a/74-20167070) arvioidaan lievästi arvokonservatiiviseksi (+2) ja selvästi oikeistolaisesta näkökulmasta kirjoitetuksi (+5).
+[Ilmailun työtaistelusta kertova pääkirjoitus](https://www.hs.fi/paakirjoitukset/art-2000011274686.html) arvioidaan lievästi arvokonservatiiviseksi (+2) ja selvästi oikeistolaisesta näkökulmasta kirjoitetuksi (+5).
 
 > Kirjoitus ei käsittele arvoliberaaleja tai -konservatiivisia teemoja kuten perhearvoja, seksuaalivähemmistöjä, maahanmuuttoa tai muita sosiokulttuurisia kysymyksiä. Teksti keskittyy puhtaasti työmarkkinapolitiikkaan ja talouteen, joten arvoulottuvuuden arviointi on neutraali hieman konservatiivisen sävyisellä tavalla korostaen järjestelmän vakautta.
 
@@ -89,7 +88,7 @@ Seuraavaksi käyn hieman yksityiskohtaisemmin läpi muutaman jutun. Arvion jälk
 5.3 Piispat tekivät ison linjauksen samaa sukupuolta olevien vihkimisestä 
 ==
 
-[Kirkolliskokouksen päätöstä arvioiva pääkirjoitus](https://yle.fi/a/74-20167408) on selvästi arvoliberaali (-6) ja poliittiselta näkökulmaltaan neutraali (0).
+[Kirkolliskokouksen päätöstä arvioiva pääkirjoitus](https://www.hs.fi/paakirjoitukset/art-2000011272057.html) on selvästi arvoliberaali (-6) ja poliittiselta näkökulmaltaan neutraali (0).
 
 > Kirjoitus on kirjoitettu selkeästi arvoliberaalista näkökulmasta. Teksti kuvaa positiivisena kehityksenä piispojen linjauksen olla rankaisematta samaa sukupuolta olevien parien vihkiviä pappeja. Kirjoittaja kutsuu tilannetta 'merkittäväksi askeleeksi' ja pitää ratkaisua 'parhaana tapana' selvittää asia. Hän ei kritisoi yhteiskunnallista muutosta tasa-arvoisen avioliittolain suuntaan, vaan päinvastoin esittää kirkon perinteisen avioliittokäsityksen ja nykytilanteen välisen ristiriidan ongelmallisena ja kirkkoa 'repivänä'. Kirjoittaja rinnastaa myös samaa sukupuolta olevien vihkimisen eronneiden vihkimiseen, vihjaten että kyse on samanlaisesta luonnollisesta kehityksestä.
 
@@ -98,7 +97,7 @@ Seuraavaksi käyn hieman yksityiskohtaisemmin läpi muutaman jutun. Arvion jälk
 5.4 Raja railona aukeaa Suomen sisällä
 ==
 
-[Väestöllisestä painopisteestä kertova pääkirjoitus](https://yle.fi/a/74-20163230) on arvoliberaali (-3) ja maltillisen oikeistolainen (+3).
+[Väestöllisestä painopisteestä kertova pääkirjoitus](https://www.hs.fi/paakirjoitukset/art-2000011279927.html) on arvoliberaali (-3) ja maltillisen oikeistolainen (+3).
 
 > Pääkirjoitus vaikuttaa arvoliberaalin näkökulman suuntaan kallistuvan. Siinä hyväksytään Suomen rakennemuutos, globalisaatio ja kansainvälistyminen luonnollisina kehityssuuntina. Vihreä siirtymä mainitaan myönteisenä talouden moottoriena. Perinteinen 'koko Suomi pidettävä asuttuna' -ajatus kyseenalaistetaan rationaalisesti ilman nostalgista kaipuuta.
 
@@ -107,7 +106,7 @@ Seuraavaksi käyn hieman yksityiskohtaisemmin läpi muutaman jutun. Arvion jälk
 5.5 Telakka tuo rahaa ja työtä Suomeen
 ==
 
-Telakasta kertova [pääkirjoitus](https://yle.fi/a/74-20162150) arvioidaan arvoneutraaliksi (0) ja poliittisesti neutraaliksi (0).
+Telakasta kertova [pääkirjoitus](https://www.hs.fi/paakirjoitukset/art-2000011272057.html) arvioidaan arvoneutraaliksi (0) ja poliittisesti neutraaliksi (0).
 
 > Teksti ei käsittele varsinaisia arvopohjaan liittyviä kysymyksiä. Se keskittyy käytännön talousteemoihin kuten työllisyyteen, vientiin ja jalostusarvoon. Maininta Ruotsista viittaa konservatiiviseen argumenttiin asevelvollisuuden ja teollisuuden säilyttämisen puolesta. Kansallisen edun korostaminen viittaa lievästi konservatiiviseen ajatteluun.
 
