@@ -9,7 +9,9 @@ tags:
   - arvot
 ---
 
-Helsingin Sanomat perustettiin nuorsuomalaisen Päivälehden jatkajaksi. Se aatemaailma tulee siis porvarillis-liberaalista, sosiaalisia asioita korostaneesta nuorsuomalaisesta liikkeestä.
+Helsingin Sanomat on arvostettu suomalainen instituutio, joka ei ole vain passiivinen asioiden seuraaja, vaan ottaa lehtenä kantaa ajankohtaisiin asioihin. Linjaa esitellään pääkirjoituksissa. Tässä blogissa analysoidaan, mihin kohtaan arvokarttaa pääkirjoitukset sijoittuvat. Tulosten mukaan HS on vahvasti arvoliberaali ja lievästi vasemmistolainen lehti.
+
+Alun perin Helsingin Sanomat perustettiin nuorsuomalaisen Päivälehden jatkajaksi. Se aatemaailma tulee siis porvarillis-liberaalista, sosiaalisia asioita korostaneesta nuorsuomalaisesta liikkeestä.
 
 ![HS:n uutisten poliittisuuden jakauma](/images/HS/jakauma.png)<br>
 _Kuvio 1. HS:n uutisjuttujen poliittisen näkökulman (vaaka-akseli) ja arvojen (pystyakseli) yhteisjakauma._
@@ -20,7 +22,7 @@ _Kuvio 1. HS:n uutisjuttujen poliittisen näkökulman (vaaka-akseli) ja arvojen 
 1 Aineisto
 ===
 
-Helsingin Sanomien linjaa kuvaavat [pääkirjoitukset](https://www.hs.fi/info/art-2000010221266.html):
+Helsingin Sanomat kuvaavaa [pääkirjoitusten](https://www.hs.fi/info/art-2000010221266.html) linjaa:
 
 > Pääkirjoituksissa määritellään lehden kanta eri asioihin, mutta uutistoimituksen työtä pääkirjoitukset eivät määritä. Niiden linjaukset eivät myöskään poista objektiivisuuden tai tasapuolisuuden vaadetta uutissisällöissä.
 
