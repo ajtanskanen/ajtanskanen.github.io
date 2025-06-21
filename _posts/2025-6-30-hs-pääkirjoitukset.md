@@ -1,7 +1,7 @@
 ---
 title: 'Helsingin sanomien pääkirjoitusten poliittisuus ja arvot'
 date: 2025-06-30
-permalink: /posts/2025/6/ylenuutisointi/
+permalink: /posts/2025/6/paakirjoitukset/
 summary: 'Blogi | Helsingin Sanomien pääkirjoituksissa otetaan usein kantaa ajankohtaisiin asioihin. Uutisoinnin neutraaliutta voi analysoida suurilla kielimalleilla. Tässä käytämme Anthropicin Claudea, jonka mukaan HS:n pääkirjoitukset painottuvat vahvasti arvoliberalismia kannattaviksi ja maltillisen vasemmistolaisiksi.'
 tags:
   - pääkirjoitukset
