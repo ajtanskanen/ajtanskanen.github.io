@@ -16,14 +16,10 @@ Alun perin Helsingin Sanomat perustettiin nuorsuomalaisen Päivälehden jatkajak
 ![HS:n uutisten poliittisuuden jakauma](/images/HS/jakauma.png)<br>
 _Kuvio 1. HS:n uutisjuttujen poliittisen näkökulman (vaaka-akseli) ja arvojen (pystyakseli) yhteisjakauma._
 
-1 Menetelmä ja aineisto
-===
-
 1 Aineisto
 ===
 
-Helsingin Sanomat kuvaavaa [pääkirjoitusten](https://www.hs.fi/info/art-2000010221266.html) linjaa:
-
+Helsingin Sanomat kuvaava itse [pääkirjoitusten](https://www.hs.fi/info/art-2000010221266.html) linjaa näin:
 > Pääkirjoituksissa määritellään lehden kanta eri asioihin, mutta uutistoimituksen työtä pääkirjoitukset eivät määritä. Niiden linjaukset eivät myöskään poista objektiivisuuden tai tasapuolisuuden vaadetta uutissisällöissä.
 
 Blogin analyysin ei ole tarkoitus olla kattava. Aineistossa oli vain 39 pääkirjoitusta, jotka on kerätty 31.5.2025-20.6.2025 väliltä. Laajempi tutkimus kertoisia paremmin, miten HS sijoittuu arvokartalle. 
