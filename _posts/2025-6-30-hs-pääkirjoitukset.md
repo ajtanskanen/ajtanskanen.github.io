@@ -22,7 +22,7 @@ _Kuvio 1. HS:n uutisjuttujen poliittisen näkökulman (vaaka-akseli) ja arvojen 
 Helsingin Sanomat kuvaava itse [pääkirjoitusten](https://www.hs.fi/info/art-2000010221266.html) linjaa näin:
 > Pääkirjoituksissa määritellään lehden kanta eri asioihin, mutta uutistoimituksen työtä pääkirjoitukset eivät määritä. Niiden linjaukset eivät myöskään poista objektiivisuuden tai tasapuolisuuden vaadetta uutissisällöissä.
 
-Blogin analyysin ei ole tarkoitus olla kattava. Aineistossa oli vain 39 pääkirjoitusta, jotka on kerätty 31.5.2025-20.6.2025 väliltä. Laajempi tutkimus kertoisia paremmin, miten HS sijoittuu arvokartalle. 
+Blogin analyysin ei ole tarkoitus olla kattava. Aineistossa oli vain 40 pääkirjoitusta, jotka on kerätty 31.5.2025-20.6.2025 väliltä. Laajempi tutkimus pystyisi arvioimaan tätä tutkimusta paremmin, miten HS sijoittuu arvokartalle. Olisi myös kiinnostavaa nähdä, onko HS:n sijainti arvokartalla muuttunut ajan kuluessa.
 
 2 Menetelmä
 ===
@@ -88,7 +88,7 @@ Seuraavaksi käyn hieman yksityiskohtaisemmin läpi Clauden arviot muutamasta p�
 5.3 Piispat tekivät ison linjauksen samaa sukupuolta olevien vihkimisestä 
 ==
 
-[Kirkolliskokouksen päätöstä arvioiva pääkirjoitus](https://www.hs.fi/paakirjoitukset/art-2000011272057.html) on selvästi arvoliberaali (-6) ja poliittiselta näkökulmaltaan neutraali (0).
+[Kirkolliskokouksen päätöstä arvioiva pääkirjoitus](https://www.hs.fi/paakirjoitukset/art-2000011278250.html) on selvästi arvoliberaali (-6) ja poliittiselta näkökulmaltaan neutraali (0).
 
 > Kirjoitus on kirjoitettu selkeästi arvoliberaalista näkökulmasta. Teksti kuvaa positiivisena kehityksenä piispojen linjauksen olla rankaisematta samaa sukupuolta olevien parien vihkiviä pappeja. Kirjoittaja kutsuu tilannetta 'merkittäväksi askeleeksi' ja pitää ratkaisua 'parhaana tapana' selvittää asia. Hän ei kritisoi yhteiskunnallista muutosta tasa-arvoisen avioliittolain suuntaan, vaan päinvastoin esittää kirkon perinteisen avioliittokäsityksen ja nykytilanteen välisen ristiriidan ongelmallisena ja kirkkoa 'repivänä'. Kirjoittaja rinnastaa myös samaa sukupuolta olevien vihkimisen eronneiden vihkimiseen, vihjaten että kyse on samanlaisesta luonnollisesta kehityksestä.
 
@@ -114,7 +114,7 @@ Seuraavaksi käyn hieman yksityiskohtaisemmin läpi Clauden arviot muutamasta p�
 6 Yhteenveto
 ===
 
-Tulosten mukaan HS tunnustaa arvokysymyksissä selvästi väriä: pääkirjoitukset on kirjoitettu vahvasti arvoliberaalista näkökulmasta. Poliittisesti tulos ei ole yhtä selvä, vaikka pääkirjoituksissa painottuu vahvasti maltillinen vasemmistolaisuus. Näiden tulosten mukaan Helsingin Sanomien pääkirjoitusten näkökulma muistuttaa hieman tannerilaista oikeistososialidemokraattiaa. 
+Tulosten mukaan HS tunnustaa arvokysymyksissä selvästi väriä: pääkirjoitukset on kirjoitettu vahvasti arvoliberaalista näkökulmasta. Poliittisesti tulos ei ole yhtä selvä, vaikka pääkirjoituksissa painottuu vahvasti maltillinen vasemmistolaisuus. Näiden tulosten mukaan Helsingin Sanomien pääkirjoitusten näkökulma muistuttaa hieman tannerilaista oikeistososialidemokratiaa. 
 
 
 Liite
