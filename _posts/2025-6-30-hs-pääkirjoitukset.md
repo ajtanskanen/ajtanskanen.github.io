@@ -9,7 +9,7 @@ tags:
   - arvot
 ---
 
-Helsingin Sanomat on arvostettu suomalainen instituutio, joka ei ole vain passiivinen asioiden seuraaja, vaan ottaa lehtenä kantaa ajankohtaisiin asioihin. Linjaa esitellään pääkirjoituksissa. Tässä blogissa analysoidaan, mihin kohtaan arvokarttaa pääkirjoitukset sijoittuvat. Tulosten mukaan HS on vahvasti arvoliberaali ja lievästi vasemmistolainen lehti.
+Helsingin Sanomat on arvostettu suomalainen instituutio, joka ei ole vain passiivinen asioiden seuraaja, vaan ottaa lehtenä kantaa ajankohtaisiin asioihin. Lehden linjaa esitellään pääkirjoituksissa. Tässä blogissa analysoidaan, mihin kohtaan arvokarttaa pääkirjoitukset sijoittuvat. Tulosten mukaan HS on vahvasti arvoliberaali ja lievästi vasemmistolainen lehti.
 
 Alun perin Helsingin Sanomat perustettiin nuorsuomalaisen Päivälehden jatkajaksi. Se aatemaailma tulee siis porvarillis-liberaalista, sosiaalisia asioita korostaneesta nuorsuomalaisesta liikkeestä.
 
