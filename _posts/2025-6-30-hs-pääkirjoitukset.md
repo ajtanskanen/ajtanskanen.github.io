@@ -61,6 +61,9 @@ _Kuvio 3. HS:n pääkirjoitusten poliittisuuden jakauma._
 Arvojen ja polittiisen näkökulman yhteisjakauma (Kuvio 1) osoittaa että suuri huippu uutisjuttuille on arvoliberaalissa vasemmistossa. 
 Kiinnostavasti jakaumalla on kaksi huippu, joista toinen sijoittuu "arvoneutraaliin" oikeistoon. Jakauman paino on selvästi arvolilberaalissa vasemmistossa.
 
+Jos vertaa yhteisjakaumaa [Hesarin puolueiden arvokarttaan](https://www.hs.fi/politiikka/art-2000010457779.html), näkee, että yhteisjakauman kaksi huippua vastaavat
+parhaiten SDP:tä ja Keskustaa. Myös Kokoomus on lähellä oikeisto-huippua.
+
 5 Esimerkkejä tuloksista
 ===
 
@@ -116,7 +119,7 @@ Seuraavaksi käyn hieman yksityiskohtaisemmin läpi Clauden arviot muutamasta p�
 Tulosten mukaan Helsingin Sanomat tunnustaa arvokysymyksissä selvästi väriä: pääkirjoitukset on kirjoitettu vahvasti arvoliberaalista näkökulmasta. Tätä ei ehkä voi pitää yllättävänä, koska Hesarin tausta on liberaalissa nuorsuomalaisessa liikkeessä.
 
 Poliittisesti tulos ei ole yhtä selvä, vaikka pääkirjoituksissa painottuu maltillinen vasemmistolaisuus. Tyypillisin näkökulma on loiva vasemmmistolaisuus, mutta mukana on myös oikeistolaisia näkökulmia. Jyrkkää oikeistolaista tai jyrkkää vasemmistolaista näkökulmaa pääkirjoituksissa ei oteta.
-Ehkä tulokset voi summata niin, että Hesari on jonkinlainen arvoliberaali oikeistososialidemokratti. 
+Ehkä tulokset voi summata niin, että Hesari on jonkinlainen arvoliberaali oikeistososialidemokraatti. 
 
 
 Liite
