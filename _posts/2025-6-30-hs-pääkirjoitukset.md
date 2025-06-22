@@ -121,6 +121,7 @@ Ehkä tulokset voi summata niin, että Hesari on jonkinlainen arvoliberaali oike
 
 Liite
 ===
+
 |    | otsikko                                                                                     | linkki                                                   |   arvot |   poliittinen suuntaus |
 |---:|:--------------------------------------------------------------------------------------------|:---------------------------------------------------------|--------:|-----------------------:|
 |  0 | Valtio voisi ottaa mallia arkkipiispan anteeksipyynnöstä saamelaisilta                      | https://www.hs.fi/paakirjoitukset/art-2000011303517.html |      -6 |                     -4 |
