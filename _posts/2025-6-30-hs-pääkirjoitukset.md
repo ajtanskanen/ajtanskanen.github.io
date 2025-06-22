@@ -58,7 +58,8 @@ Kirjoitusten näkökulmien on hyvin lievästi vasemmistolainen: keskiarvo on -0,
 ![HS:n pääkirjoitusten poliittisuuden jakauma](/images/HS/poliittinen.png)<br>
 _Kuvio 3. HS:n pääkirjoitusten poliittisuuden jakauma._
 
-Arvojen ja polittiisen näkökulman yhteisjakauma (Kuvio 1) osoittaa että suurin osa uutisjutuista on vasemmisto/arvoliberaali - oikeisto/arvokonservatismi -akselilla. Yhteisjakaumassa on vähän havaintoja oikeisto/arvoliberaali -neljänneksestä tai vasemmisto/arvokonservatiivi -neljänneksestä. Tämä sama ilmiö näkyy vaalien yhteydessä tehdyissä ehdokkaiden arvokartoissa. Myös yhteisjakauma näyttää, että juttujen paino on hyvin neutraali.
+Arvojen ja polittiisen näkökulman yhteisjakauma (Kuvio 1) osoittaa että suuri huippu uutisjuttuille on arvoliberaalissa vasemmistossa. 
+Kiinnostavasti jakaumalla on kaksi huippu, joista toinen sijoittuu "arvoneutraaliin" oikeistoon. Jakauman paino on selvästi arvolilberaalissa vasemmistossa.
 
 5 Esimerkkejä tuloksista
 ===
