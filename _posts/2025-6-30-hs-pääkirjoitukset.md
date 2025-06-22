@@ -42,7 +42,7 @@ Jokaista tekstiä varten keskustelu Clauden kanssa avataan uudestaan, jotta aiem
 3 Arvot
 ===
 
-Pääkirjoitukset ovat selvästi arvoliberaaleja: keskiarvo on -2,3 asteikolla (-10; 10). Tyypillinen pääkirjoitus on sekin selvästi arvoliberaali, sillä mediaani on -2.
+Pääkirjoitukset ovat selvästi arvoliberaaleja: keskiarvo on -2,4 asteikolla (-10; 10). Tyypillinen pääkirjoitus on sekin selvästi arvoliberaali, sillä mediaani on -2.
 Tämä lienee odotettua, koska HS on jo aikoinaan perustettu kannattamaan liberaaleja arvoja.
 
 ![HS:n pääkirjoitusten arvojen jakauma](/images/HS/arvot.png)<br>
@@ -53,7 +53,7 @@ Vaikka arvojen jakauma painottuu vahvasti arvoliberaaliin suuntaan, on pääkirj
 4 Poliittisuus
 ===
 
-Kirjoitusten näkökulmien on hyvin lievästi vasemmistolainen: keskiarvo on -0,5 asteikolla (-10; 10). Tyypillinen pääkirjoitus taas on maltillisen vasemmistolainen, sillä mediaani on -2. Tämä siis tarkoittaa, että myös pääkirjoitusten joukossa on selvästi oikeistolaisia pääkirjoituksia. Tämä näkyy kuviosta 3.
+Kirjoitusten näkökulmien on hyvin lievästi vasemmistolainen: keskiarvo on -0,23 asteikolla (-10; 10). Tyypillinen pääkirjoitus taas on maltillisen vasemmistolainen, sillä mediaani on -1. Tämä siis tarkoittaa, että myös pääkirjoitusten joukossa on selvästi oikeistolaisia pääkirjoituksia. Tämä näkyy kuviosta 3.
 
 ![HS:n pääkirjoitusten poliittisuuden jakauma](/images/HS/poliittinen.png)<br>
 _Kuvio 3. HS:n pääkirjoitusten poliittisuuden jakauma._
@@ -70,22 +70,22 @@ Seuraavaksi käyn hieman yksityiskohtaisemmin läpi Clauden arviot muutamasta p�
 
 [Myllypuron uudistamisesta kertova pääkirjoitus](https://www.hs.fi/paakirjoitukset/art-2000011292427.html) arvioidaan selvästi arvoliberaaliksi (-6) ja vasemmistolaiseksi (-4).
 
-> Kirjoitus on vasemmistolaisesti painottunut. Se näkee valtion tukemat ara-asunnot positiivisena asiana, korostaa julkisten palveluiden (terveyskeskus, koulut) merkitystä alueen kehityksessä, ja pitää hyvänä että alkuperäiset asukkaat eivät joudu muuttamaan pois gentrifioitumisen vuoksi. Kirjoitus kritisoi markkinaehtoista asumispolitiikkaa epäsuorasti ja puolustaa valtion roolia kaupunkikehityksessä.
+> Kirjoituksessa on maltillisia vasemmistolaisia piirteitä. Se puolustaa valtion tukemaa asuntorakentamista (ARA-järjestelmä) ja näkee sen positiivisena tekijänä alueen kehityksessä. Vuokrasäännöstely esitetään hyvänä asiana, joka suojeli alkuperäisiä asukkaita. Kirjoitus kritisoi markkinaehtoista asumispolitiikkaa epäsuorasti ja korostaa julkisen sektorin roolia aluekehityksessä.
 
-> Kirjoitus on vahvasti arvoliberaali. Se vastustaa maahanmuuttoon liittyviä ennakkoluuloja ja stereotypioita, korostaa monimuotoisuuden arvoa, kritisoi perussuomalaisten näkemyksiä islamista ja maahanmuutosta, sekä näkee positiivisena alueen kehittymisen ja asukasrakenteen monipuolistumisen. Kirjoittaja puolustaa suvaitsevaisuutta ja avoimuutta.
+> Kirjoitus on selkeästi arvoliberaali. Se kritisoi maahanmuuttovastaisuutta ja stereotypioita, puolustaa monimuotoisuutta ja monikulttuurisuutta positiivisena asiana. Erityisesti perussuomalaisten edustajan kommentti 'minareeteista ja sharia-laista' esitetään negatiivisessa valossa. Kirjoitus korostaa Itä-Helsingin monimuotoisuutta ja torjuu ennakkoluuloja.
 
 5.2 Ilmailun työtaistelu
 ==
 [Ilmailun työtaistelusta kertova pääkirjoitus](https://www.hs.fi/paakirjoitukset/art-2000011274686.html) arvioidaan lievästi arvokonservatiiviseksi (+2) ja selvästi oikeistolaisesta näkökulmasta kirjoitetuksi (+5).
 
-> Kirjoitus ei käsittele arvoliberaaleja tai -konservatiivisia teemoja kuten perhearvoja, seksuaalivähemmistöjä, maahanmuuttoa tai muita sosiokulttuurisia kysymyksiä. Teksti keskittyy puhtaasti työmarkkinapolitiikkaan ja talouteen, joten arvoulottuvuuden arviointi on neutraali hieman konservatiivisen sävyisellä tavalla korostaen järjestelmän vakautta.
+> Kirjoitus ei käsittele varsinaisia arvokonservatiivisia tai -liberaaleja teemoja kuten perhepolitiikkaa, sukupuolikysymyksiä tai maahanmuuttoa. Se keskittyy työmarkkinapolitiikkaan ja taloudellisiin kysymyksiin. Lievä konservatiivinen sävy tulee esiin siinä, että kirjoitus puolustaa olemassa olevia rakenteita (vientimalli, sovittelujärjestelmä) ja vastustaa niiden muuttamista.
 
-> Kirjoitus on selkeästi oikeistolaisesta näkökulmasta kirjoitettu. Se: 1) Puolustaa vientimallia ja yleistä linjaa työmarkkinoilla, 2) Kritisoi lakkoja ja niiden aiheuttamia taloudellisia menetyksiä, 3) Korostaa Finnairin tuloksentekoa ja osinkojen maksamista valtiolle, 4) Pitää työntekijöiden vaatimuksia kohtuuttomina ja 'päättöminä', 5) Asettuu työnantajapuolen kannalle korostaen taloudellista vastuullisuutta ja kilpailukykyä.
+> Kirjoitus on selvästi oikeistolainen. Se puolustaa työnantajien näkökulmaa, kritisoi lakkoja ja niiden taloudellisia vaikutuksia, korostaa Finnairin tuloksen ja osinkovirtojen tärkeyttä valtiolle, sekä puolustaa vientimallia ja maltillisia palkankorotuksia. Kirjoittaja näkee työntekijöiden vaatimukset kohtuuttomina ja perusteettomina, eikä osoita ymmärrystä heidän näkökulmalleen. Erityisen paljastava on lause 'Taustalla vaikuttava mutta vähemmän mainostettu lähtökohta', joka vihjaa työntekijöillä olevan piilotettuja motiiveja.
 
 5.3 Piispat tekivät ison linjauksen samaa sukupuolta olevien vihkimisestä 
 ==
 
-[Kirkolliskokouksen päätöstä arvioiva pääkirjoitus](https://www.hs.fi/paakirjoitukset/art-2000011278250.html) on selvästi arvoliberaali (-6) ja poliittiselta näkökulmaltaan neutraali (0).
+[Kirkolliskokouksen päätöstä arvioiva pääkirjoitus](https://www.hs.fi/paakirjoitukset/art-2000011278250.html) on selvästi arvoliberaali (-6) ja poliittiselta lievästi vasemmistolainen (-2).
 
 > Kirjoitus on kirjoitettu selkeästi arvoliberaalista näkökulmasta. Teksti kuvaa positiivisena kehityksenä piispojen linjauksen olla rankaisematta samaa sukupuolta olevien parien vihkiviä pappeja. Kirjoittaja kutsuu tilannetta 'merkittäväksi askeleeksi' ja pitää ratkaisua 'parhaana tapana' selvittää asia. Hän ei kritisoi yhteiskunnallista muutosta tasa-arvoisen avioliittolain suuntaan, vaan päinvastoin esittää kirkon perinteisen avioliittokäsityksen ja nykytilanteen välisen ristiriidan ongelmallisena ja kirkkoa 'repivänä'. Kirjoittaja rinnastaa myös samaa sukupuolta olevien vihkimisen eronneiden vihkimiseen, vihjaten että kyse on samanlaisesta luonnollisesta kehityksestä.
 
@@ -94,71 +94,71 @@ Seuraavaksi käyn hieman yksityiskohtaisemmin läpi Clauden arviot muutamasta p�
 5.4 Raja railona aukeaa Suomen sisällä
 ==
 
-[Väestöllisestä painopisteestä kertova pääkirjoitus](https://www.hs.fi/paakirjoitukset/art-2000011279927.html) on arvoliberaali (-3) ja maltillisen oikeistolainen (+3).
+[Väestöllisestä painopisteestä kertova pääkirjoitus](https://www.hs.fi/paakirjoitukset/art-2000011279927.html) on maltillisen arvokonservatiivinen (2) ja maltillisen oikeistolainen (+4).
 
-> Pääkirjoitus vaikuttaa arvoliberaalin näkökulman suuntaan kallistuvan. Siinä hyväksytään Suomen rakennemuutos, globalisaatio ja kansainvälistyminen luonnollisina kehityssuuntina. Vihreä siirtymä mainitaan myönteisenä talouden moottoriena. Perinteinen 'koko Suomi pidettävä asuttuna' -ajatus kyseenalaistetaan rationaalisesti ilman nostalgista kaipuuta.
+> Kirjoitus on lievästi arvokonservatiivinen. Se hyväksyy väestön keskittymisen ja alueellisen eriarvoisuuden luonnollisena kehityksenä, eikä kyseenalaista markkinavetoista kehitystä. Toisaalta se ei sisällä vahvoja arvokonservatiivisia teemoja kuten perinteiden tai yhteisöllisyyden korostamista.
 
-> Kirjoitus kallistuu hieman oikealle keskiviivasta. Markkinavetoinen kehitys hyväksytään ilman kritiikkiä, ja julkiseen menotalouteen viitataan skeptisesti ('rahaa ei ole'). Aluetukia pidetään tehottomina. Toisaalta kirjoitus ei myöskään tuomitse valtiollista roolia aluepolitiikassa, vaan toteaa realistisesti sen rajoitteet. Näkökulma on lähellä pragmaattista markkinatalouskeskeistä liberalismia.
+> Kirjoitus on selkeästi oikeistolainen. Se kritisoi aluepolitiikkaa ja julkisten varojen käyttöä alueellisten erojen tasaamiseen, korostaa taloudellista realismia ja markkinoiden roolia. Erityisen paljastava on lause 'Eikä Weberin pistettä saa edes nykymaailmassa peruuttamaan rahalla työntämällä', joka viittaa markkinatalouden ylivoimaan valtiolliseen ohjaukseen nähden.
 
 5.5 Telakka tuo rahaa ja työtä Suomeen
 ==
-[Telakasta kertova pääkirjoitus](https://www.hs.fi/paakirjoitukset/art-2000011272057.html) arvioidaan arvoneutraaliksi (0) ja poliittisesti neutraaliksi (0).
+[Telakasta kertova pääkirjoitus](https://www.hs.fi/paakirjoitukset/art-2000011272057.html) arvioidaan arvoneutraaliksi (0) ja poliittisesti neutraaliksi (3).
 
-> Teksti ei käsittele varsinaisia arvopohjaan liittyviä kysymyksiä. Se keskittyy käytännön talousteemoihin kuten työllisyyteen, vientiin ja jalostusarvoon. Maininta Ruotsista viittaa konservatiiviseen argumenttiin asevelvollisuuden ja teollisuuden säilyttämisen puolesta. Kansallisen edun korostaminen viittaa lievästi konservatiiviseen ajatteluun.
+> Kirjoitus ei käsittele arvoliberaaleja tai arvokonservatiivisia teemoja kuten ihmisoikeuksia, tasa-arvoa, perinteisiä arvoja tai yhteiskunnallisia normeja. Se keskittyy puhtaasti taloudellisiin ja elinkeinopoliittisiin kysymyksiin, joten arvoulottuvuudella ei ole merkitystä tässä tekstissä.
 
-> Kirjoitus on selvästi talousnäkökulmasta positiivinen suuryrityksen toimintaa kohtaan. Se kritisoi vihreän siirtymän investointeja tuottavuuden näkökulmasta, mikä on tyypillinen oikeistoargumentti. Valtion tukitoimien kannattaminen työllisyyden edistämiseksi tekee kannanotosta kuitenkin hieman maltillisemman.
+> Kirjoitus kallistuu lievästi oikealle useista syistä: 1) Se korostaa yksityisen sektorin investointien ja viennin merkitystä talouskasvulle, 2) Kritisoi implisiittisesti vihreän siirtymän investointeja niiden vähäisen työllistävyyden vuoksi, 3) Kehuu telakkateollisuuden säilyttämistä markkinatalouden näkökulmasta, 4) Mainitsee valtion takausvastuut myönteisessä valossa nimenomaan siksi, että ne tukevat yksityistä liiketoimintaa. Toisaalta kirjoitus ei ole voimakkaan oikeistolainen, sillä se hyväksyy valtion roolin talouden tukijana.
+
 
 6 Yhteenveto
 ===
 
 Tulosten mukaan Helsingin Sanomat tunnustaa arvokysymyksissä selvästi väriä: pääkirjoitukset on kirjoitettu vahvasti arvoliberaalista näkökulmasta. Tätä ei ehkä voi pitää yllättävänä, koska Hesarin tausta on liberaalissa nuorsuomalaisessa liikkeessä.
 
-Poliittisesti tulos ei ole yhtä selvä, vaikka pääkirjoituksissa painottuu voimakkaasti maltillinen vasemmistolaisuus. Tyypillisin näkökulma on loiva vasemmmistolaisuus, mutta mukana on myös oikeistolaisia näkökulmia. Jyrkkää oikeistolaista tai jyrkkää vasemmistolaista näkökulmaa pääkirjoituksissa ei oteta.
+Poliittisesti tulos ei ole yhtä selvä, vaikka pääkirjoituksissa painottuu maltillinen vasemmistolaisuus. Tyypillisin näkökulma on loiva vasemmmistolaisuus, mutta mukana on myös oikeistolaisia näkökulmia. Jyrkkää oikeistolaista tai jyrkkää vasemmistolaista näkökulmaa pääkirjoituksissa ei oteta.
 Ehkä tulokset voi summata niin, että Hesari on jonkinlainen arvoliberaali oikeistososialidemokratti. 
 
 
 Liite
 ===
-
 |    | otsikko                                                                                     | linkki                                                   |   arvot |   poliittinen suuntaus |
 |---:|:--------------------------------------------------------------------------------------------|:---------------------------------------------------------|--------:|-----------------------:|
-|  0 | Valtio voisi ottaa mallia arkkipiispan anteeksipyynnöstä saamelaisilta                      | https://www.hs.fi/paakirjoitukset/art-2000011303517.html |    -6   |                   -5   |
-|  1 | Helsingin uusi silta on veronmaksajalle ilonaihe                                            | https://www.hs.fi/paakirjoitukset/art-2000011309509.html |     0   |                   -2   |
-|  2 | Suomalaisten kielitaitoon kuuluvat myös farsi ja tagalog                                    | https://www.hs.fi/paakirjoitukset/art-2000011275924.html |    -6   |                   -3   |
-|  3 | Eurooppa seuraa Iranin ja Israelin konfliktia katsomosta                                    | https://www.hs.fi/paakirjoitukset/art-2000011310634.html |     3   |                    0   |
-|  4 | Pelttarin tapaus ajaa muuttamaan virkarikoksia koskevia pykäliä                             | https://www.hs.fi/paakirjoitukset/art-2000011307176.html |    -2   |                    0   |
-|  5 | Valtiovarainministeriö taloudesta: paremmalta näyttää jo, kunhan ei katso kovin kauas       | https://www.hs.fi/paakirjoitukset/art-2000011304178.html |     0   |                   -3   |
-|  6 | Osuuskuntien omistajien kannattaisi terävöityä                                              | https://www.hs.fi/paakirjoitukset/art-2000011303530.html |     0   |                   -2   |
-|  7 | Kultarannassa nähtiin, että hopealuodit maailman ongelmiin ovat vähissä                     | https://www.hs.fi/paakirjoitukset/art-2000011304824.html |    -1   |                    1   |
-|  8 | Eduskunnan on hyväksyttävä uusi saamelaiskäräjälaki                                         | https://www.hs.fi/paakirjoitukset/art-2000011299499.html |    -5   |                   -3   |
-|  9 | Helsingin ydinkeskustasta pitää tehdä viihtyisämpi                                          | https://www.hs.fi/paakirjoitukset/art-2000011298342.html |     1   |                    2   |
-| 10 | Myllypuro uudistui ja kaikki voittivat – paitsi ennakkoluulot                               | https://www.hs.fi/paakirjoitukset/art-2000011292427.html |    -6   |                   -4   |
-| 11 | Kala olisi kiva ostaa suoraan kalastajalta                                                  | https://www.hs.fi/paakirjoitukset/art-2000011295902.html |   nan   |                  nan   |
-| 12 | Talousennustajien tähtäin oli säädetty liian ylös                                           | https://www.hs.fi/paakirjoitukset/art-2000011295704.html |     0   |                    1   |
-| 13 | Nyt tai ei koskaan – Israel yrittää estää Iranin ydinaseen                                  | https://www.hs.fi/paakirjoitukset/art-2000011299143.html |    -3   |                   -2   |
-| 14 | Perussuomalaiset alkaa valmistautua Purran jälkeiseen aikaan                                | https://www.hs.fi/paakirjoitukset/art-2000011296551.html |    -4   |                   -5   |
-| 15 | Lentäjien sopimuksen viivästyminen tuli kalliiksi                                           | https://www.hs.fi/paakirjoitukset/art-2000011295176.html |     2   |                    5   |
-| 16 | Veneilijänkin pitää nyt varautua Venäjän häirintään                                         | https://www.hs.fi/paakirjoitukset/art-2000011293354.html |    -2   |                   -2   |
-| 17 | Kesäloman juhlat eivät kuulu työnantajalle                                                  | https://www.hs.fi/paakirjoitukset/art-2000011292933.html |    -4   |                   -3   |
-| 18 | Suomessa konkurssia hävetään turhaan                                                        | https://www.hs.fi/paakirjoitukset/art-2000011289952.html |    -2   |                    5   |
-| 19 | Ääniveturit vetivät yllätysehdokkaita kuntien valtuustoihin                                 | https://www.hs.fi/paakirjoitukset/art-2000011290503.html |     2   |                   -2   |
-| 20 | Trump haastaa riitaa Kalifornian kanssa                                                     | https://www.hs.fi/paakirjoitukset/art-2000011288471.html |    -6.5 |                   -4.5 |
-| 21 | Suomalaisten ylipaino maksaa ja koskee                                                      | https://www.hs.fi/paakirjoitukset/art-2000011264522.html |    -2   |                    1   |
-| 22 | Perusäänestäjä muistuttaa perusehdokasta                                                    | https://www.hs.fi/paakirjoitukset/art-2000011282959.html |    -5   |                   -4   |
-| 23 | Hyviä uutisia taloudesta                                                                    | https://www.hs.fi/paakirjoitukset/art-2000011280206.html |    -1   |                    1   |
-| 24 | Raja railona aukeaa Suomen sisällä                                                          | https://www.hs.fi/paakirjoitukset/art-2000011279927.html |    -3   |                    3   |
-| 25 | Maanpuolustus kuuluu niin naisille kuin miehillekin                                         | https://www.hs.fi/paakirjoitukset/art-2000011283601.html |    -5   |                   -2   |
-| 26 | Yliopistojen valintakokeiden hiominen alkaa nyt                                             | https://www.hs.fi/paakirjoitukset/art-2000011281362.html |    -1   |                   -2   |
-| 27 | Venäjä valmistelee vielä kostoaan                                                           | https://www.hs.fi/paakirjoitukset/art-2000011283508.html |    -3   |                   -2   |
-| 28 | Petteri Orpo on tehnyt sen, mitä kokoomus on pitkään halunnut                               | https://www.hs.fi/paakirjoitukset/art-2000011267971.html |    -3   |                   -2   |
-| 29 | Piispat tekivät ison linjauksen samaa sukupuolta olevien vihkimisestä                       | https://www.hs.fi/paakirjoitukset/art-2000011278250.html |    -6   |                    0   |
-| 30 | Rajalaissa poikkeuksesta tehtiin uusi normaali                                              | https://www.hs.fi/paakirjoitukset/art-2000011278329.html |    -2.5 |                    1.5 |
-| 31 | Suomi sai EU:lta armoviitosen ja välttyi tarkkailuluokalle joutumiselta                     | https://www.hs.fi/paakirjoitukset/art-2000011278493.html |    -1   |                    3   |
-| 32 | Ilmailun työtaisteluissa kamppaillaan palkkojen ohella Finnairin ja vientimallin kohtalosta | https://www.hs.fi/paakirjoitukset/art-2000011274686.html |     2   |                    5   |
-| 33 | Trumpin uhkaukset ovat muuttuneet pelottavista huvittaviksi                                 | https://www.hs.fi/paakirjoitukset/art-2000011275091.html |    -6   |                   -5   |
-| 34 | Telakka tuo rahaa ja työtä Suomeen                                                          | https://www.hs.fi/paakirjoitukset/art-2000011272057.html |     2   |                    4   |
-| 35 | Ukrainan iskut pääsevät vielä sotataidon oppikirjoihin                                      | https://www.hs.fi/paakirjoitukset/art-2000011272652.html |     0   |                    3   |
-| 36 | Vihreät tyytyvät puolueen kutistumiseen                                                     | https://www.hs.fi/paakirjoitukset/art-2000011263892.html |    -3   |                    2   |
-| 37 | Ilman maahanmuuttoa Suomi joutuu kriisiin pitkällä aikavälillä                              | https://www.hs.fi/paakirjoitukset/art-2000011266091.html |    -6   |                   -1   |
-| 38 | Puolalla on taas valinnan paikka                                                            | https://www.hs.fi/paakirjoitukset/art-2000011267641.html |    -6   |                   -3   |
-| 39 | Suomen on päästävä takaisin jatkuvan kasvun oravanpyörään                                   | https://www.hs.fi/paakirjoitukset/art-2000011267513.html |    -2   |                    4   |
+|  0 | Valtio voisi ottaa mallia arkkipiispan anteeksipyynnöstä saamelaisilta                      | https://www.hs.fi/paakirjoitukset/art-2000011303517.html |      -6 |                     -4 |
+|  1 | Helsingin uusi silta on veronmaksajalle ilonaihe                                            | https://www.hs.fi/paakirjoitukset/art-2000011309509.html |       0 |                      3 |
+|  2 | Suomalaisten kielitaitoon kuuluvat myös farsi ja tagalog                                    | https://www.hs.fi/paakirjoitukset/art-2000011275924.html |      -5 |                     -2 |
+|  3 | Eurooppa seuraa Iranin ja Israelin konfliktia katsomosta                                    | https://www.hs.fi/paakirjoitukset/art-2000011310634.html |      -2 |                      1 |
+|  4 | Pelttarin tapaus ajaa muuttamaan virkarikoksia koskevia pykäliä                             | https://www.hs.fi/paakirjoitukset/art-2000011307176.html |      -3 |                     -2 |
+|  5 | Valtiovarainministeriö taloudesta: paremmalta näyttää jo, kunhan ei katso kovin kauas       | https://www.hs.fi/paakirjoitukset/art-2000011304178.html |       0 |                     -3 |
+|  6 | Osuuskuntien omistajien kannattaisi terävöityä                                              | https://www.hs.fi/paakirjoitukset/art-2000011303530.html |       0 |                     -2 |
+|  7 | Kultarannassa nähtiin, että hopealuodit maailman ongelmiin ovat vähissä                     | https://www.hs.fi/paakirjoitukset/art-2000011304824.html |      -2 |                      0 |
+|  8 | Eduskunnan on hyväksyttävä uusi saamelaiskäräjälaki                                         | https://www.hs.fi/paakirjoitukset/art-2000011299499.html |      -6 |                     -3 |
+|  9 | Helsingin ydinkeskustasta pitää tehdä viihtyisämpi                                          | https://www.hs.fi/paakirjoitukset/art-2000011298342.html |      -2 |                      3 |
+| 10 | Myllypuro uudistui ja kaikki voittivat – paitsi ennakkoluulot                               | https://www.hs.fi/paakirjoitukset/art-2000011292427.html |      -6 |                     -4 |
+| 11 | Kala olisi kiva ostaa suoraan kalastajalta                                                  | https://www.hs.fi/paakirjoitukset/art-2000011295902.html |     nan |                    nan |
+| 12 | Talousennustajien tähtäin oli säädetty liian ylös                                           | https://www.hs.fi/paakirjoitukset/art-2000011295704.html |       0 |                      2 |
+| 13 | Nyt tai ei koskaan – Israel yrittää estää Iranin ydinaseen                                  | https://www.hs.fi/paakirjoitukset/art-2000011299143.html |      -2 |                      1 |
+| 14 | Perussuomalaiset alkaa valmistautua Purran jälkeiseen aikaan                                | https://www.hs.fi/paakirjoitukset/art-2000011296551.html |      -3 |                     -2 |
+| 15 | Lentäjien sopimuksen viivästyminen tuli kalliiksi                                           | https://www.hs.fi/paakirjoitukset/art-2000011295176.html |       0 |                      5 |
+| 16 | Veneilijänkin pitää nyt varautua Venäjän häirintään                                         | https://www.hs.fi/paakirjoitukset/art-2000011293354.html |       0 |                      1 |
+| 17 | Kesäloman juhlat eivät kuulu työnantajalle                                                  | https://www.hs.fi/paakirjoitukset/art-2000011292933.html |      -6 |                     -5 |
+| 18 | Suomessa konkurssia hävetään turhaan                                                        | https://www.hs.fi/paakirjoitukset/art-2000011289952.html |      -2 |                      6 |
+| 19 | Ääniveturit vetivät yllätysehdokkaita kuntien valtuustoihin                                 | https://www.hs.fi/paakirjoitukset/art-2000011290503.html |      -2 |                     -1 |
+| 20 | Trump haastaa riitaa Kalifornian kanssa                                                     | https://www.hs.fi/paakirjoitukset/art-2000011288471.html |      -6 |                     -5 |
+| 21 | Suomalaisten ylipaino maksaa ja koskee                                                      | https://www.hs.fi/paakirjoitukset/art-2000011264522.html |       0 |                      2 |
+| 22 | Perusäänestäjä muistuttaa perusehdokasta                                                    | https://www.hs.fi/paakirjoitukset/art-2000011282959.html |      -4 |                     -3 |
+| 23 | Hyviä uutisia taloudesta                                                                    | https://www.hs.fi/paakirjoitukset/art-2000011280206.html |      -1 |                      2 |
+| 24 | Raja railona aukeaa Suomen sisällä                                                          | https://www.hs.fi/paakirjoitukset/art-2000011279927.html |       2 |                      4 |
+| 25 | Maanpuolustus kuuluu niin naisille kuin miehillekin                                         | https://www.hs.fi/paakirjoitukset/art-2000011283601.html |      -4 |                     -2 |
+| 26 | Yliopistojen valintakokeiden hiominen alkaa nyt                                             | https://www.hs.fi/paakirjoitukset/art-2000011281362.html |      -2 |                     -1 |
+| 27 | Venäjä valmistelee vielä kostoaan                                                           | https://www.hs.fi/paakirjoitukset/art-2000011283508.html |      -3 |                     -2 |
+| 28 | Petteri Orpo on tehnyt sen, mitä kokoomus on pitkään halunnut                               | https://www.hs.fi/paakirjoitukset/art-2000011267971.html |      -3 |                     -4 |
+| 29 | Piispat tekivät ison linjauksen samaa sukupuolta olevien vihkimisestä                       | https://www.hs.fi/paakirjoitukset/art-2000011278250.html |      -6 |                     -2 |
+| 30 | Rajalaissa poikkeuksesta tehtiin uusi normaali                                              | https://www.hs.fi/paakirjoitukset/art-2000011278329.html |      -3 |                     -2 |
+| 31 | Suomi sai EU:lta armoviitosen ja välttyi tarkkailuluokalle joutumiselta                     | https://www.hs.fi/paakirjoitukset/art-2000011278493.html |       0 |                      3 |
+| 32 | Ilmailun työtaisteluissa kamppaillaan palkkojen ohella Finnairin ja vientimallin kohtalosta | https://www.hs.fi/paakirjoitukset/art-2000011274686.html |       2 |                      5 |
+| 33 | Trumpin uhkaukset ovat muuttuneet pelottavista huvittaviksi                                 | https://www.hs.fi/paakirjoitukset/art-2000011275091.html |      -3 |                     -2 |
+| 34 | Telakka tuo rahaa ja työtä Suomeen                                                          | https://www.hs.fi/paakirjoitukset/art-2000011272057.html |       0 |                      3 |
+| 35 | Ukrainan iskut pääsevät vielä sotataidon oppikirjoihin                                      | https://www.hs.fi/paakirjoitukset/art-2000011272652.html |      -3 |                      0 |
+| 36 | Vihreät tyytyvät puolueen kutistumiseen                                                     | https://www.hs.fi/paakirjoitukset/art-2000011263892.html |      -3 |                      2 |
+| 37 | Ilman maahanmuuttoa Suomi joutuu kriisiin pitkällä aikavälillä                              | https://www.hs.fi/paakirjoitukset/art-2000011266091.html |      -5 |                     -3 |
+| 38 | Puolalla on taas valinnan paikka                                                            | https://www.hs.fi/paakirjoitukset/art-2000011267641.html |      -6 |                     -3 |
+| 39 | Suomen on päästävä takaisin jatkuvan kasvun oravanpyörään                                   | https://www.hs.fi/paakirjoitukset/art-2000011267513.html |       0 |                      5 |
