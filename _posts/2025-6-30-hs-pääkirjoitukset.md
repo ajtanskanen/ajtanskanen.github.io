@@ -9,7 +9,7 @@ tags:
   - arvot
 ---
 
-Helsingin Sanomat on arvostettu suomalainen instituutio, joka ei ole vain passiivinen asioiden seuraaja, vaan ottaa lehtenä kantaa ajankohtaisiin asioihin. Lehden linjaa esitellään pääkirjoituksissa. Tässä blogissa analysoidaan, mihin kohtaan arvokarttaa pääkirjoitukset sijoittuvat. Tulosten mukaan HS on vahvasti arvoliberaali ja lievästi vasemmistolainen lehti.
+Helsingin Sanomat on arvostettu suomalainen lehti, joka on suorastaan instituutio. Hesari ei ole pelkkää passiivinen asioiden seuraaja, vaan ottaa lehtenä kantaa ajankohtaisiin asioihin. Lehden linjaa esitellään pääkirjoituksissa. Tässä blogissa analysoidaan, mihin kohtaan arvokarttaa pääkirjoitukset sijoittuvat. Tulosten mukaan HS on vahvasti arvoliberaali ja maltillisen vasemmistolainen lehti.
 
 ![HS:n uutisten poliittisuuden jakauma](/images/HS/jakauma.png)<br>
 _Kuvio 1. HS:n uutisjuttujen poliittisen näkökulman (vaaka-akseli) ja arvojen (pystyakseli) yhteisjakauma._
@@ -111,7 +111,10 @@ Seuraavaksi käyn hieman yksityiskohtaisemmin läpi Clauden arviot muutamasta p�
 6 Yhteenveto
 ===
 
-Tulosten mukaan HS tunnustaa arvokysymyksissä selvästi väriä: pääkirjoitukset on kirjoitettu vahvasti arvoliberaalista näkökulmasta. Poliittisesti tulos ei ole yhtä selvä, vaikka pääkirjoituksissa painottuu vahvasti maltillinen vasemmistolaisuus. Näiden tulosten mukaan Helsingin Sanomien pääkirjoitusten näkökulma muistuttaa hieman tannerilaista oikeistososialidemokratiaa. 
+Tulosten mukaan Helsingin Sanomat tunnustaa arvokysymyksissä selvästi väriä: pääkirjoitukset on kirjoitettu vahvasti arvoliberaalista näkökulmasta. Tätä ei ehkä voi pitää yllättävänä, koska Hesarin tausta on liberaalissa nuorsuomalaisessa liikkeessä.
+
+Poliittisesti tulos ei ole yhtä selvä, vaikka pääkirjoituksissa painottuu voimakkaasti maltillinen vasemmistolaisuus. Tyypillisin näkökulma on loiva vasemmmistolaisuus, mutta mukana on myös oikeistolaisia näkökulmia. Jyrkkää oikeistolaista tai jyrkkää vasemmistolaista näkökulmaa pääkirjoituksissa ei oteta.
+Ehkä tulokset voi summata niin, että Hesari on jonkinlainen arvoliberaali oikeistososialidemokratti. 
 
 
 Liite
