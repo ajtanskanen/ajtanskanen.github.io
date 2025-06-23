@@ -53,7 +53,7 @@ Vaikka arvojen jakauma painottuu vahvasti arvoliberaaliin suuntaan, on pääkirj
 4 Poliittisuus
 ===
 
-Kirjoitusten näkökulmien on hyvin lievästi vasemmistolainen: keskiarvo on -0,23 asteikolla (-10; 10). Tyypillinen pääkirjoitus taas on maltillisen vasemmistolainen, sillä mediaani on -1. Tämä siis tarkoittaa, että myös pääkirjoitusten joukossa on selvästi oikeistolaisia pääkirjoituksia. Tämä näkyy kuviosta 3.
+Kirjoitusten näkökulmien on hyvin lievästi vasemmistolainen: keskiarvo on -0,23 asteikolla (-10; 10). Tyypillinen pääkirjoitus taas on maltillisen vasemmistolainen, sillä mediaani on -1. Ero selittyy sillä, että pääkirjoitusten joukossa on myös selvästi oikeistolaisia pääkirjoituksia. Tämä näkyy kuviosta 3.
 
 ![HS:n pääkirjoitusten poliittisuuden jakauma](/images/HS/poliittinen.png)<br>
 _Kuvio 3. HS:n pääkirjoitusten poliittisuuden jakauma._
