@@ -1,6 +1,6 @@
 ---
 title: 'Helsingin Sanomien pääkirjoitusten poliittisuus ja arvot laajemman datan näkökulmasta'
-date: 2025-07-01
+date: 2025-06-26
 permalink: /posts/2025/7/paakirjoitukset/
 summary: 'Blogi | Helsingin Sanomien pääkirjoituksissa otetaan usein kantaa ajankohtaisiin asioihin. Uutisoinnin neutraaliutta voi analysoida suurilla kielimalleilla. Tässä käytämme Anthropicin Claudea, jonka mukaan HS:n pääkirjoitukset painottuvat vahvasti arvoliberalismia kannattaviksi ja maltillisen vasemmistolaisiksi. Osassa 2 aineistoa on laajennettu ja tarkastuksia lisätty.'
 tags:
@@ -76,7 +76,7 @@ Poliittisista näkökulmista oikeistolaisia on 122, vasemmistolaisia 174 ja täy
 ![HS:n pääkirjoitusten politiikan aikajakauma](/images/HS/poliittinen_ts.png)<br>
 _Kuvio 6. HS:n pääkirjoitusten poliittisen näkökulman aikajakauma._
 
-Rullaava keskiarvo 40:n pääkirjoituksen poliittisesta näkökulmasta vaihtelee reilusti (Kuvio 7). Vuoden 2025 ensimmäiset 3 kuukautta se on hyvin neutraali, mutta sitten sukeltaa selvästi vasemmalle huhti- ja toukokuuksim kunnes alkaa kesäkuussa palata neutraalimpaan suuntaan. Tätä ei näkynyt aiemmassa blogissa.
+Rullaava keskiarvo 40:n pääkirjoituksen poliittisesta näkökulmasta vaihtelee reilusti (Kuvio 7). Vuoden 2025 ensimmäiset 3 kuukautta se on hyvin neutraali tai jopa oikeistolainen, mutta sitten sukeltaa selvästi vasemmalle huhti- ja toukokuuksi kunnes alkaa kesäkuussa palata neutraalimpaan suuntaan. Tätä ei näkynyt aiemmassa blogissa.
 
 ![HS:n pääkirjoitusten politiikan rullaava keskiarvo](/images/HS/polrol.png)<br>
 _Kuvio 7. HS:n pääkirjoitusten poliittisen näkökulman rullaava keskiarvo edellisistä 40:stä pääkirjoituksesta._
@@ -94,7 +94,7 @@ Yhteisjakaumalla on selvä "korva" myös oikealla. Se vastaa eniten ehkä Keskus
 6 Esimerkkejä tuloksista
 ===
 
-Seuraavaksi käyn hieman yksityiskohtaisemmin läpi Clauden arviot muutamasta pääkirjoituksesta. Mukana on myös vertailu aiempaan arvioon, joka näyttää, missä määrin tulokset muuttuvat eri ajokerroilla. Muutokset vaikuttavat olevan suurempi arvonäkökulmassa kuin poliittisessa katsantokannassa.
+Seuraavaksi käyn hieman yksityiskohtaisemmin läpi Clauden arviot muutamasta pääkirjoituksesta. Mukana on myös vertailu aiempaan arvioon, joka näyttää, missä määrin tulokset muuttuvat eri ajokerroilla. Muutokset vaikuttavat olevan suurempia arvonäkökulmassa kuin poliittisessa katsantokannassa.
 
 6.1 Myllypuro uudistui ja kaikki voittivat – paitsi ennakkoluulot
 ==
