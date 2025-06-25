@@ -10,7 +10,7 @@ tags:
   - english
 ---
 
-Wall Street Journal is a well-regarded American journal. It is often considered to be politically conservative. Here, we analyze how WSJ's editorials position in liberal-conservative axis and on GAL-TAN axis. The results show that WSJ is strongly politically right-wing and mostly socially conservative, even though occasionally also socially liberal.
+Wall Street Journal is a well-regarded American journal. It is often considered to be politically conservative. Here, we analyze how WSJ's editorials position in liberal-conservative axis and on GAL-TAN axis. The results show that WSJ is strongly politically right-wing and mostly socially conservative, even though occasionally WSJ also takes socially liberal side.
 
 ![Distribution of WSJ editorials](/images/WSJ/jakauma.png)<br>
 _ Figure 1. WSJ political viewpoint (x-axis) and values (y-axis)._
