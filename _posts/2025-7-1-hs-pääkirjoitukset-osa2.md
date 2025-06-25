@@ -52,6 +52,9 @@ _Kuvio 2. HS:n pääkirjoitusten arvojen jakauma._
 
 Tulokset eivät juuri muuttuneet, vaikka aineisto kasvoi 40:stä pääkirjoituksesta 318:sta.
 
+![HS:n pääkirjoitusten arvojen aikajakauma](/images/HS/arvot_ts.png)<br>
+_Kuvio 3. HS:n pääkirjoitusten arvojen aikajakauma._
+
 Vaikka arvojen jakauma painottuu vahvasti arvoliberaaliin suuntaan, on pääkirjoitusten joukossa myös arvokonservatiivisesta näkökulmia.
 
 4 Poliittisuus
@@ -60,7 +63,10 @@ Vaikka arvojen jakauma painottuu vahvasti arvoliberaaliin suuntaan, on pääkirj
 Kirjoitusten näkökulmien on hyvin lievästi vasemmistolainen: keskiarvo on -1,11 (aiemmin -0,23) asteikolla (-10; 10). Tyypillinen pääkirjoitus taas on maltillisen vasemmistolainen, sillä mediaani on -2 (aiemmin -1). Ero mediaanin ja keskiarvon välillä selittyy sillä, että pääkirjoitusten joukossa on myös selvästi oikeistolaisia pääkirjoituksia. Tämä näkyy kuviosta 3.
 
 ![HS:n pääkirjoitusten poliittisuuden jakauma](/images/HS/poliittinen2.png)<br>
-_Kuvio 3. HS:n pääkirjoitusten poliittisuuden jakauma._
+_Kuvio 4. HS:n pääkirjoitusten poliittisen näkökulman jakauma._
+
+![HS:n pääkirjoitusten arvojen aikajakauma](/images/HS/poliittinen_ts.png)<br>
+_Kuvio 5. HS:n pääkirjoitusten poliittisen näkökulman aikajakauma._
 
 Arvojen ja polittiisen näkökulman yhteisjakauma (Kuvio 1) osoittaa että suuri huippu uutisjuttuille on arvoliberaalissa vasemmistossa. 
 Kiinnostavasti jakaumalla on kaksi huippu, joista toinen sijoittuu "arvoneutraaliin" oikeistoon. Jakauman paino on selvästi arvolilberaalissa vasemmistossa.
