@@ -77,7 +77,7 @@ parhaiten SDP:tä ja Keskustaa. Myös Kokoomus on lähellä oikeisto-huippua.
 5 Esimerkkejä tuloksista
 ===
 
-Seuraavaksi käyn hieman yksityiskohtaisemmin läpi Clauden arviot muutamasta pääkirjoituksesta.
+Seuraavaksi käyn hieman yksityiskohtaisemmin läpi Clauden arviot muutamasta pääkirjoituksesta. Mukana on myös vertailu aiempaan arvioon, joka näyttää, missä määrin tulokset muuttuvat eri ajokerroilla. Muutokset vaikuttavat olevan suurempi arvonäkökulmassa kuin poliittisessa katsantokannassa.
 
 5.1 Myllypuro uudistui ja kaikki voittivat – paitsi ennakkoluulot
 ==
