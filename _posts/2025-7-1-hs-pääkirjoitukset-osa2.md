@@ -90,7 +90,6 @@ Arvojen ja polittiisen näkökulman yhteisjakauma (Kuvio 1) osoittaa että suuri
 Jakauman paino on selvästi arvoliberaalissa vasemmistossa.
 
 Jos vertaa Kuvion 1 yhteisjakaumaa [Hesarin puolueiden arvokarttaan](https://www.hs.fi/politiikka/art-2000010457779.html), näkee, että yhteisjakauman huippukohta vastaa parhaiten SDP:tä. 
-
 Yhteisjakaumalla on selvä "korva" myös oikealla. Se vastaa eniten ehkä Keskustaa tai Kokoomusta HS:n arvokartalla.
 
 6 Esimerkkejä tuloksista
