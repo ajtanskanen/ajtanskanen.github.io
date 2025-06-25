@@ -76,16 +76,16 @@ Poliittisista näkökulmista oikeistolaisia on 122, vasemmistolaisia 174 ja täy
 ![HS:n pääkirjoitusten politiikan aikajakauma](/images/HS/poliittinen_ts.png)<br>
 _Kuvio 6. HS:n pääkirjoitusten poliittisen näkökulman aikajakauma._
 
-Arvojen ja polittiisen näkökulman yhteisjakauma (Kuvio 1) osoittaa että suuri huippu uutisjuttuille on arvoliberaalissa vasemmistossa. 
-Kiinnostavasti jakaumalla on kaksi huippu, joista toinen sijoittuu "arvoneutraaliin" oikeistoon. Jakauman paino on selvästi arvolilberaalissa vasemmistossa.
+Rullaava keskiarvo 40:n pääkirjoituksen poliittisesta näkökulmasta vaihtelee reilusti (Kuvio 7). Vuoden 2025 ensimmäiset 3 kuukautta se on hyvin neutraali, mutta sitten sukeltaa selvästi vasemmalle huhti- ja toukokuuksim kunnes alkaa kesäkuussa palata neutraalimpaan suuntaan. Tätä ei näkynyt aiemmassa blogissa.
 
 ![HS:n pääkirjoitusten politiikan rullaava keskiarvo](/images/HS/polrol.png)<br>
 _Kuvio 7. HS:n pääkirjoitusten poliittisen näkökulman rullaava keskiarvo edellisistä 40:stä pääkirjoituksesta._
 
-Rullaava keskiarvo 40:n pääkirjoituksen poliittisesta näkökulmasta vaihtelee reilusti (Kuvio 7). Vuoden 2025 ensimmäiset 3 kuukautta se on hyvin neutraali, mutta sitten sukeltaa selvästi vasemmalle huhti- ja toukokuuksim kunnes alkaa kesäkuussa palata neutraalimpaan suuntaan. Tätä ei näkynyt aiemmassa blogissa.
-
 5 Arvojen ja poliittisen näkökulman yhteisjakauma
 ===
+
+Arvojen ja polittiisen näkökulman yhteisjakauma (Kuvio 1) osoittaa että suuri huippu uutisjuttuille on arvoliberaalissa vasemmistossa. 
+Jakauman paino on selvästi arvoliberaalissa vasemmistossa.
 
 Jos vertaa Kuvion 1 yhteisjakaumaa [Hesarin puolueiden arvokarttaan](https://www.hs.fi/politiikka/art-2000010457779.html), näkee, että yhteisjakauman huippukohta vastaa parhaiten SDP:tä. 
 
