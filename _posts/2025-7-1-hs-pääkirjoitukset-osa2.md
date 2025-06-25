@@ -92,6 +92,8 @@ Jakauman paino on selvästi arvoliberaalissa vasemmistossa.
 Jos vertaa Kuvion 1 yhteisjakaumaa [Hesarin puolueiden arvokarttaan](https://www.hs.fi/politiikka/art-2000010457779.html), näkee, että yhteisjakauman huippukohta vastaa parhaiten SDP:tä. 
 Yhteisjakaumalla on selvä "korva" myös oikealla. Se vastaa eniten ehkä Keskustaa tai Kokoomusta HS:n arvokartalla.
 
+Äärilaidat puuttuvat oikeastaan mistä tahansa suunnasta: pääkirjoitukset eivät positioidu äärivasemmistoon tai äärioikeistoon. Ne eivät myöskään edusta oikeastaan lainkaan vahvasti arvokonservatiivista laitaa, mutta eivät myöskään äärimmäistä arvoliberalismia, vaikka paino onkin arvoliberaalilla puolella.
+
 6 Esimerkkejä tuloksista
 ===
 
