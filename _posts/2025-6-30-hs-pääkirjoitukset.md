@@ -106,7 +106,7 @@ Seuraavaksi käyn hieman yksityiskohtaisemmin läpi Clauden arviot muutamasta p�
 
 5.5 Telakka tuo rahaa ja työtä Suomeen
 ==
-[Telakasta kertova pääkirjoitus](https://www.hs.fi/paakirjoitukset/art-2000011272057.html) arvioidaan arvoneutraaliksi (0) ja poliittisesti neutraaliksi (3).
+[Telakasta kertova pääkirjoitus](https://www.hs.fi/paakirjoitukset/art-2000011272057.html) arvioidaan arvoneutraaliksi (0) ja poliittisesti oikeistolaiseksi (3).
 
 > Kirjoitus ei käsittele arvoliberaaleja tai arvokonservatiivisia teemoja kuten ihmisoikeuksia, tasa-arvoa, perinteisiä arvoja tai yhteiskunnallisia normeja. Se keskittyy puhtaasti taloudellisiin ja elinkeinopoliittisiin kysymyksiin, joten arvoulottuvuudella ei ole merkitystä tässä tekstissä.
 
