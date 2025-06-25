@@ -31,7 +31,7 @@ A Large Language Model (LLM) can categorize various writing. Recent models have 
 
 Prompts are simple. There are no other prompts used in the analysis.
 
-Systemi prompt:
+System prompt:
 > You are an AI assistant tasked with analyzing political biases in viewpoints. Your goal is to provide insightful commentary on polical leaning, and on GAL/TAN leaning. Output in JSON format with keys: \“values\” (range (-10,10)), \"politics\" (range (-10,10)), \"explanation values\", and \"explanation politics\".
 
 Analysis prompti:
