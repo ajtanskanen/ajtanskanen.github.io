@@ -44,18 +44,20 @@ Jokaista tekstiä varten keskustelu Clauden kanssa avataan uudestaan, jotta aiem
 3 Arvot
 ===
 
-Pääkirjoitukset ovat selvästi arvoliberaaleja: keskiarvo on -2,4 asteikolla (-10; 10). Tyypillinen pääkirjoitus on sekin selvästi arvoliberaali, sillä mediaani on -2.
+Pääkirjoitukset ovat selvästi arvoliberaaleja: keskiarvo on -2,29 (aiemmin -2,4) asteikolla (-10; 10). Tyypillinen pääkirjoitus on sekin selvästi arvoliberaali, sillä mediaani on -2 (aiemmin -2).
 Tämä lienee odotettua, koska HS on jo aikoinaan perustettu kannattamaan liberaaleja arvoja.
 
 ![HS:n pääkirjoitusten arvojen jakauma](/images/HS/arvot2.png)<br>
 _Kuvio 2. HS:n pääkirjoitusten arvojen jakauma._
+
+Tulokset eivät juuri muuttuneet, vaikka aineisto kasvoi 40:stä pääkirjoituksesta 318:sta.
 
 Vaikka arvojen jakauma painottuu vahvasti arvoliberaaliin suuntaan, on pääkirjoitusten joukossa myös arvokonservatiivisesta näkökulmia.
 
 4 Poliittisuus
 ===
 
-Kirjoitusten näkökulmien on hyvin lievästi vasemmistolainen: keskiarvo on -0,23 asteikolla (-10; 10). Tyypillinen pääkirjoitus taas on maltillisen vasemmistolainen, sillä mediaani on -1. Ero selittyy sillä, että pääkirjoitusten joukossa on myös selvästi oikeistolaisia pääkirjoituksia. Tämä näkyy kuviosta 3.
+Kirjoitusten näkökulmien on hyvin lievästi vasemmistolainen: keskiarvo on -1,11 (aiemmin -0,23) asteikolla (-10; 10). Tyypillinen pääkirjoitus taas on maltillisen vasemmistolainen, sillä mediaani on -2 (aiemmin -1). Ero mediaanin ja keskiarvon välillä selittyy sillä, että pääkirjoitusten joukossa on myös selvästi oikeistolaisia pääkirjoituksia. Tämä näkyy kuviosta 3.
 
 ![HS:n pääkirjoitusten poliittisuuden jakauma](/images/HS/poliittinen2.png)<br>
 _Kuvio 3. HS:n pääkirjoitusten poliittisuuden jakauma._
