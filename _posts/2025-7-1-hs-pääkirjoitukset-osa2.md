@@ -126,6 +126,7 @@ Ehkä tulokset voi summata niin, että Hesari on jonkinlainen arvoliberaali oike
 
 Liite
 ===
+
 |     | otsikko                                                                                                        | linkki                                                   |   arvot |   poliittinen suuntaus |
 |----:|:---------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------|--------:|-----------------------:|
 |   0 | Helsinkiin valitaan tuomio­rovastia riitaisasti                                                                | https://www.hs.fi/paakirjoitukset/art-2000011317782.html |      -2 |                      0 |
