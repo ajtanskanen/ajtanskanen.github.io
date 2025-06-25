@@ -13,7 +13,7 @@ tags:
 Wall Street Journal is a well-regarded American journal. It is often considered to be politically conservative. Here, we analyze how WSJ's editorials position in liberal-conservative axis and on GAL-TAN axis.
 
 ![WSJ:n uutisten poliittisuuden jakauma](/images/WSJ/jakauma.png)<br>
-_Figure 1. WSJ political viewpoint (x-axis) and values (y-axis). _
+_ Figure 1. WSJ political viewpoint (x-axis) and values (y-axis). _
 
 1 Background
 ===
@@ -52,7 +52,7 @@ List of all considered editorial opinions and their assessment is at the end of 
 Editorial opions are clearly TAN: average +3.65 asteikolla (-10; 10). A typical editorial is even more clearly TAN: median is +5.
 
 ![WSJ values](/images/WSJ/arvot.png)<br>
-_Figure 2. GAL/TAN axis of WSJ editorials. -10 stands for extremely green, alternative, liberal (GAL), +10 stands for extremely traditional, nationalist, authoritarian (TAN)._
+_ Figure 2. GAL/TAN axis of WSJ editorials. -10 stands for extremely green, alternative, liberal (GAL), +10 stands for extremely traditional, nationalist, authoritarian (TAN)._
 
 Even though distribution is clearly biased toward TAN, there are GAL viewpoint present in editorials.
 
@@ -63,7 +63,7 @@ Editorials are clearly right-wing: average is 6.73 where range is (-10,10).
 A typical editorial is also clearly right-wing: median is 7.
 
 ![WSJ political](/images/WSJ/poliittinen.png)<br>
-_Figure 3. Political bias of WSJ editorials. -10 stands for extremely left-wing, +10 stands for extremely right-wing._
+_ Figure 3. Political bias of WSJ editorials. -10 stands for extremely left-wing, +10 stands for extremely right-wing._
 
 5 Examples
 ===
@@ -101,7 +101,8 @@ WSJ is clearly a right-wing journal that mostly leans to socially conservative s
 
 Appendix
 ===
-|    | title                                                   | link                                                                                                                                                           |   values |   politics |
+
+|    | title                                                   link                                                                                                                                                           |   values |   politics |
 |---:|:--------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------|---------:|-----------:|
 |  0 | Senate Questions for Emil Bove                          | https://www.wsj.com/opinion/emil-bove-senate-questions-third-circuit-eric-adams-danielle-sassoon-b0d10693?mod=editorials_article_pos3                          |       -3 |          3 |
 |  1 | Gilead’s HIV Breakthrough                               | https://www.wsj.com/opinion/gileads-hiv-breakthrough-fda-shot-injection-breakthrough-lenacapavir-e9cea9cd?mod=editorials_article_pos2                          |        3 |          7 |
