@@ -102,7 +102,7 @@ WSJ is clearly a right-wing journal that mostly leans to socially conservative s
 Appendix
 ===
 
-|    | title                                                   link                                                                                                                                                           |   values |   politics |
+|    | title                                                   | link                                                                                                                                                           |   values |   politics |
 |---:|:--------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------|---------:|-----------:|
 |  0 | Senate Questions for Emil Bove                          | https://www.wsj.com/opinion/emil-bove-senate-questions-third-circuit-eric-adams-danielle-sassoon-b0d10693?mod=editorials_article_pos3                          |       -3 |          3 |
 |  1 | Gilead’s HIV Breakthrough                               | https://www.wsj.com/opinion/gileads-hiv-breakthrough-fda-shot-injection-breakthrough-lenacapavir-e9cea9cd?mod=editorials_article_pos2                          |        3 |          7 |
@@ -204,3 +204,4 @@ Appendix
 | 97 | The New Retirement Age in Denmark Is 70                 | https://www.wsj.com/opinion/the-new-retirement-age-in-denmark-is-70-574b5259?mod=author_content_page_10_pos_8                                                  |        3 |          7 |
 | 98 | ‘Stop the Steal’ in U.S. History Class                  | https://www.wsj.com/opinion/oklahoma-social-studies-2020-election-ryan-walters-donald-trump-e6ae3045?mod=author_content_page_10_pos_9                          |       -3 |          3 |
 | 99 | Race, Hiring and Chicago’s Mayor                        | https://www.wsj.com/opinion/brandon-johnson-donald-trump-chicago-hiring-dei-investigation-harmeet-dhillon-7d38d7b5?mod=author_content_page_10_pos_10           |        4 |          6 |
+
