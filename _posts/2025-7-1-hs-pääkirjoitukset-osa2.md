@@ -73,6 +73,8 @@ _Kuvio 5. HS:n pääkirjoitusten poliittisen näkökulman jakauma._
 
 Poliittisista näkökulmista oikeistolaisia on 122, vasemmistolaisia 174 ja täysin neutraaleja 22. Reilusti oikeistolaisia (>2) pääkirjoituksista on 67 ja reilusti vasemmistolaisia (<-2) on 96.
 
+Kuvio 6 näyttää hyvin, että peräkkäiset pääkirjoitukset on usein kirjoitettu eri poliittisesta näkökulmasta. Peräkkäisten pääkirjoitusten poliittisen näkökulman autokorrelaatio on lähes nolla, mutta poliittisten näkökulmien erojen autokorrelaatio on lähes -0,50. Tämä tarkoittaa juuri samaa kuin silmämääräinen havainto, että peräkkäiset pääkirjoitukset on usein kirjoitettu hyvin erilaisesta poliittisesta näkökulmasta ikään kuin tasapainottamaan toisiaan.
+
 ![HS:n pääkirjoitusten politiikan aikajakauma](/images/HS/poliittinen_ts.png)<br>
 _Kuvio 6. HS:n pääkirjoitusten poliittisen näkökulman aikajakauma._
 
