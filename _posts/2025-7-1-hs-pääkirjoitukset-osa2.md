@@ -63,14 +63,14 @@ Kuvio 4 näyttää, että HS on vahvasti arvoliberaali pääkirjoituksissaan. Ru
 ===
 
 Kirjoitusten näkökulmien on lievästi vasemmistolainen: keskiarvo on -0,51 tammikuusta kesäkuuhun 2025 (pelkkä kesäkuu -0,23) asteikolla (-10; 10). Tyypillinen pääkirjoitus taas on maltillisen vasemmistolainen, sillä mediaani on -2 (pelkkä kesäkuu -1). Ero mediaanin ja keskiarvon välillä selittyy sillä, että pääkirjoitusten joukossa on myös selvästi oikeistolaisia pääkirjoituksia. Tämä näkyy kuviosta 5. 
-Varmistuksena testattiin vielä, että OpenAI GPT4o antaa samoilla prompteilla keskiarvoksi -0,26. Arvioiden erojen keskiarvo on -0,12, sillä OpenAI ei syystä arvioinut kaikkia pääkirjoituksia. Tämä ei muuta johtopäätöstä Clauden antamaan keskiarvoon -0,51.
+Varmistuksena testattiin vielä, että OpenAI GPT4o antaa samoilla prompteilla keskiarvoksi -0,26. Arvioiden erojen keskiarvo on -0,12, sillä OpenAI ei arvioinut kaikkia pääkirjoituksia. Tämä ei muuta johtopäätöstä Clauden antamaan keskiarvoon -0,51.
 
 ![HS:n pääkirjoitusten politiikan jakauma](/images/HS/poliittinen2.png)<br>
 _Kuvio 5. HS:n pääkirjoitusten poliittisen näkökulman jakauma._
 
 Pääkirjoitusten poliittisista näkökulmista oikeistolaisia on 122, vasemmistolaisia 174 ja täysin neutraaleja 22. Selvästi oikeistolaisia (>2) pääkirjoituksista on 67 ja selvästi vasemmistolaisia (<-2) on 96.
 
-Kuvio 6 näyttää hyvin, että peräkkäiset pääkirjoitukset on usein kirjoitettu eri poliittisesta näkökulmasta. Peräkkäisten pääkirjoitusten poliittisen näkökulman autokorrelaatio on lähes nolla, mutta poliittisten näkökulmien erojen autokorrelaatio on lähes -0,50. Tämä tarkoittaa juuri samaa kuin silmämääräinen havainto, että peräkkäiset pääkirjoitukset on usein kirjoitettu hyvin erilaisesta poliittisesta näkökulmasta ikään kuin tasapainottamaan toisiaan.
+Kuvio 6 näyttää hyvin, että peräkkäiset pääkirjoitukset on usein kirjoitettu eri poliittisesta näkökulmasta. Peräkkäisten pääkirjoitusten poliittisen näkökulman autokorrelaatio on lähes nolla, mutta poliittisten näkökulmien erojen autokorrelaatio on -0,47. Tämä tarkoittaa juuri samaa kuin silmämääräinen havainto, että peräkkäiset pääkirjoitukset on usein kirjoitettu hyvin erilaisesta poliittisesta näkökulmasta ikään kuin tasapainottamaan toisiaan.
 
 ![HS:n pääkirjoitusten politiikan aikajakauma](/images/HS/poliittinen_ts.png)<br>
 _Kuvio 6. HS:n pääkirjoitusten poliittisen näkökulman aikajakauma._
