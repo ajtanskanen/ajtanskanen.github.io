@@ -26,6 +26,7 @@ Suurella kielimallilla voi luokitella kirjoituksia erilaisilla perusteilla. Täs
 Lista pääkirjoituksista ja niiden analyysistä löytyy tiiviissä muodossa blogin lopussa.
 
 | Systeemi-prompti | Analyysi-prompti |
+|----:|:-----|
 | You are an AI assistant tasked with analyzing political biases in works. Your goal is to provide insightful commentary on polical leaning, and liberal/conservative leaning. output in JSON format with keys: \“arvot\” (asteikko (-10,10)), \"poliittinen suuntaus\" (asteikko (-10,10)), \"perustelut arvot\", and \"perustelut poliittinen suuntaus\". | Analysoi kirjoitus. Onko se kirjoitettu arvoliberaalista vai arvokonservatiivisesta näkökulmasta? arvioi asteikolla (-10,10). Arvo -10 tarkoittaa hyvin arvoliberaalia, arvo 10 hyvin arvokonservatiivista. Entä onko se kirjoitettu vasemmistolaisesta vai oikeistolaisesta näkökulmasta? arvioi asteikolla (-10,10). Arvo -10 tarkoittaa hyvin vasemmistolaista, arvo 10 hyvin oikeistolaista. Vastaa JSON muodossa. (encode special chars properly) |
 
 _Taulukko 1. Promptit, joita analyysissä on käytetty, ovat yksinkertaisia. Mitään muita prompteja ei analyysissä käytetä._
