@@ -24,7 +24,7 @@ Aiemmassa aineistossa oli vain 40 pääkirjoitusta, jotka on kerätty 31.5.2025-
 
 Suurella kielimallilla voi luokitella kirjoituksia erilaisilla perusteilla. Tässä käytetään Anthropicin Claude Opus 4 -mallia suurena kielimallina, jolla analysoidaan pääkirjoitusten näkökulmaa. Lista pääkirjoituksista ja niiden analyysistä löytyy tiiviissä muodossa blogin lopussa.
 
-| Systeemi-prompti :|: Analyysi-prompti |
+| Systeemi-prompti | Analyysi-prompti |
 | You are an AI assistant tasked with analyzing political biases in works. Your goal is to provide insightful commentary on polical leaning, and liberal/conservative leaning. output in JSON format with keys: \“arvot\” (asteikko (-10,10)), \"poliittinen suuntaus\" (asteikko (-10,10)), \"perustelut arvot\", and \"perustelut poliittinen suuntaus\". | Analysoi kirjoitus. Onko se kirjoitettu arvoliberaalista vai arvokonservatiivisesta näkökulmasta? arvioi asteikolla (-10,10). Arvo -10 tarkoittaa hyvin arvoliberaalia, arvo 10 hyvin arvokonservatiivista. Entä onko se kirjoitettu vasemmistolaisesta vai oikeistolaisesta näkökulmasta? arvioi asteikolla (-10,10). Arvo -10 tarkoittaa hyvin vasemmistolaista, arvo 10 hyvin oikeistolaista. Vastaa JSON muodossa. (encode special chars properly) |
 _Taulukko 1. Promptit, joita analyysissä on käytetty, ovat yksinkertaisia. Mitään muita prompteja ei analyysissä käytetä._
 
@@ -105,14 +105,14 @@ Seuraavaksi käyn hieman yksityiskohtaisemmin läpi Clauden arviot muutamasta p�
 
 [Myllypuron uudistamisesta kertova pääkirjoitus](https://www.hs.fi/paakirjoitukset/art-2000011292427.html) arvioidaan selvästi arvoliberaaliksi -6 (aiemmin -6) ja vasemmistolaiseksi -4 (aiemmin -4).
 
-| Perustelu Poliittinen näkökulma :|: Perustelu Arvonäkökulma |
+| Perustelu Poliittinen näkökulma | Perustelu Arvonäkökulma |
 | Kirjoituksessa on maltillisia vasemmistolaisia piirteitä. Se puolustaa valtion tukemaa asuntorakentamista (ARA-järjestelmä) ja näkee sen positiivisena tekijänä alueen kehityksessä. Vuokrasäännöstely esitetään hyvänä asiana, joka suojeli alkuperäisiä asukkaita. Kirjoitus kritisoi markkinaehtoista asumispolitiikkaa epäsuorasti ja korostaa julkisen sektorin roolia aluekehityksessä. | Kirjoitus on selkeästi arvoliberaali. Se kritisoi maahanmuuttovastaisuutta ja stereotypioita, puolustaa monimuotoisuutta ja monikulttuurisuutta positiivisena asiana. Erityisesti perussuomalaisten edustajan kommentti 'minareeteista ja sharia-laista' esitetään negatiivisessa valossa. Kirjoitus korostaa Itä-Helsingin monimuotoisuutta ja torjuu ennakkoluuloja. |
 
 5.2 Ilmailun työtaistelu
 ==
 [Ilmailun työtaistelusta kertova pääkirjoitus](https://www.hs.fi/paakirjoitukset/art-2000011274686.html) arvioidaan lievästi arvokonservatiiviseksi +3 (aiemmin +2) ja selvästi oikeistolaisesta näkökulmasta kirjoitetuksi +6 (aiemmin +5).
 
-| Perustelu Poliittinen näkökulma :|: Perustelu Arvonäkökulma |
+| Perustelu Poliittinen näkökulma | Perustelu Arvonäkökulma |
 | Kirjoitus ei käsittele varsinaisia arvokonservatiivisia tai -liberaaleja teemoja kuten perhearvojen, uskonnon, seksuaalivähemmistöjen oikeuksien tai maahanmuuton kysymyksiä. Se keskittyy työmarkkinapolitiikkaan ja taloudellisiin kysymyksiin. Lievä konservatiivinen sävy tulee esiin siinä, että kirjoittaja puolustaa olemassa olevia rakenteita (vientimalli, sovittelujärjestelmä) ja vastustaa niiden muuttamista. | Kirjoitus on selvästi oikeistolainen. Se puolustaa työnantajien näkökulmaa, kritisoi ammattiliittojen lakkoja ja korostaa yrityksen (Finnair) taloudellisia menetyksiä. Kirjoittaja pitää työntekijöiden palkankorotusvaatimuksia kohtuuttomina ja 'päättöminä'. Vientimallin puolustaminen on myös tyypillisesti oikeistolainen kanta. Kirjoitus korostaa taloudellista vastuullisuutta ja kilpailukykyä työntekijöiden oikeuksien sijaan. |
 
 5.3 Piispat tekivät ison linjauksen samaa sukupuolta olevien vihkimisestä 
@@ -120,26 +120,23 @@ Seuraavaksi käyn hieman yksityiskohtaisemmin läpi Clauden arviot muutamasta p�
 
 [Kirkolliskokouksen päätöstä arvioiva pääkirjoitus](https://www.hs.fi/paakirjoitukset/art-2000011278250.html) on selvästi arvoliberaali -6 (aiemmin -6) ja poliittiselta lievästi vasemmistolainen -2 (aiemmin -2).
 
-> Kirjoitus on kirjoitettu selkeästi arvoliberaalista näkökulmasta. Teksti kuvaa positiivisena kehityksenä piispojen linjauksen olla rankaisematta samaa sukupuolta olevien parien vihkiviä pappeja. Kirjoittaja kutsuu tilannetta 'merkittäväksi askeleeksi' ja pitää ratkaisua 'parhaana tapana' selvittää asia. Hän ei kritisoi yhteiskunnallista muutosta tasa-arvoisen avioliittolain suuntaan, vaan päinvastoin esittää kirkon perinteisen avioliittokäsityksen ja nykytilanteen välisen ristiriidan ongelmallisena ja kirkkoa 'repivänä'. Kirjoittaja rinnastaa myös samaa sukupuolta olevien vihkimisen eronneiden vihkimiseen, vihjaten että kyse on samanlaisesta luonnollisesta kehityksestä.
-
-> Kirjoituksessa ei oteta kantaa taloudellisiin tai muihin perinteisiin vasemmisto-oikeisto -jakolinjoihin. Teksti keskittyy puhtaasti kirkon sisäiseen arvomaailmaan ja avioliittokäsitykseen liittyviin kysymyksiin. Kirjoittaja ei ota kantaa esimerkiksi kirkon ja valtion suhteeseen, kirkon rahoitukseen, työntekijöiden asemaan tai muihin poliittisen vasemmisto-oikeisto -akselin teemoihin. Näkökulma on neutraali suhteessa poliittiseen suuntaukseen.
+| Perustelu Poliittinen näkökulma | Perustelu Arvonäkökulma |
+| Kirjoitus on kirjoitettu selkeästi arvoliberaalista näkökulmasta. Teksti kuvaa positiivisena kehityksenä piispojen linjauksen olla rankaisematta samaa sukupuolta olevien parien vihkiviä pappeja. Kirjoittaja kutsuu tilannetta 'merkittäväksi askeleeksi' ja pitää ratkaisua 'parhaana tapana' selvittää asia. Hän ei kritisoi yhteiskunnallista muutosta tasa-arvoisen avioliittolain suuntaan, vaan päinvastoin esittää kirkon perinteisen avioliittokäsityksen ja nykytilanteen välisen ristiriidan ongelmallisena ja kirkkoa 'repivänä'. Kirjoittaja rinnastaa myös samaa sukupuolta olevien vihkimisen eronneiden vihkimiseen, vihjaten että kyse on samanlaisesta luonnollisesta kehityksestä. | Kirjoituksessa ei oteta kantaa taloudellisiin tai muihin perinteisiin vasemmisto-oikeisto -jakolinjoihin. Teksti keskittyy puhtaasti kirkon sisäiseen arvomaailmaan ja avioliittokäsitykseen liittyviin kysymyksiin. Kirjoittaja ei ota kantaa esimerkiksi kirkon ja valtion suhteeseen, kirkon rahoitukseen, työntekijöiden asemaan tai muihin poliittisen vasemmisto-oikeisto -akselin teemoihin. Näkökulma on neutraali suhteessa poliittiseen suuntaukseen. |
 
 5.4 Raja railona aukeaa Suomen sisällä
 ==
 
 [Väestöllisestä painopisteestä kertova pääkirjoitus](https://www.hs.fi/paakirjoitukset/art-2000011279927.html) on maltillisen arvoliberaali -2(aiemmin maltillisen arvokonservatiivinen +2) ja maltillisen oikeistolainen +3 (aiemmin +4).
 
-> Kirjoitus on lievästi arvokonservatiivinen. Se hyväksyy väestön keskittymisen ja alueellisen eriarvoisuuden luonnollisena kehityksenä, eikä kyseenalaista markkinavetoista kehitystä. Toisaalta se ei sisällä vahvoja arvokonservatiivisia teemoja kuten perinteiden tai yhteisöllisyyden korostamista.
-
-> Kirjoitus on selkeästi oikeistolainen. Se kritisoi aluepolitiikkaa ja julkisten varojen käyttöä alueellisten erojen tasaamiseen, korostaa taloudellista realismia ja markkinoiden roolia. Erityisen paljastava on lause 'Eikä Weberin pistettä saa edes nykymaailmassa peruuttamaan rahalla työntämällä', joka viittaa markkinatalouden ylivoimaan valtiolliseen ohjaukseen nähden.
+| Perustelu Poliittinen näkökulma | Perustelu Arvonäkökulma |
+| Kirjoitus on lievästi arvokonservatiivinen. Se hyväksyy väestön keskittymisen ja alueellisen eriarvoisuuden luonnollisena kehityksenä, eikä kyseenalaista markkinavetoista kehitystä. Toisaalta se ei sisällä vahvoja arvokonservatiivisia teemoja kuten perinteiden tai yhteisöllisyyden korostamista. | Kirjoitus on selkeästi oikeistolainen. Se kritisoi aluepolitiikkaa ja julkisten varojen käyttöä alueellisten erojen tasaamiseen, korostaa taloudellista realismia ja markkinoiden roolia. Erityisen paljastava on lause 'Eikä Weberin pistettä saa edes nykymaailmassa peruuttamaan rahalla työntämällä', joka viittaa markkinatalouden ylivoimaan valtiolliseen ohjaukseen nähden. |
 
 5.5 Telakka tuo rahaa ja työtä Suomeen
 ==
 [Telakasta kertova pääkirjoitus](https://www.hs.fi/paakirjoitukset/art-2000011272057.html) arvioidaan arvokonservatiiviseksi +3 (aiemmin arvoneutraali 0) ja poliittisesti oikeistolaiseksi +3 (aiemmin +3).
 
-> Kirjoitus ei käsittele arvoliberaaleja tai arvokonservatiivisia teemoja kuten ihmisoikeuksia, tasa-arvoa, perinteisiä arvoja tai yhteiskunnallisia normeja. Se keskittyy puhtaasti taloudellisiin ja elinkeinopoliittisiin kysymyksiin, joten arvoulottuvuudella ei ole merkitystä tässä tekstissä.
-
-> Kirjoitus kallistuu lievästi oikealle useista syistä: 1) Se korostaa yksityisen sektorin investointien ja viennin merkitystä talouskasvulle, 2) Kritisoi implisiittisesti vihreän siirtymän investointeja niiden vähäisen työllistävyyden vuoksi, 3) Kehuu telakkateollisuuden säilyttämistä markkinatalouden näkökulmasta, 4) Mainitsee valtion takausvastuut myönteisessä valossa nimenomaan siksi, että ne tukevat yksityistä liiketoimintaa. Toisaalta kirjoitus ei ole voimakkaan oikeistolainen, sillä se hyväksyy valtion roolin talouden tukijana.
+| Perustelu Poliittinen näkökulma | Perustelu Arvonäkökulma |
+| Kirjoitus ei käsittele arvoliberaaleja tai arvokonservatiivisia teemoja kuten ihmisoikeuksia, tasa-arvoa, perinteisiä arvoja tai yhteiskunnallisia normeja. Se keskittyy puhtaasti taloudellisiin ja elinkeinopoliittisiin kysymyksiin, joten arvoulottuvuudella ei ole merkitystä tässä tekstissä. | Kirjoitus kallistuu lievästi oikealle useista syistä: 1) Se korostaa yksityisen sektorin investointien ja viennin merkitystä talouskasvulle, 2) Kritisoi implisiittisesti vihreän siirtymän investointeja niiden vähäisen työllistävyyden vuoksi, 3) Kehuu telakkateollisuuden säilyttämistä markkinatalouden näkökulmasta, 4) Mainitsee valtion takausvastuut myönteisessä valossa nimenomaan siksi, että ne tukevat yksityistä liiketoimintaa. Toisaalta kirjoitus ei ole voimakkaan oikeistolainen, sillä se hyväksyy valtion roolin talouden tukijana. |
 
 
 6 Yhteenveto
