@@ -26,6 +26,7 @@ Suurella kielimallilla voi luokitella kirjoituksia erilaisilla perusteilla. Täs
 
 | Systeemi-prompti | Analyysi-prompti |
 | You are an AI assistant tasked with analyzing political biases in works. Your goal is to provide insightful commentary on polical leaning, and liberal/conservative leaning. output in JSON format with keys: \“arvot\” (asteikko (-10,10)), \"poliittinen suuntaus\" (asteikko (-10,10)), \"perustelut arvot\", and \"perustelut poliittinen suuntaus\". | Analysoi kirjoitus. Onko se kirjoitettu arvoliberaalista vai arvokonservatiivisesta näkökulmasta? arvioi asteikolla (-10,10). Arvo -10 tarkoittaa hyvin arvoliberaalia, arvo 10 hyvin arvokonservatiivista. Entä onko se kirjoitettu vasemmistolaisesta vai oikeistolaisesta näkökulmasta? arvioi asteikolla (-10,10). Arvo -10 tarkoittaa hyvin vasemmistolaista, arvo 10 hyvin oikeistolaista. Vastaa JSON muodossa. (encode special chars properly) |
+
 _Taulukko 1. Promptit, joita analyysissä on käytetty, ovat yksinkertaisia. Mitään muita prompteja ei analyysissä käytetä._
 
 Promptien tarkoituksena on tuottaa numeerinen arvio kirjoituksen poliittisesta näkökulmasta ja siitä, mistä arvonäkökulmasta juttu on kirjoitettu. Poliittinen näkökulma arvioidaan vasemmisto-oikeisto -akselilla, kun taas kirjoituksen arvot arvioidaan arvoliberaali-arvokonservatiivi -akselilla. Luokittelu vastannee karkeasti esimerkiksi Helsingin Sanomien tekemien arvokarttojen asteikkoja, vaikka metodologia on erilainen.
@@ -93,7 +94,7 @@ Yhteisjakaumalla on selvä "korva" myös oikealla. Se vastaa eniten ehkä Keskus
 Kuvio 8 vertaa OpenAI GPT4o:n ja Clauden tekemiä arvokarttoja tammikuu-kesäkuu 2025 pääkirjoituksista. Claude vaikuttaa painottavan enemmän tekstin sävyä ja OpenAI ehkä enemmän tekstin teemaa. Clauden arvion mukaan pääkirjoitukset painottuvat selvästi vasemmalle, kun taas GPT4o näkee niissä kahtiajakautuneisuutta poliittisesti. 
 Pääsääntöisesti molempien jakaumien muoto on samanlainen: painopiste on arvoliberaalilla alueella painottuen vahvemmin vasemmalle, mutta myös maltilliseen oikeistoon. 
 
-Äärilaidat puuttuvat oikeastaan mistä tahansa suunnasta: pääkirjoitukset eivät positioidu äärivasemmistoon tai äärioikeistoon. Ne eivät myöskään edusta oikeastaan lainkaan vahvasti arvokonservatiivista laitaa, mutta eivät myöskään äärimmäistä arvoliberalismia, vaikka paino onkin arvoliberaalilla puolella.
+Äärilaidat puuttuvat oikeastaan mistä tahansa suunnasta: pääkirjoitukset eivät positioidu äärivasemmistoon tai äärioikeistoon. Ne eivät myöskään edusta oikeastaan lainkaan vahvasti arvokonservatiivista laitaa, mutta eivät myöskään mukaan äärimmäistä arvoliberalismia, vaikka paino onkin arvoliberaalilla puolella.
 
 5 Esimerkkejä tuloksista
 ===
@@ -145,7 +146,7 @@ Seuraavaksi käyn hieman yksityiskohtaisemmin läpi Clauden arviot muutamasta p�
 Tulosten mukaan Helsingin Sanomat tunnustaa arvokysymyksissä selvästi väriä: pääkirjoitukset on kirjoitettu vahvasti arvoliberaalista näkökulmasta. Tätä ei ehkä voi pitää yllättävänä, koska Hesarin tausta on liberaalissa nuorsuomalaisessa liikkeessä.
 
 Poliittisen näkökulman osalta tulos ei ole yhtä selvä, vaikka pääkirjoituksissa painottuu lievä vasemmistolaisuus. 
-Tyypillisin näkökulma on maltillinen vasemmmistolaisuus, mutta mukana on myös oikeistolaisia näkökulmia. Jyrkkää oikeistolaista tai jyrkkää vasemmistolaista näkökulmaa pääkirjoituksissa ei oteta. Ajallista variaatiota pääkirjoitusten näkökulmissa on mukana: alkuvuodesta näkökulma oli neutraali tai jopa lievästi oikeistolainen, maaliskuusta kesäkuuhun näkökulma on ollut vasemmmistolainen.
+Tyypillisin näkökulma on maltillisen vasemmmistolainen, mutta mukana on myös oikeistolaisia näkökulmia. Jyrkkää oikeistolaista tai jyrkkää vasemmistolaista näkökulmaa pääkirjoituksissa ei oteta. Ajallista variaatiota pääkirjoitusten näkökulmissa on mukana: alkuvuodesta näkökulma oli neutraali tai jopa lievästi oikeistolainen, maaliskuusta kesäkuuhun näkökulma on ollut vasemmmistolainen.
 Ehkä tulokset voi summata niin, että Hesari on vahvasti arvoliberaali oikeistososialidemokraatti, jonka vasemmistosympatia kääntyy toisinaan oikeistolaiseksi.
 
 
