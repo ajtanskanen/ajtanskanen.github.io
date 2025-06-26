@@ -9,7 +9,7 @@ tags:
   - arvot
 ---
 
-Helsingin Sanomat ei ole pelkkää passiivinen asioiden seuraaja, vaan ottaa pääkirjoituksissaan kantaa ajankohtaisiin asioihin. Tässä blogissa laajennetaan [edellisen blogin](/posts/2025/6/paakirjoitukset/) analyysiä. Tulosten mukaan HS on vahvasti arvoliberaali. HS:n pääkirjoitusten poliittinen kanta oli alkuvuonna hyvin neutraali, jopa hieman oikeistolainen, mutta maaliskuusta alkaen siirtyi selvästi vasemmistolaiseksi. 
+Helsingin Sanomat ei ole pelkkää passiivinen asioiden seuraaja, vaan ottaa pääkirjoituksissaan kantaa ajankohtaisiin asioihin. Tässä blogissa laajennetaan [edellisen blogin](/posts/2025/6/paakirjoitukset/) analyysiä. Tulosten mukaan HS on järjestelmällisesti selvästi arvoliberaali. HS:n pääkirjoitusten poliittinen näkökulma oli tammikuussa keskimäärin neutraali, helmikuussa jopa hieman oikeistolainen, mutta maaliskuusta kesäkuuhun pääkirjoitusten näkökulma oli selvästi vasemmistolainen. 
 
 ![HS:n uutisten poliittisuuden jakauma](/images/HS/jakauma2.png)<br>
 _Kuvio 1. HS:n uutisjuttujen poliittisen näkökulman (vaaka-akseli) ja arvojen (pystyakseli) yhteisjakauma. Pystyakselilla alhaalla arvoliberaalius, ylhäällä arvokonservatismi. Vaaka-akselilla vasemmalla vasemmmisto, oikealla oikeisto._
@@ -47,7 +47,7 @@ Jokaista tekstiä varten keskustelu Clauden kanssa avataan uudestaan, jotta aiem
 Pääkirjoitukset ovat selvästi arvoliberaaleja: keskiarvo on -2,26 tammikuusta kesäkuuhun 2025 (pelkkä kesäkuu -2,4) asteikolla (-10; 10). Tyypillinen pääkirjoitus on sekin selvästi arvoliberaali, sillä mediaani on -2 (pelkkä kesäkuu -2).
 Tämä lienee odotettua, koska HS on jo aikoinaan perustettu kannattamaan liberaaleja arvoja.
 Tulokset eivät juuri muuttuneet, vaikka aineisto kasvoi 40:stä pääkirjoituksesta 318:sta.
-Varmistuksena testattiin vielä, että OpenAI GPT4o antaa samoilla prompteilla keskiarvoksi -2,5. Tämä ei muuta johtopäätöstä verrattuna Clauden antamaan keskiarvoon -2,3.
+Varmistuksena testattiin vielä, että OpenAI GPT4o antaa samoilla prompteilla keskiarvoksi -2,5 ja erojen keskiarvo 0,23 (OpenAI ei syystä arvioinut kaikkia pääkirjoituksia). Tämä ei muuta johtopäätöstä verrattuna Clauden antamaan keskiarvoon -2,3.
 
 ![HS:n pääkirjoitusten arvojen jakauma](/images/HS/arvot2.png)<br>
 _Kuvio 2. HS:n pääkirjoitusten arvojen jakauma._
@@ -68,7 +68,7 @@ Kuvio 4 näyttää, että HS on vahvasti arvoliberaali pääkirjoituksissaan. Ru
 ===
 
 Kirjoitusten näkökulmien on lievästi vasemmistolainen: keskiarvo on -0,51 tammikuusta kesäkuuhun 2025 (pelkkä kesäkuu -0,23) asteikolla (-10; 10). Tyypillinen pääkirjoitus taas on maltillisen vasemmistolainen, sillä mediaani on -2 (pelkkä kesäkuu -1). Ero mediaanin ja keskiarvon välillä selittyy sillä, että pääkirjoitusten joukossa on myös selvästi oikeistolaisia pääkirjoituksia. Tämä näkyy kuviosta 5. 
-Varmistuksena testattiin vielä, että OpenAI GPT4o antaa samoilla prompteilla keskiarvoksi -0,26. Tämä ei muuta johtopäätöstä Clauden antamaan keskiarvoon -0,51.
+Varmistuksena testattiin vielä, että OpenAI GPT4o antaa samoilla prompteilla keskiarvoksi -0,26. Arvioiden erojen keskiarvo on -0,12, sillä OpenAI ei syystä arvioinut kaikkia pääkirjoituksia. Tämä ei muuta johtopäätöstä Clauden antamaan keskiarvoon -0,51.
 
 ![HS:n pääkirjoitusten politiikan jakauma](/images/HS/poliittinen2.png)<br>
 _Kuvio 5. HS:n pääkirjoitusten poliittisen näkökulman jakauma._
@@ -80,7 +80,7 @@ Kuvio 6 näyttää hyvin, että peräkkäiset pääkirjoitukset on usein kirjoit
 ![HS:n pääkirjoitusten politiikan aikajakauma](/images/HS/poliittinen_ts.png)<br>
 _Kuvio 6. HS:n pääkirjoitusten poliittisen näkökulman aikajakauma._
 
-Rullaava keskiarvo 40:n pääkirjoituksen poliittisesta näkökulmasta vaihtelee reilusti (Kuvio 7). Vuoden 2025 ensimmäiset 3 kuukautta se on hyvin neutraali tai jopa oikeistolainen, mutta sitten sukeltaa selvästi vasemmalle huhti- ja toukokuuksi kunnes alkaa kesäkuussa palata neutraalimpaan suuntaan. Tätä ei näkynyt aiemmassa blogissa.
+Rullaava keskiarvo 40:n pääkirjoituksen poliittisesta näkökulmasta vaihtelee reilusti (Kuvio 7). Vuoden 2025 ensimmäiset 3 kuukautta se on hyvin neutraali ja helmikuussa jopa lievästi oikeistolainen, mutta sitten sukeltaa selvästi vasemmalle huhti- ja toukokuuksi kunnes alkaa kesäkuussa palata neutraalimpaan suuntaan. Tätä ei näkynyt [aiemmassa blogissa](/posts/2025/6/paakirjoitukset/).
 
 ![HS:n pääkirjoitusten politiikan rullaava keskiarvo](/images/HS/polrol.png)<br>
 _Kuvio 7. HS:n pääkirjoitusten poliittisen näkökulman rullaava keskiarvo edellisistä 40:stä pääkirjoituksesta._
@@ -97,7 +97,8 @@ _Kuvio 8. HS:n pääkirjoitusten arvojen ja poliittisen näkökulman yhteisjakau
 Jos vertaa Kuvion 1 yhteisjakaumaa [Hesarin puolueiden arvokarttaan](https://www.hs.fi/politiikka/art-2000010457779.html), näkee, että yhteisjakauman huippukohta vastaa parhaiten SDP:tä. 
 Yhteisjakaumalla on selvä "korva" myös oikealla. Se vastaa eniten ehkä Keskustaa tai Kokoomusta HS:n arvokartalla.
 
-Kuvio 8 vertaa OpenAI GPT4o:n ja Clauden tekemiä arvokarttoja tammikuu-kesäkuu 2025 pääkirjoituksista. Claude vaikuttaa painottavan enemmän tekstin sävyä ja OpenAI ehkä enemmän tekstin teemaa. Clauden arvion mukaan pääkirjoitukset painottuvat selvästi vasemmalle, kun taas GPT4o näkee niissä kahtiajakautuneisuutta poliittisesti. Pääsääntöisesti molempien jakaumien muoto on samanlainen: painopiste on arvoliberaalilla alueella painottuen vahvemmin vasemmalle, mutta myös maltilliseen oikeistoon. 
+Kuvio 8 vertaa OpenAI GPT4o:n ja Clauden tekemiä arvokarttoja tammikuu-kesäkuu 2025 pääkirjoituksista. Claude vaikuttaa painottavan enemmän tekstin sävyä ja OpenAI ehkä enemmän tekstin teemaa. Clauden arvion mukaan pääkirjoitukset painottuvat selvästi vasemmalle, kun taas GPT4o näkee niissä kahtiajakautuneisuutta poliittisesti. 
+Pääsääntöisesti molempien jakaumien muoto on samanlainen: painopiste on arvoliberaalilla alueella painottuen vahvemmin vasemmalle, mutta myös maltilliseen oikeistoon. 
 
 Äärilaidat puuttuvat oikeastaan mistä tahansa suunnasta: pääkirjoitukset eivät positioidu äärivasemmistoon tai äärioikeistoon. Ne eivät myöskään edusta oikeastaan lainkaan vahvasti arvokonservatiivista laitaa, mutta eivät myöskään äärimmäistä arvoliberalismia, vaikka paino onkin arvoliberaalilla puolella.
 
