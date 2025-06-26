@@ -91,6 +91,9 @@ _Kuvio 7. HS:n pääkirjoitusten poliittisen näkökulman rullaava keskiarvo ede
 Arvojen ja polittiisen näkökulman yhteisjakauma (Kuvio 1) osoittaa että suuri huippu uutisjuttuille on arvoliberaalissa vasemmistossa. 
 Jakauman paino on selvästi arvoliberaalissa vasemmistossa.
 
+![HS:n pääkirjoitusten politiikan aikajakauma](/images/HS/cc_jakauma.png)<br>
+_Kuvio 8. HS:n pääkirjoitusten arvojen ja poliittisen näkökulman yhteisjakauma tehtynä ChatGPT xx:llä (vasen kaavio) ja Claude Opus 4:llä (oikea kaavio)._
+
 Jos vertaa Kuvion 1 yhteisjakaumaa [Hesarin puolueiden arvokarttaan](https://www.hs.fi/politiikka/art-2000010457779.html), näkee, että yhteisjakauman huippukohta vastaa parhaiten SDP:tä. 
 Yhteisjakaumalla on selvä "korva" myös oikealla. Se vastaa eniten ehkä Keskustaa tai Kokoomusta HS:n arvokartalla.
 
