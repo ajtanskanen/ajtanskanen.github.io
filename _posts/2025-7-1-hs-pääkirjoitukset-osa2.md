@@ -24,10 +24,9 @@ Aiemmassa aineistossa oli vain 40 pääkirjoitusta, jotka on kerätty 31.5.2025-
 
 Suurella kielimallilla voi luokitella kirjoituksia erilaisilla perusteilla. Tässä käytetään Anthropicin Claude Opus 4 -mallia suurena kielimallina, jolla analysoidaan pääkirjoitusten näkökulmaa. Lista pääkirjoituksista ja niiden analyysistä löytyy tiiviissä muodossa blogin lopussa.
 
-Promptit, joita analyysissä on käytetty, ovat yksinkertaisia. Mitään muita prompteja ei analyysissä käytetä. 
-
-|: Systeemi-prompti | Analyysi-prompti :|
+| Systeemi-prompti :|: Analyysi-prompti |
 | You are an AI assistant tasked with analyzing political biases in works. Your goal is to provide insightful commentary on polical leaning, and liberal/conservative leaning. output in JSON format with keys: \“arvot\” (asteikko (-10,10)), \"poliittinen suuntaus\" (asteikko (-10,10)), \"perustelut arvot\", and \"perustelut poliittinen suuntaus\". | Analysoi kirjoitus. Onko se kirjoitettu arvoliberaalista vai arvokonservatiivisesta näkökulmasta? arvioi asteikolla (-10,10). Arvo -10 tarkoittaa hyvin arvoliberaalia, arvo 10 hyvin arvokonservatiivista. Entä onko se kirjoitettu vasemmistolaisesta vai oikeistolaisesta näkökulmasta? arvioi asteikolla (-10,10). Arvo -10 tarkoittaa hyvin vasemmistolaista, arvo 10 hyvin oikeistolaista. Vastaa JSON muodossa. (encode special chars properly) |
+_Taulukko 1. Promptit, joita analyysissä on käytetty, ovat yksinkertaisia. Mitään muita prompteja ei analyysissä käytetä._
 
 Promptien tarkoituksena on tuottaa numeerinen arvio kirjoituksen poliittisesta näkökulmasta ja siitä, mistä arvonäkökulmasta juttu on kirjoitettu. Poliittinen näkökulma arvioidaan vasemmisto-oikeisto -akselilla, kun taas kirjoituksen arvot arvioidaan arvoliberaali-arvokonservatiivi -akselilla. Luokittelu vastannee karkeasti esimerkiksi Helsingin Sanomien tekemien arvokarttojen asteikkoja, vaikka metodologia on erilainen.
 
@@ -36,10 +35,12 @@ Jokaista tekstiä varten keskustelu Clauden kanssa avataan uudestaan, jotta aiem
 2 Arvot
 ===
 
-Pääkirjoitukset ovat selvästi arvoliberaaleja: keskiarvo on -2,26 tammikuusta kesäkuuhun 2025 (pelkkä kesäkuu -2,4) asteikolla (-10; 10). Tyypillinen pääkirjoitus on sekin selvästi arvoliberaali, sillä mediaani on -2 (pelkkä kesäkuu -2).
+Pääkirjoitukset ovat selvästi arvoliberaaleja: keskiarvo on -2,26 tammikuusta kesäkuuhun 2025 (pelkkä kesäkuu -2,4) asteikolla (-10; 10). Keskiarvo on siis  arvoliberaalia.
+Tyypillinen pääkirjoitus on sekin selvästi arvoliberaali, sillä pääkirjoitusten arvioiden mediaani on -2 (pelkkä kesäkuu -2).
 Tämä lienee odotettua, koska HS on jo aikoinaan perustettu kannattamaan liberaaleja arvoja.
 Tulokset eivät juuri muuttuneet, vaikka aineisto kasvoi 40:stä pääkirjoituksesta 318:sta.
-Varmistuksena testattiin vielä, että OpenAI GPT4o antaa samoilla prompteilla keskiarvoksi -2,5 ja erojen keskiarvo 0,23 (OpenAI ei syystä arvioinut kaikkia pääkirjoituksia). Tämä ei muuta johtopäätöstä verrattuna Clauden antamaan keskiarvoon -2,3.
+
+Varmistuksena testattiin vielä, että OpenAI GPT4o antaa samoilla prompteilla keskiarvoksi -2,5 ja erojen keskiarvo 0,23 (OpenAI ei arvioinut kaikkia pääkirjoituksia). Tämä ei muuta johtopäätöstä verrattuna Clauden antamaan keskiarvoon -2,3.
 
 ![HS:n pääkirjoitusten arvojen jakauma](/images/HS/arvot2.png)<br>
 _Kuvio 2. HS:n pääkirjoitusten arvojen jakauma._
