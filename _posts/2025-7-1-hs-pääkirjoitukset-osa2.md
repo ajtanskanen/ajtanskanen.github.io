@@ -33,7 +33,7 @@ Promptien tarkoituksena on tuottaa numeerinen arvio kirjoituksen poliittisesta n
 
 Jokaista tekstiä varten keskustelu Clauden kanssa avataan uudestaan, jotta aiemmat vastaukset eivät sotke tuloksia. Lämpötila on mallinnuksessa 0, jotta tulokset olisivat mahdollisimman toistettavissa. Clauden vastaukset muuttuvat eri ajokerroilla hieman, vaikka promptit ja aineistot pysyvät samoina. Vaihtelu ei kuitenkaan vaikuta olevan kovin suurta.
 
-3 Arvot
+2 Arvot
 ===
 
 Pääkirjoitukset ovat selvästi arvoliberaaleja: keskiarvo on -2,26 tammikuusta kesäkuuhun 2025 (pelkkä kesäkuu -2,4) asteikolla (-10; 10). Tyypillinen pääkirjoitus on sekin selvästi arvoliberaali, sillä mediaani on -2 (pelkkä kesäkuu -2).
@@ -56,7 +56,7 @@ _Kuvio 4. HS:n pääkirjoitusten arvonäkökulman rullaava keskiarvo edellisist�
 
 Kuvio 4 näyttää, että HS on vahvasti arvoliberaali pääkirjoituksissaan. Rullaava keskiarvo 40:stä pääkirjoituksesta näyttää, että pääkirjoitukset ovat selvästi arvoliberaaleja noin -2,3:n ympärillä kapealla sektorilla. 
 
-4 Poliittisuus
+3 Poliittinen näkökulma
 ===
 
 Kirjoitusten näkökulmien on lievästi vasemmistolainen: keskiarvo on -0,51 tammikuusta kesäkuuhun 2025 (pelkkä kesäkuu -0,23) asteikolla (-10; 10). Tyypillinen pääkirjoitus taas on maltillisen vasemmistolainen, sillä mediaani on -2 (pelkkä kesäkuu -1). Ero mediaanin ja keskiarvon välillä selittyy sillä, että pääkirjoitusten joukossa on myös selvästi oikeistolaisia pääkirjoituksia. Tämä näkyy kuviosta 5. 
@@ -77,7 +77,7 @@ Rullaava keskiarvo 40:n pääkirjoituksen poliittisesta näkökulmasta vaihtelee
 ![HS:n pääkirjoitusten politiikan rullaava keskiarvo](/images/HS/polrol.png)<br>
 _Kuvio 7. HS:n pääkirjoitusten poliittisen näkökulman rullaava keskiarvo edellisistä 40:stä pääkirjoituksesta._
 
-5 Arvot ja poliittinen näkökulma
+4 Arvojen ja poliittisen näkökulman yhteisjakauma
 ===
 
 Arvojen ja polittiisen näkökulman yhteisjakauma (Kuvio 1) osoittaa että suuri huippu uutisjuttuille on arvoliberaalissa vasemmistossa. 
@@ -94,12 +94,12 @@ Pääsääntöisesti molempien jakaumien muoto on samanlainen: painopiste on arv
 
 Äärilaidat puuttuvat oikeastaan mistä tahansa suunnasta: pääkirjoitukset eivät positioidu äärivasemmistoon tai äärioikeistoon. Ne eivät myöskään edusta oikeastaan lainkaan vahvasti arvokonservatiivista laitaa, mutta eivät myöskään äärimmäistä arvoliberalismia, vaikka paino onkin arvoliberaalilla puolella.
 
-6 Esimerkkejä tuloksista
+5 Esimerkkejä tuloksista
 ===
 
 Seuraavaksi käyn hieman yksityiskohtaisemmin läpi Clauden arviot muutamasta pääkirjoituksesta. Mukana on myös vertailu aiempaan arvioon, joka näyttää, missä määrin tulokset muuttuvat eri ajokerroilla. Muutokset vaikuttavat olevan suurempia arvonäkökulmassa kuin poliittisessa katsantokannassa.
 
-6.1 Myllypuro uudistui ja kaikki voittivat – paitsi ennakkoluulot
+5.1 Myllypuro uudistui ja kaikki voittivat – paitsi ennakkoluulot
 ==
 
 [Myllypuron uudistamisesta kertova pääkirjoitus](https://www.hs.fi/paakirjoitukset/art-2000011292427.html) arvioidaan selvästi arvoliberaaliksi -6 (aiemmin -6) ja vasemmistolaiseksi -4 (aiemmin -4).
@@ -108,7 +108,7 @@ Seuraavaksi käyn hieman yksityiskohtaisemmin läpi Clauden arviot muutamasta p�
 
 > Kirjoitus on selkeästi arvoliberaali. Se kritisoi maahanmuuttovastaisuutta ja stereotypioita, puolustaa monimuotoisuutta ja monikulttuurisuutta positiivisena asiana. Erityisesti perussuomalaisten edustajan kommentti 'minareeteista ja sharia-laista' esitetään negatiivisessa valossa. Kirjoitus korostaa Itä-Helsingin monimuotoisuutta ja torjuu ennakkoluuloja.
 
-6.2 Ilmailun työtaistelu
+5.2 Ilmailun työtaistelu
 ==
 [Ilmailun työtaistelusta kertova pääkirjoitus](https://www.hs.fi/paakirjoitukset/art-2000011274686.html) arvioidaan lievästi arvokonservatiiviseksi +3 (aiemmin +2) ja selvästi oikeistolaisesta näkökulmasta kirjoitetuksi +6 (aiemmin +5).
 
@@ -116,7 +116,7 @@ Seuraavaksi käyn hieman yksityiskohtaisemmin läpi Clauden arviot muutamasta p�
 
 > Kirjoitus on selvästi oikeistolainen. Se puolustaa työnantajien näkökulmaa, kritisoi ammattiliittojen lakkoja ja korostaa yrityksen (Finnair) taloudellisia menetyksiä. Kirjoittaja pitää työntekijöiden palkankorotusvaatimuksia kohtuuttomina ja 'päättöminä'. Vientimallin puolustaminen on myös tyypillisesti oikeistolainen kanta. Kirjoitus korostaa taloudellista vastuullisuutta ja kilpailukykyä työntekijöiden oikeuksien sijaan.
 
-6.3 Piispat tekivät ison linjauksen samaa sukupuolta olevien vihkimisestä 
+5.3 Piispat tekivät ison linjauksen samaa sukupuolta olevien vihkimisestä 
 ==
 
 [Kirkolliskokouksen päätöstä arvioiva pääkirjoitus](https://www.hs.fi/paakirjoitukset/art-2000011278250.html) on selvästi arvoliberaali -6 (aiemmin -6) ja poliittiselta lievästi vasemmistolainen -2 (aiemmin -2).
@@ -125,7 +125,7 @@ Seuraavaksi käyn hieman yksityiskohtaisemmin läpi Clauden arviot muutamasta p�
 
 > Kirjoituksessa ei oteta kantaa taloudellisiin tai muihin perinteisiin vasemmisto-oikeisto -jakolinjoihin. Teksti keskittyy puhtaasti kirkon sisäiseen arvomaailmaan ja avioliittokäsitykseen liittyviin kysymyksiin. Kirjoittaja ei ota kantaa esimerkiksi kirkon ja valtion suhteeseen, kirkon rahoitukseen, työntekijöiden asemaan tai muihin poliittisen vasemmisto-oikeisto -akselin teemoihin. Näkökulma on neutraali suhteessa poliittiseen suuntaukseen.
 
-6.4 Raja railona aukeaa Suomen sisällä
+5.4 Raja railona aukeaa Suomen sisällä
 ==
 
 [Väestöllisestä painopisteestä kertova pääkirjoitus](https://www.hs.fi/paakirjoitukset/art-2000011279927.html) on maltillisen arvoliberaali -2(aiemmin maltillisen arvokonservatiivinen +2) ja maltillisen oikeistolainen +3 (aiemmin +4).
@@ -134,7 +134,7 @@ Seuraavaksi käyn hieman yksityiskohtaisemmin läpi Clauden arviot muutamasta p�
 
 > Kirjoitus on selkeästi oikeistolainen. Se kritisoi aluepolitiikkaa ja julkisten varojen käyttöä alueellisten erojen tasaamiseen, korostaa taloudellista realismia ja markkinoiden roolia. Erityisen paljastava on lause 'Eikä Weberin pistettä saa edes nykymaailmassa peruuttamaan rahalla työntämällä', joka viittaa markkinatalouden ylivoimaan valtiolliseen ohjaukseen nähden.
 
-6.5 Telakka tuo rahaa ja työtä Suomeen
+5.5 Telakka tuo rahaa ja työtä Suomeen
 ==
 [Telakasta kertova pääkirjoitus](https://www.hs.fi/paakirjoitukset/art-2000011272057.html) arvioidaan arvokonservatiiviseksi +3 (aiemmin arvoneutraali 0) ja poliittisesti oikeistolaiseksi +3 (aiemmin +3).
 
@@ -143,7 +143,7 @@ Seuraavaksi käyn hieman yksityiskohtaisemmin läpi Clauden arviot muutamasta p�
 > Kirjoitus kallistuu lievästi oikealle useista syistä: 1) Se korostaa yksityisen sektorin investointien ja viennin merkitystä talouskasvulle, 2) Kritisoi implisiittisesti vihreän siirtymän investointeja niiden vähäisen työllistävyyden vuoksi, 3) Kehuu telakkateollisuuden säilyttämistä markkinatalouden näkökulmasta, 4) Mainitsee valtion takausvastuut myönteisessä valossa nimenomaan siksi, että ne tukevat yksityistä liiketoimintaa. Toisaalta kirjoitus ei ole voimakkaan oikeistolainen, sillä se hyväksyy valtion roolin talouden tukijana.
 
 
-7 Yhteenveto
+6 Yhteenveto
 ===
 
 Tulosten mukaan Helsingin Sanomat tunnustaa arvokysymyksissä selvästi väriä: pääkirjoitukset on kirjoitettu vahvasti arvoliberaalista näkökulmasta. Tätä ei ehkä voi pitää yllättävänä, koska Hesarin tausta on liberaalissa nuorsuomalaisessa liikkeessä.
