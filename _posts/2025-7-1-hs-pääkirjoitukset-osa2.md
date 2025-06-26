@@ -105,17 +105,15 @@ Seuraavaksi käyn hieman yksityiskohtaisemmin läpi Clauden arviot muutamasta p�
 
 [Myllypuron uudistamisesta kertova pääkirjoitus](https://www.hs.fi/paakirjoitukset/art-2000011292427.html) arvioidaan selvästi arvoliberaaliksi -6 (aiemmin -6) ja vasemmistolaiseksi -4 (aiemmin -4).
 
-> Kirjoituksessa on maltillisia vasemmistolaisia piirteitä. Se puolustaa valtion tukemaa asuntorakentamista (ARA-järjestelmä) ja näkee sen positiivisena tekijänä alueen kehityksessä. Vuokrasäännöstely esitetään hyvänä asiana, joka suojeli alkuperäisiä asukkaita. Kirjoitus kritisoi markkinaehtoista asumispolitiikkaa epäsuorasti ja korostaa julkisen sektorin roolia aluekehityksessä.
-
-> Kirjoitus on selkeästi arvoliberaali. Se kritisoi maahanmuuttovastaisuutta ja stereotypioita, puolustaa monimuotoisuutta ja monikulttuurisuutta positiivisena asiana. Erityisesti perussuomalaisten edustajan kommentti 'minareeteista ja sharia-laista' esitetään negatiivisessa valossa. Kirjoitus korostaa Itä-Helsingin monimuotoisuutta ja torjuu ennakkoluuloja.
+| Perustelu Poliittinen näkökulma :|: Perustelu Arvonäkökulma |
+| Kirjoituksessa on maltillisia vasemmistolaisia piirteitä. Se puolustaa valtion tukemaa asuntorakentamista (ARA-järjestelmä) ja näkee sen positiivisena tekijänä alueen kehityksessä. Vuokrasäännöstely esitetään hyvänä asiana, joka suojeli alkuperäisiä asukkaita. Kirjoitus kritisoi markkinaehtoista asumispolitiikkaa epäsuorasti ja korostaa julkisen sektorin roolia aluekehityksessä. | Kirjoitus on selkeästi arvoliberaali. Se kritisoi maahanmuuttovastaisuutta ja stereotypioita, puolustaa monimuotoisuutta ja monikulttuurisuutta positiivisena asiana. Erityisesti perussuomalaisten edustajan kommentti 'minareeteista ja sharia-laista' esitetään negatiivisessa valossa. Kirjoitus korostaa Itä-Helsingin monimuotoisuutta ja torjuu ennakkoluuloja. |
 
 5.2 Ilmailun työtaistelu
 ==
 [Ilmailun työtaistelusta kertova pääkirjoitus](https://www.hs.fi/paakirjoitukset/art-2000011274686.html) arvioidaan lievästi arvokonservatiiviseksi +3 (aiemmin +2) ja selvästi oikeistolaisesta näkökulmasta kirjoitetuksi +6 (aiemmin +5).
 
-> Kirjoitus ei käsittele varsinaisia arvokonservatiivisia tai -liberaaleja teemoja kuten perhearvojen, uskonnon, seksuaalivähemmistöjen oikeuksien tai maahanmuuton kysymyksiä. Se keskittyy työmarkkinapolitiikkaan ja taloudellisiin kysymyksiin. Lievä konservatiivinen sävy tulee esiin siinä, että kirjoittaja puolustaa olemassa olevia rakenteita (vientimalli, sovittelujärjestelmä) ja vastustaa niiden muuttamista.
-
-> Kirjoitus on selvästi oikeistolainen. Se puolustaa työnantajien näkökulmaa, kritisoi ammattiliittojen lakkoja ja korostaa yrityksen (Finnair) taloudellisia menetyksiä. Kirjoittaja pitää työntekijöiden palkankorotusvaatimuksia kohtuuttomina ja 'päättöminä'. Vientimallin puolustaminen on myös tyypillisesti oikeistolainen kanta. Kirjoitus korostaa taloudellista vastuullisuutta ja kilpailukykyä työntekijöiden oikeuksien sijaan.
+| Perustelu Poliittinen näkökulma :|: Perustelu Arvonäkökulma |
+| Kirjoitus ei käsittele varsinaisia arvokonservatiivisia tai -liberaaleja teemoja kuten perhearvojen, uskonnon, seksuaalivähemmistöjen oikeuksien tai maahanmuuton kysymyksiä. Se keskittyy työmarkkinapolitiikkaan ja taloudellisiin kysymyksiin. Lievä konservatiivinen sävy tulee esiin siinä, että kirjoittaja puolustaa olemassa olevia rakenteita (vientimalli, sovittelujärjestelmä) ja vastustaa niiden muuttamista. | Kirjoitus on selvästi oikeistolainen. Se puolustaa työnantajien näkökulmaa, kritisoi ammattiliittojen lakkoja ja korostaa yrityksen (Finnair) taloudellisia menetyksiä. Kirjoittaja pitää työntekijöiden palkankorotusvaatimuksia kohtuuttomina ja 'päättöminä'. Vientimallin puolustaminen on myös tyypillisesti oikeistolainen kanta. Kirjoitus korostaa taloudellista vastuullisuutta ja kilpailukykyä työntekijöiden oikeuksien sijaan. |
 
 5.3 Piispat tekivät ison linjauksen samaa sukupuolta olevien vihkimisestä 
 ==
