@@ -9,7 +9,7 @@ tags:
   - arvot
 ---
 
-Helsingin Sanomat on arvostettu suomalainen lehti, joka on suorastaan instituutio. Hesari ei ole pelkkää passiivinen asioiden seuraaja, vaan ottaa lehtenä kantaa ajankohtaisiin asioihin. Lehden linjaa esitellään pääkirjoituksissa. Tässä blogissa laajennetaan [edellisen blogin](/posts/2025/6/paakirjoitukset/) analyysiä. Tulosten mukaan HS on vahvasti arvoliberaali. HS:n pääkirjoitusten poliittinen kanta oli alkuvuonna hyvin neutraali, jopa hieman oikeistolainen, mutta maaliskuusta alkaen siirtyi selvästi vasemmistolaiseksi. Tässä blogissa tarkastellaan tuloksia laajemman aineiston valossa ja uusilla menetelmillä.
+Helsingin Sanomat ei ole pelkkää passiivinen asioiden seuraaja, vaan ottaa pääkirjoituksissaan kantaa ajankohtaisiin asioihin. Tässä blogissa laajennetaan [edellisen blogin](/posts/2025/6/paakirjoitukset/) analyysiä. Tulosten mukaan HS on vahvasti arvoliberaali. HS:n pääkirjoitusten poliittinen kanta oli alkuvuonna hyvin neutraali, jopa hieman oikeistolainen, mutta maaliskuusta alkaen siirtyi selvästi vasemmistolaiseksi. 
 
 ![HS:n uutisten poliittisuuden jakauma](/images/HS/jakauma2.png)<br>
 _Kuvio 1. HS:n uutisjuttujen poliittisen näkökulman (vaaka-akseli) ja arvojen (pystyakseli) yhteisjakauma. Pystyakselilla alhaalla arvoliberaalius, ylhäällä arvokonservatismi. Vaaka-akselilla vasemmalla vasemmmisto, oikealla oikeisto._
@@ -47,7 +47,7 @@ Jokaista tekstiä varten keskustelu Clauden kanssa avataan uudestaan, jotta aiem
 Pääkirjoitukset ovat selvästi arvoliberaaleja: keskiarvo on -2,26 tammikuusta kesäkuuhun 2025 (pelkkä kesäkuu -2,4) asteikolla (-10; 10). Tyypillinen pääkirjoitus on sekin selvästi arvoliberaali, sillä mediaani on -2 (pelkkä kesäkuu -2).
 Tämä lienee odotettua, koska HS on jo aikoinaan perustettu kannattamaan liberaaleja arvoja.
 Tulokset eivät juuri muuttuneet, vaikka aineisto kasvoi 40:stä pääkirjoituksesta 318:sta.
-Varmistuksena testattiin vielä, että ChatGPT antaa samoilla prompteilla keskiarvoksi -2,5. Tämä ei muuta johtopäätöstä Clauden antamaan keskiarvoon -2,3.
+Varmistuksena testattiin vielä, että OpenAI GPT4o antaa samoilla prompteilla keskiarvoksi -2,5. Tämä ei muuta johtopäätöstä verrattuna Clauden antamaan keskiarvoon -2,3.
 
 ![HS:n pääkirjoitusten arvojen jakauma](/images/HS/arvot2.png)<br>
 _Kuvio 2. HS:n pääkirjoitusten arvojen jakauma._
@@ -68,7 +68,7 @@ Kuvio 4 näyttää, että HS on vahvasti arvoliberaali pääkirjoituksissaan. Ru
 ===
 
 Kirjoitusten näkökulmien on lievästi vasemmistolainen: keskiarvo on -0,51 tammikuusta kesäkuuhun 2025 (pelkkä kesäkuu -0,23) asteikolla (-10; 10). Tyypillinen pääkirjoitus taas on maltillisen vasemmistolainen, sillä mediaani on -2 (pelkkä kesäkuu -1). Ero mediaanin ja keskiarvon välillä selittyy sillä, että pääkirjoitusten joukossa on myös selvästi oikeistolaisia pääkirjoituksia. Tämä näkyy kuviosta 5. 
-Varmistuksena testattiin vielä, että ChatGPT antaa samoilla prompteilla keskiarvoksi -0,26. Tämä ei muuta johtopäätöstä Clauden antamaan keskiarvoon -0,51.
+Varmistuksena testattiin vielä, että OpenAI GPT4o antaa samoilla prompteilla keskiarvoksi -0,26. Tämä ei muuta johtopäätöstä Clauden antamaan keskiarvoon -0,51.
 
 ![HS:n pääkirjoitusten politiikan jakauma](/images/HS/poliittinen2.png)<br>
 _Kuvio 5. HS:n pääkirjoitusten poliittisen näkökulman jakauma._
@@ -85,17 +85,19 @@ Rullaava keskiarvo 40:n pääkirjoituksen poliittisesta näkökulmasta vaihtelee
 ![HS:n pääkirjoitusten politiikan rullaava keskiarvo](/images/HS/polrol.png)<br>
 _Kuvio 7. HS:n pääkirjoitusten poliittisen näkökulman rullaava keskiarvo edellisistä 40:stä pääkirjoituksesta._
 
-5 Arvojen ja poliittisen näkökulman yhteisjakauma
+5 Arvot ja poliittinen näkökulma
 ===
 
 Arvojen ja polittiisen näkökulman yhteisjakauma (Kuvio 1) osoittaa että suuri huippu uutisjuttuille on arvoliberaalissa vasemmistossa. 
 Jakauman paino on selvästi arvoliberaalissa vasemmistossa.
 
 ![HS:n pääkirjoitusten politiikan aikajakauma](/images/HS/cc_jakauma.png)<br>
-_Kuvio 8. HS:n pääkirjoitusten arvojen ja poliittisen näkökulman yhteisjakauma tehtynä ChatGPT xx:llä (vasen kaavio) ja Claude Opus 4:llä (oikea kaavio)._
+_Kuvio 8. HS:n pääkirjoitusten arvojen ja poliittisen näkökulman yhteisjakauma tehtynä OpenAI GPT4o:lla (vasen kaavio) ja Claude Opus 4:llä (oikea kaavio)._
 
 Jos vertaa Kuvion 1 yhteisjakaumaa [Hesarin puolueiden arvokarttaan](https://www.hs.fi/politiikka/art-2000010457779.html), näkee, että yhteisjakauman huippukohta vastaa parhaiten SDP:tä. 
 Yhteisjakaumalla on selvä "korva" myös oikealla. Se vastaa eniten ehkä Keskustaa tai Kokoomusta HS:n arvokartalla.
+
+Kuvio 8 vertaa OpenAI GPT4o:n ja Clauden tekemiä arvokarttoja tammikuu-kesäkuu 2025 pääkirjoituksista. Claude vaikuttaa painottavan enemmän tekstin sävyä ja OpenAI ehkä enemmän tekstin teemaa. Clauden arvion mukaan pääkirjoitukset painottuvat selvästi vasemmalle, kun taas GPT4o näkee niissä kahtiajakautuneisuutta poliittisesti. Pääsääntöisesti molempien jakaumien muoto on samanlainen: painopiste on arvoliberaalilla alueella painottuen vahvemmin vasemmalle, mutta myös maltilliseen oikeistoon. 
 
 Äärilaidat puuttuvat oikeastaan mistä tahansa suunnasta: pääkirjoitukset eivät positioidu äärivasemmistoon tai äärioikeistoon. Ne eivät myöskään edusta oikeastaan lainkaan vahvasti arvokonservatiivista laitaa, mutta eivät myöskään äärimmäistä arvoliberalismia, vaikka paino onkin arvoliberaalilla puolella.
 
