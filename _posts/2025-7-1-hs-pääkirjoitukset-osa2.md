@@ -9,7 +9,7 @@ tags:
   - arvot
 ---
 
-Helsingin Sanomat on arvostettu suomalainen lehti, joka on suorastaan instituutio. Hesari ei ole pelkkää passiivinen asioiden seuraaja, vaan ottaa lehtenä kantaa ajankohtaisiin asioihin. Lehden linjaa esitellään pääkirjoituksissa. [Edellisen blogin](/posts/2025/6/paakirjoitukset/) analysissä arvioitiin, että HS on vahvasti arvoliberaali ja maltillisen vasemmistolainen lehti. Tässä blogissa tarkastellaan tuloksia laajemman aineiston valossa ja uusilla menetelmillä.
+Helsingin Sanomat on arvostettu suomalainen lehti, joka on suorastaan instituutio. Hesari ei ole pelkkää passiivinen asioiden seuraaja, vaan ottaa lehtenä kantaa ajankohtaisiin asioihin. Lehden linjaa esitellään pääkirjoituksissa. Tässä blogissa laajennetaan [edellisen blogin](/posts/2025/6/paakirjoitukset/) analyysiä. Tulosten mukaan HS on vahvasti arvoliberaali. HS:n pääkirjoitusten poliittinen kanta oli alkuvuonna hyvin neutraali, jopa hieman oikeistolainen, mutta maaliskuusta alkaen siirtyi selvästi vasemmistolaiseksi. Tässä blogissa tarkastellaan tuloksia laajemman aineiston valossa ja uusilla menetelmillä.
 
 ![HS:n uutisten poliittisuuden jakauma](/images/HS/jakauma2.png)<br>
 _Kuvio 1. HS:n uutisjuttujen poliittisen näkökulman (vaaka-akseli) ja arvojen (pystyakseli) yhteisjakauma. Pystyakselilla alhaalla arvoliberaalius, ylhäällä arvokonservatismi. Vaaka-akselilla vasemmalla vasemmmisto, oikealla oikeisto._
@@ -44,9 +44,10 @@ Jokaista tekstiä varten keskustelu Clauden kanssa avataan uudestaan, jotta aiem
 3 Arvot
 ===
 
-Pääkirjoitukset ovat selvästi arvoliberaaleja: keskiarvo on -2,29 (aiemmin -2,4) asteikolla (-10; 10). Tyypillinen pääkirjoitus on sekin selvästi arvoliberaali, sillä mediaani on -2 (aiemmin -2).
+Pääkirjoitukset ovat selvästi arvoliberaaleja: keskiarvo on -2,26 tammikuusta kesäkuuhun 2025 (pelkkä kesäkuu -2,4) asteikolla (-10; 10). Tyypillinen pääkirjoitus on sekin selvästi arvoliberaali, sillä mediaani on -2 (pelkkä kesäkuu -2).
 Tämä lienee odotettua, koska HS on jo aikoinaan perustettu kannattamaan liberaaleja arvoja.
 Tulokset eivät juuri muuttuneet, vaikka aineisto kasvoi 40:stä pääkirjoituksesta 318:sta.
+Varmistuksena testattiin vielä, että ChatGPT antaa samoilla prompteilla keskiarvoksi -2,5. Tämä ei muuta johtopäätöstä Clauden antamaan keskiarvoon -2,3.
 
 ![HS:n pääkirjoitusten arvojen jakauma](/images/HS/arvot2.png)<br>
 _Kuvio 2. HS:n pääkirjoitusten arvojen jakauma._
@@ -61,17 +62,18 @@ Vaikka arvojen jakauma painottuu vahvasti arvoliberaaliin suuntaan, on pääkirj
 ![HS:n pääkirjoitusten arvojen rullaava keskiarvo](/images/HS/arvorol.png)<br>
 _Kuvio 4. HS:n pääkirjoitusten arvonäkökulman rullaava keskiarvo edellisistä 40:stä pääkirjoituksesta._
 
-Kuvio 4 näyttää, että HS on vahvasti arvoliberaali pääkirjoituksissaan. Rullaava keskiarvo 40:stä pääkirjoituksesta näyttää, että pääkirjoitukset ovat selvästi arvoliberaaleja noin -2,3:n ympärillä kapealla sektorilla.
+Kuvio 4 näyttää, että HS on vahvasti arvoliberaali pääkirjoituksissaan. Rullaava keskiarvo 40:stä pääkirjoituksesta näyttää, että pääkirjoitukset ovat selvästi arvoliberaaleja noin -2,3:n ympärillä kapealla sektorilla. 
 
 4 Poliittisuus
 ===
 
-Kirjoitusten näkökulmien on hyvin lievästi vasemmistolainen: keskiarvo on -1,11 (aiemmin -0,23) asteikolla (-10; 10). Tyypillinen pääkirjoitus taas on maltillisen vasemmistolainen, sillä mediaani on -2 (aiemmin -1). Ero mediaanin ja keskiarvon välillä selittyy sillä, että pääkirjoitusten joukossa on myös selvästi oikeistolaisia pääkirjoituksia. Tämä näkyy kuviosta 3.
+Kirjoitusten näkökulmien on lievästi vasemmistolainen: keskiarvo on -0,51 tammikuusta kesäkuuhun 2025 (pelkkä kesäkuu -0,23) asteikolla (-10; 10). Tyypillinen pääkirjoitus taas on maltillisen vasemmistolainen, sillä mediaani on -2 (pelkkä kesäkuu -1). Ero mediaanin ja keskiarvon välillä selittyy sillä, että pääkirjoitusten joukossa on myös selvästi oikeistolaisia pääkirjoituksia. Tämä näkyy kuviosta 5. 
+Varmistuksena testattiin vielä, että ChatGPT antaa samoilla prompteilla keskiarvoksi -0,26. Tämä ei muuta johtopäätöstä Clauden antamaan keskiarvoon -0,51.
 
 ![HS:n pääkirjoitusten politiikan jakauma](/images/HS/poliittinen2.png)<br>
 _Kuvio 5. HS:n pääkirjoitusten poliittisen näkökulman jakauma._
 
-Poliittisista näkökulmista oikeistolaisia on 122, vasemmistolaisia 174 ja täysin neutraaleja 22. Reilusti oikeistolaisia (>2) pääkirjoituksista on 67 ja reilusti vasemmistolaisia (<-2) on 96.
+Pääkirjoitusten poliittisista näkökulmista oikeistolaisia on 122, vasemmistolaisia 174 ja täysin neutraaleja 22. Selvästi oikeistolaisia (>2) pääkirjoituksista on 67 ja selvästi vasemmistolaisia (<-2) on 96.
 
 Kuvio 6 näyttää hyvin, että peräkkäiset pääkirjoitukset on usein kirjoitettu eri poliittisesta näkökulmasta. Peräkkäisten pääkirjoitusten poliittisen näkökulman autokorrelaatio on lähes nolla, mutta poliittisten näkökulmien erojen autokorrelaatio on lähes -0,50. Tämä tarkoittaa juuri samaa kuin silmämääräinen havainto, että peräkkäiset pääkirjoitukset on usein kirjoitettu hyvin erilaisesta poliittisesta näkökulmasta ikään kuin tasapainottamaan toisiaan.
 
@@ -148,7 +150,8 @@ Seuraavaksi käyn hieman yksityiskohtaisemmin läpi Clauden arviot muutamasta p�
 
 Tulosten mukaan Helsingin Sanomat tunnustaa arvokysymyksissä selvästi väriä: pääkirjoitukset on kirjoitettu vahvasti arvoliberaalista näkökulmasta. Tätä ei ehkä voi pitää yllättävänä, koska Hesarin tausta on liberaalissa nuorsuomalaisessa liikkeessä.
 
-Poliittisesti tulos ei ole yhtä selvä, vaikka pääkirjoituksissa painottuu lievä vasemmistolaisuus. Ajallista variaatiota on myös mukana pääkirjoitusten näkökulmasta. Tyypillisin näkökulma on maltillinen vasemmmistolaisuus, mutta mukana on myös oikeistolaisia näkökulmia. Jyrkkää oikeistolaista tai jyrkkää vasemmistolaista näkökulmaa pääkirjoituksissa ei oteta.
+Poliittisen näkökulman osalta tulos ei ole yhtä selvä, vaikka pääkirjoituksissa painottuu lievä vasemmistolaisuus. 
+Tyypillisin näkökulma on maltillinen vasemmmistolaisuus, mutta mukana on myös oikeistolaisia näkökulmia. Jyrkkää oikeistolaista tai jyrkkää vasemmistolaista näkökulmaa pääkirjoituksissa ei oteta. Ajallista variaatiota pääkirjoitusten näkökulmissa on mukana: alkuvuodesta näkökulma oli neutraali tai jopa lievästi oikeistolainen, maaliskuusta kesäkuuhun näkökulma on ollut vasemmmistolainen.
 Ehkä tulokset voi summata niin, että Hesari on vahvasti arvoliberaali oikeistososialidemokraatti, jonka vasemmistosympatia kääntyy toisinaan oikeistolaiseksi.
 
 
