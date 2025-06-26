@@ -22,11 +22,12 @@ Helsingin Sanomat kuvaa itse [pääkirjoitusten](https://www.hs.fi/info/art-2000
 
 Aiemmassa aineistossa oli vain 40 pääkirjoitusta, jotka on kerätty 31.5.2025-20.6.2025 väliltä. Nyt aineistoa on laajennettu 1.1.2025 alkavaksi ja siinä on mukana 318 pääkirjoitusta. Blogin analyysin ei ole tarkoitus olla kattava. Laajempi aineisto antaa kuitenkin mahdollisuuden laajempaan analyysiin.
 
-Suurella kielimallilla voi luokitella kirjoituksia erilaisilla perusteilla. Tässä käytetään Anthropicin Claude Opus 4 -mallia suurena kielimallina, jolla analysoidaan pääkirjoitusten näkökulmaa. Lista pääkirjoituksista ja niiden analyysistä löytyy tiiviissä muodossa blogin lopussa.
+Suurella kielimallilla voi luokitella kirjoituksia erilaisilla perusteilla. Tässä käytetään Anthropicin Claude Opus 4 -mallia suurena kielimallina, jolla analysoidaan pääkirjoitusten näkökulmaa. Tuloksia on verifioitu OpenAI GPT4o -mallilla.
+Lista pääkirjoituksista ja niiden analyysistä löytyy tiiviissä muodossa blogin lopussa.
 
 | Systeemi-prompti | Analyysi-prompti |
 | You are an AI assistant tasked with analyzing political biases in works. Your goal is to provide insightful commentary on polical leaning, and liberal/conservative leaning. output in JSON format with keys: \“arvot\” (asteikko (-10,10)), \"poliittinen suuntaus\" (asteikko (-10,10)), \"perustelut arvot\", and \"perustelut poliittinen suuntaus\". | Analysoi kirjoitus. Onko se kirjoitettu arvoliberaalista vai arvokonservatiivisesta näkökulmasta? arvioi asteikolla (-10,10). Arvo -10 tarkoittaa hyvin arvoliberaalia, arvo 10 hyvin arvokonservatiivista. Entä onko se kirjoitettu vasemmistolaisesta vai oikeistolaisesta näkökulmasta? arvioi asteikolla (-10,10). Arvo -10 tarkoittaa hyvin vasemmistolaista, arvo 10 hyvin oikeistolaista. Vastaa JSON muodossa. (encode special chars properly) |
-<br>
+
 _Taulukko 1. Promptit, joita analyysissä on käytetty, ovat yksinkertaisia. Mitään muita prompteja ei analyysissä käytetä._
 
 Promptien tarkoituksena on tuottaa numeerinen arvio kirjoituksen poliittisesta näkökulmasta ja siitä, mistä arvonäkökulmasta juttu on kirjoitettu. Poliittinen näkökulma arvioidaan vasemmisto-oikeisto -akselilla, kun taas kirjoituksen arvot arvioidaan arvoliberaali-arvokonservatiivi -akselilla. Luokittelu vastannee karkeasti esimerkiksi Helsingin Sanomien tekemien arvokarttojen asteikkoja, vaikka metodologia on erilainen.
