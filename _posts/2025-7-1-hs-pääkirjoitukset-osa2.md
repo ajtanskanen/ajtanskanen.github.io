@@ -76,7 +76,7 @@ Kuvio 6 näyttää hyvin, että peräkkäiset pääkirjoitukset on usein kirjoit
 ![HS:n pääkirjoitusten politiikan aikajakauma](/images/HS/poliittinen_ts.png)<br>
 _Kuvio 6. HS:n pääkirjoitusten poliittisen näkökulman aikajakauma._
 
-Rullaava keskiarvo 40:n pääkirjoituksen poliittisesta näkökulmasta vaihtelee reilusti (Kuvio 7). Vuoden 2025 ensimmäiset 3 kuukautta se on hyvin neutraali ja helmikuussa jopa lievästi oikeistolainen, mutta sitten sukeltaa selvästi vasemmalle huhti- ja toukokuuksi kunnes alkaa kesäkuussa palata neutraalimpaan suuntaan. Tätä ei näkynyt [aiemmassa blogissa](/posts/2025/6/paakirjoitukset/).
+Rullaava keskiarvo 40:n pääkirjoituksen poliittisesta näkökulmasta vaihtelee reilusti (Kuvio 7). Vuoden 2025 ensimmäiset 3 kuukautta se on hyvin neutraali ja helmikuussa jopa lievästi oikeistolainen, mutta sitten sukeltaa selvästi vasemmalle huhti- ja toukokuuksi kunnes alkaa toukokuussa palata neutraalimpaan suuntaan. Tätä ei näkynyt [aiemmassa blogissa](/posts/2025/6/paakirjoitukset/).
 
 ![HS:n pääkirjoitusten politiikan rullaava keskiarvo](/images/HS/polrol.png)<br>
 _Kuvio 7. HS:n pääkirjoitusten poliittisen näkökulman rullaava keskiarvo edellisistä 40:stä pääkirjoituksesta._
