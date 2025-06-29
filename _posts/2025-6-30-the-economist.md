@@ -75,15 +75,15 @@ _Figure 3. Political bias of The Economist editorials. -10 stands for extremely 
 ==
 [A leader about various government's fixation on bringing back manufacturing](https://www.economist.com/leaders/2025/04/16/the-lesson-of-birminghams-striking-binmen) is assessed GAL (-6) and right-wing (+3).
 
-| Politics -6 | Values +3 |
+| Politics +3 | Values -6 |
 | The article takes a moderately right-wing economic stance, advocating for free markets, opposing government subsidies and industrial policy, and warning against state intervention in manufacturing. It criticizes politicians across the spectrum (Trump, Modi, European leaders) for their protectionist policies. The piece champions market efficiency, productivity, and innovation over government-directed industrial planning, which aligns with center-right economic liberalism. | The article strongly advocates for open international trade, global cooperation, and working with allies rather than nationalist protectionism. It criticizes the 'manufacturing delusion' of bringing production home, argues against decoupling from China, and promotes diverse international supply chains. These are classic GAL positions favoring globalization and international integration over nationalist industrial policies. | 
 
 
 5.2 The lesson of Birmingham’s striking binmen
 ==
-[A leader about Britain's equal-pay laws](https://www.economist.com/leaders/2025/04/16/the-lesson-of-birminghams-striking-binmen) is assessed TAN (+6) and right-wing (+4).
+[A leader about Britain's equal-pay laws](https://www.economist.com/leaders/2025/04/16/the-lesson-of-birminghams-striking-binmen) is assessed TAN (+4) and right-wing (+6).
 
-| Politics -6 | Values +3 |
+| Politics +6 | Values +4 |
 | The article clearly leans right-wing in its economic perspective. It criticizes equal-pay legislation, sympathizes with businesses facing large payouts, and advocates for market-based wage determination. The piece uses typically conservative framing like 'rent-seeking' lawyers and suggests that left-wing councils struggle while Conservative ones succeed through outsourcing. The criticism of EU regulations and the positive framing of Brexit as an opportunity to roll back worker protections further confirms the right-wing orientation." | The article takes a moderately traditional stance by criticizing progressive equal-pay laws that aim to address gender disparities. It frames these laws as 'judicial central planning' and suggests they go against market forces. The piece favors traditional market-based wage determination over interventionist policies designed to promote gender equality. However, it's not extremely TAN as it doesn't invoke nationalist rhetoric or authoritarian themes. | 
 
 
@@ -91,7 +91,7 @@ _Figure 3. Political bias of The Economist editorials. -10 stands for extremely 
 ==
 [A leader about Trump's trade policy](https://www.economist.com/leaders/2025/04/10/trumps-incoherent-trade-policy-will-do-lasting-damage) is assessed GAL (-6) and left-wing (-4).
 
-| Politics -6 | Values +3 |
+| Politics -4 | Values -6 |
 | The article leans moderately left in its economic analysis. While it defends free trade (traditionally associated with the right), it does so from a perspective that emphasizes international cooperation, institutional stability, and concern for workers displaced by trade. It criticizes Trump's policies for hurting household incomes and creating market volatility, showing concern for economic inequality. The support for multilateral institutions and criticism of unilateral American actions also reflects a center-left internationalist perspective. | The article strongly embodies GAL values through its defense of free trade, international cooperation, and rules-based global order. It criticizes Trump's nationalist protectionism and 'America First' approach, advocating instead for multilateral trade agreements and international institutions like the WTO. The piece emphasizes the benefits of global economic integration and warns against the dangers of isolationist policies. | 
 
 Appendix
