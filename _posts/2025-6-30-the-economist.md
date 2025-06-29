@@ -10,17 +10,23 @@ tags:
   - english
 ---
 
-The Economist is a well-known, important British journal concetrating on economic issues. It is often considered to be politically liberal. Here, we analyze how The Economist's leaders position in liberal-conservative axis and on GAL-TAN axis. The results show that The Economist is strongly politically centrist leaning left and mostly socially liberal.
+The Economist is a well-known, important British journal concetrating on economic issues. It is often considered to be politically liberal. Here, we analyze how The Economist's leaders position in liberal-conservative axis and on GAL-TAN axis. The results show that The Economist is strongly politically centrist leaning left and mostly socially liberal, that is, a globalist and liberal journal.
 
 ![Distribution of The Economist leaders](/images/economist/jakauma.png)<br>
 _Figure 1. The Economist political viewpoint (x-axis) and values (y-axis)._
 
-1 Background
+1 The Economist
 ===
 
-The Economist is [described](https://en.wikipedia.org/wiki/The_Economist) as 
+[Wikipedia describes](https://en.wikipedia.org/wiki/The_Economist) The Economist as 
 
 > "The editorial stance of The Economist primarily revolves around classical, social, and most notably economic liberalism. It has supported radical centrism, favouring policies and governments that maintain centrist politics. The newspaper typically champions economic liberalism, particularly free markets, free trade, free immigration, deregulation, and globalisation."
+
+The Economist describes itself as 
+
+> "The Economist is a globally trusted source for fact-checked reporting and analysis. We connect the dots—from politics, economics and business to science, technology and beyond—giving sharp insights into international news."
+
+The Economist [stands](https://www.economistgroup.com/about-us) for "independence, integrity, excellence, inclusion, and openness".
 
 2 Method
 ===
@@ -87,12 +93,6 @@ _Figure 3. Political bias of The Economist editorials. -10 stands for extremely 
 
 | Politics -6 | Values +3 |
 | The article leans moderately left in its economic analysis. While it defends free trade (traditionally associated with the right), it does so from a perspective that emphasizes international cooperation, institutional stability, and concern for workers displaced by trade. It criticizes Trump's policies for hurting household incomes and creating market volatility, showing concern for economic inequality. The support for multilateral institutions and criticism of unilateral American actions also reflects a center-left internationalist perspective. | The article strongly embodies GAL values through its defense of free trade, international cooperation, and rules-based global order. It criticizes Trump's nationalist protectionism and 'America First' approach, advocating instead for multilateral trade agreements and international institutions like the WTO. The piece emphasizes the benefits of global economic integration and warns against the dangers of isolationist policies. | 
-
-
-6 Discussion
-===
-
-The Economist is clearly a centrist journal that mostly leans to socially liberal side, that is, a globalist and liberal journal.
 
 Appendix
 ===
