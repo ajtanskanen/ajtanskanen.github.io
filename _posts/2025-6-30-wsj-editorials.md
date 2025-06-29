@@ -42,7 +42,7 @@ Political viewpoint is measured in left-wing / right-wing axis.
 
 For each analysis, we open a new chat with Claude. In this way, previous chats do not influence the results. Temperature is 0 to keep results as replicable as possible. There is slight change in the results in repetitive runs, even though the prompts are kept the same. The changes are not that large.
 
-The analysis of this blog is not aimed to be catch-all. There are 100 editorial opinion pieces in the data from May/31/2025 to June/25/2025. A wider database could analyze more throughly, how WSJ positions itself on arvokartta. It would lseo be interesting to see, how the position changes with time.
+The analysis of this blog is not aimed to be catch-all. There are 100 editorial opinion pieces in the data from May/31/2025 to June/25/2025. A wider database could analyze more throughly, how WSJ positions itself on values and politics. It would also be interesting to see, how the position changes with time.
 
 List of all considered editorial opinions and their assessment is at the end of the blog.
 
