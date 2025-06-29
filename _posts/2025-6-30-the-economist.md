@@ -10,7 +10,7 @@ tags:
   - english
 ---
 
-The Economist is a well-known, important British journal concetrating on economic issues. It is often considered to be politically liberal. Here, we analyze how The Economist's leaders position in liberal-conservative axis and on GAL-TAN axis. The results show that The Economist is strongly politically right-wing and mostly socially conservative, even though occasionally WSJ also takes socially liberal side.
+The Economist is a well-known, important British journal concetrating on economic issues. It is often considered to be politically liberal. Here, we analyze how The Economist's leaders position in liberal-conservative axis and on GAL-TAN axis. The results show that The Economist is strongly politically centrist leaning left and mostly socially liberal.
 
 ![Distribution of The Economist leaders](/images/economist/jakauma.png)<br>
 _Figure 1. The Economist political viewpoint (x-axis) and values (y-axis)._
