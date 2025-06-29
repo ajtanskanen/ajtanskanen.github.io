@@ -2,7 +2,7 @@
 title: 'Values and politics of Wall Street Journal editorials'
 date: 2025-06-25
 permalink: /posts/2025/6/wsj_editorials/
-summary: 'Blogi | Editorial opinions of Wall Street Journal consider current issues and takes positions on them. We use LLM to analyze how opinions are position politically and with respect to values. Accrding to the results, ...'
+summary: 'Blogi | Editorial opinions of Wall Street Journal consider current issues and take positions on them. We use LLM to analyze how opinions are position politically and with respect to values. Accrding to the results, WSJ is clearly a right-wing journal that mostly leans to socially conservative side but occasionally takes socially liberal side.'
 tags:
   - politics
   - right-leaning or left-leaning
@@ -49,7 +49,7 @@ List of all considered editorial opinions and their assessment is at the end of 
 3 Values
 ===
 
-Editorial opions are clearly TAN: average +3.65 asteikolla (-10; 10). A typical editorial is even more clearly TAN: median is +5.
+Editorial opions are clearly TAN: average +3.65 where range is (-10; 10). A typical editorial is even more clearly TAN: median is +5.
 
 ![WSJ values](/images/WSJ/arvot.png)<br>
 _Figure 2. GAL/TAN axis of WSJ editorials. -10 stands for extremely green, alternative, liberal (GAL), +10 stands for extremely traditional, nationalist, authoritarian (TAN)._
