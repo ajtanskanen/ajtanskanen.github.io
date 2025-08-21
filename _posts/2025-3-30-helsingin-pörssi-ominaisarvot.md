@@ -90,6 +90,19 @@ _Kuvio 3. Pastur-Marchenko -jakauma verrattuna datan tiheyteen._
 
 Suoralla PCA:llä nähdään, että tuottoaikasarjasta riittää poimia ensimmäiset 5 faktoria, niin osakekurssien heilunnasta selittyy yli 90 prosenttia. Samaa kertoo satunnaismatriisien teoria: muutama ominaisarvo on merkitsevä, loppuja on vaikea erottaa kohinasta. Tässä tarkastellaan lineaarisia faktoreita, ja voi olla, että muitakin on.
 
+|Factors | Explanation (%) |
+------------------------
+| 1 | 16.7 |
+| 2 | 19.2 |
+| 3 | 21.2 |
+| 4 | 22.8 |
+| 5 | 24.3 |
+| 6 | 25.7 |
+| 7 | 27.0 |
+| 8 | 28.3 |
+| 9 | 29.6 |
+| 10 | 30.8 |
+
 5 Mitä faktori kertovat?
 ===
 
