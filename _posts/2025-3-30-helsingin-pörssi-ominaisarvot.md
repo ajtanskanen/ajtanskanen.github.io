@@ -125,10 +125,6 @@ Faktoreista ensimmäinen on markkinariski. Sen ominaisvektori on jotakuinkin yht
   0.09191066 0.03328845 0.04101367 0.10165961 0.15138451 0.05470399
   0.13807004]
 
-![Ominaisarvot](/images/eigen/factor1.png)<br>
-_Kuvio 4. Ensimmäinen faktori sektoreittain. Siniset positiivisia, oranssit negatiivia._
-
-
 Toinen faktori onkin sitten epäselvempi. Siinä painojen etumerki vaihtelee.
 > [-9.87624634e-02 -5.02852749e-02 -4.81837456e-02 -1.53289008e-01
   -1.49989488e-01 -5.62424059e-02 -1.17011204e-01 -1.00117796e-01
@@ -155,9 +151,6 @@ Toinen faktori onkin sitten epäselvempi. Siinä painojen etumerki vaihtelee.
   -2.34390306e-02  1.56106879e-01 -4.98269534e-02 -6.13148939e-02
   -2.57911168e-02  2.31257224e-02  1.33235641e-01 -1.17074570e-01
    8.07628761e-02]
-
-![Ominaisarvot](/images/eigen/factor2.png)<br>
-_Kuvio 5. Ensimmäinen faktori sektoreittain. Siniset positiivisia, oranssit negatiivia._
 
 
 Kolmas faktori onkin sitten epäselvempi.
@@ -187,9 +180,6 @@ Kolmas faktori onkin sitten epäselvempi.
    4.49776946e-02 -4.21317965e-02  3.93235111e-02  3.49903611e-02
    3.68444047e-02]
 
-![Ominaisarvot](/images/eigen/factor3.png)<br>
-_Kuvio65. Ensimmäinen faktori sektoreittain. Siniset positiivisia, oranssit negatiivia._
-
 Neljäs faktori onkin sitten epäselvempi.
 > [-0.09981017 -0.04462578  0.06154008  0.01845842  0.00428544 -0.0843227
   -0.01340064  0.00872504 -0.02526232 -0.04675185 -0.0940226   0.06947079
@@ -209,9 +199,6 @@ Neljäs faktori onkin sitten epäselvempi.
   -0.03890056 -0.05858377 -0.10583276 -0.09381429  0.0340984   0.01896043
    0.00654119]
 
-![Ominaisarvot](/images/eigen/factor4.png)<br>
-_Kuvio 7. Neljäs faktori sektoreittain. Siniset positiivisia, oranssit negatiivia._
-
    Viides faktori onkin sitten epäselvempi.
 > [0.07900279 -0.08825045 -0.05046086  0.02376756 -0.00907841  0.01236585
    0.01090427  0.03986844  0.04182622  0.00591613 -0.07156413  0.15607712
@@ -230,6 +217,13 @@ _Kuvio 7. Neljäs faktori sektoreittain. Siniset positiivisia, oranssit negatiiv
    0.1493123  -0.09726085 -0.0228137   0.1498187  -0.06108896 -0.14681379
   -0.03201511  0.01506275  0.00221919 -0.08444986 -0.27375793  0.06986084
   -0.12661738]
+
+![Faktorien tulkinta sektorien mukaan](/images/eigen/factor1.png)<br>
+![Faktorien tulkinta sektorien mukaan](/images/eigen/factor2.png)<br>
+![Faktorien tulkinta sektorien mukaan](/images/eigen/factor3.png)<br>
+![Faktorien tulkinta sektorien mukaan](/images/eigen/factor4.png)<br>
+![Faktorien tulkinta sektorien mukaan](/images/eigen/factor5.png)<br>
+_Kuvio 4. Viiden ensimmäisen faktori tulkinta sektoreittain. Siniset positiivisia, oranssit negatiivia._
 
   6 Yhteenveto
   ===
