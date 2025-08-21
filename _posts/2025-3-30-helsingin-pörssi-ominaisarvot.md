@@ -106,7 +106,7 @@ Suoralla PCA:llä nähdään, että tuottoaikasarjasta riittää poimia ensimmä
 5 Mitä faktori kertovat?
 ===
 
-Faktoreista ensimmäinen on markkinariski. Sen ominaisvektori on
+Faktoreista ensimmäinen on markkinariski. Sen ominaisvektori on jotakuinkin yhtä suuri kaikille osakkeille. 
 > [0.07138418 0.06515197 0.14093996 0.05086095 0.10338822 0.08907242
   0.07145822 0.13225237 0.10770909 0.06869495 0.0900749  0.07313301
   0.14846975 0.05107834 0.13911678 0.09667943 0.03878185 0.07869674
@@ -125,7 +125,11 @@ Faktoreista ensimmäinen on markkinariski. Sen ominaisvektori on
   0.09191066 0.03328845 0.04101367 0.10165961 0.15138451 0.05470399
   0.13807004]
 
-Toinen faktori onkin sitten epäselvempi.
+![Ominaisarvot](/images/eigen/factor1.png)<br>
+_Kuvio 4. Ensimmäinen faktori sektoreittain. Siniset positiivisia, oranssit negatiivia._
+
+
+Toinen faktori onkin sitten epäselvempi. Siinä painojen etumerki vaihtelee.
 > [-9.87624634e-02 -5.02852749e-02 -4.81837456e-02 -1.53289008e-01
   -1.49989488e-01 -5.62424059e-02 -1.17011204e-01 -1.00117796e-01
   -6.10230183e-02 -9.53434726e-02 -8.35771064e-02 -1.21439289e-01
@@ -151,6 +155,10 @@ Toinen faktori onkin sitten epäselvempi.
   -2.34390306e-02  1.56106879e-01 -4.98269534e-02 -6.13148939e-02
   -2.57911168e-02  2.31257224e-02  1.33235641e-01 -1.17074570e-01
    8.07628761e-02]
+
+![Ominaisarvot](/images/eigen/factor2.png)<br>
+_Kuvio 5. Ensimmäinen faktori sektoreittain. Siniset positiivisia, oranssit negatiivia._
+
 
 Kolmas faktori onkin sitten epäselvempi.
 > [3.83031599e-02 -8.86634024e-03  1.48878469e-02 -2.19760410e-03
@@ -179,6 +187,9 @@ Kolmas faktori onkin sitten epäselvempi.
    4.49776946e-02 -4.21317965e-02  3.93235111e-02  3.49903611e-02
    3.68444047e-02]
 
+![Ominaisarvot](/images/eigen/factor3.png)<br>
+_Kuvio65. Ensimmäinen faktori sektoreittain. Siniset positiivisia, oranssit negatiivia._
+
 Neljäs faktori onkin sitten epäselvempi.
 > [-0.09981017 -0.04462578  0.06154008  0.01845842  0.00428544 -0.0843227
   -0.01340064  0.00872504 -0.02526232 -0.04675185 -0.0940226   0.06947079
@@ -197,6 +208,9 @@ Neljäs faktori onkin sitten epäselvempi.
   -0.01784036  0.10621355  0.02767594 -0.11891463  0.00255348  0.02067441
   -0.03890056 -0.05858377 -0.10583276 -0.09381429  0.0340984   0.01896043
    0.00654119]
+
+![Ominaisarvot](/images/eigen/factor4.png)<br>
+_Kuvio 7. Neljäs faktori sektoreittain. Siniset positiivisia, oranssit negatiivia._
 
    Viides faktori onkin sitten epäselvempi.
 > [0.07900279 -0.08825045 -0.05046086  0.02376756 -0.00907841  0.01236585
