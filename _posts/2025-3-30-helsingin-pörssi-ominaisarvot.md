@@ -15,10 +15,26 @@ arvioimaan, montako riippumatonta faktoria ajaa tuottojen korrelaatioita eri vuo
 1 Helsingin Pörssissä listatut osakkeet
 ===
 
-Tarkastellaan Helsingin pörssissä (Nasdaq OMXH) listattuja 140 osaketta, joista löytyy yhtenäinen aikasarja vuosille 2015-2025. Niistä on saatavissa päivädataa Yahoon palvelun kautta. Osakkeiden päivätuotot lasketaan yksinkertaisuuden vuoksi suoraan kursseista ilman osinkojen huomiointia. Kurssikehitys muutetaan logaritmisiksi tuotoiksi.
+Tarkastellaan Helsingin pörssissä (Nasdaq OMXH) listattuja 97 osaketta, joista löytyy yhtenäinen aikasarja vuosille 2015-2025. Niistä on saatavissa päivädataa Yahoon palvelun kautta. Osakkeiden päivätuotot lasketaan yksinkertaisuuden vuoksi suoraan kursseista ilman osinkojen huomiointia. Kurssikehitys muutetaan logaritmisiksi tuotoiksi.
 
 Yahoo Finance löytää päivänoteeraukset 97:ltä Helsingin pörssin osakkeelta periodilta, joka alkaa 2015-08-15 ja loppuu 2025-08-15. Nämä ovat tikkerit 
-> AFAGR.he, AKTIA.he, ALISA.he, ALMA.he, ANORA.he, APETIT.he, TALLINK.he, ASPO.he, ACG1V.he, ATRAV.he, ALBAV.he, ALBBV.he, BIOBV.he, BITTI.he, BOREO.he, CAPMAN.he, CGCBV.he, CTY1S.he, CTH1V.he, CONSTI.he, DIGIA.he, DIGIGR.he, DOV1V.he, EEZY.he, ELEAV.he, ELISA.he, PAMPALO.he, ENENTO.he, ESENSE.he, EQV1V.he, ETTE.he, EVLI.he, EXL1V.he, FSECURE.he, FIA1S.he, FSKRS.he, FORTUM.he, GLA1V.he, GOFORE.he, HARVIA.he, HKSAV.he, HONBS.he, HUH1V.he, ILKKA2.he, ICP1V.he, INVEST.he, KALMAR.he, KAMUX.he, KEMIRA.he, KEMPOWR.he, KSL.he, KESKOA.he, KESKOB.he, KELAS.he, KHG.he, KOJAMO.he, KNEBV.he, KCR.he, KOSKI.he, KREATE.he, LAMOR.he, LAT1V.he, LEHTO.he, LINDEX.he, MANTA.he, MEKKO.he, MARAS.he, METSO.he, METSA.he, METSB.he, MUSTI.he, NESTE.he, NOHO.he, NOKIA.he, TYRES.he, NDA FI.he, NLG1V.he, OLVAS.he, OMASP.he, OPTOMED.he, OKDAV.he, OKDBV.he, ORNAV.he, ORNBV.he, ORTHEX.he, OUT1V.he, OVARO.he, PNA1V.he, PIHLIS.he, PON1V.he, PUUILO.he, QPR1V.he, QTCOM.he, RAIVV.he, RAP1V.he, RAUTE.he, REBL.he, REKA.he, RELAIS.he, REMEDY.he, REG1V.he, ROBIT.he, SAGCV.he, SAMPO.he, SANOMA.he, SCANFL.he, SIILI.he, SITOWS.he, SOLTEQ.he, SOSI1.he, SRV1V.he, SSABAH.he, SSABBH.he, SSH1V.he, STEAV.he, STERV.he, SUY1V.he, TAALA.he, TNOM.he, TEM1V.he, TLT1V.he, TELIA1.he, TTALO.he, TIETO.he, TOKMAN.he, TRH1V.he, TULAV.he, UNITED.he, UPM.he, VAIAS.he, VALMT.he, VALOE.he, VERK.he, VIK1V.he, WETTERI.he, WITH.he, WUF1V.he, WRT1V.he, YIT.he
+> ACG1V.HE, AFAGR.HE, AKTIA.HE, ALBAV.HE, ALBBV.HE, ALMA.HE',
+       'APETIT.HE, ASPO.HE, ATRAV.HE, BIOBV.HE, BITTI.HE, BOREO.HE',
+       'CAPMAN.HE, CTH1V.HE, CTY1S.HE, DIGIA.HE, DIGIGR.HE',
+       'DOV1V.HE, ELEAV.HE, ELISA.HE, ENENTO.HE, EQV1V.HE, ETTE.HE',
+       'EXL1V.HE, FORTUM.HE, FSKRS.HE, GLA1V.HE, HONBS.HE, HUH1V.HE',
+       'ICP1V.HE, ILKKA2.HE, INVEST.HE, KCR.HE, KELAS.HE, KEMIRA.HE',
+       'KESKOA.HE, KESKOB.HE, KNEBV.HE, LAT1V.HE, LINDEX.HE',
+       'MARAS.HE, MEKKO.HE, METSA.HE, METSB.HE, METSO.HE, NESTE.HE',
+       'NLG1V.HE, NOHO.HE, NOKIA.HE, OLVAS.HE, ORNAV.HE, ORNBV.HE',
+       'OUT1V.HE, OVARO.HE, PIHLIS.HE, PNA1V.HE, PON1V.HE, QPR1V.HE',
+       'RAIVV.HE, RAP1V.HE, RAUTE.HE, REBL.HE, REG1V.HE, REKA.HE',
+       'ROBIT.HE, SAGCV.HE, SAMPO.HE, SANOMA.HE, SCANFL.HE',
+       'SIILI.HE, SOLTEQ.HE, SOSI1.HE, SRV1V.HE, SSH1V.HE, STEAV.HE',
+       'STERV.HE, SUY1V.HE, TAALA.HE, TELIA1.HE, TEM1V.HE, TIETO.HE',
+       'TLT1V.HE, TNOM.HE, TRH1V.HE, TULAV.HE, TYRES.HE, UNITED.HE',
+       'UPM.HE, VAIAS.HE, VALMT.HE, VERK.HE, VIK1V.HE, WETTERI.HE',
+       'WITH.HE, WRT1V.HE, WUF1V.HE, YIT.HE
 
 ![nettomaahanmuutto](/images/eigen/replication.png)<br>
 _Kuvio 1. Tuottojen replikointi neljällä faktorilla._
@@ -67,6 +83,10 @@ Pastur-Marchenko-teoreemassa ainoat parametrit ovat keskihajonta s ja osakkeiden
 
 Suurin ominaisarvo vastaa suurimman varianssi portfoliota (jossa painot kuten ominaisvektorin alkiot). Näin tulkittuna OMXH:ssa on neljä merkitsevää toisistaan riippumatonta faktoria,
 muut varianssin lähteet ovat kohinaa. 
+
+![Ominaisarvot](/images/eigen/pm_vs_data.png)<br>
+_Kuvio 3. Pastur-Marchenko -jakauma verrattuna datan tiheyteen._
+
 
 Suoralla PCA:llä nähdään, että tuottoaikasarjasta riittää poimia ensimmäiset 5 faktoria, niin osakekurssien heilunnasta selittyy yli 90 prosenttia. Samaa kertoo satunnaismatriisien teoria: muutama ominaisarvo on merkitsevä, loppuja on vaikea erottaa kohinasta. Tässä tarkastellaan lineaarisia faktoreita, ja voi olla, että muitakin on.
 
@@ -183,3 +203,8 @@ Neljäs faktori onkin sitten epäselvempi.
    0.1493123  -0.09726085 -0.0228137   0.1498187  -0.06108896 -0.14681379
   -0.03201511  0.01506275  0.00221919 -0.08444986 -0.27375793  0.06986084
   -0.12661738]
+
+  6 Yhteenveto
+  ===
+
+  Muutama faktori on vastuussa suurimmasta osasta tuottoja.
