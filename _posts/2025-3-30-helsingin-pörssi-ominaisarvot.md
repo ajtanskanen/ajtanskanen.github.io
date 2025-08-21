@@ -103,6 +103,8 @@ Suoralla PCA:llä nähdään, että tuottoaikasarjasta riittää poimia ensimmä
 | 9 | 29.6 |
 | 10 | 30.8 |
 
+_Taulukko 1. Varianssin selitys faktorien lukumäärän funktiona._
+
 5 Mitä faktori kertovat?
 ===
 
