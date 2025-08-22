@@ -42,6 +42,9 @@ Esimerkki satunnaismatriisien joukosta on kaikkien korrelaatiomatriisien joukko 
 Olkoon $X$ reaalinen $m\times n$ satunnaismatriisi, jonka alkiot ovat toisistaan riippumattomia ja samalla tavalla jakautuneita satunnaislukuja, joiden keskiarvo on 0 ja varianssi 
 $\sigma ^{2}<\infty$. Tällöin $Y_{n}={\frac {1}{n}}XX^{T}$ on korrelaatiosatunnaismatriisi.
 
+![Ominaisarvot](/images/eigen/HEX_eigen.png)<br>
+_Kuvio 2. Analysoitujen osakkeiden tuottojen korrelaatiomatriisin ominaisarvojen jakauma. Suurin ominaisarvo kuvaa markkinaliikettä._
+
 4 Korrelaatiomatriisin ominaisarvojen jakauma
 ===
 
@@ -56,15 +59,11 @@ missä $x\in(\lambda_-,\lambda_+)$ ja $\lambda_-=..$ ja $\lambda_+=..$. Kaava p�
 
 kertoo. 
 
-[Bouchaud ja Laloux](https://arxiv.org/pdf/0910.1205v1) sovelsivat Pastur-Marchenko -teoreemaa S&P 500:n korrelaationmatriisiin. 
-Heidät havaintojensa mukaan noin 94 prosenttia ominaisarvoista jakautui Pastur-Marchenkon jakauman mukaan (Kuvio).
-[Bouchaud ja Potters](https://arxiv.org/pdf/0910.1205v1) jatkoivat tutkimusta.
+[Bouchaud ja Laloux](https://arxiv.org/abs/cond-mat/9810255) sovelsivat Pastur-Marchenko -teoreemaa S&P 500:n korrelaationmatriisiin. 
+Heidät havaintojensa mukaan noin 94 prosenttia ominaisarvoista jakautui Pastur-Marchenkon jakauman mukaan.
+[Bouchaud ja Potters](https://arxiv.org/abs/0910.1205) jatkoivat tutkimusta.
 
-Mitä tämä sitten tarkoittaa? Sen voi tulkita tarkoittavan, että suurin osa korrelaatiomatriisista on kohinaa ja että vain muutama lineaarinen faktori ajaa osaketuottoja.
-Tämä ei tarkoita, ettei tuottoja voisi ajaa jokin ei-lineaarinen tekijä, mutta PCA ei sellaista löytäisi. 
-
-![Ominaisarvot](/images/eigen/HEX_eigen.png)<br>
-_Kuvio 2. Analysoitujen osakkeiden tuottojen korrelaatiomatriisin ominaisarvojen jakauma. Suurin ominaisarvo kuvaa markkinaliikettä._
+Mitä Pastur-Marchenko -teoreema sitten tarkoittaa? Sen voi tulkita tarkoittavan, että suurin osa korrelaatiomatriisista on kohinaa ja että vain muutama lineaarinen faktori ajaa osaketuottoja. Tämä ei tarkoita, ettei tuottoja voisi ajaa jokin ei-lineaarinen tekijä, mutta PCA ei sellaista löytäisi. 
 
 5 Montako faktoria ajaa Helsingin osakkeiden tuottoja? 
 ===
@@ -75,11 +74,10 @@ Suurin ominaisarvo vastaa suurimman varianssi portfoliota (jossa painot kuten om
 muut varianssin lähteet ovat kohinaa. 
 
 ![Ominaisarvot](/images/eigen/pm_vs_data.png)<br>
-_Kuvio 3. Pastur-Marchenko -jakauma verrattuna datan tiheyteen._
+_Kuvio 3. Pastur-Marchenko -jakauma verrattuna osaketuottojen korrelaatiomatriisin ominaisarvojen tiheyteen._
 
-Suoralla PCA:llä nähdään, että tuottoaikasarjasta riittää poimia ensimmäiset 5 faktoria, niin osakekurssien heilunnasta selittyy 24 prosenttia. 
-
-Samaa kertoo satunnaismatriisien teoria: muutama ominaisarvo on merkitsevä, loppuja on vaikea erottaa kohinasta. Tässä tarkastellaan lineaarisia faktoreita, ja voi olla, että muitakin on.
+Ensimmäisillä 5:llä faktorilla selittyy osakekurssien heilunnasta 24 prosenttia. Tämä on melko vähän. Tästä huolimatta muutama faktori riittää tuottamaan alkuperäistä aikasarjaa vastaavan tuottoaikasarjan (Kuvio 1).
+Satunnaismatriisien teorian mukaan vain muutama ominaisarvo on merkitsevä, loppuja ei voi erottaa kohinasta. 
 
 Kiinnostavaa kyllä [Lettau ja Pelger (2018)](https://www.nber.org/system/files/working_papers/w24858/w24858.pdf) päätyivät siihen, että eri kriteereillä tarkasteltuna vain ensimmäiset viisi faktoria ovat merkitseviä tuottojen PCA-analyysissä. Heidän analyysinsä kohdistuu kuitenkin täysin eri aineistoon kuin tässä: Lettau ja Pelgar tarkastelevat S&P500-osaketuottoja vuosilta 1972-2014.
 
