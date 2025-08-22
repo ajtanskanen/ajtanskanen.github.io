@@ -9,37 +9,31 @@ tags:
   - sijoittaminen
 ---
 
-Tuottoja ajavien faktorien lukumäärä vaihtelee suhdannetilanteen mukaan -- näin ainakin uskotaan. Voiko sitä mitata? Blogissa käytetään satunnaismatriisien teoriaa
-arvioimaan, montako riippumatonta faktoria ajaa tuottojen korrelaatioita eri vuosina.
+Tuottoja ajavien faktorien jonkin verran lukumäärää voi arvioida satunnaismatriisien teorian avulla. 
 
 1 Helsingin Pörssissä listatut osakkeet
 ===
 
-Tarkastellaan Helsingin pörssissä (Nasdaq OMXH) listattuja 97 osaketta, joista löytyy yhtenäinen aikasarja vuosille 2015-2025. Niistä on saatavissa päivädataa Yahoon palvelun kautta. Osakkeiden päivätuotot lasketaan yksinkertaisuuden vuoksi suoraan kursseista ilman osinkojen huomiointia. Kurssikehitys muutetaan logaritmisiksi tuotoiksi.
+Tällä hetkellä Nasdaq Helsinki:in on listattu 134 osaketta ja First Northissa 48. 
+Tarkastellaan seuraavassa Helsingin pörssissä (Nasdaq OMXH) listattuja 97 osaketta, joista löytyy yhtenäinen aikasarja vuosille 2015-2025. Niistä on saatavissa päivädataa Yahoon palvelun kautta. Osakkeiden päivätuotot lasketaan yksinkertaisuuden vuoksi suoraan kursseista ilman osinkojen huomiointia. Kurssikehitys muutetaan logaritmisiksi tuotoiksi.
 
 Yahoo Finance löytää päivänoteeraukset 97:ltä Helsingin pörssin osakkeelta periodilta, joka alkaa 2015-08-15 ja loppuu 2025-08-15. Nämä ovat tikkerit 
-> ACG1V, AFAGR, AKTIA, ALBAV, ALBBV, ALMA',
-       'APETIT, ASPO, ATRAV, BIOBV, BITTI, BOREO',
-       'CAPMAN, CTH1V, CTY1S, DIGIA, DIGIGR',
-       'DOV1V, ELEAV, ELISA, ENENTO, EQV1V, ETTE',
-       'EXL1V, FORTUM, FSKRS, GLA1V, HONBS, HUH1V',
-       'ICP1V, ILKKA2, INVEST, KCR, KELAS, KEMIRA',
-       'KESKOA, KESKOB, KNEBV, LAT1V, LINDEX',
-       'MARAS, MEKKO, METSA, METSB, METSO, NESTE',
-       'NLG1V, NOHO, NOKIA, OLVAS, ORNAV, ORNBV',
-       'OUT1V, OVARO, PIHLIS, PNA1V, PON1V, QPR1V',
-       'RAIVV, RAP1V, RAUTE, REBL, REG1V, REKA',
-       'ROBIT, SAGCV, SAMPO, SANOMA, SCANFL',
-       'SIILI, SOLTEQ, SOSI1, SRV1V, SSH1V, STEAV',
-       'STERV, SUY1V, TAALA, TELIA1, TEM1V, TIETO',
-       'TLT1V, TNOM, TRH1V, TULAV, TYRES, UNITED',
-       'UPM, VAIAS, VALMT, VERK, VIK1V, WETTERI',
-       'WITH, WRT1V, WUF1V, YIT
+|    |   ACG1V |   AFAGR |   AKTIA |   ALBAV |   ALBBV |   ALMA |   APETIT |   ASPO |   ATRAV |   BIOBV |   BITTI |   BOREO |   CAPMAN |   CTH1V |   CTY1S |   DIGIA |   DIGIGR |   DOV1V |   ELEAV |   ELISA |   ENENTO |   EQV1V |   ETTE |   EXL1V |   FORTUM |   FSKRS |   GLA1V |   HONBS |   HUH1V |   ICP1V |   ILKKA2 |   INVEST |   KCR |   KELAS |   KEMIRA |   KESKOA |   KESKOB |   KNEBV |   LAT1V |   LINDEX |   MARAS |   MEKKO |   METSA |   METSB |   METSO |   NESTE |   NLG1V |   NOHO |   NOKIA |   OLVAS |   ORNAV |   ORNBV |   OUT1V |   OVARO |   PIHLIS |   PNA1V |   PON1V |   QPR1V |   RAIVV |   RAP1V |   RAUTE |   REBL |   REG1V |   REKA |   ROBIT |   SAGCV |   SAMPO |   SANOMA |   SCANFL |   SIILI |   SOLTEQ |   SOSI1 |   SRV1V |   SSH1V |   STEAV |   STERV |   SUY1V |   TAALA |   TELIA1 |   TEM1V |   TIETO |   TLT1V |   TNOM |   TRH1V |   TULAV |   TYRES |   UNITED |   UPM |   VAIAS |   VALMT |   VERK |   VIK1V |   WETTERI |   WITH |   WRT1V |   WUF1V |   YIT |
+|---:|----------:|-----------:|-----------:|----------:|------------:|----------:|----------:|----------:|----------:|-----------:|-----------:|---------:|-----------:|-----------:|-----------:|-----------:|----------:|----------:|---------:|----------:|----------:|----------:|----------:|----------:|-----------:|-----------:|-----------:|----------:|----------:|-----------:|-----------:|---------:|----------:|------------:|----------:|---------:|---------:|-----------:|---------:|----------:|------------:|-----------:|---------:|---------:|----------:|----------:|--------:|-----------:|-----------:|----------:|-----------:|-----------:|-----------:|---------:|----------:|----------:|-----------:|-----------:|----------:|----------:|---------:|----------:|----------:|----------:|-----------:|----------:|-----------:|-----------:|-----------:|----------:|----------:|-----------:|------------:|--------:|---------:|---------:|----------:|----------:|-----------:|----------:|----------:|----------:|------------:|----------:|---------:|-----------:|-----------:|---------:|-----------:|----------:|-----------:|----------:|-----------:|-----------:|----------:|--------:|----------:|
+
+2 Faktorit pääkomponenttimenetelmällä
+===
+
+[Pääkomponenttimenetelmällä](https://fi.wikipedia.org/wiki/P%C3%A4%C3%A4komponenttianalyysi) voi etsiä tuottoja selittäviä tekijöitä. Menetelmä toimii korrelaatiomatriisin ominaisarvojen avulla. Suurin ominaisarvo kuvaa markkinan liikettä ja sen suuruus tyypillisesti poikkeaa kaikista muista (Kuvio 1). 
+
+Korrelaatio kuvaa tuottojen keskinäistä lineaarista riippuvuutta. Osakkeiden tuottojen välisten korrelaatioiden avulla voi etsiä pääkomponentit, jotka kuvaava osaketuottojen faktoreita. Tutkitaan ensin hieman satunnaismatriisien teoriaa.
 
 ![nettomaahanmuutto](/images/eigen/replication.png)<br>
 _Kuvio 1. Tuottojen replikointi neljällä faktorilla._
 
-2 Satunnaismatriisit
+Kuvio 1 näyttää, miten hyvin pääkomponenttien avulla voi 
+
+3 Satunnaismatriisit
 ===
 [Satunnaismatriisit](https://en.wikipedia.org/wiki/Random_matrix) ovat satunnaislukujen yleistys. Todennäköisyysjakautuneen satunnaisluvun sijaan tarkastellaan matriiseita, joiden alkiot ovat satunnaislukuja ja lisäksi alkioiden väillä voi olla keskinäisiä riippuvuuksia. Voidaan ajatella, että tuottojen korrelaatiomatriisi on ortogonaalisten matriisien ensemblen jäsen. 
 Todennäköisyyslaskennalla voidaan arvioida satunnaismatriisien ominaisuuksia.
@@ -48,14 +42,10 @@ Esimerkki satunnaismatriisien joukosta on kaikkien korrelaatiomatriisien joukko 
 Olkoon $X$ reaalinen $m\times n$ satunnaismatriisi, jonka alkiot ovat toisistaan riippumattomia ja samalla tavalla jakautuneita satunnaislukuja, joiden keskiarvo on 0 ja varianssi 
 $\sigma ^{2}<\infty$. Tällöin $Y_{n}={\frac {1}{n}}XX^{T}$ on korrelaatiosatunnaismatriisi.
 
-3 Korrelaatiomatriisin ominaisarvojen jakauma
+4 Korrelaatiomatriisin ominaisarvojen jakauma
 ===
 
-Pääarvomenetelmällä voi etsiä tuottoja selittäviä tekijöitä. Menetelmä toimii korrelaatiomatriisin ominaisarvojen avulla. Suurin ominaisarvo kuvaa markkinan liikettä ja sen suuruus tyypillisesti poikkeaa kaikista muista (Kuvio 1). 
-
-Korrelaatio kuvaa tuottojen keskinäistä lineaarista riippuvuutta. Tuottoaikasarjoille $X_k,Y_k$ se määritellään
-
-Satunnaismatriisien teoriasta tiedetään, että tällaisten korrelaatiomatriisien ominaisarvot noudattavat todennäköisyysjakaumaa. 
+Satunnaismatriisien teoriasta tiedetään, että korrelaatiomatriisien ominaisarvot noudattavat todennäköisyysjakaumaa. 
 [Pastur-Marchenko-teoreeman](https://en.wikipedia.org/wiki/Marchenko%E2%80%93Pastur_distribution) mukaan satunnaismatriisin ominaisarvot jakautuvat
 
 $$
@@ -76,7 +66,7 @@ Tämä ei tarkoita, ettei tuottoja voisi ajaa jokin ei-lineaarinen tekijä, mutt
 ![Ominaisarvot](/images/eigen/HEX_eigen.png)<br>
 _Kuvio 2. Analysoitujen osakkeiden tuottojen korrelaatiomatriisin ominaisarvojen jakauma. Suurin ominaisarvo kuvaa markkinaliikettä._
 
-4 Montako faktoria ajaa Helsingin osakkeiden tuottoja? 
+5 Montako faktoria ajaa Helsingin osakkeiden tuottoja? 
 ===
 
 Pastur-Marchenko-teoreemassa ainoat parametrit ovat keskihajonta s ja osakkeiden lukumäärän ja havaintojen lukumäärän suhde N/M. Pastur-Marchenko kuitenkin olettaa, että havainnot ovat toisistaan riippumattomia ajallisesti. Näinhän ei ole. Siksi efektiivinen havaintojen lukumäärä T* on pienempi kuin havaintojen todellinen lukumäärä T. Tässä tutkimuksessa suhde oli luokkaa T* / T = 0,4.
@@ -119,10 +109,10 @@ _Taulukko 1. Varianssin selitysosuus faktorien lukumäärän funktiona._
 _Taulukko 2. Faktorien tunnusluvut._
 
 
-5 Mitä faktori kertovat?
+6 Mitä faktori kertovat?
 ===
 
-5.1 Faktori 1 eli markkina
+6.1 Faktori 1 eli markkina
 ==
 
 Faktoreista ensimmäinen on markkinariski. Ominaisvektorin arvot ovat jotakuinkin yhtä suuri kaikille osakkeille, joten faktori sijoittaa 
@@ -137,7 +127,7 @@ Markkinan painossa teknologia (5020) korostuu, koska sen sektorin toimijoita on 
 ![Faktorien tulkinta sektorien mukaan](/images/eigen/factor1.png)<br>
 _Kuvio. Faktorin yksi painojen etumerkit sektoreittain. Siniset positiivisia, oranssit negatiivia._
 
-5.2 Faktori 2 eli shortattu SMB
+6.2 Faktori 2 eli shortattu SMB
 ==
 
 Toinen faktori onkin sitten epäselvempi. Siinä painojen etumerki vaihtelee, joten kyse on Long-Short -strategiasta.
@@ -159,7 +149,7 @@ Faktori näyttää painottavan suuria, arvokkaita yhtiöitä. Rajana tässä on 
 ![Faktorien tulkinta markkina-arvon mukaan](/images/eigen/marketcap2.png)<br>
 _Kuvio. Faktorin kaksi painot jaoteltuna yrityksen markkina-arvon mukaan (yli vai alle 1 mrd euroa). Siniset positiivisia, oranssit negatiivisia._
 
-5.3 Faktori 3
+6.3 Faktori 3
 ==
 
 Kolmas faktori kuvaa Long-Short -strategiaa, jossa osaan kohteista sijoitetaan (long), osaa myydään (short).
@@ -175,7 +165,7 @@ Entä mihin kohteisiin kolmas faktori sijoittaa?
 ![Faktorien tulkinta sektorien mukaan](/images/eigen/factor3.png)<br>
 _Kuvio. Faktorin kolme painojen etumerkit sektoreittain. Siniset positiivisia, oranssit negatiivia._
 
-5.4 Faktori 4
+6.4 Faktori 4
 ==
 
 Neljäs faktori onkin sitten epäselvempi.
@@ -187,7 +177,7 @@ Neljäs faktori onkin sitten epäselvempi.
 ![Faktorien tulkinta sektorien mukaan](/images/eigen/factor4.png)<br>
 _Kuvio. Faktorin neljä painojen etumerkit sektoreittain. Siniset positiivisia, oranssit negatiivia._
 
-5.5 Faktori 5
+6.5 Faktori 5
 ==
 
 Viides faktori onkin sitten epäselvempi.
@@ -200,7 +190,7 @@ Viides faktori onkin sitten epäselvempi.
 _Kuvio 4. Faktorin viisi painojen etumerkit sektoreittain. Siniset positiivisia, oranssit negatiivia._
 
 
-6 Yhteenveto
+7 Yhteenveto
 ===
 
 Muutama faktori on vastuussa suuresta osasta osakeindeksin tuottoa. Tämän tutkimuksen mukaan Helsingin Pörssin NASDAQ Helsinki -indeksin tuottoja ajaa vain viisi faktoria.
