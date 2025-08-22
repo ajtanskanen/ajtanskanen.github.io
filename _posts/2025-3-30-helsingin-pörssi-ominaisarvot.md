@@ -164,19 +164,19 @@ Kuvio 4 näyttää, että ensimmäinen faktorin paino on positiivinen kaikille o
 
 
 | Faktori | Keskiarvo | Keskihajonta |
------------------------
+|---:|---:|---:|
 1 | 0.09548300617702303 | 0.03452931916377785 |
 2 | -0.023428722795141223 | 0.09879460156660337 |
 3 | -0.0006403110756748557 | 0.10153259748593965 |
 4 | -0.008493130553508857 | 0.10117877783367679 |
 5 | 0.006394760285126634 | 0.10133304195281624 |
------------------------
+
 _Taulukko 2. Faktorien tunnusluvut._
 
 Ensimmäinen faktori 
 
-  6 Yhteenveto
-  ===
+6 Yhteenveto
+===
 
-  Muutama faktori on vastuussa suuresta osasta osakeindeksin tuottoa. Tämän tutkimuksen mukaan Helsingin Pörssin NASDAQ Helsinki -indeksin tuottoja ajaa vain viisi faktoria.
+Muutama faktori on vastuussa suuresta osasta osakeindeksin tuottoa. Tämän tutkimuksen mukaan Helsingin Pörssin NASDAQ Helsinki -indeksin tuottoja ajaa vain viisi faktoria.
   
