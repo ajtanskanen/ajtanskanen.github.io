@@ -9,7 +9,7 @@ tags:
   - sijoittaminen
 ---
 
-Tuottoja ajavien faktorien jonkin verran lukumäärää voi arvioida satunnaismatriisien teorian avulla. 
+Tuottoja ajavien faktorien jonkin verran lukumäärää voi arvioida satunnaismatriisien teorian avulla. Tämän blogin tulosten mukaan Nasdaq Helsinki:in listattujen osakkeiden tuottoja ajaa vain viisi lineaarista faktoria.
 
 1 Helsingin Pörssissä listatut osakkeet
 ===
@@ -17,7 +17,7 @@ Tuottoja ajavien faktorien jonkin verran lukumäärää voi arvioida satunnaisma
 Tällä hetkellä Nasdaq Helsinki:in on listattu 134 osaketta ja First Northissa 48. 
 Tarkastellaan seuraavassa Helsingin pörssissä (Nasdaq OMXH) listattuja 97 osaketta, joista löytyy yhtenäinen aikasarja vuosille 2015-2025. Niistä on saatavissa päivädataa Yahoon palvelun kautta. Osakkeiden päivätuotot lasketaan yksinkertaisuuden vuoksi suoraan kursseista ilman osinkojen huomiointia. Kurssikehitys muutetaan logaritmisiksi tuotoiksi.
 
-Yahoo Finance löytää päivänoteeraukset 97:ltä Helsingin pörssin osakkeelta periodilta, joka alkaa 2015-08-15 ja loppuu 2025-08-15. Nämä ovat tikkerit _ACG1V , AFAGR, AKTIA, ALBAV, ALBBV, ALMA, APETIT, ASPO, ATRAV, BIOBV, BITTI, BOREO, CAPMAN, CTH1V, CTY1S, DIGIA, DIGIGR, DOV1V, ELEAV, ELISA, ENENTO, EQV1V, ETTE, EXL1V, FORTUM, FSKRS, GLA1V, HONBS, HUH1V, ICP1V, ILKKA2, INVEST, KCR, KELAS, KEMIRA, KESKOA, KESKOB, KNEBV, LAT1V, LINDEX, MARAS, MEKKO, METSA, METSB, METSO, NESTE, NLG1V, NOHO, NOKIA, OLVAS, ORNAV, ORNBV, OUT1V, OVARO, PIHLIS, PNA1V, PON1V, QPR1V, RAIVV, RAP1V, RAUTE, REBL, REG1V, REKA, ROBIT, SAGCV, SAMPO, SANOMA, SCANFL, SIILI, SOLTEQ, SOSI1, SRV1V, SSH1V, STEAV, STERV, SUY1V, TAALA, TELIA1, TEM1V, TIETO, TLT1V, TNOM, TRH1V, TULAV, TYRES, UNITED, UPM, VAIAS, VALMT, VERK, VIK1V, WETTERI, WITH, WRT1V, WUF1V, YIT._
+Yahoo Finance löytää päivänoteeraukset 97:ltä Helsingin pörssin osakkeelta periodilta, joka alkaa 2015-08-15 ja loppuu 2025-08-15. Tarkastellut tikkerit ovat _ACG1V , AFAGR, AKTIA, ALBAV, ALBBV, ALMA, APETIT, ASPO, ATRAV, BIOBV, BITTI, BOREO, CAPMAN, CTH1V, CTY1S, DIGIA, DIGIGR, DOV1V, ELEAV, ELISA, ENENTO, EQV1V, ETTE, EXL1V, FORTUM, FSKRS, GLA1V, HONBS, HUH1V, ICP1V, ILKKA2, INVEST, KCR, KELAS, KEMIRA, KESKOA, KESKOB, KNEBV, LAT1V, LINDEX, MARAS, MEKKO, METSA, METSB, METSO, NESTE, NLG1V, NOHO, NOKIA, OLVAS, ORNAV, ORNBV, OUT1V, OVARO, PIHLIS, PNA1V, PON1V, QPR1V, RAIVV, RAP1V, RAUTE, REBL, REG1V, REKA, ROBIT, SAGCV, SAMPO, SANOMA, SCANFL, SIILI, SOLTEQ, SOSI1, SRV1V, SSH1V, STEAV, STERV, SUY1V, TAALA, TELIA1, TEM1V, TIETO, TLT1V, TNOM, TRH1V, TULAV, TYRES, UNITED, UPM, VAIAS, VALMT, VERK, VIK1V, WETTERI, WITH, WRT1V, WUF1V, YIT._
 
 2 Faktorit pääkomponenttimenetelmällä
 ===
@@ -60,7 +60,7 @@ Satunnaismatriisien teoriasta tiedetään, että korrelaatiomatriisien ominaisar
 $$
   p(x) = \frac{1}{2\pi\sigma^2}\frac{\sqrt{(\lambda_+-x)(x-\lambda_-)}}{\lambda x},
 $$
-missä $\lambda=m/n$, $x\in(\lambda_-,\lambda_+)$ ja $\lambda_\pm=\sigma^2(1+\sqrt(\lambda})$. Kaava pätee suurten matriisien $R^{m\times n}$ rajalla $n,m\to\infty$.
+missä $\lambda=m/n$, $x\in(\lambda_-,\lambda_+)$ ja $\lambda_\pm=\sigma^2(1+\sqrt{\lambda})$. Kaava pätee suurten matriisien $R^{m\times n}$ rajalla $n,m\to\infty$.
 
 [Laloux et al.](https://arxiv.org/abs/cond-mat/9810255) sovelsivat Pastur-Marchenko -teoreemaa S&P 500:n korrelaationmatriisiin. 
 Heidät havaintojensa mukaan noin 94 prosenttia ominaisarvoista jakautui Pastur-Marchenkon jakauman mukaan.
