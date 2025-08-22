@@ -87,8 +87,11 @@ muut varianssin lähteet ovat kohinaa.
 ![Ominaisarvot](/images/eigen/pm_vs_data.png)<br>
 _Kuvio 3. Pastur-Marchenko -jakauma verrattuna datan tiheyteen._
 
+Suoralla PCA:llä nähdään, että tuottoaikasarjasta riittää poimia ensimmäiset 5 faktoria, niin osakekurssien heilunnasta selittyy 24 prosenttia. 
 
-Suoralla PCA:llä nähdään, että tuottoaikasarjasta riittää poimia ensimmäiset 5 faktoria, niin osakekurssien heilunnasta selittyy yli 90 prosenttia. Samaa kertoo satunnaismatriisien teoria: muutama ominaisarvo on merkitsevä, loppuja on vaikea erottaa kohinasta. Tässä tarkastellaan lineaarisia faktoreita, ja voi olla, että muitakin on.
+Samaa kertoo satunnaismatriisien teoria: muutama ominaisarvo on merkitsevä, loppuja on vaikea erottaa kohinasta. Tässä tarkastellaan lineaarisia faktoreita, ja voi olla, että muitakin on.
+
+Kiinnostavaa kyllä [Lettau ja Pelger (2018)](https://www.nber.org/system/files/working_papers/w24858/w24858.pdf) päätyivät siihen, että eri kriteereillä tarkasteltuna vain ensimmäiset viisi faktoria ovat merkitseviä tuottojen PCA-analyysissä. Heidän analyysinsä kohdistuu kuitenkin täysin eri aineistoon kuin tässä: Lettau ja Pelgar tarkastelevat S&P500-osaketuottoja vuosilta 1972-2014.
 
 |Factors | Explanation (%) |
 ------------------------
@@ -103,12 +106,14 @@ Suoralla PCA:llä nähdään, että tuottoaikasarjasta riittää poimia ensimmä
 | 9 | 29.6 |
 | 10 | 30.8 |
 
-_Taulukko 1. Varianssin selitys faktorien lukumäärän funktiona._
+_Taulukko 1. Varianssin selitysosuus faktorien lukumäärän funktiona._
 
 5 Mitä faktori kertovat?
 ===
 
-Faktoreista ensimmäinen on markkinariski. Sen ominaisvektori on jotakuinkin yhtä suuri kaikille osakkeille. 
+Faktoreista ensimmäinen on markkinariski. Ominaisvektorin arvot ovat jotakuinkin yhtä suuri kaikille osakkeille, joten faktori sijoittaa 
+oleellisesti kaikkii kohteisiin yhtä paljon. Keskiarvo on noin 0.095 (Taulukko 2).
+
 > [0.07138418 0.06515197 0.14093996 0.05086095 0.10338822 0.08907242
   0.07145822 0.13225237 0.10770909 0.06869495 0.0900749  0.07313301
   0.14846975 0.05107834 0.13911678 0.09667943 0.03878185 0.07869674
@@ -127,7 +132,11 @@ Faktoreista ensimmäinen on markkinariski. Sen ominaisvektori on jotakuinkin yht
   0.09191066 0.03328845 0.04101367 0.10165961 0.15138451 0.05470399
   0.13807004]
 
-Toinen faktori onkin sitten epäselvempi. Siinä painojen etumerki vaihtelee.
+Toinen faktori onkin sitten epäselvempi. Siinä painojen etumerki vaihtelee, joten kyse on jonkinlaisesta Long-Short -strategiasta.
+Siinä keskipaino on noin -0.023 (Taulukko 2).
+
+Toisessa faktorissa paino on negatiivinen suurammassa osassa osakkeista (Kuvio 4). Sektoreista kuitenkin yleishyödylliset palvelut (6510), pankit (4010), kemikaalit (5520) ovat ainoastaan positiivisia. Teknologia (1010) on valtaosin negatiivinen, samoin teollisuushyödykkeet ja -palvelut (5020). Kulutustuotteet ja -palvelu (4020) on ainoastaan negatiivinen.
+
 > [-9.87624634e-02 -5.02852749e-02 -4.81837456e-02 -1.53289008e-01
   -1.49989488e-01 -5.62424059e-02 -1.17011204e-01 -1.00117796e-01
   -6.10230183e-02 -9.53434726e-02 -8.35771064e-02 -1.21439289e-01
@@ -155,7 +164,12 @@ Toinen faktori onkin sitten epäselvempi. Siinä painojen etumerki vaihtelee.
    8.07628761e-02]
 
 
-Kolmas faktori onkin sitten epäselvempi.
+Kolmas faktori kuvaa Long-Short -strategiaa, jossa osaan kohteista sijoitetaan (long), osaa myydään (short).
+Keskimääräinen paino on lähes nolla (Taulukko 2). Vastaavan tuloksen saivat 
+[Lettau ja Pelger (2018)](https://www.nber.org/system/files/working_papers/w24858/w24858.pdf).
+
+Entä mihin kohteisiin kolmas faktori sijoittaa? 
+
 > [3.83031599e-02 -8.86634024e-03  1.48878469e-02 -2.19760410e-03
    5.26798455e-03  3.39320551e-02  4.62159565e-02  6.39568502e-02
    2.91233774e-03  3.21862128e-02  3.65768469e-03  4.64085007e-02
@@ -227,7 +241,23 @@ Neljäs faktori onkin sitten epäselvempi.
 ![Faktorien tulkinta sektorien mukaan](/images/eigen/factor5.png)<br>
 _Kuvio 4. Viiden ensimmäisen faktori tulkinta sektoreittain. Siniset positiivisia, oranssit negatiivia._
 
+Kuvio 4 näyttää, että ensimmäinen faktorin paino on positiivinen kaikille osakkeille. 
+
+
+| Faktori | Keskiarvo | Keskihajonta |
+-----------------------
+1 | 0.09548300617702303 | 0.03452931916377785 |
+2 | -0.023428722795141223 | 0.09879460156660337 |
+3 | -0.0006403110756748557 | 0.10153259748593965 |
+4 | -0.008493130553508857 | 0.10117877783367679 |
+5 | 0.006394760285126634 | 0.10133304195281624 |
+-----------------------
+_Taulukko 2. Faktorien tunnusluvut._
+
+Ensimmäinen faktori 
+
   6 Yhteenveto
   ===
 
-  Muutama faktori on vastuussa suurimmasta osasta tuottoja.
+  Muutama faktori on vastuussa suuresta osasta osakeindeksin tuottoa. Tämän tutkimuksen mukaan Helsingin Pörssin NASDAQ Helsinki -indeksin tuottoja ajaa vain viisi faktoria.
+  
