@@ -32,10 +32,8 @@ Menetelmä toimii korrelaatiomatriisin ominaisarvojen avulla. Suurin ominaisarvo
 _Kuvio 1. Tuottojen replikointi neljällä faktorilla._
 
 PCA-menetelmässä oletetaan, että tuotot on normitettu niin, että keskituotto on nolla ja keskihajonta 1. Tämä hävittää informaatiota, mutta silti menetelmä toimii melko hyvin. Tuottomatriisin $X$ korrelaatiomatriisi on $X^TX$ ja koko PCA-hajotelma osaketuotoille on 
-$$
-  H = XW,
-$$
-missä $W$ koostuu korrelaatiomatriisin ominaisvektoreista. Tämä projisoi alkuperäiset tuottoaikasarjat faktoreille, ja valitsemalla vain muutaman faktorin, saa alkuperäisille faktoreille siivotun esityksen $X\sim XW_kW_k^T$, missä $W_k$ sisältää vain $k$ ominaisvektoria.
+$H = XW,$ missä $W$ koostuu korrelaatiomatriisin ominaisvektoreista. Tämä projisoi alkuperäiset tuottoaikasarjat faktoreille. 
+Alkuperäiselle datalle saa siivotun esityksen $XW_kW_k^T$, missä $W_k$ sisältää vain $k$ ominaisvektoria. Tämä esitys sisältää vain faktorien kuvaaman osan datasta.
 
 ![Ominaisarvot](/images/eigen/HEX_eigen.png)<br>
 _Kuvio 2. Analysoitujen osakkeiden tuottojen korrelaatiomatriisin ominaisarvojen jakauma. Suurin ominaisarvo kuvaa markkinaliikettä._
@@ -62,7 +60,7 @@ Mitä Pastur-Marchenko -teoreema sitten tarkoittaa? Sen voi tulkita tarkoittavan
 5 Montako faktoria ajaa Helsingin osakkeiden tuottoja? 
 ===
 
-Pastur-Marchenko-teoreemassa ainoat parametrit ovat keskihajonta $s$ ja osakkeiden lukumäärän $N$ ja havaintojen lukumäärän $M$ suhde N/M. Pastur-Marchenko kuitenkin olettaa, että havainnot ovat toisistaan riippumattomia ajallisesti. Näinhän ei ole. Siksi efektiivinen havaintojen lukumäärä $M^*$ on pienempi kuin havaintojen todellinen lukumäärä $M$. Tässä tutkimuksessa suhde oli luokkaa $M^* / M = 0,4$.
+Pastur-Marchenko-teoreemassa ainoat parametrit ovat keskihajonta $s$ ja osakkeiden lukumäärän $N$ ja havaintojen lukumäärän $M$ suhde N/M. Pastur-Marchenko kuitenkin olettaa, että havainnot ovat toisistaan riippumattomia ajallisesti. Näinhän ei ole. Siksi efektiivinen havaintojen lukumäärä $M*$ on pienempi kuin havaintojen todellinen lukumäärä $M$. Tässä tutkimuksessa suhde oli luokkaa $M* = 0,4M$.
 
 Suurin ominaisarvo vastaa suurimman varianssi portfoliota, jossa painot vastaavat ominaisvektorin alkioita. Näin tulkittuna OMXH:ssa on viisi merkitsevää toisistaan riippumatonta faktoria, muut varianssin lähteet ovat kohinaa. 
 
