@@ -1,7 +1,7 @@
 ---
 title: 'Montako faktoria ajaa tuottoja Helsingin pörssissä?'
-date: 2025-03-30
-permalink: /posts/2024/5/helsinginpörssi/
+date: 2025-08-20
+permalink: /posts/2024/8/helsinginpörssi/
 summary: 'Blogi | Bouchard ja Laloux, Potters näyttivät, että S&P 500 -indeksin osakkeiden korrelaatiomatriisissa on suuri satunnainen komponentti. Onko näin myös Helsingin Pörssin osakkeiden korrelaatiomatriisille? Blogissa tarkastellaan, montako lineaarista, kohinasta erottuvaa faktoria Helsingin Pörssistä erottuu. Tulosten mukaan viimeisen kymmenen vuoden tuottoja on ajanut 5 faktoria.'
 tags:
   - osaketuotot
@@ -9,73 +9,188 @@ tags:
   - sijoittaminen
 ---
 
-Tuottoja ajavien faktorien lukumäärä vaihtelee suhdannetilanteen mukaan -- näin ainakin uskotaan. Voiko sitä mitata? Blogissa käytetään satunnaismatriisien teoriaa
-arvioimaan, montako riippumatonta faktoria ajaa tuottojen korrelaatioita eri vuosina.
+Tuottoja ajavien faktorien jonkin verran lukumäärää voi arvioida satunnaismatriisien teorian avulla. Tämän blogin tulosten mukaan Nasdaq Helsinki:in listattujen osakkeiden tuottoja ajaa vain viisi lineaarista faktoria.
 
 1 Helsingin Pörssissä listatut osakkeet
 ===
 
-Tarkastellaan Helsingin pörssissä (Nasdaq OMXH) listattuja 140 osaketta, joista löytyy yhtenäinen aikasarja vuosille 2015-2025. Niistä on saatavissa päivädataa Yahoon palvelun kautta. Osakkeiden päivätuotot lasketaan yksinkertaisuuden vuoksi suoraan kursseista ilman osinkojen huomiointia. Kurssikehitys muutetaan logaritmisiksi tuotoiksi.
+Tällä hetkellä Nasdaq Helsinki:in on listattu 134 osaketta ja First Northissa 48. 
+Tarkastellaan seuraavassa Helsingin pörssissä (Nasdaq OMXH) listattuja 97 osaketta, joista löytyy yhtenäinen aikasarja vuosille 2015-2025. Niistä on saatavissa päivädataa Yahoon palvelun kautta. Osakkeiden päivätuotot lasketaan yksinkertaisuuden vuoksi suoraan kursseista ilman osinkojen huomiointia. Kurssikehitys muutetaan logaritmisiksi tuotoiksi.
 
-Yahoo Finance löytää päivänoteeraukset 97:ltä Helsingin pörssin osakkeelta periodilta, joka alkaa 2015-08-15 ja loppuu 2025-08-15. Nämä ovat tikkerit 
-> AFAGR.he, AKTIA.he, ALISA.he, ALMA.he, ANORA.he, APETIT.he, TALLINK.he, ASPO.he, ACG1V.he, ATRAV.he, ALBAV.he, ALBBV.he, BIOBV.he, BITTI.he, BOREO.he, CAPMAN.he, CGCBV.he, CTY1S.he, CTH1V.he, CONSTI.he, DIGIA.he, DIGIGR.he, DOV1V.he, EEZY.he, ELEAV.he, ELISA.he, PAMPALO.he, ENENTO.he, ESENSE.he, EQV1V.he, ETTE.he, EVLI.he, EXL1V.he, FSECURE.he, FIA1S.he, FSKRS.he, FORTUM.he, GLA1V.he, GOFORE.he, HARVIA.he, HKSAV.he, HONBS.he, HUH1V.he, ILKKA2.he, ICP1V.he, INVEST.he, KALMAR.he, KAMUX.he, KEMIRA.he, KEMPOWR.he, KSL.he, KESKOA.he, KESKOB.he, KELAS.he, KHG.he, KOJAMO.he, KNEBV.he, KCR.he, KOSKI.he, KREATE.he, LAMOR.he, LAT1V.he, LEHTO.he, LINDEX.he, MANTA.he, MEKKO.he, MARAS.he, METSO.he, METSA.he, METSB.he, MUSTI.he, NESTE.he, NOHO.he, NOKIA.he, TYRES.he, NDA FI.he, NLG1V.he, OLVAS.he, OMASP.he, OPTOMED.he, OKDAV.he, OKDBV.he, ORNAV.he, ORNBV.he, ORTHEX.he, OUT1V.he, OVARO.he, PNA1V.he, PIHLIS.he, PON1V.he, PUUILO.he, QPR1V.he, QTCOM.he, RAIVV.he, RAP1V.he, RAUTE.he, REBL.he, REKA.he, RELAIS.he, REMEDY.he, REG1V.he, ROBIT.he, SAGCV.he, SAMPO.he, SANOMA.he, SCANFL.he, SIILI.he, SITOWS.he, SOLTEQ.he, SOSI1.he, SRV1V.he, SSABAH.he, SSABBH.he, SSH1V.he, STEAV.he, STERV.he, SUY1V.he, TAALA.he, TNOM.he, TEM1V.he, TLT1V.he, TELIA1.he, TTALO.he, TIETO.he, TOKMAN.he, TRH1V.he, TULAV.he, UNITED.he, UPM.he, VAIAS.he, VALMT.he, VALOE.he, VERK.he, VIK1V.he, WETTERI.he, WITH.he, WUF1V.he, WRT1V.he, YIT.he
+Yahoo Finance löytää päivänoteeraukset 97:ltä Helsingin pörssin osakkeelta periodilta, joka alkaa 2015-08-15 ja loppuu 2025-08-15. Tarkastellut tikkerit ovat _ACG1V , AFAGR, AKTIA, ALBAV, ALBBV, ALMA, APETIT, ASPO, ATRAV, BIOBV, BITTI, BOREO, CAPMAN, CTH1V, CTY1S, DIGIA, DIGIGR, DOV1V, ELEAV, ELISA, ENENTO, EQV1V, ETTE, EXL1V, FORTUM, FSKRS, GLA1V, HONBS, HUH1V, ICP1V, ILKKA2, INVEST, KCR, KELAS, KEMIRA, KESKOA, KESKOB, KNEBV, LAT1V, LINDEX, MARAS, MEKKO, METSA, METSB, METSO, NESTE, NLG1V, NOHO, NOKIA, OLVAS, ORNAV, ORNBV, OUT1V, OVARO, PIHLIS, PNA1V, PON1V, QPR1V, RAIVV, RAP1V, RAUTE, REBL, REG1V, REKA, ROBIT, SAGCV, SAMPO, SANOMA, SCANFL, SIILI, SOLTEQ, SOSI1, SRV1V, SSH1V, STEAV, STERV, SUY1V, TAALA, TELIA1, TEM1V, TIETO, TLT1V, TNOM, TRH1V, TULAV, TYRES, UNITED, UPM, VAIAS, VALMT, VERK, VIK1V, WETTERI, WITH, WRT1V, WUF1V, YIT._
+
+2 Faktorit pääkomponenttimenetelmällä
+===
+
+[Pääkomponenttimenetelmällä](https://fi.wikipedia.org/wiki/P%C3%A4%C3%A4komponenttianalyysi) (PCA) voi etsiä tuottoja selittäviä tekijöitä. 
+Korrelaatio kuvaa tuottojen keskinäistä lineaarista riippuvuutta. Osakkeiden tuottojen välisten korrelaatioiden avulla voi etsiä pääkomponentit, jotka kuvaava osaketuottojen faktoreita. 
+Kuvio 1 näyttää, miten hyvin pääkomponenttien avulla voi kuvata tuottoaikasarjaa.
+
+Menetelmä toimii korrelaatiomatriisin ominaisarvojen avulla. Suurin ominaisarvo kuvaa markkinan liikettä ja se on tyypillisesti selvästi muita suurempi (Kuvio 2). 
 
 ![nettomaahanmuutto](/images/eigen/replication.png)<br>
 _Kuvio 1. Tuottojen replikointi neljällä faktorilla._
 
-2 Satunnaismatriisit
+PCA-menetelmässä oletetaan, että tuotot on normitettu niin, että keskituotto on nolla ja keskihajonta 1. Tämä hävittää informaatiota, mutta silti menetelmä toimii melko hyvin. Tuottomatriisin $X$ korrelaatiomatriisi on $X^TX$ ja koko PCA-hajotelma osaketuotoille on 
+$H = XW,$ missä $W$ koostuu korrelaatiomatriisin ominaisvektoreista. Tämä projisoi alkuperäiset tuottoaikasarjat faktoreille. 
+Alkuperäiselle datalle saa siivotun esityksen $XW_kW_k^T$, missä $W_k$ sisältää vain $k$ ominaisvektoria. Tämä esitys sisältää vain faktorien kuvaaman osan datasta.
+
+![Ominaisarvot](/images/eigen/HEX_eigen.png)<br>
+_Kuvio 2. Analysoitujen osakkeiden tuottojen korrelaatiomatriisin ominaisarvojen jakauma. Suurin ominaisarvo kuvaa markkinaliikettä._
+
+Ominaisvektorit ovat kuitenkin kohtisuorassa toisiaan kohti. Ominaisvektorit on normitettu siten, että $\sum_mW_{k,m}^2=1$. Tämä ei ole suoraan salkkupainojen normitus. Jos faktoriin haluaa sijoittaa, pitää ominaisvektorit painot skaalata summautumaan $\sum_mW_{k,m}=1$.
+
+3 Satunnaismatriisit
 ===
 [Satunnaismatriisit](https://en.wikipedia.org/wiki/Random_matrix) ovat satunnaislukujen yleistys. Todennäköisyysjakautuneen satunnaisluvun sijaan tarkastellaan matriiseita, joiden alkiot ovat satunnaislukuja ja lisäksi alkioiden väillä voi olla keskinäisiä riippuvuuksia. Voidaan ajatella, että tuottojen korrelaatiomatriisi on ortogonaalisten matriisien ensemblen jäsen. 
 Todennäköisyyslaskennalla voidaan arvioida satunnaismatriisien ominaisuuksia.
+Esimerkki satunnaismatriisien joukosta on kaikkien korrelaatiomatriisien joukko varustettuna todennäköisyysmitalla. 
 
-Esimerkki satunnaismatriisien joukosta on kaikkien korrelaatiomatriisien joukko varustettuna todennäköisyys mitalla. 
-Olkoon $X$ reaalinen $m\times n$ satunnaismatriisi, jonka alkiot ovat toisistaan riippumattomia ja samalla tavalla jakautuneita satunnaislukuja, joiden keskiarvo on 0 ja varianssi 
-$\sigma ^{2}<\infty$. Tällöin $Y_{n}={\frac {1}{n}}XX^{T}$ on korrelaatiosatunnaismatriisi.
-
-3 Korrelaatiomatriisin ominaisarvojen jakauma
-===
-
-Pääarvomenetelmällä voi etsiä tuottoja selittäviä tekijöitä. Menetelmä toimii korrelaatiomatriisin ominaisarvojen avulla. Suurin ominaisarvo kuvaa markkinan liikettä ja sen suuruus tyypillisesti poikkeaa kaikista muista (Kuvio 1). 
-
-Korrelaatio kuvaa tuottojen keskinäistä lineaarista riippuvuutta. Tuottoaikasarjoille $X_k,Y_k$ se määritellään
-
-Satunnaismatriisien teoriasta tiedetään, että tällaisten korrelaatiomatriisien ominaisarvot noudattavat todennäköisyysjakaumaa. 
-[Pastur-Marchenko-teoreeman](https://en.wikipedia.org/wiki/Marchenko%E2%80%93Pastur_distribution) mukaan satunnaismatriisin ominaisarvot jakautuvat
-
+Satunnaismatriisien teoriasta tiedetään, että korrelaatiomatriisien ominaisarvot noudattavat todennäköisyysjakaumaa. 
+[Pastur-Marchenko-teoreema](https://en.wikipedia.org/wiki/Marchenko%E2%80%93Pastur_distribution) kertoo, että satunnaisen korrelaatiomatriisin ominaisarvot jakautuvat
 $$
   p(x) = \frac{1}{2\pi\sigma^2}\frac{\sqrt{(\lambda_+-x)(x-\lambda_-)}}{\lambda x},
 $$
+missä $\lambda=m/n$, $x\in(\lambda_-,\lambda_+)$ ja $\lambda_\pm=\sigma^2(1+\sqrt{\lambda})$. 
+Kaava pätee suurten matriisien $R^{m\times n}$ rajalla $n,m\to\infty$.
 
-missä $x\in(\lambda_-,\lambda_+)$ ja $\lambda_-=..$ ja $\lambda_+=..$. Kaava pätee, kun  suurten neliömatriisien rajalla $n\to\infty$.
+[Laloux et al.](https://arxiv.org/abs/cond-mat/9810255) sovelsiv Pastur-Marchenko -teoreemaa S&P 500:n korrelaationmatriisiin. 
+Heidät havaintojensa mukaan noin 94 prosenttia ominaisarvoista jakautui Pastur-Marchenkon jakauman mukaan ja vain muutama ominaisarvo poikkeaa jakaumasta. [Bouchaud ja Potters](https://arxiv.org/abs/0910,1205) jatkoivat Laloux et al. tutkimusta eteenpäin.
 
-kertoo. 
+Mitä Pastur-Marchenko -teoreema sitten tarkoittaa? Sen voi tulkita tarkoittavan, että suurin osa korrelaatiomatriisista on kohinaa ja että vain muutama lineaarinen faktori ajaa osaketuottoja. Tämä ei tarkoita, ettei tuottoja voisi ajaa jokin ei-lineaarinen tekijä, mutta PCA ei sellaista löytäisi. 
 
-[Bouchaud ja Laloux]() sovelsivat Pastur-Marchenko -teoreemaa S&P 500:n korrelaationmatriisiin. 
-Heidät havaintojensa mukaan noin 94 prosenttia ominaisarvoista jakautui Pastur-Marchenkon jakauman mukaan (Kuvio).
-
-Mitä tämä sitten tarkoittaa? Sen voi tulkita tarkoittavan, että suurin osa korrelaatiomatriisista on kohinaa ja että vain muutama lineaarinen faktori ajaa osaketuottoja.
-Tämä ei tarkoita, ettei tuottoja voisi ajaa jokin ei-lineaarinen tekijä, mutta PCA ei sellaista löytäisi. 
-
-![Ominaisarvot](/images/eigen/eigen.png)<br>
-_Kuvio 2. Analysoitujen osakkeiden tuottojen korrelaatiomatriisin ominaisarvojen jakauma. Suurin ominaisarvo kuvaa markkinaliikettä._
-
-
-4 Montako faktoria ajaa Helsingin osakkeiden tuottoja? 
+5 Montako faktoria ajaa Helsingin osakkeiden tuottoja? 
 ===
 
-Pastur-Marchenko-teoreemassa ainoat parametrit ovat keskihajonta s ja osakkeiden lukumäärän ja havaintojen lukumäärän suhde N/M. Pastur-Marchenko kuitenkin olettaa, että havainnot ovat toisistaan riippumattomia ajallisesti. Näinhän ei ole. Siksi efektiivinen havaintojen lukumäärä T* on pienempi kuin havaintojen todellinen lukumäärä T. Tässä tutkimuksessa suhde oli luokkaa T* / T = 0,4.
+Pastur-Marchenko-teoreemassa ainoat parametrit ovat keskihajonta $s$ ja osakkeiden lukumäärän $N$ ja havaintojen lukumäärän $M$ suhde N/M. Pastur-Marchenko kuitenkin olettaa, että havainnot ovat toisistaan riippumattomia ajallisesti. Näinhän ei ole. Siksi efektiivinen havaintojen lukumäärä $M^\dagger$ on pienempi kuin havaintojen todellinen lukumäärä $M$. Tässä tutkimuksessa suhteena käytettiin $M^\dagger = 0,4M$.
 
-Suurin ominaisarvo vastaa suurimman varianssi portfoliota (jossa painot kuten ominaisvektorin alkiot). Näin tulkittuna OMXH:ssa on neljä merkitsevää toisistaan riippumatonta faktoria,
-muut varianssin lähteet ovat kohinaa. 
+Suurin ominaisarvo vastaa suurimman varianssi portfoliota, jossa painot vastaavat ominaisvektorin alkioita. Näin tulkittuna OMXH:ssa on viisi merkitsevää toisistaan riippumatonta faktoria, muut varianssin lähteet ovat kohinaa. 
 
-Suoralla PCA:llä nähdään, että tuottoaikasarjasta riittää poimia ensimmäiset 5 faktoria, niin osakekurssien heilunnasta selittyy yli 90 prosenttia. Samaa kertoo satunnaismatriisien teoria: muutama ominaisarvo on merkitsevä, loppuja on vaikea erottaa kohinasta. Tässä tarkastellaan lineaarisia faktoreita, ja voi olla, että muitakin on.
+![Ominaisarvot](/images/eigen/pm_vs_data.png)<br>
+_Kuvio 3. Pastur-Marchenko -jakauma verrattuna osaketuottojen korrelaatiomatriisin ominaisarvojen tiheyteen._
 
-5 Mitä faktori kertovat?
+Ensimmäisillä 5:llä faktorilla selittyy osakekurssien heilunnasta 24 prosenttia. Tämä on melko vähän. Tästä huolimatta muutama faktori riittää tuottamaan alkuperäistä aikasarjaa vastaavan tuottoaikasarjan (Kuvio 1).
+Satunnaismatriisien teorian mukaan vain muutama ominaisarvo on merkitsevä, loppuja ei voi erottaa kohinasta. 
+
+[Lettau ja Pelger (2018)](https://www.nber.org/system/files/working_papers/w24858/w24858.pdf) päätyivät siihen, että eri kriteereillä tarkasteltuna vain ensimmäiset viisi faktoria ovat merkitseviä tuottojen PCA-analyysissä. Heidän analyysinsä kohdistuu kuitenkin täysin eri aineistoon kuin tässä: Lettau ja Pelgar tarkastelevat S&P500-osaketuottoja vuosilta 1972-2014.
+
+| Number of factors | Explanation of variance (%) |
+|---:|---:|
+| 1 | 16.7 |
+| 2 | 19.2 |
+| 3 | 21.2 |
+| 4 | 22.8 |
+| 5 | 24.3 |
+| 6 | 25.7 |
+| 7 | 27.0 |
+| 8 | 28.3 |
+| 9 | 29.6 |
+| 10 | 30,8 |
+
+_Taulukko 1. Varianssin selitysosuus faktorien lukumäärän funktiona._
+
+| Faktori | Keskiarvo | Keskihajonta |
+|---:|---:|---:|
+1 | 0,09548300617702303 | 0,03452931916377785 |
+2 | -0,023428722795141223 | 0,09879460156660337 |
+3 | -0,0006403110756748557 | 0,10153259748593965 |
+4 | -0,008493130553508857 | 0,10117877783367679 |
+5 | 0,006394760285126634 | 0,10133304195281624 |
+
+_Taulukko 2. Faktorien tunnusluvut._
+
+
+6 Mitä faktori kertovat?
 ===
 
-Faktoreista ensimmäinen on markkinariski. Sen ominaisvektori on
-> []
+6.1 Faktori 1 eli markkina
+==
 
-Toinen faktori onkin sitten epäselvempi.
-> []
+Faktoreista ensimmäinen on markkinariski. Ominaisvektorin arvot ovat jotakuinkin yhtä suuri kaikille osakkeille, joten faktori sijoittaa 
+oleellisesti kaikkii kohteisiin yhtä paljon. Keskiarvo on noin 0,095 (Taulukko 2). Painojen keskihajonta on ensimmäisessä faktorissa pienintä tarkastelluista faktoreista.
 
+|    |   ACG1V |   AFAGR |   AKTIA |   ALBAV |   ALBBV |   ALMA |   APETIT |   ASPO |   ATRAV |   BIOBV |   BITTI |   BOREO |   CAPMAN |   CTH1V |   CTY1S |   DIGIA |   DIGIGR |   DOV1V |   ELEAV |   ELISA |   ENENTO |   EQV1V |   ETTE |   EXL1V |   FORTUM |   FSKRS |   GLA1V |   HONBS |   HUH1V |   ICP1V |   ILKKA2 |   INVEST |   KCR |   KELAS |   KEMIRA |   KESKOA |   KESKOB |   KNEBV |   LAT1V |   LINDEX |   MARAS |   MEKKO |   METSA |   METSB |   METSO |   NESTE |   NLG1V |   NOHO |   NOKIA |   OLVAS |   ORNAV |   ORNBV |   OUT1V |   OVARO |   PIHLIS |   PNA1V |   PON1V |   QPR1V |   RAIVV |   RAP1V |   RAUTE |   REBL |   REG1V |   REKA |   ROBIT |   SAGCV |   SAMPO |   SANOMA |   SCANFL |   SIILI |   SOLTEQ |   SOSI1 |   SRV1V |   SSH1V |   STEAV |   STERV |   SUY1V |   TAALA |   TELIA1 |   TEM1V |   TIETO |   TLT1V |   TNOM |   TRH1V |   TULAV |   TYRES |   UNITED |   UPM |   VAIAS |   VALMT |   VERK |   VIK1V |   WETTERI |   WITH |   WRT1V |   WUF1V |   YIT |
+|---:|-----------:|-----------:|-----------:|-----------:|-----------:|----------:|------------:|----------:|-----------:|-----------:|-----------:|-----------:|------------:|-----------:|-----------:|-----------:|------------:|-----------:|-----------:|-----------:|------------:|-----------:|----------:|-----------:|------------:|-----------:|-----------:|-----------:|-----------:|-----------:|------------:|------------:|---------:|-----------:|------------:|------------:|------------:|-----------:|-----------:|------------:|-----------:|-----------:|-----------:|-----------:|-----------:|-----------:|-----------:|----------:|-----------:|-----------:|-----------:|-----------:|-----------:|-----------:|------------:|-----------:|-----------:|-----------:|-----------:|-----------:|-----------:|----------:|-----------:|----------:|-----------:|-----------:|-----------:|------------:|------------:|-----------:|------------:|-----------:|-----------:|-----------:|-----------:|-----------:|-----------:|-----------:|------------:|-----------:|-----------:|-----------:|----------:|-----------:|-----------:|-----------:|------------:|---------:|-----------:|-----------:|----------:|-----------:|-------------:|----------:|-----------:|-----------:|---------:|
+|  Arvot |  0.00770733 | 0.00703444 |  0.0152172 | 0.00549144 |  0.0111628 | 0.00961713 |  0.00771533 | 0.0142793 |  0.0116293 | 0.00741698 | 0.00972537 | 0.00789615 |   0.0160302 | 0.00551492 |  0.0150204 |  0.0104385 |  0.00418727 | 0.00849687 | 0.00515782 | 0.00941468 |  0.00669823 |   0.012078 | 0.00848914 | 0.00658038 |   0.0150838 |  0.0135691 |  0.0118382 | 0.00838933 |  0.0153981 |   0.010345 |  0.00909728 |  0.00643838 | 0.0169768 | 0.00719528 |   0.0156777 |   0.0131948 |   0.0125892 |  0.0125452 |  0.0136693 |  0.00986245 | 0.00768873 |  0.0128925 |   0.011673 |  0.0150848 |  0.0156889 |  0.0124749 | 0.00527018 | 0.0108468 |  0.0136249 |  0.0116952 | 0.00922122 |   0.009262 |  0.0156273 | 0.00865545 |  0.00789063 | 0.00742681 |  0.0126691 | 0.00466062 |  0.0120346 | 0.00881566 | 0.00965702 | 0.00225975 |  0.0112226 | 0.00629655 | 0.00747333 | 0.00609106 |   0.018151 |     0.01225 |   0.0108979 | 0.00869988 |  0.00759931 | 0.00691165 | 0.00999554 | 0.00705968 |  0.0129548 |  0.0182849 | 0.00812408 |  0.0123466 |   0.0073115 | 0.00812391 |  0.0164442 |  0.0089636 | 0.0100498 | 0.00515805 | 0.00737339 |  0.0150514 |  0.00531977 | 0.0174239 |  0.0119589 |  0.0163927 | 0.00992357 | 0.00359414 |   0.00442824 | 0.0109762 |   0.016345 | 0.00590638 | 0.0149074 |
+
+Markkinan painossa teknologia (5020) korostuu, koska sen sektorin toimijoita on eniten.
+
+![Faktorien tulkinta sektorien mukaan](/images/eigen/factor1.png)<br>
+_Kuvio. Faktorin yksi painojen etumerkit sektoreittain. Siniset positiivisia, oranssit negatiivia._
+
+![Faktorien tulkinta sektorien mukaan](/images/eigen/marketcapfig_comparison.png)<br>
+_Kuvio. Faktorin yksi skaalatut salkkupainot verrattuna markkinarvoihin mukaisiin painoihin ja vakioallokaatioon._
+
+6.2 Faktori 2 eli shortattu SMB
+==
+
+Toinen faktori onkin sitten epäselvempi. Siinä painojen etumerki vaihtelee, joten kyse on Long-Short -strategiasta.
+Siinä keskipaino on selvästi negatiivinen, noin -0,023 (Taulukko 2).
+
+Toisessa faktorissa paino on negatiivinen suurammissa osassa osakkeista.
+
+|    |   ACG1V |   AFAGR |   AKTIA |   ALBAV |   ALBBV |   ALMA |   APETIT |   ASPO |   ATRAV |   BIOBV |   BITTI |   BOREO |   CAPMAN |   CTH1V |   CTY1S |   DIGIA |   DIGIGR |   DOV1V |   ELEAV |   ELISA |   ENENTO |   EQV1V |   ETTE |   EXL1V |   FORTUM |   FSKRS |   GLA1V |   HONBS |   HUH1V |   ICP1V |   ILKKA2 |   INVEST |   KCR |   KELAS |   KEMIRA |   KESKOA |   KESKOB |   KNEBV |   LAT1V |   LINDEX |   MARAS |   MEKKO |   METSA |   METSB |   METSO |   NESTE |   NLG1V |   NOHO |   NOKIA |   OLVAS |   ORNAV |   ORNBV |   OUT1V |   OVARO |   PIHLIS |   PNA1V |   PON1V |   QPR1V |   RAIVV |   RAP1V |   RAUTE |   REBL |   REG1V |   REKA |   ROBIT |   SAGCV |   SAMPO |   SANOMA |   SCANFL |   SIILI |   SOLTEQ |   SOSI1 |   SRV1V |   SSH1V |   STEAV |   STERV |   SUY1V |   TAALA |   TELIA1 |   TEM1V |   TIETO |   TLT1V |   TNOM |   TRH1V |   TULAV |   TYRES |   UNITED |   UPM |   VAIAS |   VALMT |   VERK |   VIK1V |   WETTERI |   WITH |   WRT1V |   WUF1V |   YIT |
+|---:|-----------:|-----------:|-----------:|----------:|---------:|-----------:|----------:|----------:|-----------:|-----------:|-----------:|----------:|-----------:|-----------:|---------:|-----------:|-----------:|----------:|----------:|----------:|-----------:|----------:|--------:|-----------:|----------:|----------:|-----------:|----------:|---------:|-----------:|-----------:|-----------:|---------:|-----------:|---------:|------------:|----------:|---------:|------------:|-----------:|-----------:|-----------:|---------:|---------:|---------:|----------:|-----------:|---------:|----------:|-----------:|----------:|----------:|---------:|-----------:|-----------:|---------:|-----------:|---------:|-----------:|----------:|----------:|-----------:|-----------:|-----------:|----------:|----------:|----------:|----------:|-----------:|-----------:|-----------:|-----------:|-----------:|-----------:|---------:|---------:|----------:|---------:|--------:|-----------:|-------:|-----------:|-----------:|-----------:|---------:|----------:|-----------:|---------:|-----------:|---------:|-----------:|-----------:|-----------:|----------:|---------:|----------:|----------:|
+|  Arvot | -0,0987624 | -0,0502853 | -0,0481837 | -0,153289 | -0,14999 | -0,0562425 | -0,117011 | -0,100118 | -0,0610231 | -0,0953434 | -0,0835772 | -0,121439 | -0,0839265 | -0,0740467 | 0,029333 | -0,0676031 | -0,0855886 | -0,109142 | -0,100042 | 0,0631662 | -0,0382328 | -0,116545 | -0,1335 | -0,0670171 | 0,0361017 | -0,023166 | -0,0974569 | -0,111407 | 0,175734 | -0,0708022 | -0,0858016 | -0,0953058 | 0,129731 | -0,0639025 | 0,139417 | -0,00026477 | 0,0253977 | 0,165055 | 0,000419409 | -0,0221606 | -0,0810495 | -0,0741386 | 0,124951 | 0,261001 | 0,130615 | 0,0800201 | -0,0883547 | -0,11468 | 0,0248014 | -0,0621301 | 0,0219651 | 0,0282665 | 0,127533 | -0,0621109 | -0,0765798 | -0,07921 | -0,0634239 | -0,03938 | -0,0166029 | -0,125951 | -0,101233 | -0,0473239 | -0,0311402 | -0,0714979 | -0,112449 | -0,125449 | 0,0410068 | 0,0319837 | -0,0907293 | -0,0410517 | -0,0994497 | -0,0386931 | -0,0662552 | -0,0839776 | 0,237343 | 0,284039 | -0,106576 | -0,14694 | 0,02727 | -0,0745879 | 0,1053 | -0,0392802 | -0,0470736 | -0,0833072 | -0,10635 | 0,0660218 | -0,0429861 | 0,276294 | -0,0234391 | 0,156107 | -0,0498271 | -0,0613148 | -0,0257913 | 0,0231258 | 0,133236 | -0,117075 | 0,0807628 |
+
+Sektoreista kuitenkin yleishyödylliset palvelut (6510), pankit (4010), kemikaalit (5520) ovat ainoastaan positiivisia. Teknologia (1010) on valtaosin negatiivinen, samoin teollisuushyödykkeet ja -palvelut (5020). Kulutustuotteet ja -palvelu (4020) on ainoastaan negatiivinen.
+
+![Faktorien tulkinta sektorien mukaan](/images/eigen/factor2.png)<br>
+_Kuvio. Faktorin kaksi painojen etumerkit sektoreittain. Siniset positiivisia, oranssit negatiivia._
+
+Faktori näyttää painottavan suuria, arvokkaita yhtiöitä. Rajana tässä on markkina-arvo yli yksi miljardi euroa. Faktori lienee lähellää [Fama-Frenchin](https://en.wikipedia.org/wiki/Fama%E2%80%93French_three-factor_model) SMB-faktoria, joka kuvaa pienten yhtiöiden ylituottoa verrattuna suuriin yhtiöihin. Tässä tosin eri etumerkki kertoo, että SMB-faktoria shortataan.
+
+![Faktorien tulkinta markkina-arvon mukaan](/images/eigen/marketcap2.png)<br>
+_Kuvio. Faktorin kaksi painot jaoteltuna yrityksen markkina-arvon mukaan (yli vai alle 1 mrd euroa). Siniset positiivisia, oranssit negatiivisia._
+
+6.3 Faktori 3
+==
+
+Kolmas faktori kuvaa Long-Short -strategiaa, jossa osaan kohteista sijoitetaan (long), osaa myydään (short).
+Keskimääräinen paino on lähes nolla (Taulukko 2). Vastaavan kolmannen PCA-faktorin löysivät myös
+[Lettau ja Pelger (2018)](https://www.nber.org/system/files/working_papers/w24858/w24858.pdf).
+
+Entä mihin kohteisiin kolmas faktori sijoittaa? 
+Faktori kolme painottaa vahvasti arvo-osakkeita. Se ei täysin selitä faktoria, mutta kertoo painotuksen.
+
+|    |   ACG1V |   AFAGR |   AKTIA |   ALBAV |   ALBBV |   ALMA |   APETIT |   ASPO |   ATRAV |   BIOBV |   BITTI |   BOREO |   CAPMAN |   CTH1V |   CTY1S |   DIGIA |   DIGIGR |   DOV1V |   ELEAV |   ELISA |   ENENTO |   EQV1V |   ETTE |   EXL1V |   FORTUM |   FSKRS |   GLA1V |   HONBS |   HUH1V |   ICP1V |   ILKKA2 |   INVEST |   KCR |   KELAS |   KEMIRA |   KESKOA |   KESKOB |   KNEBV |   LAT1V |   LINDEX |   MARAS |   MEKKO |   METSA |   METSB |   METSO |   NESTE |   NLG1V |   NOHO |   NOKIA |   OLVAS |   ORNAV |   ORNBV |   OUT1V |   OVARO |   PIHLIS |   PNA1V |   PON1V |   QPR1V |   RAIVV |   RAP1V |   RAUTE |   REBL |   REG1V |   REKA |   ROBIT |   SAGCV |   SAMPO |   SANOMA |   SCANFL |   SIILI |   SOLTEQ |   SOSI1 |   SRV1V |   SSH1V |   STEAV |   STERV |   SUY1V |   TAALA |   TELIA1 |   TEM1V |   TIETO |   TLT1V |   TNOM |   TRH1V |   TULAV |   TYRES |   UNITED |   UPM |   VAIAS |   VALMT |   VERK |   VIK1V |   WETTERI |   WITH |   WRT1V |   WUF1V |   YIT |
+|---:|----------:|------------:|----------:|------------:|-----------:|---------:|----------:|----------:|-----------:|----------:|-----------:|----------:|----------:|----------:|-----------:|----------:|----------:|-----------:|----------:|----------:|---------:|-----------:|-----------:|----------:|-----------:|-----------:|----------:|----------:|-----------:|----------:|-----------:|-----------:|---------:|----------:|----------:|----------:|----------:|----------:|------------:|----------:|-----------:|------------:|----------:|---------:|----------:|-------------:|---------:|----------:|-----------:|-----------:|----------:|----------:|----------:|----------:|------------:|----------:|----------:|----------:|-----------:|----------:|----------:|----------:|----------:|-----------:|----------:|---------:|-----------:|----------:|----------:|-------------:|------------:|---------:|----------:|------------:|---------:|---------:|-----------:|---------:|----------:|----------:|-----------:|---------:|------------:|----------:|----------:|----------:|----------:|---------:|-----------:|----------:|----------:|----------:|----------:|-----------:|----------:|----------:|----------:|
+|  Arvot | 0,0383032 | -0,00886664 | 0,0148879 | -0,00219741 | 0,00526766 | 0,033932 | 0,0462158 | 0,0639568 | 0,00291229 | 0,0321859 | 0,00365783 | 0,0464083 | -0,027005 | 0,0130993 | 0,00159199 | 0,0469896 | 0,0314603 | 0,00632941 | 0,0142583 | -0,239012 | 0,022324 | -0,0240161 | 0,00447637 | 0,0201527 | 0,00401227 | -0,0311855 | 0,0594066 | 0,0538222 | -0,0153789 | 0,0382594 | -0,0529391 | 0,00640041 | 0,061787 | 0,0122126 | 0,0229221 | -0,297551 | -0,292541 | -0,129453 | -0,00232405 | 0,0136942 | -0,0127959 | -0,00386063 | 0,0817746 | 0,129496 | 0,0793578 | -0,000259022 | 0,047476 | 0,0587609 | 0,00216131 | -0,0584443 | -0,509304 | -0,511751 | 0,0987671 | 0,0518446 | -0,00548708 | 0,0295989 | 0,0179439 | 0,0214282 | -0,0465378 | 0,0139097 | 0,0843017 | 0,0577647 | -0,100528 | 0,00334922 | 0,0591576 | 0,074452 | 0,00690699 | -0,079287 | 0,0257852 | -0,000429284 | 0,000300366 | 0,041237 | 0,0463542 | -0,00928066 | 0,132362 | 0,145164 | -0,0558764 | 0,049348 | -0,081919 | 0,0155175 | -0,0621808 | 0,110073 | -0,00593215 | 0,0454056 | 0,0416298 | 0,0449474 | 0,0316188 | 0,108314 | -0,0633271 | 0,0268522 | 0,0350287 | 0,0142398 | 0,0449774 | -0,0421315 | 0,0393237 | 0,0349904 | 0,0368445 |
+
+![Faktorien tulkinta sektorien mukaan](/images/eigen/factor3.png)<br>
+_Kuvio. Faktorin kolme painojen etumerkit sektoreittain. Siniset positiivisia, oranssit negatiivia._
+
+![Arvo/Kasvu -erottelu](/images/eigen/GV_plot.png)<br>
+_Kuvio. Faktorin kolme painojen etumerkit arvo/kasvu-erottelulla. Siniset positiivisia, oranssit negatiivia._
+
+
+6.4 Faktori 4
+==
+
+Neljäs faktori onkin sitten epäselvempi.
+
+|    |   ACG1V |   AFAGR |   AKTIA |   ALBAV |   ALBBV |   ALMA |   APETIT |   ASPO |   ATRAV |   BIOBV |   BITTI |   BOREO |   CAPMAN |   CTH1V |   CTY1S |   DIGIA |   DIGIGR |   DOV1V |   ELEAV |   ELISA |   ENENTO |   EQV1V |   ETTE |   EXL1V |   FORTUM |   FSKRS |   GLA1V |   HONBS |   HUH1V |   ICP1V |   ILKKA2 |   INVEST |   KCR |   KELAS |   KEMIRA |   KESKOA |   KESKOB |   KNEBV |   LAT1V |   LINDEX |   MARAS |   MEKKO |   METSA |   METSB |   METSO |   NESTE |   NLG1V |   NOHO |   NOKIA |   OLVAS |   ORNAV |   ORNBV |   OUT1V |   OVARO |   PIHLIS |   PNA1V |   PON1V |   QPR1V |   RAIVV |   RAP1V |   RAUTE |   REBL |   REG1V |   REKA |   ROBIT |   SAGCV |   SAMPO |   SANOMA |   SCANFL |   SIILI |   SOLTEQ |   SOSI1 |   SRV1V |   SSH1V |   STEAV |   STERV |   SUY1V |   TAALA |   TELIA1 |   TEM1V |   TIETO |   TLT1V |   TNOM |   TRH1V |   TULAV |   TYRES |   UNITED |   UPM |   VAIAS |   VALMT |   VERK |   VIK1V |   WETTERI |   WITH |   WRT1V |   WUF1V |   YIT |
+|---:|-----------:|-----------:|----------:|----------:|-----------:|-----------:|-----------:|-----------:|-----------:|-----------:|-----------:|----------:|------------:|-----------:|----------:|-----------:|-----------:|----------:|-----------:|---------:|----------:|----------:|-----------:|------------:|----------:|----------:|-----------:|----------:|----------:|----------:|-----------:|-------------:|----------:|-----------:|-----------:|---------:|---------:|---------:|----------:|----------:|-----------:|----------:|----------:|----------:|-----------:|---------:|----------:|-----------:|-----------:|---------:|----------:|----------:|-----------:|-----------:|-----------:|----------:|-----------:|----------:|----------:|------------:|------------:|-----------:|----------:|-----------:|-----------:|-----------:|----------:|----------:|-----------:|----------:|----------:|-----------:|-----------:|-----------:|----------:|----------:|-----------:|----------:|-----------:|----------:|----------:|-----------:|----------:|-----------:|-----------:|---------:|----------:|----------:|-----------:|----------:|-----------:|-----------:|----------:|-----------:|----------:|----------:|-----------:|
+|  Arvot | -0,0998106 | -0,0446252 | 0,0615402 | 0,0184584 | 0,00428632 | -0,0843223 | -0,0134014 | 0,00872459 | -0,0252623 | -0,0467516 | -0,0940223 | 0,0694705 | -0,00431648 | -0,0391921 | 0,0954103 | -0,0944217 | -0,0339217 | 0,0164986 | 0,00375207 | 0,020299 | 0,0414336 | 0,0107286 | -0,0552413 | -0,00458413 | 0,0986191 | 0,0643935 | -0,0463447 | -0,042897 | 0,0192432 | 0,0312305 | -0,0433251 | -0,000675563 | 0,0820787 | -0,0544771 | 0,00897412 | 0,427529 | 0,438939 | 0,108399 | 0,0339271 | 0,0520375 | -0,0301137 | 0,0690498 | -0,119016 | -0,098344 | -0,0497751 | 0,075803 | 0,0194581 | -0,0538717 | 0,00860067 | 0,127554 | -0,387769 | -0,388383 | -0,0357605 | -0,0496947 | -0,0321234 | -0,050855 | 0,00515158 | 0,0241119 | 0,0380187 | -0,00488167 | -0,00252104 | -0,0569579 | 0,0344185 | -0,0574819 | -0,0476811 | -0,0918105 | 0,0503666 | 0,0543022 | -0,0167812 | -0,102402 | 0,0336735 | 0,00690586 | -0,0575701 | -0,0670082 | -0,147661 | -0,109402 | -0,0424107 | 0,0131749 | -0,0283011 | 0,0262806 | 0,0594698 | -0,0207924 | 0,0560062 | -0,0480243 | -0,0178403 | 0,106214 | 0,0276758 | -0,118915 | 0,00255351 | 0,0206749 | -0,0389004 | -0,0585835 | -0,105833 | -0,0938143 | 0,0340986 | 0,0189602 | 0,00654115 |
+
+![Faktorien tulkinta sektorien mukaan](/images/eigen/factor4.png)<br>
+_Kuvio. Faktorin neljä painojen etumerkit sektoreittain. Siniset positiivisia, oranssit negatiivia._
+
+6.5 Faktori 5
+==
+
+Viides faktori onkin sitten epäselvempi. Sen etumerkit jakautuvat tasaisesti sektorien sisällä, joten se tuskin liittyy juurikaan sektorijakoon. Keskiarvopaino on hieman positiivinen, 0,0063. Keskihajonta on viidestä faktorista toiseksi suurin, 0,1013. Faktorin merkitys on vähäisempi kuin neljän muun faktorin, joten sitä emme tutki enempää.
+
+|    |   ACG1V |   AFAGR |   AKTIA |   ALBAV |   ALBBV |   ALMA |   APETIT |   ASPO |   ATRAV |   BIOBV |   BITTI |   BOREO |   CAPMAN |   CTH1V |   CTY1S |   DIGIA |   DIGIGR |   DOV1V |   ELEAV |   ELISA |   ENENTO |   EQV1V |   ETTE |   EXL1V |   FORTUM |   FSKRS |   GLA1V |   HONBS |   HUH1V |   ICP1V |   ILKKA2 |   INVEST |   KCR |   KELAS |   KEMIRA |   KESKOA |   KESKOB |   KNEBV |   LAT1V |   LINDEX |   MARAS |   MEKKO |   METSA |   METSB |   METSO |   NESTE |   NLG1V |   NOHO |   NOKIA |   OLVAS |   ORNAV |   ORNBV |   OUT1V |   OVARO |   PIHLIS |   PNA1V |   PON1V |   QPR1V |   RAIVV |   RAP1V |   RAUTE |   REBL |   REG1V |   REKA |   ROBIT |   SAGCV |   SAMPO |   SANOMA |   SCANFL |   SIILI |   SOLTEQ |   SOSI1 |   SRV1V |   SSH1V |   STEAV |   STERV |   SUY1V |   TAALA |   TELIA1 |   TEM1V |   TIETO |   TLT1V |   TNOM |   TRH1V |   TULAV |   TYRES |   UNITED |   UPM |   VAIAS |   VALMT |   VERK |   VIK1V |   WETTERI |   WITH |   WRT1V |   WUF1V |   YIT |
+|---:|----------:|-----------:|-----------:|----------:|------------:|----------:|----------:|----------:|----------:|-----------:|-----------:|---------:|-----------:|-----------:|-----------:|-----------:|----------:|----------:|---------:|----------:|----------:|----------:|----------:|----------:|-----------:|-----------:|-----------:|----------:|----------:|-----------:|-----------:|---------:|----------:|------------:|----------:|---------:|---------:|-----------:|---------:|----------:|------------:|-----------:|---------:|---------:|----------:|----------:|--------:|-----------:|-----------:|----------:|-----------:|-----------:|-----------:|---------:|----------:|----------:|-----------:|-----------:|----------:|----------:|---------:|----------:|----------:|----------:|-----------:|----------:|-----------:|-----------:|-----------:|----------:|----------:|-----------:|------------:|--------:|---------:|---------:|----------:|----------:|-----------:|----------:|----------:|----------:|------------:|----------:|---------:|-----------:|-----------:|---------:|-----------:|----------:|-----------:|----------:|-----------:|-----------:|----------:|--------:|----------:|
+|  Arvot | 0,0790022 | -0,0882495 | -0,0504608 | 0,0237683 | -0,00907747 | 0,0123653 | 0,0109041 | 0,0398683 | 0,0418264 | 0,00591652 | -0,0715646 | 0,156077 | -0,0845007 | -0,0447667 | -0,0484104 | -0,0192313 | 0,0293059 | 0,0356413 | 0,119507 | 0,0517396 | 0,0182892 | 0,0382712 | 0,0347205 | 0,0663156 | -0,0904822 | -0,0690511 | -0,0285441 | 0,0370308 | -0,038613 | -0,0571747 | -0,0288894 | 0,078189 | -0,185093 | -0,00877028 | -0,051754 | 0,267802 | 0,275661 | -0,0841113 | -0,01383 | 0,0032576 | -0,00272046 | 0,00335009 | 0,349403 | 0,307823 | -0,118197 | -0,185727 | 0,11132 | 0,00314863 | -0,0832148 | 0,0577737 | 0,00732941 | -0,0015242 | -0,0945485 | 0,109128 | -0,038369 | 0,0780073 | -0,0202643 | -0,0792158 | 0,0415123 | 0,0881285 | 0,030891 | 0,0625239 | -0,139582 | 0,0013066 | -0,0059215 | 0,0242666 | -0,0449767 | -0,0236362 | -0,0723152 | 0,0460974 | -0,074702 | -0,0928199 | -0,00574434 | 0,01578 | 0,260023 | 0,195625 | 0,0610182 | 0,0516594 | -0,0639264 | -0,052284 | -0,056669 | 0,0257612 | -0,00603358 | 0,0564721 | 0,149313 | -0,0972607 | -0,0228145 | 0,149819 | -0,0610897 | -0,146814 | -0,0320156 | 0,0150621 | 0,00221875 | -0,0844506 | -0,273758 | 0,06986 | -0,126617 |
+
+![Faktorien tulkinta sektorien mukaan](/images/eigen/factor5.png)<br>
+_Kuvio 4. Faktorin viisi painojen etumerkit sektoreittain. Siniset positiivisia, oranssit negatiivia._
+
+
+7 Yhteenveto
+===
+
+Muutama faktori on vastuussa suuresta osasta osakeindeksin tuottoa. Tämän tutkimuksen mukaan Helsingin Pörssin NASDAQ Helsinki -indeksin tuottoja ajaa vain viisi faktoria.
+  
