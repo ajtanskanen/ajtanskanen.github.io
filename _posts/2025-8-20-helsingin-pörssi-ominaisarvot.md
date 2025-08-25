@@ -38,7 +38,7 @@ Alkuperäiselle datalle saa siivotun esityksen $XW_kW_k^T$, missä $W_k$ sisält
 ![Ominaisarvot](/images/eigen/HEX_eigen.png)<br>
 _Kuvio 2. Analysoitujen osakkeiden tuottojen korrelaatiomatriisin ominaisarvojen jakauma. Suurin ominaisarvo kuvaa markkinaliikettä._
 
-Ominaisvektorit ovat kuitenkin kohtisuorassa toisiaan kohti. Ominaisvektorit on normitettu siten, että $\sum_mW_{k,m}^2=1$. Tämä ei ole suoraan salkkupainojen normitus. Jos faktoriin haluaa sijoittaa, pitää ominaisvektorit painot skaalata summautumaan $\sum_mW_{k,m}=1$.
+Ominaisvektorit ovat kuitenkin kohtisuorassa toisiaan kohti. Ominaisvektorit on normitettu siten, että $\sum_mW_{k,m}^2=1$. Tämä ei ole suoraan salkkupainojen normitus, joka olisi $\sum_mW_{k,m}=1$.
 
 3 Satunnaismatriisit
 ===
