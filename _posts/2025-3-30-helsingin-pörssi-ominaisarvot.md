@@ -62,7 +62,7 @@ Mitä Pastur-Marchenko -teoreema sitten tarkoittaa? Sen voi tulkita tarkoittavan
 5 Montako faktoria ajaa Helsingin osakkeiden tuottoja? 
 ===
 
-Pastur-Marchenko-teoreemassa ainoat parametrit ovat keskihajonta $s$ ja osakkeiden lukumäärän $N$ ja havaintojen lukumäärän $M$ suhde N/M. Pastur-Marchenko kuitenkin olettaa, että havainnot ovat toisistaan riippumattomia ajallisesti. Näinhän ei ole. Siksi efektiivinen havaintojen lukumäärä $M\dagger$ on pienempi kuin havaintojen todellinen lukumäärä $M$. Tässä tutkimuksessa suhde oli luokkaa $M\dagger = 0,4M$.
+Pastur-Marchenko-teoreemassa ainoat parametrit ovat keskihajonta $s$ ja osakkeiden lukumäärän $N$ ja havaintojen lukumäärän $M$ suhde N/M. Pastur-Marchenko kuitenkin olettaa, että havainnot ovat toisistaan riippumattomia ajallisesti. Näinhän ei ole. Siksi efektiivinen havaintojen lukumäärä $M\dagger$ on pienempi kuin havaintojen todellinen lukumäärä $M$. Tässä tutkimuksessa suhteena käytettiin $M\dagger = 0,4M$.
 
 Suurin ominaisarvo vastaa suurimman varianssi portfoliota, jossa painot vastaavat ominaisvektorin alkioita. Näin tulkittuna OMXH:ssa on viisi merkitsevää toisistaan riippumatonta faktoria, muut varianssin lähteet ovat kohinaa. 
 
