@@ -24,57 +24,47 @@ Yahoo Finance löytää päivänoteeraukset 97:ltä Helsingin pörssin osakkeelt
 
 [Pääkomponenttimenetelmällä](https://fi.wikipedia.org/wiki/P%C3%A4%C3%A4komponenttianalyysi) (PCA) voi etsiä tuottoja selittäviä tekijöitä. 
 Korrelaatio kuvaa tuottojen keskinäistä lineaarista riippuvuutta. Osakkeiden tuottojen välisten korrelaatioiden avulla voi etsiä pääkomponentit, jotka kuvaava osaketuottojen faktoreita. 
+Kuvio 1 näyttää, miten hyvin pääkomponenttien avulla voi kuvata tuottoaikasarjaa.
 
 Menetelmä toimii korrelaatiomatriisin ominaisarvojen avulla. Suurin ominaisarvo kuvaa markkinan liikettä ja se on tyypillisesti selvästi muita suurempi (Kuvio 2). 
 
 ![nettomaahanmuutto](/images/eigen/replication.png)<br>
 _Kuvio 1. Tuottojen replikointi neljällä faktorilla._
 
-Kuvio 1 näyttää, miten hyvin pääkomponenttien avulla voi kuvata tuottoaikasarjaa.
-
-PCA tavallisesti olettaa, että tuotot on normitettu niin, että keskituotto on nolla ja keskihajonta 1. Tämä hävittää informaatiota, mutta silti menetelmä toimii melko hyvin. Tällöin tuottomatriisin $X$ korrelaatiomatriisi on $X^TX$ ja koko PCA-hajotelma osaketuotoille on 
+PCA-menetelmässä oletetaan, että tuotot on normitettu niin, että keskituotto on nolla ja keskihajonta 1. Tämä hävittää informaatiota, mutta silti menetelmä toimii melko hyvin. Tuottomatriisin $X$ korrelaatiomatriisi on $X^TX$ ja koko PCA-hajotelma osaketuotoille on 
 $$
-  T = XW,
+  H = XW,
 $$
 missä $W$ koostuu korrelaatiomatriisin ominaisvektoreista. Tämä projisoi alkuperäiset tuottoaikasarjat faktoreille, ja valitsemalla vain muutaman faktorin, saa alkuperäisille faktoreille siivotun esityksen $X\sim XW_kW_k^T$, missä $W_k$ sisältää vain $k$ ominaisvektoria.
 
-Tutkitaan ensin hieman satunnaismatriisien teoriaa.
+![Ominaisarvot](/images/eigen/HEX_eigen.png)<br>
+_Kuvio 2. Analysoitujen osakkeiden tuottojen korrelaatiomatriisin ominaisarvojen jakauma. Suurin ominaisarvo kuvaa markkinaliikettä._
 
 3 Satunnaismatriisit
 ===
 [Satunnaismatriisit](https://en.wikipedia.org/wiki/Random_matrix) ovat satunnaislukujen yleistys. Todennäköisyysjakautuneen satunnaisluvun sijaan tarkastellaan matriiseita, joiden alkiot ovat satunnaislukuja ja lisäksi alkioiden väillä voi olla keskinäisiä riippuvuuksia. Voidaan ajatella, että tuottojen korrelaatiomatriisi on ortogonaalisten matriisien ensemblen jäsen. 
 Todennäköisyyslaskennalla voidaan arvioida satunnaismatriisien ominaisuuksia.
-
-Esimerkki satunnaismatriisien joukosta on kaikkien korrelaatiomatriisien joukko varustettuna todennäköisyys mitalla. 
-Olkoon $X$ reaalinen $m\times n$ satunnaismatriisi, jonka alkiot ovat toisistaan riippumattomia ja samalla tavalla jakautuneita satunnaislukuja, joiden keskiarvo on 0 ja varianssi 
-$\sigma ^{2}<\infty$. Tällöin $Y_{n}={\frac {1}{n}}XX^{T}$ on korrelaatiosatunnaismatriisi.
-
-![Ominaisarvot](/images/eigen/HEX_eigen.png)<br>
-_Kuvio 2. Analysoitujen osakkeiden tuottojen korrelaatiomatriisin ominaisarvojen jakauma. Suurin ominaisarvo kuvaa markkinaliikettä._
-
-4 Korrelaatiomatriisin ominaisarvojen jakauma
-===
+Esimerkki satunnaismatriisien joukosta on kaikkien korrelaatiomatriisien joukko varustettuna todennäköisyysmitalla. 
 
 Satunnaismatriisien teoriasta tiedetään, että korrelaatiomatriisien ominaisarvot noudattavat todennäköisyysjakaumaa. 
-[Pastur-Marchenko-teoreeman](https://en.wikipedia.org/wiki/Marchenko%E2%80%93Pastur_distribution) mukaan satunnaismatriisin ominaisarvot jakautuvat
+[Pastur-Marchenko-teoreema](https://en.wikipedia.org/wiki/Marchenko%E2%80%93Pastur_distribution) kertoo, että satunnaisen korrelaatiomatriisin ominaisarvot jakautuvat
 $$
   p(x) = \frac{1}{2\pi\sigma^2}\frac{\sqrt{(\lambda_+-x)(x-\lambda_-)}}{\lambda x},
 $$
-missä $\lambda=m/n$, $x\in(\lambda_-,\lambda_+)$ ja $\lambda_\pm=\sigma^2(1+\sqrt{\lambda})$. Kaava pätee suurten matriisien $R^{m\times n}$ rajalla $n,m\to\infty$.
+missä $\lambda=m/n$, $x\in(\lambda_-,\lambda_+)$ ja $\lambda_\pm=\sigma^2(1+\sqrt{\lambda})$. 
+Kaava pätee suurten matriisien $R^{m\times n}$ rajalla $n,m\to\infty$.
 
-[Laloux et al.](https://arxiv.org/abs/cond-mat/9810255) sovelsivat Pastur-Marchenko -teoreemaa S&P 500:n korrelaationmatriisiin. 
-Heidät havaintojensa mukaan noin 94 prosenttia ominaisarvoista jakautui Pastur-Marchenkon jakauman mukaan.
-[Bouchaud ja Potters](https://arxiv.org/abs/0910,1205) jatkoivat tutkimusta.
+[Laloux et al.](https://arxiv.org/abs/cond-mat/9810255) sovelsiv Pastur-Marchenko -teoreemaa S&P 500:n korrelaationmatriisiin. 
+Heidät havaintojensa mukaan noin 94 prosenttia ominaisarvoista jakautui Pastur-Marchenkon jakauman mukaan ja vain muutama ominaisarvo poikkeaa jakaumasta. [Bouchaud ja Potters](https://arxiv.org/abs/0910,1205) jatkoivat Laloux et al. tutkimusta eteenpäin.
 
 Mitä Pastur-Marchenko -teoreema sitten tarkoittaa? Sen voi tulkita tarkoittavan, että suurin osa korrelaatiomatriisista on kohinaa ja että vain muutama lineaarinen faktori ajaa osaketuottoja. Tämä ei tarkoita, ettei tuottoja voisi ajaa jokin ei-lineaarinen tekijä, mutta PCA ei sellaista löytäisi. 
 
 5 Montako faktoria ajaa Helsingin osakkeiden tuottoja? 
 ===
 
-Pastur-Marchenko-teoreemassa ainoat parametrit ovat keskihajonta s ja osakkeiden lukumäärän ja havaintojen lukumäärän suhde N/M. Pastur-Marchenko kuitenkin olettaa, että havainnot ovat toisistaan riippumattomia ajallisesti. Näinhän ei ole. Siksi efektiivinen havaintojen lukumäärä T* on pienempi kuin havaintojen todellinen lukumäärä T. Tässä tutkimuksessa suhde oli luokkaa T* / T = 0,4.
+Pastur-Marchenko-teoreemassa ainoat parametrit ovat keskihajonta $s$ ja osakkeiden lukumäärän $N$ ja havaintojen lukumäärän $M$ suhde N/M. Pastur-Marchenko kuitenkin olettaa, että havainnot ovat toisistaan riippumattomia ajallisesti. Näinhän ei ole. Siksi efektiivinen havaintojen lukumäärä $M^*$ on pienempi kuin havaintojen todellinen lukumäärä $M$. Tässä tutkimuksessa suhde oli luokkaa $M^* / M = 0,4$.
 
-Suurin ominaisarvo vastaa suurimman varianssi portfoliota (jossa painot kuten ominaisvektorin alkiot). Näin tulkittuna OMXH:ssa on neljä merkitsevää toisistaan riippumatonta faktoria,
-muut varianssin lähteet ovat kohinaa. 
+Suurin ominaisarvo vastaa suurimman varianssi portfoliota (jossa painot kuten ominaisvektorin alkiot). Näin tulkittuna OMXH:ssa on viisi merkitsevää toisistaan riippumatonta faktoria, muut varianssin lähteet ovat kohinaa. 
 
 ![Ominaisarvot](/images/eigen/pm_vs_data.png)<br>
 _Kuvio 3. Pastur-Marchenko -jakauma verrattuna osaketuottojen korrelaatiomatriisin ominaisarvojen tiheyteen._
