@@ -64,7 +64,7 @@ Mitä Pastur-Marchenko -teoreema sitten tarkoittaa? Sen voi tulkita tarkoittavan
 
 Pastur-Marchenko-teoreemassa ainoat parametrit ovat keskihajonta $s$ ja osakkeiden lukumäärän $N$ ja havaintojen lukumäärän $M$ suhde N/M. Pastur-Marchenko kuitenkin olettaa, että havainnot ovat toisistaan riippumattomia ajallisesti. Näinhän ei ole. Siksi efektiivinen havaintojen lukumäärä $M^*$ on pienempi kuin havaintojen todellinen lukumäärä $M$. Tässä tutkimuksessa suhde oli luokkaa $M^* / M = 0,4$.
 
-Suurin ominaisarvo vastaa suurimman varianssi portfoliota (jossa painot kuten ominaisvektorin alkiot). Näin tulkittuna OMXH:ssa on viisi merkitsevää toisistaan riippumatonta faktoria, muut varianssin lähteet ovat kohinaa. 
+Suurin ominaisarvo vastaa suurimman varianssi portfoliota, jossa painot vastaavat ominaisvektorin alkioita. Näin tulkittuna OMXH:ssa on viisi merkitsevää toisistaan riippumatonta faktoria, muut varianssin lähteet ovat kohinaa. 
 
 ![Ominaisarvot](/images/eigen/pm_vs_data.png)<br>
 _Kuvio 3. Pastur-Marchenko -jakauma verrattuna osaketuottojen korrelaatiomatriisin ominaisarvojen tiheyteen._
@@ -72,7 +72,7 @@ _Kuvio 3. Pastur-Marchenko -jakauma verrattuna osaketuottojen korrelaatiomatriis
 Ensimmäisillä 5:llä faktorilla selittyy osakekurssien heilunnasta 24 prosenttia. Tämä on melko vähän. Tästä huolimatta muutama faktori riittää tuottamaan alkuperäistä aikasarjaa vastaavan tuottoaikasarjan (Kuvio 1).
 Satunnaismatriisien teorian mukaan vain muutama ominaisarvo on merkitsevä, loppuja ei voi erottaa kohinasta. 
 
-Kiinnostavaa kyllä [Lettau ja Pelger (2018)](https://www.nber.org/system/files/working_papers/w24858/w24858.pdf) päätyivät siihen, että eri kriteereillä tarkasteltuna vain ensimmäiset viisi faktoria ovat merkitseviä tuottojen PCA-analyysissä. Heidän analyysinsä kohdistuu kuitenkin täysin eri aineistoon kuin tässä: Lettau ja Pelgar tarkastelevat S&P500-osaketuottoja vuosilta 1972-2014.
+[Lettau ja Pelger (2018)](https://www.nber.org/system/files/working_papers/w24858/w24858.pdf) päätyivät siihen, että eri kriteereillä tarkasteltuna vain ensimmäiset viisi faktoria ovat merkitseviä tuottojen PCA-analyysissä. Heidän analyysinsä kohdistuu kuitenkin täysin eri aineistoon kuin tässä: Lettau ja Pelgar tarkastelevat S&P500-osaketuottoja vuosilta 1972-2014.
 
 | Number of factors | Explanation of variance (%) |
 |---:|---:|
