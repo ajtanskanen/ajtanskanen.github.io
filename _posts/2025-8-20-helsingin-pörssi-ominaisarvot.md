@@ -9,7 +9,7 @@ tags:
   - sijoittaminen
 ---
 
-Osaketuottoja ajavien faktorien lukumäärää voi arvioida satunnaismatriisien teorian avulla. Tämän blogin tulosten mukaan Nasdaq Helsinki:in listattujen osakkeiden tuottoja ajaa vain viisi lineaarista faktoria. Näistä tärkein on markkinariski. Seuraavina faktoreina ovat pienten yhtiöiden preemio ja arvoyhtiösijoittaminen. 
+Osaketuottoja ajavien faktorien lukumäärää voi arvioida satunnaismatriisien teorian avulla. Tämän blogin tulosten mukaan Nasdaq Helsinki:in listattujen osakkeiden tuottoja ajaa vain viisi lineaarista faktoria. Näistä tärkein on markkinariski. Seuraavina faktoreina ovat pienten yhtiöiden preemio ja arvoyhtiöpreemio. 
 
 1 Helsingin Pörssissä listatut osakkeet
 ===
@@ -121,7 +121,7 @@ _Kuvio. Faktorin yksi painojen etumerkit sektoreittain. Siniset positiivisia, or
 ![Faktorien tulkinta sektorien mukaan](/images/eigen/marketcapfig_comparison.png)<br>
 _Kuvio. Faktorin yksi skaalatut salkkupainot verrattuna markkinarvoihin mukaisiin painoihin ja vakioallokaatioon._
 
-6.2 Faktori 2 eli shortattu SMB
+6.2 Faktori 2 eli shortattu pienten yhtiöiden preemio
 ==
 
 Toinen faktori onkin sitten epäselvempi. Siinä painojen etumerki vaihtelee, joten kyse on Long-Short -strategiasta.
@@ -143,7 +143,7 @@ Faktori näyttää painottavan suuria, arvokkaita yhtiöitä. Rajana tässä on 
 ![Faktorien tulkinta markkina-arvon mukaan](/images/eigen/marketcap2.png)<br>
 _Kuvio. Faktorin kaksi painot jaoteltuna yrityksen markkina-arvon mukaan (yli vai alle 1 mrd euroa). Siniset positiivisia, oranssit negatiivisia._
 
-6.3 Faktori 3 eli arvosijoittaminen
+6.3 Faktori 3 eli arvoyhtiöpreemio
 ==
 
 Kolmas faktori kuvaa Long-Short -strategiaa, jossa osaan kohteista sijoitetaan (long), osaa myydään (short).
