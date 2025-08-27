@@ -9,7 +9,7 @@ tags:
   - sijoittaminen
 ---
 
-Tuottoja ajavien faktorien jonkin verran lukumäärää voi arvioida satunnaismatriisien teorian avulla. Tämän blogin tulosten mukaan Nasdaq Helsinki:in listattujen osakkeiden tuottoja ajaa vain viisi lineaarista faktoria.
+Osaketuottoja ajavien faktorien lukumäärää voi arvioida satunnaismatriisien teorian avulla. Tämän blogin tulosten mukaan Nasdaq Helsinki:in listattujen osakkeiden tuottoja ajaa vain viisi lineaarista faktoria. Näistä tärkein on markkinariski. Seuraavina faktoreina ovat pienten yhtiöiden preemio ja arvoyhtiösijoittaminen. 
 
 1 Helsingin Pörssissä listatut osakkeet
 ===
@@ -143,7 +143,7 @@ Faktori näyttää painottavan suuria, arvokkaita yhtiöitä. Rajana tässä on 
 ![Faktorien tulkinta markkina-arvon mukaan](/images/eigen/marketcap2.png)<br>
 _Kuvio. Faktorin kaksi painot jaoteltuna yrityksen markkina-arvon mukaan (yli vai alle 1 mrd euroa). Siniset positiivisia, oranssit negatiivisia._
 
-6.3 Faktori 3
+6.3 Faktori 3 eli arvosijoittaminen
 ==
 
 Kolmas faktori kuvaa Long-Short -strategiaa, jossa osaan kohteista sijoitetaan (long), osaa myydään (short).
