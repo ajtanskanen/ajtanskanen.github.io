@@ -192,5 +192,5 @@ _Kuvio 4. Faktorin viisi painojen etumerkit sektoreittain. Siniset positiivisia,
 7 Yhteenveto
 ===
 
-Muutama faktori on vastuussa suuresta osasta osakeindeksin tuottoa. Tämän tutkimuksen mukaan Helsingin Pörssin NASDAQ Helsinki -indeksin tuottoja ajaa vain viisi faktoria.
+Muutama faktori on vastuussa suuresta osasta osakeindeksin tuottoa. Tämän tutkimuksen mukaan Helsingin Pörssin NASDAQ Helsinki -indeksin tuottoja ajaa vain viisi faktoria. Tärkein faktori on markkinariski. Seuraavaksi tärkein faktori on kokofaktori, jonka mukaan vuosina 2015-2025 pienet yhtiöt ovat tuottaneet huonommin kuin suuret. Kolmas faktori on arvoyhtiöiden tuotto. Neljäs ja viides faktori jäävät tässä blogissa ilman selkeää selitystä.
   
