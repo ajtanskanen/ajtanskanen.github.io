@@ -59,15 +59,17 @@ Heidät havaintojensa mukaan noin 94 prosenttia ominaisarvoista jakautui Pastur-
 
 Mitä Pastur-Marchenko -teoreema sitten tarkoittaa? Sen voi tulkita tarkoittavan, että suurin osa korrelaatiomatriisista on kohinaa ja että vain muutama lineaarinen faktori ajaa osaketuottoja. Tämä ei tarkoita, ettei tuottoja voisi ajaa jokin ei-lineaarinen tekijä, mutta PCA ei sellaista löytäisi. 
 
+![Ominaisarvot](/images/eigen/pm_vs_data.png)<br>
+_Kuvio 3. Pastur-Marchenko -jakauma verrattuna osaketuottojen korrelaatiomatriisin ominaisarvojen tiheyteen._
+
+Kuvion 3 sovitteen mukaan ainoastaan ominaisarvot yli 1,37 poikkeavat kohinasta. Tällaisia on 5 kappaletta.
+
 5 Montako faktoria ajaa Helsingin osakkeiden tuottoja? 
 ===
 
 Pastur-Marchenko-teoreemassa ainoat parametrit ovat keskihajonta $s$ ja osakkeiden lukumäärän $N$ ja havaintojen lukumäärän $M$ suhde N/M. Pastur-Marchenko kuitenkin olettaa, että havainnot ovat toisistaan riippumattomia ajallisesti. Näinhän ei ole. Siksi efektiivinen havaintojen lukumäärä $M^\dagger$ on pienempi kuin havaintojen todellinen lukumäärä $M$. Tässä tutkimuksessa suhteena käytettiin $M^\dagger = 0,4M$.
 
 Suurin ominaisarvo vastaa suurimman varianssi portfoliota, jossa painot vastaavat ominaisvektorin alkioita. Näin tulkittuna OMXH:ssa on viisi merkitsevää toisistaan riippumatonta faktoria, muut varianssin lähteet ovat kohinaa. 
-
-![Ominaisarvot](/images/eigen/pm_vs_data.png)<br>
-_Kuvio 3. Pastur-Marchenko -jakauma verrattuna osaketuottojen korrelaatiomatriisin ominaisarvojen tiheyteen._
 
 Ensimmäisillä 5:llä faktorilla selittyy osakekurssien heilunnasta 24 prosenttia. Tämä on melko vähän. Tästä huolimatta muutama faktori riittää tuottamaan alkuperäistä aikasarjaa vastaavan tuottoaikasarjan (Kuvio 1).
 Satunnaismatriisien teorian mukaan vain muutama ominaisarvo on merkitsevä, loppuja ei voi erottaa kohinasta. 
@@ -121,10 +123,12 @@ _Kuvio. Faktorin yksi painojen etumerkit sektoreittain. Siniset positiivisia, or
 ![Faktorien tulkinta sektorien mukaan](/images/eigen/marketcapfig_comparison.png)<br>
 _Kuvio. Faktorin yksi skaalatut salkkupainot verrattuna markkinarvoihin mukaisiin painoihin ja vakioallokaatioon._
 
+Faktorin ominaisarvo on 16,15, kun ominaisarvojen keskiarvo on 1,0. Pastur-Marchenko -jakauman antama raja on 1,37, joten faktoria vastaava ominaisarvo on yli 11-kertainen.
+
 6.2 Faktori 2 eli shortattu pienten yhtiöiden preemio
 ==
 
-Toinen faktori onkin sitten epäselvempi. Siinä painojen etumerki vaihtelee, joten kyse on Long-Short -strategiasta.
+Toinen faktori onkin sitten epäselvempi. Siinä painojen etumerkki vaihtelee, joten kyse on Long-Short -strategiasta.
 Siinä keskipaino on selvästi negatiivinen, noin -0,023 (Taulukko 2).
 
 Toisessa faktorissa paino on negatiivinen suurammissa osassa osakkeista.
@@ -138,10 +142,12 @@ Sektoreista kuitenkin yleishyödylliset palvelut (6510), pankit (4010), kemikaal
 ![Faktorien tulkinta sektorien mukaan](/images/eigen/factor2.png)<br>
 _Kuvio. Faktorin kaksi painojen etumerkit sektoreittain. Siniset positiivisia, oranssit negatiivia._
 
-Faktori näyttää painottavan suuria, arvokkaita yhtiöitä. Rajana tässä on markkina-arvo yli yksi miljardi euroa. Faktori lienee lähellää [Fama-Frenchin](https://en.wikipedia.org/wiki/Fama%E2%80%93French_three-factor_model) SMB-faktoria, joka kuvaa pienten yhtiöiden ylituottoa verrattuna suuriin yhtiöihin. Tässä tosin eri etumerkki kertoo, että SMB-faktoria shortataan.
+Faktori näyttää painottavan suuria, arvokkaita yhtiöitä. Rajana tässä on markkina-arvo yli yksi miljardi euroa. Faktori lienee lähellä [Fama-Frenchin](https://en.wikipedia.org/wiki/Fama%E2%80%93French_three-factor_model) SMB-faktoria, joka kuvaa pienten yhtiöiden ylituottoa verrattuna suuriin yhtiöihin. Tässä tosin on eri etumerkki, mikä kertoo että faktoria shortataan.
 
 ![Faktorien tulkinta markkina-arvon mukaan](/images/eigen/marketcap2.png)<br>
 _Kuvio. Faktorin kaksi painot jaoteltuna yrityksen markkina-arvon mukaan (yli vai alle 1 mrd euroa). Siniset positiivisia, oranssit negatiivisia._
+
+Faktoria vastaava ominaisarvo on 2,45.
 
 6.3 Faktori 3 eli arvoyhtiöpreemio
 ==
@@ -153,6 +159,9 @@ Keskimääräinen paino on lähes nolla (Taulukko 2). Vastaavan kolmannen PCA-fa
 Entä mihin kohteisiin kolmas faktori sijoittaa? 
 Faktori kolme painottaa vahvasti arvo-osakkeita. Se ei täysin selitä faktoria, mutta kertoo painotuksen.
 
+Tässä arvo-osakkeeksi on määritelty osake, jonka eteenpäin katsova PE-suhde on korkeintaan 20, Price-to-Book korkeintaan 25, 
+ja trailing EPS vähintään 0,1 %. Valintut aikasarjat johtuvat lähinnä saatavilla olleesta datasta.
+
 |    |   ACG1V |   AFAGR |   AKTIA |   ALBAV |   ALBBV |   ALMA |   APETIT |   ASPO |   ATRAV |   BIOBV |   BITTI |   BOREO |   CAPMAN |   CTH1V |   CTY1S |   DIGIA |   DIGIGR |   DOV1V |   ELEAV |   ELISA |   ENENTO |   EQV1V |   ETTE |   EXL1V |   FORTUM |   FSKRS |   GLA1V |   HONBS |   HUH1V |   ICP1V |   ILKKA2 |   INVEST |   KCR |   KELAS |   KEMIRA |   KESKOA |   KESKOB |   KNEBV |   LAT1V |   LINDEX |   MARAS |   MEKKO |   METSA |   METSB |   METSO |   NESTE |   NLG1V |   NOHO |   NOKIA |   OLVAS |   ORNAV |   ORNBV |   OUT1V |   OVARO |   PIHLIS |   PNA1V |   PON1V |   QPR1V |   RAIVV |   RAP1V |   RAUTE |   REBL |   REG1V |   REKA |   ROBIT |   SAGCV |   SAMPO |   SANOMA |   SCANFL |   SIILI |   SOLTEQ |   SOSI1 |   SRV1V |   SSH1V |   STEAV |   STERV |   SUY1V |   TAALA |   TELIA1 |   TEM1V |   TIETO |   TLT1V |   TNOM |   TRH1V |   TULAV |   TYRES |   UNITED |   UPM |   VAIAS |   VALMT |   VERK |   VIK1V |   WETTERI |   WITH |   WRT1V |   WUF1V |   YIT |
 |---:|----------:|------------:|----------:|------------:|-----------:|---------:|----------:|----------:|-----------:|----------:|-----------:|----------:|----------:|----------:|-----------:|----------:|----------:|-----------:|----------:|----------:|---------:|-----------:|-----------:|----------:|-----------:|-----------:|----------:|----------:|-----------:|----------:|-----------:|-----------:|---------:|----------:|----------:|----------:|----------:|----------:|------------:|----------:|-----------:|------------:|----------:|---------:|----------:|-------------:|---------:|----------:|-----------:|-----------:|----------:|----------:|----------:|----------:|------------:|----------:|----------:|----------:|-----------:|----------:|----------:|----------:|----------:|-----------:|----------:|---------:|-----------:|----------:|----------:|-------------:|------------:|---------:|----------:|------------:|---------:|---------:|-----------:|---------:|----------:|----------:|-----------:|---------:|------------:|----------:|----------:|----------:|----------:|---------:|-----------:|----------:|----------:|----------:|----------:|-----------:|----------:|----------:|----------:|
 |  Arvot | 0,0383032 | -0,00886664 | 0,0148879 | -0,00219741 | 0,00526766 | 0,033932 | 0,0462158 | 0,0639568 | 0,00291229 | 0,0321859 | 0,00365783 | 0,0464083 | -0,027005 | 0,0130993 | 0,00159199 | 0,0469896 | 0,0314603 | 0,00632941 | 0,0142583 | -0,239012 | 0,022324 | -0,0240161 | 0,00447637 | 0,0201527 | 0,00401227 | -0,0311855 | 0,0594066 | 0,0538222 | -0,0153789 | 0,0382594 | -0,0529391 | 0,00640041 | 0,061787 | 0,0122126 | 0,0229221 | -0,297551 | -0,292541 | -0,129453 | -0,00232405 | 0,0136942 | -0,0127959 | -0,00386063 | 0,0817746 | 0,129496 | 0,0793578 | -0,000259022 | 0,047476 | 0,0587609 | 0,00216131 | -0,0584443 | -0,509304 | -0,511751 | 0,0987671 | 0,0518446 | -0,00548708 | 0,0295989 | 0,0179439 | 0,0214282 | -0,0465378 | 0,0139097 | 0,0843017 | 0,0577647 | -0,100528 | 0,00334922 | 0,0591576 | 0,074452 | 0,00690699 | -0,079287 | 0,0257852 | -0,000429284 | 0,000300366 | 0,041237 | 0,0463542 | -0,00928066 | 0,132362 | 0,145164 | -0,0558764 | 0,049348 | -0,081919 | 0,0155175 | -0,0621808 | 0,110073 | -0,00593215 | 0,0454056 | 0,0416298 | 0,0449474 | 0,0316188 | 0,108314 | -0,0633271 | 0,0268522 | 0,0350287 | 0,0142398 | 0,0449774 | -0,0421315 | 0,0393237 | 0,0349904 | 0,0368445 |
@@ -163,11 +172,12 @@ _Kuvio. Faktorin kolme painojen etumerkit sektoreittain. Siniset positiivisia, o
 ![Arvo/Kasvu -erottelu](/images/eigen/GV_plot.png)<br>
 _Kuvio. Faktorin kolme painojen etumerkit arvo/kasvu-erottelulla. Siniset positiivisia, oranssit negatiivia._
 
+Kolmatta faktoria vastaava ominaisarvo on 1,95. Se ylittää selvästi sovitetun Pastur-Marchenko -jakauman antaman rajan 1,37.
 
 6.4 Faktori 4
 ==
 
-Neljäs faktori onkin sitten epäselvempi.
+Neljännen faktorin tulkinta onkin sitten epäselvempi.
 
 |    |   ACG1V |   AFAGR |   AKTIA |   ALBAV |   ALBBV |   ALMA |   APETIT |   ASPO |   ATRAV |   BIOBV |   BITTI |   BOREO |   CAPMAN |   CTH1V |   CTY1S |   DIGIA |   DIGIGR |   DOV1V |   ELEAV |   ELISA |   ENENTO |   EQV1V |   ETTE |   EXL1V |   FORTUM |   FSKRS |   GLA1V |   HONBS |   HUH1V |   ICP1V |   ILKKA2 |   INVEST |   KCR |   KELAS |   KEMIRA |   KESKOA |   KESKOB |   KNEBV |   LAT1V |   LINDEX |   MARAS |   MEKKO |   METSA |   METSB |   METSO |   NESTE |   NLG1V |   NOHO |   NOKIA |   OLVAS |   ORNAV |   ORNBV |   OUT1V |   OVARO |   PIHLIS |   PNA1V |   PON1V |   QPR1V |   RAIVV |   RAP1V |   RAUTE |   REBL |   REG1V |   REKA |   ROBIT |   SAGCV |   SAMPO |   SANOMA |   SCANFL |   SIILI |   SOLTEQ |   SOSI1 |   SRV1V |   SSH1V |   STEAV |   STERV |   SUY1V |   TAALA |   TELIA1 |   TEM1V |   TIETO |   TLT1V |   TNOM |   TRH1V |   TULAV |   TYRES |   UNITED |   UPM |   VAIAS |   VALMT |   VERK |   VIK1V |   WETTERI |   WITH |   WRT1V |   WUF1V |   YIT |
 |---:|-----------:|-----------:|----------:|----------:|-----------:|-----------:|-----------:|-----------:|-----------:|-----------:|-----------:|----------:|------------:|-----------:|----------:|-----------:|-----------:|----------:|-----------:|---------:|----------:|----------:|-----------:|------------:|----------:|----------:|-----------:|----------:|----------:|----------:|-----------:|-------------:|----------:|-----------:|-----------:|---------:|---------:|---------:|----------:|----------:|-----------:|----------:|----------:|----------:|-----------:|---------:|----------:|-----------:|-----------:|---------:|----------:|----------:|-----------:|-----------:|-----------:|----------:|-----------:|----------:|----------:|------------:|------------:|-----------:|----------:|-----------:|-----------:|-----------:|----------:|----------:|-----------:|----------:|----------:|-----------:|-----------:|-----------:|----------:|----------:|-----------:|----------:|-----------:|----------:|----------:|-----------:|----------:|-----------:|-----------:|---------:|----------:|----------:|-----------:|----------:|-----------:|-----------:|----------:|-----------:|----------:|----------:|-----------:|
@@ -176,10 +186,13 @@ Neljäs faktori onkin sitten epäselvempi.
 ![Faktorien tulkinta sektorien mukaan](/images/eigen/factor4.png)<br>
 _Kuvio. Faktorin neljä painojen etumerkit sektoreittain. Siniset positiivisia, oranssit negatiivia._
 
+Neljättä faktoria vastaava ominaisarvo on 1,61. Se ylittää selvästi sovitetun Pastur-Marchenko -jakauman antaman rajan 1,37.
+
+
 6.5 Faktori 5
 ==
 
-Viides faktori onkin sitten epäselvempi. Sen etumerkit jakautuvat tasaisesti sektorien sisällä, joten se tuskin liittyy juurikaan sektorijakoon. Keskiarvopaino on hieman positiivinen, 0,0063. Keskihajonta on viidestä faktorista toiseksi suurin, 0,1013. Faktorin merkitys on vähäisempi kuin neljän muun faktorin, joten sitä emme tutki enempää.
+Viides faktori on myös melko epäselvä. Sen etumerkit jakautuvat tasaisesti sektorien sisällä, joten se tuskin liittyy juurikaan sektorijakoon. Keskiarvopaino on hieman positiivinen, 0,0063. Keskihajonta on viidestä faktorista toiseksi suurin, 0,1013. Faktorin merkitys on vähäisempi kuin neljän muun faktorin, joten sitä emme tutki enempää.
 
 |    |   ACG1V |   AFAGR |   AKTIA |   ALBAV |   ALBBV |   ALMA |   APETIT |   ASPO |   ATRAV |   BIOBV |   BITTI |   BOREO |   CAPMAN |   CTH1V |   CTY1S |   DIGIA |   DIGIGR |   DOV1V |   ELEAV |   ELISA |   ENENTO |   EQV1V |   ETTE |   EXL1V |   FORTUM |   FSKRS |   GLA1V |   HONBS |   HUH1V |   ICP1V |   ILKKA2 |   INVEST |   KCR |   KELAS |   KEMIRA |   KESKOA |   KESKOB |   KNEBV |   LAT1V |   LINDEX |   MARAS |   MEKKO |   METSA |   METSB |   METSO |   NESTE |   NLG1V |   NOHO |   NOKIA |   OLVAS |   ORNAV |   ORNBV |   OUT1V |   OVARO |   PIHLIS |   PNA1V |   PON1V |   QPR1V |   RAIVV |   RAP1V |   RAUTE |   REBL |   REG1V |   REKA |   ROBIT |   SAGCV |   SAMPO |   SANOMA |   SCANFL |   SIILI |   SOLTEQ |   SOSI1 |   SRV1V |   SSH1V |   STEAV |   STERV |   SUY1V |   TAALA |   TELIA1 |   TEM1V |   TIETO |   TLT1V |   TNOM |   TRH1V |   TULAV |   TYRES |   UNITED |   UPM |   VAIAS |   VALMT |   VERK |   VIK1V |   WETTERI |   WITH |   WRT1V |   WUF1V |   YIT |
 |---:|----------:|-----------:|-----------:|----------:|------------:|----------:|----------:|----------:|----------:|-----------:|-----------:|---------:|-----------:|-----------:|-----------:|-----------:|----------:|----------:|---------:|----------:|----------:|----------:|----------:|----------:|-----------:|-----------:|-----------:|----------:|----------:|-----------:|-----------:|---------:|----------:|------------:|----------:|---------:|---------:|-----------:|---------:|----------:|------------:|-----------:|---------:|---------:|----------:|----------:|--------:|-----------:|-----------:|----------:|-----------:|-----------:|-----------:|---------:|----------:|----------:|-----------:|-----------:|----------:|----------:|---------:|----------:|----------:|----------:|-----------:|----------:|-----------:|-----------:|-----------:|----------:|----------:|-----------:|------------:|--------:|---------:|---------:|----------:|----------:|-----------:|----------:|----------:|----------:|------------:|----------:|---------:|-----------:|-----------:|---------:|-----------:|----------:|-----------:|----------:|-----------:|-----------:|----------:|--------:|----------:|
@@ -187,6 +200,8 @@ Viides faktori onkin sitten epäselvempi. Sen etumerkit jakautuvat tasaisesti se
 
 ![Faktorien tulkinta sektorien mukaan](/images/eigen/factor5.png)<br>
 _Kuvio 4. Faktorin viisi painojen etumerkit sektoreittain. Siniset positiivisia, oranssit negatiivia._
+
+Viidettä faktoria vastaava ominaisarvo on 1,41, kun sovitetun Pastur-Marchenko -jakauman antama raja on 1,37. Viides faktori on tällä kriteerillä arvioiden melko huonosti selitysvoimainen.
 
 
 7 Yhteenveto
