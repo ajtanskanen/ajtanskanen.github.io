@@ -22,7 +22,19 @@ Toinen mahdollinen tapa käsitellä suomalaisia olisi tarkastella vain tämän h
 2 Kuolevatko suomalaiset sukupuuttoon?
 ===
 
-![Väestöennuste](images/demog/2025/baseline1252_28000.gif)
+Suomalaistaustaiset eivät ole kuolemassa sukupuuttoon nykyiselläkään syntyvyydellä. 
+
+![Väestöennuste](/images/demog/2025/baseline1252_28000.gif)
+
+Entä sitten nykyiset suomalaistaustaiset ja heidän jälkeläisensä? Tässä tapauksessa kuva on synkempi
+
+![Väestöennuste](/images/demog/2025/current1252_0.gif)
+
+Mutta edelleenkään suomalaiset eivät ole kuolemassa sukupuuttoon. 
+
+Lisätään synkkyyttä pari naksua. Oletetaan, että kokonaishedelmällisyysluku jatka pienentymistään kohti nollaa nykyisellä tahdilla.
+
+![Väestöennuste](/images/demog/2025/dystopic1252_0.gif)
 
 3 Epävarmuus ennusteessa
 ===
@@ -30,7 +42,7 @@ Toinen mahdollinen tapa käsitellä suomalaisia olisi tarkastella vain tämän h
 Yksi tapa lähestyä väestöennusteiden epävarmuutta, on tarkastella, mikä osuus ennusteen väestöstä on puhtaasti arvioitua ja mikä on elää jo nyt. 
 
 
-3 Johtopäätökset
+4 Johtopäätökset
 ===
 
 Stokastiikan lisääminen väestöennusteisiin lisää niiden uskottavuutta. Se ei silti välttämättä pysty huomioimaan trendeissä tapahtuvia muutoksia täysimääräisesti. Jo epävarmuuden parempi ymmärtäminen kuitenkin olisi arvokas asia sinänsä.
