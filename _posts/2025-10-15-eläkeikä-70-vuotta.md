@@ -58,19 +58,19 @@ Laskelmassa oletamme, että joustava eläkeikä on väli 70-71 vuotta, sairausp�
 | Disabled           |               280,815 |          155,072 |     125,743 |
 | :----------------: | :-------------------: | ---------------: | ----------: |
 
-_Taulukko 3. Henkilövuosia töissä väestötasolla._
+_Taulukko 1. Henkilövuosia töissä väestötasolla._
 
 Eläkeiän nostaminen 70:een vuoteen vaikuttaisi työntekoon. Verrrattuna nykytilanteeseen, eläkeiän nopea nosto kasvattaisi ikääntyneiden työllisyyttä. Työllisiä olisi mallissa noin 100 000 enemmän ja vanhuuseläkeläisiä 360 tuhatta vähemmän kuin nykytilassa. Työkyvyttömyyseläkeläisiä olisi 125 000 enemmän. 
 
 ![Väestöennuste](/images/lifecycle/2025/2024r70_comparison.png)<br>
 _Kuvio 2. Verrataan työllisyysastetta nykymallissa ja 70-vuoden eläkeikämallissa._
 
-Se myös kasvattaisi reippaasti työttömyyttä, varsinkin ikääntyneillä. Työttömyys kuitenkin samalla siirtyisi nykyistä enemmän lähemmäs 70 ikävuotta. Mallinnuksessa vanhuuseläkeiällä on vahva signaalivaikutus, mikä osin selittää tuloksia.
+Se myös kasvattaisi reippaasti työttömyyttä ikääntyneillä. Työttömyys kuitenkin samalla siirtyisi nykyistä enemmän lähemmäs 70 ikävuotta. Mallinnuksessa vanhuuseläkeiällä on vahva signaalivaikutus, mikä osin selittää tuloksia. Lisäksi tuloksiin vaikuttaa voimakkaasti osittainen varhennettu vanhuuseläke, joka tässä laskelmassa on nostettu 65 ikävuoteen. Työttömyysputkeen laskelmassa pääsee 68 vuotiaana, mikä myös vaikuttaa utloksiin.
 
 ![Väestöennuste](/images/lifecycle/2025/unemp.png)<br>
 _Kuvio 3. Verrataan työllisyysasteita ikäluokittain nykymallissa ja 70-vuoden eläkeikämallissa._
 
-Ja samalla tavalla työkyvyttömyys kasvaisi eläkeiän noston vuoksi.
+Työkyvyttömyys kasvaisi eläkeiän noston vuoksi merkittävästi. Yli kolmannes 65 vuotta täyttäneistä päätyisi työkyvyttömyyseläkkeelle ennen 70 vuoden vanhuuseläkeiän täyttämistä.
 
 ![Väestöennuste](/images/lifecycle/2025/disability.png)<br>
 _Kuvio 4. Työkyvyttömäksi joutuneiden osuus ikäluokittain nykymallissa ja 70-vuoden eläkeikämallissa._
