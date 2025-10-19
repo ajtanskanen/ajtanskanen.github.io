@@ -2,6 +2,7 @@
 title: 'Kuolevatko suomalaiset sukupuuttoon?'
 date: 2025-10-05
 permalink: /posts/2025/10/sukupuuttoon/
+hidden: true
 summary: 'Blogi | Synkimmissä ennusteissa suomalaisten väitetään kuolevan sukupuuttoon. Onko tämä faktaa vai liioittelua? Blogissa analysoidaan, onko tämä totta. Niin kaksikätisillä ekonomisteilla on tapana sanoa, asiassa on monta puolta. Yhtäältä väite on selvää liioittelua, toisaalta asiaa voidaan katsoa etnonationalistisesta näkökulmasta, jolloin siinä saattaa olla jotain perää.'
 tags:
   - väestöennuste
