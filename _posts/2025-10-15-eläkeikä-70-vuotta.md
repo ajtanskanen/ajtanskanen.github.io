@@ -10,6 +10,8 @@ tags:
   - työeläke
 ---
 
+Mitä tapahtuisi, jos vanhuuseläkeikä nostettaisiin 70 vuoteen?
+
 1 Eläkeikä
 ===
 
