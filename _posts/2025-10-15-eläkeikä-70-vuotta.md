@@ -10,8 +10,6 @@ tags:
   - työeläke
 ---
 
-Taustaa
-
 1 Eläkeikä
 ===
 
@@ -48,9 +46,9 @@ Laskelmassa oletamme, että joustava eläkeikä on väli 70-71 vuotta, sairausp�
 4.1 Työnteko
 ==
 
-+--------------------+-----------------+-----------------+-------------+
+|:----------------------------------------------:|:--------------------:|:--------------------:|:-------------------:|
 |                    |   Eläkeikä 70 v (htv) |   Nykytila (htv) |   Ero (htv) |
-|--------------------+-----------------+-----------------+-------------|
+|:----------------------------------------------:|:--------------------:|:--------------------:|:-------------------:|
 | Töissä 18-62     |       2,001,538 |       1,988,722 |      12,817 |
 | Töissä           |       2,200,147 |       2,090,101 |     110,046 |
 | Töissä 63+       |         198,608 |         101,379 |      97,229 |
@@ -58,7 +56,6 @@ Laskelmassa oletamme, että joustava eläkeikä on väli 70-71 vuotta, sairausp�
 | osa-aikatyö     |         313,806 |         235,588 |      78,218 |
 | kokoaikatyö     |       1,886,341 |       1,854,513 |      31,828 |
 | Disabled               |        280,815 |        155,072 |    125,743 |
-+--------------------+-----------------+-----------------+-------------+
 _Taulukko 3. Henkilövuosia töissä väestötasolla._
 
 Eläkeiän nostaminen 70:een vuoteen vaikuttaisi työntekoon. Verrrattuna nykytilanteeseen, eläkeiän nopea nosto kasvattaisi ikääntyneiden työllisyyttä. Työllisiä olisi mallissa noin 100 000 enemmän ja vanhuuseläkeläisiä 360 tuhatta vähemmän kuin nykytilassa. Työkyvyttömyyseläkeläisiä olisi 125 000 enemmän. 
@@ -102,7 +99,6 @@ Taulukon 1 mukaan palkkasumma kasvaisi 7,8 miljardia euroa vuodessa. Muutos olis
 | Verot ja veronluonteiset maksut              |  91,302,544,403.93 |  83,024,163,147.43 |  8,278,381,256.50 |
 | Julkinen talous, netto                       |  34,731,242,321.50 |  33,507,769,448.07 |  1,223,472,873.43 |
 | Kotitalouksien nettotulot                    | 104,644,593,662.75 |  97,664,975,231.24 |  6,979,618,431.51 |
-|:----------------------------------------------:|:--------------------:|:--------------------:|:-------------------:|
 _Taulukko 2. Etuuslajeittainen erottelu tuloksista._
 
 |:----------------------------------------------:|:--------------------:|:--------------------:|:-------------------:|
@@ -119,7 +115,6 @@ _Taulukko 2. Etuuslajeittainen erottelu tuloksista._
 | Kansaneläkemeno                              |   1,448,743,877.42 |   1,917,572,155.06 |   -468,828,277.64 |
 | Takuueläke                                   |     426,033,175.10 |     502,917,918.61 |    -76,884,743.51 |
 | Eläkkeet, yhteensä                           |  43,718,066,523.24 |  37,237,289,014.18 |  6,480,777,509.06 |
-|:----------------------------------------------:|:--------------------:|:--------------------:|:-------------------:|
 _Taulukko 3. Etuuslajeittainen erottelu tuloksista._
 
 
