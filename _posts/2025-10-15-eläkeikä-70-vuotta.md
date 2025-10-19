@@ -2,8 +2,8 @@
 title: 'Eläkeikä 70 vuoteen kerralla'
 date: 2025-10-15
 permalink: /posts/2025/10/elakeika-70-vuotta/
-hidden: true
 summary: 'Blogi | Eläkeiän nostoa 70 ikävuoteen on esitetty tehtäväksi kerralla. Blogissa analysoidaan elinkaarimallilla tällaisen muutoksen seuraukset.'
+hidden: true
 tags:
   - väestöennuste
   - syntyvyys
