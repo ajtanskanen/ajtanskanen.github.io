@@ -49,13 +49,13 @@ Laskelmassa oletamme, että joustava eläkeikä on väli 70-71 vuotta, sairausp�
 |:----------------------------------------------:|:--------------------:|:--------------------:|:-------------------:|
 |                    |   Eläkeikä 70 v (htv) |   Nykytila (htv) |   Ero (htv) |
 |:----------------------------------------------:|:--------------------:|:--------------------:|:-------------------:|
-| Töissä 18-62     |       2,001,538 |       1,988,722 |      12,817 |
-| Töissä           |       2,200,147 |       2,090,101 |     110,046 |
-| Töissä 63+       |         198,608 |         101,379 |      97,229 |
-| Töissä & eläke |          11,483 |          31,898 |     -20,415 |
-| osa-aikatyö     |         313,806 |         235,588 |      78,218 |
-| kokoaikatyö     |       1,886,341 |       1,854,513 |      31,828 |
-| Disabled               |        280,815 |        155,072 |    125,743 |
+| Töissä 18-62       |       2,001,538 |       1,988,722 |      12,817 |
+| Töissä             |       2,200,147 |       2,090,101 |     110,046 |
+| Töissä 63+         |         198,608 |         101,379 |      97,229 |
+| Töissä & eläke     |          11,483 |          31,898 |     -20,415 |
+| osa-aikatyö        |         313,806 |         235,588 |      78,218 |
+| kokoaikatyö        |       1,886,341 |       1,854,513 |      31,828 |
+| Disabled           |         280,815 |         155,072 |      125,743 |
 _Taulukko 3. Henkilövuosia töissä väestötasolla._
 
 Eläkeiän nostaminen 70:een vuoteen vaikuttaisi työntekoon. Verrrattuna nykytilanteeseen, eläkeiän nopea nosto kasvattaisi ikääntyneiden työllisyyttä. Työllisiä olisi mallissa noin 100 000 enemmän ja vanhuuseläkeläisiä 360 tuhatta vähemmän kuin nykytilassa. Työkyvyttömyyseläkeläisiä olisi 125 000 enemmän. 
@@ -79,26 +79,26 @@ _Kuvio 4. Työkyvyttömäksi joutuneiden osuus ikäluokittain nykymallissa ja 70
 Taulukon 1 mukaan palkkasumma kasvaisi 7,8 miljardia euroa vuodessa. Muutos olisi merkittävä. Suhteellisesti eniten kasvaisi osa-aikatyö. Julkinen talous vahvistuisi nettona noin 2 miljardia euroa vuodessa ja kotitalouksien tulot kasvaisiva keskipitkällä aikavälillä merkittävästi. Tätä selittää erityisesti se, että eläkkeet olisivat suuremmat kahdesta syystä: elinaikakerroin lievenisi merkittävästi ja myös karttuma kasvaisi työurien pidentyessä. Tämä hyödyttäisi eläkejärjestelmää lyhyellä aikavälillä, mutta pitkällä aikavälillä eläkemeno kasvaisi merkittävästi.
 
 |:----------------------------------------------:|:--------------------:|:--------------------:|:-------------------:|
-|                                              |  Eläkeikä 70 (e/y) |     Nykytila (e/y) |         ero (e/y) |
+|                                                |    Eläkeikä 70 (e/y) |     Nykytila (e/y) |         ero (e/y) |
 |:----------------------------------------------:|:--------------------:|:--------------------:|:-------------------:|
-| palkkasumma                                     | 114,347,703,563.98 | 107,739,422,627.94 |  6,608,280,936.04 |
-| palkkasumma, ei eläkkeellä                        | 113,850,963,864.45 | 106,103,272,037.90 |  7,747,691,826.55 |
-| palkkasumma, eläkkeellä                            |     496,739,699.53 |   1,636,150,590.04 | -1,139,410,890.51 |
-| palkkasumma, osa-aikatyö                           |  14,341,010,138.48 |  10,476,766,521.18 |  3,864,243,617.30 |
-| palkkasumma, kokoaikatyö                           | 100,006,693,425.51 |  97,262,656,106.76 |  2,744,037,318.74 |
+| palkkasumma                                    |   114,347,703,563.98 | 107,739,422,627.94 |  6,608,280,936.04 |
+| palkkasumma, ei eläkkeellä                     |   113,850,963,864.45 | 106,103,272,037.90 |  7,747,691,826.55 |
+| palkkasumma, eläkkeellä                        |       496,739,699.53 |   1,636,150,590.04 | -1,139,410,890.51 |
+| palkkasumma, osa-aikatyö                       |    14,341,010,138.48 |  10,476,766,521.18 |  3,864,243,617.30 |
+| palkkasumma, kokoaikatyö                       |   100,006,693,425.51 |  97,262,656,106.76 |  2,744,037,318.74 |
 |:----------------------------------------------:|:--------------------:|:--------------------:|:-------------------:|
-| Valtion ansiotulovero                        |  22,627,995,114.03 |  19,183,881,504.40 |  3,444,113,609.63 |
-| Kunnallisvero                                |  10,277,902,789.26 |   8,945,826,445.95 |  1,332,076,343.31 |
-| YLE-vero                                     |     597,974,327.19 |     551,422,419.26 |     46,551,907.93 |
-| Työntekijän eläkemaksu                       |   8,436,303,210.08 |   8,117,284,020.22 |    319,019,189.86 |
+| Valtion ansiotulovero                          |    22,627,995,114.03 |  19,183,881,504.40 |  3,444,113,609.63 |
+| Kunnallisvero                                  |    10,277,902,789.26 |   8,945,826,445.95 |  1,332,076,343.31 |
+| YLE-vero                                       |       597,974,327.19 |     551,422,419.26 |     46,551,907.93 |
+| Työntekijän eläkemaksu                         |     8,436,303,210.08 |   8,117,284,020.22 |    319,019,189.86 |
 |:----------------------------------------------:|:--------------------:|:--------------------:|:-------------------:|
-| Työnantajamaksut, eläkkeet                   |  20,475,436,817.48 |  19,432,293,790.86 |  1,043,143,026.63 |
-| Työnantajamaksut, yhteensä                   |  24,614,823,686.50 |  23,332,460,889.99 |  1,282,362,796.51 |
+| Työnantajamaksut, eläkkeet                     |  20,475,436,817.48 |  19,432,293,790.86 |  1,043,143,026.63 |
+| Työnantajamaksut, yhteensä                     |  24,614,823,686.50 |  23,332,460,889.99 |  1,282,362,796.51 |
 |:----------------------------------------------:|:--------------------:|:--------------------:|:-------------------:|
-| ALV                                          |  21,356,171,461.30 |  19,763,242,195.55 |  1,592,929,265.75 |
-| Verot ja veronluonteiset maksut              |  91,302,544,403.93 |  83,024,163,147.43 |  8,278,381,256.50 |
-| Julkinen talous, netto                       |  34,731,242,321.50 |  33,507,769,448.07 |  1,223,472,873.43 |
-| Kotitalouksien nettotulot                    | 104,644,593,662.75 |  97,664,975,231.24 |  6,979,618,431.51 |
+| ALV                                            |  21,356,171,461.30 |  19,763,242,195.55 |  1,592,929,265.75 |
+| Verot ja veronluonteiset maksut                |  91,302,544,403.93 |  83,024,163,147.43 |  8,278,381,256.50 |
+| Julkinen talous, netto                         |  34,731,242,321.50 |  33,507,769,448.07 |  1,223,472,873.43 |
+| Kotitalouksien nettotulot                      | 104,644,593,662.75 |  97,664,975,231.24 |  6,979,618,431.51 |
 _Taulukko 2. Etuuslajeittainen erottelu tuloksista._
 
 |:----------------------------------------------:|:--------------------:|:--------------------:|:-------------------:|
