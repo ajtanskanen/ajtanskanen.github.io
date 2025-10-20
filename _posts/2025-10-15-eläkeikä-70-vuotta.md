@@ -18,15 +18,22 @@ Mitä tapahtuisi, jos vanhuuseläkeikä nostettaisiin 70 vuoteen?
 Vuonna 1962 syntyneille alin eläkeikä on 65 vuotta. Ikä, jonka jälkeen palkkatuloja ei tarvitse vakuuttaa, on tänä vuonna 70 vuotta. 
 Eläkeikä riippuu Suomen työeläkejärjestelmässä ikäluokasta. Tavoitteena on pitää työssäoloajan ja eläkkeelläoloajan suhde vakiona. Käytännössä tämä tarkoittaa, että eläkeikä on kytketty elinajanodotteeseen, mutta ei suinkaan täysimääräisesti.
 
-Elinaikakertoimella pidetään eri ikäluokkien saamien yksikköeläkkeiden eläke-etuudet pääoma-arvolta saman suuruisina. Tässä logiikkana on se, että pidempi eläkkeelläoloaika pienentää eläkettä, jolloin pääoma-arvo on sama.
+Elinaikakertoimella pidetään eri ikäluokkien saamien yksikköeläkkeiden eläke-etuudet pääoma-arvot samana. Tässä logiikkana on se, että pidempi eläkkeelläoloaika pienentää kuukausieläkettä, jolloin pääoma-arvo on sama.
 Vuoden 2017 eläkeuudistuksessa sovittiin, että elinaikakertoimessa huomioidaan vanhuuseläkeiän muutos sen jälkeen kun alin vanhuuseläkeikä saavuttaa 65 vuotta.
+
+Alin vanhuuseläkeikä on eläkealkavuuden osalta dominoiva ikä (Kuvio 1). 
+
+![Väestöennuste](/images/lifecycle/2025/eläkkeelle.png)<br>
+_Kuvio 1. Työeläkkeelle siirtyneiden osuus vakuutetuista vuosina 2013, 2022 ja 2023, %. Lähde: ETK_
+
+Eläketurvakeskus (2024) arvioi, että _"vuonna 2022 vanhuuseläkkeen alaikärajan täyttivät vuonna 1958 syntyneet, joilla ikäraja oli 64 vuotta. Tuolloin se nosti merkittävästi 64-vuotiaiden eläkkeelle siirtymistä. Vuonna 2023 ikäraja nousi edelleen, mikä laski 64-vuotiaana eläkkeelle siirtyneiden osuutta ikäluokasta."_
 
 2 Vanhuuseläkeikä 70 vuoteen
 ===
 
-[Helsingin Sanomissa argumentoitiin](https://www.hs.fi/talous/art-2000011435056.html), että alin vanhuuseläkeikä pitäisi nostaa 70 vuoteen. Jutussa laskeskeltiin, että tällä tavalla valtio saa lisätuloja ja eläkejärjestelmä tulee entistä kestävämmäksi. Suuruusluokka arvioille oli 9 miljardia euroa vuodessa. Laskelmassa ei huomioitu kaikkia tekijöitä. Tässä blogissa yritetään tehdä hieman tarkempi arvio siitä, millaisia vaikutuksia talouteen eläkeiän nostolla 70 vuoteen olisi.
+[Helsingin Sanomissa argumentoitiin](https://www.hs.fi/talous/art-2000011435056.html), että alin vanhuuseläkeikä pitäisi nostaa 70 vuoteen. Jutussa laskeskeltiin, että tällä tavalla valtio saa lisätuloja ja eläkejärjestelmä tulee entistä kestävämmäksi. Suuruusluokka arvioille oli 9 miljardia euroa vuodessa. Laskelmassa ei huomioitu kaikkia tekijöitä. Tässä blogissa yritetään tehdä hieman tarkempi arvio siitä, millaisia vaikutuksia talouteen ja työntekoon eläkeiän nostolla 70 vuoteen olisi.
 
-Alin vanhuuseläkeikä on eläkealkavuuden osalta dominoiva ikä (KUVA). Sen nosto hyvin todennäköisesti kasvattaisi työtekoa. Kaikki vanhuuseläkeiän saavuttavat eivät kuitenkaan työllistyisi, mikä helposti näkyisi iän mukaan kasvavana työttömyytenä. Myös työkyvyttömyyseläkeläisten määrä lisääntyisi rajusti. 
+Sen nosto hyvin todennäköisesti kasvattaisi työtekoa. Kaikki vanhuuseläkeiän saavuttavat eivät kuitenkaan työllistyisi, mikä helposti näkyisi iän mukaan kasvavana työttömyytenä. Myös työkyvyttömyyseläkeläisten määrä lisääntyisi rajusti. 
 
 Vaikutuksia eläkekertymään tulisi kahta kautta: pidemmät työurat toisivat korkeampia eläkekarttumia ja elinaikakertoimen lievennys kasvattaisivat alkavia eläkkeitä. Siirtymäajan jälkeen eläkeiän nosto itse asiassa tarkoittaisi korkeampaa eläkemenoa. Osa alemman vanhuuseläkeiän saavuttaneista toki ehtii kuolla ennen 70 vuoden vanhuuseläkeiän saavuttamista.
 
@@ -138,4 +145,6 @@ Vanhuuseläkeiän merkittävä nopea nostaminen ei ole automaattinen pikavoitto 
 Lähteitä
 ===
 
-Tanskanen, A.J, ja Kotamäki, M. Lafferin käyrä heterogeenisessa populaatiossa – ja miksi verolajilla on väliä (2021) Kansantaloudellinen aikakauskirja 117: 383-406
+Tanskanen, A.J, ja Kotamäki, M. Lafferin käyrä heterogeenisessa populaatiossa – ja miksi verolajilla on väliä (2021) Kansantaloudellinen aikakauskirja 117: 383-406. https://www.taloustieteellinenyhdistys.fi/wp-content/uploads/2021/10/KAK_3_2021_WEB-53-76.pdf
+
+Eläketurvakeskus (2025). Työeläkeindikaattorit 2024 - Työeläkkeet nyt ja tulevaisuudessa. https://www.julkari.fi/handle/10024/149934
