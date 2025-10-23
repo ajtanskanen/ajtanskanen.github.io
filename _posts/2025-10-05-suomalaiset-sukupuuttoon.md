@@ -58,15 +58,15 @@ Skenaario kuvaa tilannetta, että suljetussa populaatiossa, jonka syntyvyys alit
 4 Aleneva syntyvyys
 ===
 
-Kokonaishedelmällisyysluku on laskenut jo pitkään (Kuvio 1). Oletetaan seuraavassa, että kokonaishedelmällisyysluku jatka pienentymistä nykytasolta (1,251) tahdilla -0,05 lasta naista kohden joka vuosi aina siihen asti että se saavuttaa tason 0,5. Tällöin väestön kokonaismäärä alkaa laskea (Kuvio 5) hieman samaan tapaan kuin Kuvio 2. 
+Kokonaishedelmällisyysluku on laskenut jo pitkään (Kuvio 1). Oletetaan seuraavassa, että kokonaishedelmällisyysluku jatka pienentymistä nykytasolta (1,251) tahdilla -0,05 vuodessa aina siihen asti kunnes se saavuttaa tason 0,5. Suomalaistaustaisten määrä laskee tässä skenaariossa matalalle tasolle, mutta ei häviä kokonaan ainakaan ennen vuotta 2300 (Kuvio 5).
 
 ![Väestöennuste](/images/demog/2025/dystopic1252_28400.gif)<br>
 _Kuvio 5. Väestön rakenne olettaen nettomaahanmuuton olevan 28 400/v ja kokonaishedelmällisyysluvun laskevan vuosittain jaoteltuna suomalais- ja ulkomaalaistaustaisiin._
 
-Aleneva syntyvyys tarkoittaa hyvin matalaa suomalaistaustaista väestöä tulevaisuudessa. Jos nettomaahanmuutto säilyy korkeana, tulee suurin osa Suomen väestöstä olemaan ulkomaalaistaustaista.
+Aleneva syntyvyys tarkoittaa hyvin matalaa suomalaistaustaista väestöä tulevaisuudessa. Jos nettomaahanmuutto säilyy korkeana, tulee suurin osa Suomen väestöstä olemaan ulkomaalaistaustaista. 
 
 
 5 Johtopäätökset
 ===
 
-Syntyvyyden lasku vähentää väestön määrää Suomessa. 
+Syntyvyyden lasku vähentää väestön määrää Suomessa. Suomalaistaustaisten määrä alenee, mutta jos maahanmuutto säilyy kohtuullisena, myös suomalaistaustaiset säilyvät jatkossakin merkittävänä joukkona. Suomalaiset eivät kuole sukupuuttoon.
