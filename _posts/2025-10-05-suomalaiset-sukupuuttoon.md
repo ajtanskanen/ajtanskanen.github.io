@@ -55,7 +55,7 @@ _Kuvio 4. Kokonaishedelmällisyysluvun vaikutus väestönmäärään Suomessa._
 
 Oletetaan, että kokonaishedelmällisyysluku jatka pienentymistään kohti nollaa nykyisellä tahdilla -0,05 lasta naista kohden joka vuosi aina siihen asti että se saavuttaa tason 0,5.
 
-![Väestöennuste](/images/demog/2025/dystopic1252_0.gif)<br>
+![Väestöennuste](/images/demog/2025/dystopic1252_28400.gif)<br>
 _Kuvio 5. Väestön rakenne olettaen nettomaahanmuuton olevan nolla ja kokonaishedelmällisyysluvun laskevan vuosittain jaoteltuna suomalais- ja ulkomaalaistaustaisiin._
 
 4 Johtopäätökset
