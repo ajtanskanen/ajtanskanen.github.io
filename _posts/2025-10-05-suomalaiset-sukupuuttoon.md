@@ -48,10 +48,15 @@ Syntyvyys on Suomessa laskenut lahes yhtäsoittoa vuodesta 2010 alkaen (Kuvio 3)
 ![Väestöennuste](/images/demog/2025/tfr.gif)<br>
 _Kuvio 3. Kokonaishedelmällisyysluku Suomessa vuosina 1990-2024._
 
-Lisätään synkkyyttä pari naksua. Oletetaan, että kokonaishedelmällisyysluku jatka pienentymistään kohti nollaa nykyisellä tahdilla -0,05 lasta naista kohden joka vuosi aina siihen asti että se saavuttaa tason 0,5.
+Lisätään synkkyyttä pari naksua. 
+
+![Väestöennuste](/images/demog/2025/tfr_on_pop.gif)<br>
+_Kuvio 4. Kokonaishedelmällisyysluvun vaikutus väestönmäärään Suomessa._
+
+Oletetaan, että kokonaishedelmällisyysluku jatka pienentymistään kohti nollaa nykyisellä tahdilla -0,05 lasta naista kohden joka vuosi aina siihen asti että se saavuttaa tason 0,5.
 
 ![Väestöennuste](/images/demog/2025/dystopic1252_0.gif)<br>
-_Kuvio 4. Väestön rakenne olettaen nettomaahanmuuton olevan nolla ja kokonaishedelmällisyysluvun laskevan vuosittain jaoteltuna suomalais- ja ulkomaalaistaustaisiin._
+_Kuvio 5. Väestön rakenne olettaen nettomaahanmuuton olevan nolla ja kokonaishedelmällisyysluvun laskevan vuosittain jaoteltuna suomalais- ja ulkomaalaistaustaisiin._
 
 4 Johtopäätökset
 ===
