@@ -67,7 +67,7 @@ mistä näkee suoraan, että suhde
 \alpha = \frac{x-18}{q+x-18}.
 ```
 
-Kiemuraista tietä päädyttiin lopputulokseen. Suhteessa yläkerrassa on työssäoloaika 18-vuotiaasta alimpaan vanhuuseläkeaikaan ja alakerrassa karkeasti 18 vuotiaan elinajan odote. Tarkkaan ottaen alakerrassa on alimman vanhuuseläkeiän ja elinajanodotteen siinä summa vähennettynä 18:sta.
+Kiemuraista tietä päädyttiin lopputulokseen, joka näyttää millä suhteella alin vanhuuseläkeikä riippuu elinajanodotteen muutoksesta alimmassa vanhuuseläkeiässä. Suhteessa $\alpha$ yläkerrassa on työssäoloaika 18-vuotiaasta alimpaan vanhuuseläkeaikaan ja alakerrassa karkeasti 18 vuotiaan elinajan odote. Tarkkaan ottaen alakerrassa on alimman vanhuuseläkeiän ja elinajanodotteen siinä summa vähennettynä 18:sta.
 
 3 Alin vanhuuseläkeikä kasvaa noin 70 prosenttia elinajanodotteesta
 ==
