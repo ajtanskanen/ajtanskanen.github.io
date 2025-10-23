@@ -10,7 +10,7 @@ tags:
   - työeläke
 ---
 
-Mitä tapahtuisi, jos vanhuuseläkeikä nostettaisiin 70 vuoteen?
+Mitä tapahtuisi, jos vanhuuseläkeikä nostettaisiin 70 vuoteen? Blogissa laskelmia elinkaarimallilla siitä, millaisia vaikutuksia eläkemenoon, kotitalouksien nettotuloihin, työntekoon ja julkiseen talouteen tällä muutoksella olisi.
 
 1 Eläkeikä
 ===
