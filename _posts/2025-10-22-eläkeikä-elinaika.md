@@ -1,9 +1,9 @@
 ---
-title: 'Eläkeikä huomioi elinajan'
+title: 'Eläkeikä huomioi muutokset elinajassa'
 date: 2025-10-22
 permalink: /posts/2025/10/eläkeikä/
 hidden: true
-summary: 'Blogi | Eläkeiässä huomioidaan elinajan odote, mutta ei täysimääräisesti. Tässä blogissa näytetään, millä osuudella näin on.'
+summary: 'Blogi | Eläkeiässä huomioidaan elinajanodote, mutta ei täysimääräisesti. Tässä blogissa näytetään, millä osuudella näin on.'
 tags:
   - työeläkkeet
   - elinajanodote
@@ -67,7 +67,7 @@ $$
 \alpha = \frac{x-18}{q+x-18}.
 $$
 
-Kiemuraista tietä päädyttiin lopputulokseen, joka näyttää millä suhteella alin vanhuuseläkeikä riippuu elinajanodotteen muutoksesta alimmassa vanhuuseläkeiässä. Suhteessa $\alpha$ yläkerrassa on työssäoloaika 18-vuotiaasta alimpaan vanhuuseläkeaikaan ja alakerrassa karkeasti 18 vuotiaan elinajan odote. Tarkkaan ottaen alakerrassa on alimman vanhuuseläkeiän ja elinajanodotteen siinä summa vähennettynä 18:sta.
+Kiemuraista tietä päädyttiin lopputulokseen, joka näyttää millä suhteella alin vanhuuseläkeikä riippuu elinajanodotteen muutoksesta alimmassa vanhuuseläkeiässä. Suhteessa $\alpha$ yläkerrassa on työssäoloaika 18-vuotiaasta alimpaan vanhuuseläkeaikaan ja alakerrassa karkeasti 18 vuotiaan elinajan odote. Tarkkaan ottaen alakerrassa on alimman vanhuuseläkeiän ja elinajanodotteen summa vähennettynä 18:sta.
 
 3 Alin vanhuuseläkeikä kasvaa noin 70 prosenttia elinajanodotteesta
 ==
