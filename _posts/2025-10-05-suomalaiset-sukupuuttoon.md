@@ -48,12 +48,12 @@ Syntyvyys on Suomessa laskenut lahes yhtäsoittoa vuodesta 2010 alkaen (Kuvio 3)
 ![Väestöennuste](/images/demog/2025/tfr.png)<br>
 _Kuvio 3. Kokonaishedelmällisyysluku Suomessa vuosina 1990-2024._
 
-Lisätään synkkyyttä pari naksua. 
+Kokonaishedelmällisyys vaikuttaa voimakkaasti väestömäärän, kuten kuva 4 osoittaa.
 
 ![Väestöennuste](/images/demog/2025/tfr_on_pop.png)<br>
 _Kuvio 4. Kokonaishedelmällisyysluvun vaikutus väestönmäärään Suomessa._
 
-Oletetaan, että kokonaishedelmällisyysluku jatka pienentymistään kohti nollaa nykyisellä tahdilla -0,05 lasta naista kohden joka vuosi aina siihen asti että se saavuttaa tason 0,5.
+Kokonaishedelmällisyysluku on laskenut jo pitkään (Kuvio 3). Oletetaan seuraavassa, että TFR jatka pienentymistään tahdilla -0,05 lasta naista kohden joka vuosi aina siihen asti että se saavuttaa tason 0,5. Tällöin väestön kokonaismäärä alkaa laskea (Kuvio 5) hieman samaan tapaan kuin Kuvio 2.
 
 ![Väestöennuste](/images/demog/2025/dystopic1252_28400.gif)<br>
 _Kuvio 5. Väestön rakenne olettaen nettomaahanmuuton olevan nolla ja kokonaishedelmällisyysluvun laskevan vuosittain jaoteltuna suomalais- ja ulkomaalaistaustaisiin._
@@ -61,4 +61,4 @@ _Kuvio 5. Väestön rakenne olettaen nettomaahanmuuton olevan nolla ja kokonaish
 4 Johtopäätökset
 ===
 
-Syntyvyyden lasku vähentää väestön määräät Suomessa
+Syntyvyyden lasku vähentää väestön määrää Suomessa. 
