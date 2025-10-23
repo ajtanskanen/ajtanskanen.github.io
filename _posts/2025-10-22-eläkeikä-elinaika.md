@@ -10,7 +10,7 @@ tags:
   - vanhuuseläkeikä
 ---
 
-Eläkeiässä huomioidaan elinajanodote, mutta ei täysimääräisesti. Tässä blogissa näytetään, että osuus on karkeasti 70 prosenttia.
+Eläkeiässä huomioidaan elinajanodote ja työssäoloaika, mutta ei täysimääräisesti. Tässä blogissa näytetään, että osuus on karkeasti 70 prosenttia.
 
 1 Vanhuuseläkeikä työeläkeissä
 ===
@@ -26,46 +26,46 @@ Toisin sanoen, alin vanhuuseläkeikä riippuu elinajanodotteesta alimmassa vanhu
 
 Merkitään $x$ vanhuuseläkeikää ja $q$ elinajan odotetta alimmassa vanhuuseläkeiässä. Tällöin suhde $\beta$, josta laki puhuu on
 
-$$
+```math
 \beta = \frac{x-18}{q}.
-$$
+```
 
 Tässä yritämme laskea sitä, millä suhteella $\alpha$ alin vanhuuseläkeikä $x$ muuttuu, kun elinajanodote $q$ muuttuu. Merkitään elinajanodoteen kasvua $d$, jolloin elinajanodote iässä $x$ kasvaa arvosta $q$ arvoon $q+d$. Samalla alin vanhuuseläkeikä kasvaa arvosta $x$ arvoon $x+\alpha d$. Tällöin eläkkeelläoloaika kasvaa itse asiassa
 arvoon $q+d-\alpha d$. Lain mukaan suhde $\beta$ säilyy samana, joten
 
-$$
+```math
 \beta = \frac{x-18}{q} = \frac{x+\alpha d-18}{q+d-\alpha d}.
-$$
+```
 
 Tästä ratkaisemalla saamme
 
-$$
+```math
 (x-18)(q+(1-\alpha)d) = q(x+\alpha d-18).
-$$
+```
 
 Toisin sanoen
 
-$$
+```math
 xq+x(1-\alpha)d-18q-18(1-\alpha)d = xq + q\alpha d-18q.
-$$
+```
 
 Ja edelleen
 
-$$
+```math
 x-\alpha x-18+18\alpha = q\alpha,
-$$
+```
 
 mistä sieventämällä saa
 
-$$
+```math
 x-18 = (q+x-18)\alpha,
-$$
+```
 
 mistä näkee suoraan, että suhde
 
-$$
+```math
 \alpha = \frac{x-18}{q+x-18}.
-$$
+```
 
 Kiemuraista tietä päädyttiin lopputulokseen. Suhteessa yläkerrassa on työssäoloaika 18-vuotiaasta alimpaan vanhuuseläkeaikaan ja alakerrassa karkeasti 18 vuotiaan elinajan odote. Tarkkaan ottaen alakerrassa on alimman vanhuuseläkeiän ja elinajanodotteen siinä summa vähennettynä 18:sta.
 
@@ -74,9 +74,9 @@ Kiemuraista tietä päädyttiin lopputulokseen. Suhteessa yläkerrassa on työss
 
 Jos alin vanhuuseläkeikä on 65 vuotta, on alimmassa vanhuuseläkeiässä elinajanodote on 20,57 vuotta (Human mortility database, 2024). Jos alin vanhuuseläkeikä on 65 vuotta, saamme suhteeksi noin 70 prosenttia.
 
-$$
+```math
 \alpha = \frac{65-18}{85,57-18} \sim 0,696.
-$$
+```
 
 Toisin sanoen, ikääntyneiden elinajan kasvaessa hieman yli kaksi kolmannesta kasvusta huomioidaan alimmassa vanhuuseläkeiässä ja hieman alle yksi kolmannes kasvattaa vanhuuseläkkeellä oloaikaa.
 
