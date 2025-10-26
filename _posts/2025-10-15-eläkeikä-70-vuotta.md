@@ -132,12 +132,12 @@ Vanhuuseläkkeissä menon kasvu on maltillisempaa. Meno ensinnäkin ei pienenny,
 | Sairauspäiväraha                             |   1,637,520,663.73 |   1,400,352,315.16 |    237,168,348.56 |
 | Toimeentulotuki                              |   1,309,314,727.55 |   1,221,129,660.75 |     88,185,066.80 |
 | :----------------------------------------------: | :--------------------: | :--------------------: | :-------------------: |
-| Eläkkeet, yhteensä                           |  43,824,236,928.52 |  37,597,282,720.68 |  6,226,954,207.84 |
-| Tyokyvyttomyyseläkkeet                      |   7,023,489,808.65 |   2,242,476,545.18 |  4,781,013,263.48 |
-| Osittainenvanhuuseläkkeet                   |   2,730,076,531.02 |   2,034,821,525.61 |    695,255,005.41 |
-| Vanhuuseläkkeet                             |  31,020,146,400.43 |  30,382,482,788.14 |    637,663,612.29 |
+| Eläkkeet, yhteensä                           |  42,567,053,965.65 |  37,527,011,748.60 |  5,040,042,217.05 |
+| Tyokyvyttomyyseläkkeet                      |   6,646,579,858.50 |   2,511,142,166.22 |  4,135,437,692.29 |
+| Osittainenvanhuuseläkkeet                   |   2,826,153,841.95 |   2,042,525,779.14 |    783,628,062.81 |
+| Vanhuuseläkkeet                             |  31,265,913,588.33 |  30,576,679,736.13 |    689,233,852.20 |
 | :----------------------------------------------: | :--------------------: | :--------------------: | :-------------------: |
-| Työeläkemeno                                 |  41,965,303,213.34 |  35,269,596,916.66 |  6,695,706,296.69 |
+| Työeläkemeno                                 |  40,738,647,288.78 |  35,130,347,681.48 |  5,608,299,607.30 |
 | Kansaneläkemeno                              |   1,441,361,819.19 |   1,831,623,956.85 |   -390,262,137.66 |
 | Takuueläke                                   |     417,571,895.98 |     496,061,847.18 |    -78,489,951.19 |
 | :----------------------------------------------: | :--------------------: | :--------------------: | :-------------------: |
@@ -156,6 +156,6 @@ Vanhuuseläkeiän merkittävä nopea nostaminen ei ole automaattinen pikavoitto 
 Lähteitä
 ===
 
-Tanskanen, A.J, ja Kotamäki, M. Lafferin käyrä heterogeenisessa populaatiossa – ja miksi verolajilla on väliä (2021) Kansantaloudellinen aikakauskirja 117: 383-406. https://www.taloustieteellinenyhdistys.fi/wp-content/uploads/2021/10/KAK_3_2021_WEB-53-76.pdf
+Tanskanen, A.J, ja Kotamäki, M. Lafferin käyrä heterogeenisessa populaatiossa – ja miksi verolajilla on väliä (2021) Kansantaloudellinen aikakauskirja 117: 383-406. [https://www.taloustieteellinenyhdistys.fi/wp-content/uploads/2021/10/KAK_3_2021_WEB-53-76.pdf](https://www.taloustieteellinenyhdistys.fi/wp-content/uploads/2021/10/KAK_3_2021_WEB-53-76.pdf)
 
-Eläketurvakeskus (2025). Työeläkeindikaattorit 2024 - Työeläkkeet nyt ja tulevaisuudessa. https://www.julkari.fi/handle/10024/149934
+Eläketurvakeskus (2025). Työeläkeindikaattorit 2024 - Työeläkkeet nyt ja tulevaisuudessa. [https://www.julkari.fi/handle/10024/149934](https://www.julkari.fi/handle/10024/149934)
