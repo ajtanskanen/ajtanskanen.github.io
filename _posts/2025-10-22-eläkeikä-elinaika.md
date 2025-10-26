@@ -72,7 +72,7 @@ Kiemuraista tietä päädyttiin lopputulokseen, joka näyttää millä suhteella
 3 Alin vanhuuseläkeikä kasvaa noin 70 prosenttia elinajanodotteesta
 ==
 
-Jos alin vanhuuseläkeikä on 65 vuotta, on alimmassa vanhuuseläkeiässä elinajanodote on 20,57 vuotta (Human mortility database, 2024). Jos alin vanhuuseläkeikä on 65 vuotta, saamme suhteeksi noin 70 prosenttia.
+Jos alin vanhuuseläkeikä on 65 vuotta, on alimmassa vanhuuseläkeiässä elinajanodote 20,57 vuotta (Human mortility database, 2024). Jos alin vanhuuseläkeikä on 65 vuotta, saamme suhteeksi noin 70 prosenttia.
 
 $$
 \alpha = \frac{65-18}{85,57-18} \sim 0,696.

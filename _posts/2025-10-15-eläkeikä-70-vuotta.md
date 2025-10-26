@@ -1,6 +1,6 @@
 ---
-title: 'Eläkeikä 70 vuoteen kerralla'
-date: 2025-10-15
+title: 'Eläkeikä 70 vuoteen'
+date: 2025-10-26
 permalink: /posts/2025/10/elakeika-70-vuotta/
 summary: 'Blogi | Eläkeiän nostoa 70 ikävuoteen on esitetty tehtäväksi kerralla. Blogissa analysoidaan elinkaarimallilla tällaisen muutoksen seuraukset.'
 hidden: true
@@ -87,7 +87,7 @@ _Kuvio 4. Työkyvyttömäksi joutuneiden osuus ikäluokittain nykymallissa ja 70
 4.2 Menot ja tulot
 ==
 
-Taulukon 1 mukaan palkkasumma kasvaisi 7,8 miljardia euroa vuodessa. Muutos olisi merkittävä. Suhteellisesti eniten kasvaisi osa-aikatyö. Julkinen talous vahvistuisi nettona noin 2 miljardia euroa vuodessa ja kotitalouksien tulot kasvaisiva keskipitkällä aikavälillä merkittävästi. Tätä selittää erityisesti se, että eläkkeet olisivat suuremmat kahdesta syystä: elinaikakerroin lievenisi merkittävästi ja myös karttuma kasvaisi työurien pidentyessä. Tämä hyödyttäisi eläkejärjestelmää lyhyellä aikavälillä, mutta pitkällä aikavälillä eläkemeno kasvaisi merkittävästi.
+Taulukon 2 mukaan palkkasumma kasvaisi 7,8 miljardia euroa vuodessa. Muutos olisi merkittävä. Suhteellisesti eniten kasvaisi osa-aikatyö. Julkinen talous vahvistuisi nettona noin 2 miljardia euroa vuodessa ja kotitalouksien tulot kasvaisiva keskipitkällä aikavälillä merkittävästi. Tätä selittää erityisesti se, että eläkkeet olisivat suuremmat kahdesta syystä: elinaikakerroin lievenisi merkittävästi ja myös karttuma kasvaisi työurien pidentyessä. Tämä hyödyttäisi eläkejärjestelmää lyhyellä aikavälillä, mutta pitkällä aikavälillä eläkemeno kasvaisi merkittävästi.
 
 | :----------------------------------------------: | :--------------------: | :--------------------: | :-------------------: |
 |                                                |    Eläkeikä 70 (e/y) |     Nykytila (e/y) |         ero (e/y) |
@@ -114,6 +114,12 @@ Taulukon 1 mukaan palkkasumma kasvaisi 7,8 miljardia euroa vuodessa. Muutos olis
 
 _Taulukko 2. Etuuslajeittainen erottelu tuloksista._
 
+Taulukko 3 näyttää, että eläkemenon kasvu tulisi pääosin työkyvyttömyyseläkemeno suurena kasvuna. Tässä on kaksi keskeistä syytä: vanhuuseläkeiän nosto kasvattaa työkyvyttömyyseläkkeelle päätyvien määrää ja myös eläketasoa. 
+
+Työkyvyttömyyseläketason kasvu tulee useammasta tekijästä. Työeläkkeen määrä on summa karttuneesta eläkkeestä ja alimpaan vanhuuseläkeikään asti laskettavasti tulevan ajan karttumasta. Kun vanhuuseläkeikä nousee, pitenee tulevan ajan karttuman laskenta-aika, mikä nostaa työkyvyttömyyseläkettä. Kun vielä elinaikakerroin lievenee merkittävästi, nousee työkyvyttömyyseläkemeno huomattavasti. Samalla tavalla pidemmät työurat nostavat alkavien työkyvyttömyyseläkkeiden tasoa.
+
+Myös osittaisen varhennetun vanhuuseläkkeen käyttö lisääntyy, jos vanhuuseläkeikää nostetaan. Malli yliarvioi siitä aiheutuvan menon, mutta kehityssuuntaa tuskin. Vanhuuseläkkeissä menon kasvu on maltillisempaa.
+
 | :----------------------------------------------: | :--------------------: | :--------------------: | :-------------------: |
 |                                              |  Eläkeikä 70 (e/y) |     Nykytila (e/y) |         ero (e/y) |
 | :----------------------------------------------: | :--------------------: | :--------------------: | :-------------------: |
@@ -124,14 +130,17 @@ _Taulukko 2. Etuuslajeittainen erottelu tuloksista._
 | Sairauspäiväraha                             |   1,637,520,663.73 |   1,400,352,315.16 |    237,168,348.56 |
 | Toimeentulotuki                              |   1,309,314,727.55 |   1,221,129,660.75 |     88,185,066.80 |
 | :----------------------------------------------: | :--------------------: | :--------------------: | :-------------------: |
+| Eläkkeet, yhteensä                           |  43,824,236,928.52 |  37,597,282,720.68 |  6,226,954,207.84 |
+| Tyokyvyttomyyselakeet                      |   7,023,489,808.65 |   2,242,476,545.18 |  4,781,013,263.48 |
+| Osittainenvanhuuselakeet                   |   2,730,076,531.02 |   2,034,821,525.61 |    695,255,005.41 |
+| Vanhuuselakeet                             |  31,020,146,400.43 |  30,382,482,788.14 |    637,663,612.29 |
+| :----------------------------------------------: | :--------------------: | :--------------------: | :-------------------: |
 | Työeläkemeno                                 |  41,965,303,213.34 |  35,269,596,916.66 |  6,695,706,296.69 |
 | Kansaneläkemeno                              |   1,441,361,819.19 |   1,831,623,956.85 |   -390,262,137.66 |
 | Takuueläke                                   |     417,571,895.98 |     496,061,847.18 |    -78,489,951.19 |
-| Eläkkeet, yhteensä                           |  43,824,236,928.52 |  37,597,282,720.68 |  6,226,954,207.84 |
 | :----------------------------------------------: | :--------------------: | :--------------------: | :-------------------: |
 
 _Taulukko 3. Etuuslajeittainen erottelu tuloksista._
-
 
 Näiden laskelmien mukaan on vaikea päätyä samaan tulokseen kuin HS, että vanhuuseläkeiän nostaminen säästäisi 9 miljardia euroa vuodessa. 
 Erona laskelmissa on se, että HS oletti elinaikakertoimen säilyvän nykyisellään, vaikutusten olevan vähäisiä työkyvyttömyyseläkkeeseen ja työttömyyteen. Eläkeiän nosto olisi tulonsiirto eläkejärjestelmältä muulle julkiselle sektorille kahta kautta: muu etuusmeno pienenisi ja eläkemeno kasvaisi, mutta verotulot kasvaisivat merkittävästi, kun taas eläkemaksut eivät kasvaisi yhtä paljon.
