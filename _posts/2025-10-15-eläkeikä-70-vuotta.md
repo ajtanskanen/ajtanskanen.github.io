@@ -24,7 +24,7 @@ Vuoden 2017 eläkeuudistuksessa sovittiin, että elinaikakertoimessa huomioidaan
 Alin vanhuuseläkeikä on eläkealkavuuden osalta dominoiva ikä (Kuvio 1). 
 
 ![Väestöennuste](/images/lifecycle/2025/eläkkeelle.png)<br>
-_Kuvio 1. Työeläkkeelle siirtyneiden osuus vakuutetuista vuosina 2013, 2022 ja 2023, %. Lähde: ETK_
+_Kuvio 1. Työeläkkeelle siirtyvien osuus ikäluokan vakuutetuista vuosina 2013, 2022 ja 2023, %. Lähde: ETK_
 
 Eläketurvakeskus (2024) arvioi, että _"vuonna 2022 vanhuuseläkkeen alaikärajan täyttivät vuonna 1958 syntyneet, joilla ikäraja oli 64 vuotta. Tuolloin se nosti merkittävästi 64-vuotiaiden eläkkeelle siirtymistä. Vuonna 2023 ikäraja nousi edelleen, mikä laski 64-vuotiaana eläkkeelle siirtyneiden osuutta ikäluokasta."_
 
@@ -69,7 +69,7 @@ Laskelmassa oletamme, että joustava eläkeikä on väli 70-71 vuotta, sairausp�
 
 _Taulukko 1. Henkilövuosia töissä väestötasolla._
 
-Eläkeiän nostaminen 70:een vuoteen vaikuttaisi työntekoon. Verrrattuna nykytilanteeseen, eläkeiän nopea nosto kasvattaisi ikääntyneiden työllisyyttä. Työllisiä olisi mallissa noin 100 000 enemmän ja vanhuuseläkeläisiä 360 tuhatta vähemmän kuin nykytilassa. Työkyvyttömyyseläkeläisiä olisi 125 000 enemmän. 
+Eläkeiän nostaminen 70:een vuoteen vaikuttaisi työntekoon. Verrrattuna nykytilanteeseen, eläkeiän nopea nosto kasvattaisi ikääntyneiden työllisyyttä. Työllisiä olisi mallissa noin 117 000 henkilöä enemmän ja vanhuuseläkeläisiä 341 000 henkilöä vähemmän kuin nykytilassa. Työkyvyttömyyseläkeläisiä olisi 110 000 henkilöä enemmän ja sairauspäivärahalla olevia noin 11 000 enemmän. Työttömyys kasvaisi 45 000 henkilöä. Ennen 70 vuoden vanhuuseläkeikää mutta 65 ikävuoden jälkeen ehtisi kuolla 47 000 henkilöä. Työvoiman ulkopuolella on 65-70 vuotiaita noin 10 000 henkilöä enemmän.
 
 ![Väestöennuste](/images/lifecycle/2025/2024r70_comparison.png)<br>
 _Kuvio 2. Verrataan työllisyysastetta nykymallissa ja 70-vuoden eläkeikämallissa._
@@ -84,7 +84,7 @@ Työkyvyttömyys kasvaisi eläkeiän noston vuoksi merkittävästi. Yli kolmanne
 ![Väestöennuste](/images/lifecycle/2025/disability.png)<br>
 _Kuvio 4. Työkyvyttömäksi joutuneiden osuus ikäluokittain nykymallissa ja 70-vuoden eläkeikämallissa._
 
-4.2 Menot ja tulot
+4.2 Verot ja tulot
 ==
 
 Taulukon 2 mukaan palkkasumma kasvaisi 7,8 miljardia euroa vuodessa. Muutos olisi merkittävä. Suhteellisesti eniten kasvaisi osa-aikatyö. Julkinen talous vahvistuisi nettona noin 2 miljardia euroa vuodessa ja kotitalouksien tulot kasvaisiva keskipitkällä aikavälillä merkittävästi. Tätä selittää erityisesti se, että eläkkeet olisivat suuremmat kahdesta syystä: elinaikakerroin lievenisi merkittävästi ja myös karttuma kasvaisi työurien pidentyessä. Tämä hyödyttäisi eläkejärjestelmää lyhyellä aikavälillä, mutta pitkällä aikavälillä eläkemeno kasvaisi merkittävästi.
@@ -112,11 +112,17 @@ Taulukon 2 mukaan palkkasumma kasvaisi 7,8 miljardia euroa vuodessa. Muutos olis
 | Kotitalouksien nettotulot                      | 104,644,593,662.75 |  97,664,975,231.24 |  6,979,618,431.51 |
 | :----------------------------------------------: | :--------------------: | :--------------------: | :-------------------: |
 
-_Taulukko 2. Etuuslajeittainen erottelu tuloksista._
+_Taulukko 2. Palkat, verot ja maksut._
+
+
+4.3 Etuudet
+==
 
 Taulukko 3 näyttää, että eläkemenon kasvu tulisi pääosin työkyvyttömyyseläkemeno suurena kasvuna. Tässä on kaksi keskeistä syytä: vanhuuseläkeiän nosto kasvattaa työkyvyttömyyseläkkeelle päätyvien määrää ja myös eläketasoa. 
 
-Työkyvyttömyyseläketason kasvu tulee useammasta tekijästä. Työkyvyttömyyseläkkeen määrä on summa karttuneesta eläkkeestä ja alimpaan vanhuuseläkeikään asti laskettavasti tulevan ajan karttumasta. Kun vanhuuseläkeikä nousee, pitenee tulevan ajan karttuman laskenta-aika, mikä nostaa työkyvyttömyyseläkettä. Kun vielä elinaikakerroin lievenee merkittävästi, nousee työkyvyttömyyseläkemeno huomattavasti. Samalla tavalla pidemmät työurat nostavat alkavien työkyvyttömyyseläkkeiden tasoa. Kun vielä etuutta maksetaan aiempaa pidempään ja myös aiempaa suuremmalle joukolle henkilöitä, kasvaa työkyvyttömyyseläkemeno moninkertaiseksi.
+Työkyvyttömyyseläketason kasvu tulee useammasta tekijästä. Työkyvyttömyyseläkkeen määrä on summa karttuneesta eläkkeestä ja alimpaan vanhuuseläkeikään asti laskettavasti tulevan ajan karttumasta. Kun vanhuuseläkeikä nousee, pitenee tulevan ajan karttuman laskenta-aika, mikä nostaa työkyvyttömyyseläkettä. Kun vielä elinaikakerroin lievenee merkittävästi, nousee työkyvyttömyyseläkemeno huomattavasti. Samalla tavalla pidemmät työurat nostavat alkavien työkyvyttömyyseläkkeiden tasoa. Kun vielä etuutta maksetaan aiempaa pidempään ja myös aiempaa suuremmalle joukolle henkilöitä, kasvaa työkyvyttömyyseläkemeno moninkertaiseksi. 
+
+Elinaikakertoimen muutos nostaa työkyvyttömyyseläkkeitä noin 19 prosenttia ja työkyvyttömyyseläkeläisten määrä kasvaa 65 %. Jo nämä kaksi tekijää nostavat vuosittaisen työkyvyttömyyseläkemenoa 96 prosenttia.
 
 Myös osittaisen varhennetun vanhuuseläkkeen käyttö lisääntyy, jos vanhuuseläkeikää nostetaan. Malli yliarvioi siitä aiheutuvan menon, mutta kehityssuuntaa tuskin. 
 
@@ -132,7 +138,6 @@ Vanhuuseläkkeissä menon kasvu on maltillisempaa. Meno ensinnäkin ei pienenny,
 | Sairauspäiväraha                             |   1,637,520,663.73 |   1,400,352,315.16 |    237,168,348.56 |
 | Toimeentulotuki                              |   1,309,314,727.55 |   1,221,129,660.75 |     88,185,066.80 |
 | :----------------------------------------------: | :--------------------: | :--------------------: | :-------------------: |
-| Eläkkeet, yhteensä                           |  42,567,053,965.65 |  37,527,011,748.60 |  5,040,042,217.05 |
 | Tyokyvyttomyyseläkkeet                      |   6,646,579,858.50 |   2,511,142,166.22 |  4,135,437,692.29 |
 | Osittainenvanhuuseläkkeet                   |   2,826,153,841.95 |   2,042,525,779.14 |    783,628,062.81 |
 | Vanhuuseläkkeet                             |  31,265,913,588.33 |  30,576,679,736.13 |    689,233,852.20 |
@@ -140,6 +145,8 @@ Vanhuuseläkkeissä menon kasvu on maltillisempaa. Meno ensinnäkin ei pienenny,
 | Työeläkemeno                                 |  40,738,647,288.78 |  35,130,347,681.48 |  5,608,299,607.30 |
 | Kansaneläkemeno                              |   1,441,361,819.19 |   1,831,623,956.85 |   -390,262,137.66 |
 | Takuueläke                                   |     417,571,895.98 |     496,061,847.18 |    -78,489,951.19 |
+| :----------------------------------------------: | :--------------------: | :--------------------: | :-------------------: |
+| Eläkkeet, yhteensä                           |  42,567,053,965.65 |  37,527,011,748.60 |  5,040,042,217.05 |
 | :----------------------------------------------: | :--------------------: | :--------------------: | :-------------------: |
 
 _Taulukko 3. Etuuslajeittainen erottelu tuloksista._
