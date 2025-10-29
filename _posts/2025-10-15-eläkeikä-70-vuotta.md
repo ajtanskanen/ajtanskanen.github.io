@@ -159,9 +159,15 @@ Vanhuuseläkkeissä menon kasvu on maltillisempaa. Meno ensinnäkin ei pienenny,
 5 Vertailu HS:n laskelman kanssa
 ===
 
-Näiden laskelmien mukaan on vaikea päätyä tulokseen, että vanhuuseläkeiän nostaminen säästäisi 10 miljardia euroa vuodessa. Näissä laskelmissa eläkeiän nosto kasvattaa 25-vuotiaan eläkkeellesiirtymisiän odotetta noin 2,3 vuotta. 
+Näiden laskelmien mukaan on vaikea päätyä tulokseen, että vanhuuseläkeiän nostaminen säästäisi 10 miljardia euroa vuodessa. Näissä laskelmissa eläkeiän nosto kasvattaa 25-vuotiaan eläkkeellesiirtymisiän odotetta noin 2,3 vuotta. Se on vielä aika kaukana siitä, että [Helsingin Sanomien jutun](https://www.hs.fi/talous/art-2000011435056.html) ajatuksesta, että eläkkeellesiirtymisiän odotetta nostetaan 70 vuoteen. Tämä tarkoittaisi, että eläkkeellesiirtymisiänodote nousisi lähes 7 vuotta. Käytännössä tämä edellyttäisi vanhuuseläkeiän nostoa ehkä 75 vuoteen ja työkyvyttömyyseläkkeiden kriteerien tiukentamista. Siltikään on epäselvää, toteutuisiko arvioitu 10 miljardin euron vuosittainen säästö.
 
-Se on vielä aika kaukana siitä, että [Helsingin Sanomien jutun](https://www.hs.fi/talous/art-2000011435056.html) ajatuksesta, että eläkkeellesiirtymisiän odotetta nostetaan 70 vuoteen. Tämä tarkoittaisi, että eläkkeellesiirtymisiänodote nousisi lähes 7 vuotta. Käytännössä tämä edellyttäisi vanhuuseläkeiän nostoa ehkä 75 vuoteen ja työkyvyttömyyseläkkeiden kriteerien tiukentamista. Siltikään on epäselvää, toteutuisiko arvioitu 10 miljardin euron vuosittainen säästö.
+Helsingin Sanomien jutussa viitataan myös ETK:n tekemään suuruusluokkalaskelmaan, jonka mukaan eläkeiän nosto 70 vuoteen säästäisi 7-8 miljardia euroa vuodessa. Vaikka laskelma on ETK:n tekemä, ei se ole ehkä aikataulusyistä ETK:n yleensä käyttämällä PTS-mallilla tehty. Laskelmassa oletetaan, että elinaikakerrointa ei muuteta, jolloin työkyvyttömyyseläkkeitä ja vanhuuseläkkeitä ei paranneta yhtä paljoa kuin tässä laskelmassa. 
+
+ETK:n laskelmassa 65-69 vuotiaiden lisätyövoima on 186 tuhatta henkilöä, joka vastaa hyvin tässä esitettyä arviota 173 tuhatta henkilöä. 
+ETK:n arviossa työkyvyttömyyseläkemeno olisi 1-2 miljardia euroa korkeampi. Tässä on arvioitu, että työkyvyttömyyseläkemeno olisi jopa 4 miljardia euroa korkeampi. ETK myös arvioi, että eläkkeen karttumaprosentti on alempi kuin nykyisin. ETK ei ole arvioinut työttömyyspäivärahan tai muun sosiaaliturvan menojen muutosta. Kuten ETK:n asiasta tekemässä muistiossa todetaan, arvio on julkisen talouden kannalta optimistinen. Verrattuna tämän laskelmiin elinkaarimallilla, arvioon on helppo yhtyä.
+
+Tässä blogissa esitetyssä laskelmassa on huomioitu aiempia kattavammin erilaisia tekijöitä, jotka vaikuttaisivat julkiseen talouteen, mikäli vanhuuseläkeikää nostettaisiin. 
+Mietittäessä vanhuuseläkeiän mahdollisen muutoksen vaikutuksia julkiseen talouteen on tärkeää ottaa huomioon kaikki oleelliset tekijät. Samalla tavalla on oleellista määritellä täsmällisesti malli, jota tutkitaan.
 
 6 Johtopäätökset
 ===
