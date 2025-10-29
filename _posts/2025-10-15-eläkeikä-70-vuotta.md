@@ -172,6 +172,6 @@ Vanhuuseläkeiän merkittävä nopea nostaminen ei ole automaattinen pikavoitto 
 Lähteitä
 ===
 
-Tanskanen, A.J, ja Kotamäki, M. Lafferin käyrä heterogeenisessa populaatiossa – ja miksi verolajilla on väliä (2021) Kansantaloudellinen aikakauskirja 117: 383-406. [https://www.taloustieteellinenyhdistys.fi/wp-content/uploads/2021/10/KAK_3_2021_WEB-53-76.pdf](https://www.taloustieteellinenyhdistys.fi/wp-content/uploads/2021/10/KAK_3_2021_WEB-53-76.pdf)
+Tanskanen, A.J, ja Kotamäki, M. (2021) Lafferin käyrä heterogeenisessa populaatiossa – ja miksi verolajilla on väliä (2021) Kansantaloudellinen aikakauskirja 117: 383-406. [https://www.taloustieteellinenyhdistys.fi/wp-content/uploads/2021/10/KAK_3_2021_WEB-53-76.pdf](https://www.taloustieteellinenyhdistys.fi/wp-content/uploads/2021/10/KAK_3_2021_WEB-53-76.pdf)
 
 Eläketurvakeskus (2025). Työeläkeindikaattorit 2024 - Työeläkkeet nyt ja tulevaisuudessa. [https://www.julkari.fi/handle/10024/149934](https://www.julkari.fi/handle/10024/149934)
