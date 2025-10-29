@@ -16,17 +16,17 @@ Mitä tapahtuisi, jos vanhuuseläkeikä nostettaisiin 70 vuoteen? Blogissa laske
 ===
 
 Vuonna 1962 syntyneille alin eläkeikä on 65 vuotta. Ikä, jonka jälkeen palkkatuloja ei tarvitse vakuuttaa, on tänä vuonna 70 vuotta. 
-Eläkeikä riippuu Suomen työeläkejärjestelmässä ikäluokasta. Tavoitteena on pitää työssäoloajan ja eläkkeelläoloajan suhde vakiona. Käytännössä tämä tarkoittaa, että eläkeikä on kytketty elinajanodotteeseen, mutta ei suinkaan täysimääräisesti.
+Eläkeikä riippuu Suomen työeläkejärjestelmässä ikäluokasta. Tavoitteena on pitää työssäoloajan ja eläkkeelläoloajan suhde vakiona. Käytännössä tämä tarkoittaa, että eläkeikä on kytketty elinajanodotteeseen, mutta ei suinkaan täysimääräisesti. Vanhuuseläkeikä nousee [noin 70 prosenttia elinajan odotteen kasvusta](https://ajtanskanen.github.io/posts/2025/10/eläkeikä/).
 
 Elinaikakertoimella pidetään eri ikäluokkien saamien yksikköeläkkeiden eläke-etuudet pääoma-arvot samana. Tässä logiikkana on se, että pidempi eläkkeelläoloaika pienentää kuukausieläkettä, jolloin pääoma-arvo on sama.
 Vuoden 2017 eläkeuudistuksessa sovittiin, että elinaikakertoimessa huomioidaan vanhuuseläkeiän muutos sen jälkeen kun alin vanhuuseläkeikä saavuttaa 65 vuotta.
 
-Alin vanhuuseläkeikä on eläkealkavuuden osalta dominoiva ikä (Kuvio 1). 
-
 ![Väestöennuste](/images/lifecycle/2025/eläkkeelle.png)<br>
 _Kuvio 1. Työeläkkeelle siirtyvien osuus ikäluokan vakuutetuista vuosina 2013, 2022 ja 2023, %. Lähde: ETK_
 
+Alin vanhuuseläkeikä on eläkealkavuuden osalta dominoiva ikä (Kuvio 1). 
 Eläketurvakeskus (2024) arvioi, että _"vuonna 2022 vanhuuseläkkeen alaikärajan täyttivät vuonna 1958 syntyneet, joilla ikäraja oli 64 vuotta. Tuolloin se nosti merkittävästi 64-vuotiaiden eläkkeelle siirtymistä. Vuonna 2023 ikäraja nousi edelleen, mikä laski 64-vuotiaana eläkkeelle siirtyneiden osuutta ikäluokasta."_
+Merkittävä osa vakuutetuista jää eläkkeelle juuri alimmassa vanhuuseläkeiässä.
 
 2 Vanhuuseläkeikä 70 vuoteen
 ===
@@ -89,7 +89,7 @@ _Kuvio 4. Työkyvyttömäksi joutuneiden osuus ikäluokittain nykymallissa ja 70
 4.2 Verot ja tulot
 ==
 
-Taulukon 2 mukaan palkkasumma kasvaisi 7,8 miljardia euroa vuodessa. Muutos olisi merkittävä. Suhteellisesti eniten kasvaisi osa-aikatyö. Julkinen talous vahvistuisi nettona noin 2 miljardia euroa vuodessa ja kotitalouksien tulot kasvaisiva keskipitkällä aikavälillä merkittävästi. Tätä selittää erityisesti se, että eläkkeet olisivat suuremmat kahdesta syystä: elinaikakerroin lievenisi merkittävästi ja myös karttuma kasvaisi työurien pidentyessä. Tämä hyödyttäisi eläkejärjestelmää lyhyellä aikavälillä, mutta pitkällä aikavälillä eläkemeno kasvaisi merkittävästi.
+Taulukon 2 mukaan palkkasumma kasvaisi 7,8 miljardia euroa vuodessa. Muutos olisi merkittävä. Suhteellisesti eniten kasvaisi osa-aikatyö. Julkinen talous vahvistuisi nettona noin 2 miljardia euroa vuodessa. Tämä hyödyttäisi eläkejärjestelmää lyhyellä aikavälillä, mutta pitkällä aikavälillä eläkemeno kasvaisi merkittävästi.
 
 | :----------------------------------------------: | :--------------------: | :--------------------: | :-------------------: |
 |                                                |    Eläkeikä 70 (e/y) |     Nykytila (e/y) |         ero (e/y) |
@@ -116,19 +116,12 @@ Taulukon 2 mukaan palkkasumma kasvaisi 7,8 miljardia euroa vuodessa. Muutos olis
 
 _Taulukko 2. Palkat, verot ja maksut._
 
+Kotitalouksien tulot kasvaisiva keskipitkällä aikavälillä merkittävästi. Tätä selittää erityisesti se, että eläkkeet olisivat suuremmat kahdesta syystä: elinaikakerroin lievenisi merkittävästi ja myös karttuma kasvaisi työurien pidentyessä. 
 
 4.3 Etuudet
 ==
 
 Taulukko 3 näyttää, että eläkemenon kasvu tulisi pääosin työkyvyttömyyseläkemeno suurena kasvuna. Tässä on kaksi keskeistä syytä: vanhuuseläkeiän nosto kasvattaa työkyvyttömyyseläkkeelle päätyvien määrää ja myös eläketasoa. 
-
-Työkyvyttömyyseläketason kasvu tulee useammasta tekijästä. Työkyvyttömyyseläkkeen määrä on summa karttuneesta eläkkeestä ja alimpaan vanhuuseläkeikään asti laskettavasti tulevan ajan karttumasta. Kun vanhuuseläkeikä nousee, pitenee tulevan ajan karttuman laskenta-aika, mikä nostaa työkyvyttömyyseläkettä. Kun vielä elinaikakerroin lievenee merkittävästi, nousee työkyvyttömyyseläkemeno huomattavasti. Samalla tavalla pidemmät työurat nostavat alkavien työkyvyttömyyseläkkeiden tasoa. Kun vielä etuutta maksetaan aiempaa pidempään ja myös aiempaa suuremmalle joukolle henkilöitä, kasvaa työkyvyttömyyseläkemeno moninkertaiseksi. 
-
-Elinaikakertoimen muutos nostaa työkyvyttömyyseläkkeitä noin 19 prosenttia ja työkyvyttömyyseläkeläisten määrä kasvaa 65 %. Jo nämä kaksi tekijää nostavat vuosittaisen työkyvyttömyyseläkemenoa 96 prosenttia.
-
-Myös osittaisen varhennetun vanhuuseläkkeen käyttö lisääntyy, jos vanhuuseläkeikää nostetaan. Malli yliarvioi siitä aiheutuvan menon, mutta kehityssuuntaa tuskin. 
-
-Vanhuuseläkkeissä menon kasvu on maltillisempaa. Meno ensinnäkin ei pienenny, koska elinaikakerroin kompensoi eläkettä saaville vanhuuseläkeiän nousun. Toisekseen pidempi työura kartuttaa suuremman eläkkeen. Vaikka osa (varsinkin miehistä) ehtii kuolla ennen vanhuuseläkkeen saamista, vanhuuseläkeiän nostosta huolimatta vanhuuseläkemeno kasvaa lievästi. Tässä tosin olisi pitkä siirtymäaika.
 
 | :----------------------------------------------: | :--------------------: | :--------------------: | :-------------------: |
 |                                              |  Eläkeikä 70 (e/y) |     Nykytila (e/y) |         ero (e/y) |
@@ -153,12 +146,21 @@ Vanhuuseläkkeissä menon kasvu on maltillisempaa. Meno ensinnäkin ei pienenny,
 
 _Taulukko 3. Etuuslajeittainen erottelu tuloksista._
 
+Työkyvyttömyyseläketason kasvu tulee useammasta tekijästä. Työkyvyttömyyseläkkeen määrä on summa karttuneesta eläkkeestä ja alimpaan vanhuuseläkeikään asti laskettavasti tulevan ajan karttumasta. Kun vanhuuseläkeikä nousee, pitenee tulevan ajan karttuman laskenta-aika, mikä nostaa työkyvyttömyyseläkettä. Kun vielä elinaikakerroin lievenee merkittävästi, nousee työkyvyttömyyseläkemeno huomattavasti. Samalla tavalla pidemmät työurat nostavat alkavien työkyvyttömyyseläkkeiden tasoa. Kun vielä etuutta maksetaan aiempaa pidempään ja myös aiempaa suuremmalle joukolle henkilöitä, kasvaa työkyvyttömyyseläkemeno moninkertaiseksi. 
+
+Elinaikakertoimen muutos nostaa työkyvyttömyyseläkkeitä noin 19 prosenttia ja työkyvyttömyyseläkeläisten määrä kasvaa 65 %. Jo nämä kaksi tekijää nostavat vuosittaisen työkyvyttömyyseläkemenoa 96 prosenttia. Näiden lisäksi työkyvyttömyyseläkkeelle siirtyy henkilöitä pidemmiltä työurilta, jolloin karttunut eläke on suurempi, mikä kasvattaa työkyvyttömyyseläkkeen tasoa.
+
+Myös osittaisen varhennetun vanhuuseläkkeen käyttö lisääntyy, jos vanhuuseläkeikää nostetaan. Malli yliarvioi siitä aiheutuvan menon, mutta kehityssuuntaa tuskin. 
+
+Vanhuuseläkkeissä menon kasvu on maltillisempaa. Meno ensinnäkin ei pienenny, koska elinaikakerroin kompensoi eläkettä saaville vanhuuseläkeiän nousun. Toisekseen pidempi työura kartuttaa suuremman eläkkeen. Vaikka osa (varsinkin miehistä) ehtii kuolla ennen vanhuuseläkkeen saamista, vanhuuseläkeiän nostosta huolimatta vanhuuseläkemeno kasvaa lievästi. Tässä tosin olisi pitkä siirtymäaika.
+
+
 5 Vertailu HS:n laskelman kanssa
 ===
 
-Näiden laskelmien mukaan on vaikea päätyä tulokseen, että vanhuuseläkeiän nostaminen säästäisi 10 miljardia euroa vuodessa. Näissä laskelmissa eläkeiän nosto kasvattaa ESI-odotetta luokkaa 3 vuotta (??). Se on vielä aika kaukana siitä, että [Helsingin Sanomien jutun](https://www.hs.fi/talous/art-2000011435056.html) ajatuksesta, että _eläkkeellesiirtymisiänodotetta_ nostetaan 70 vuoteen. Tämä tarkoittaisi, että ESI-odote nousisi lähes 7 vuotta. Käytännössä tämä edellyttäisi vanhuuseläkeiän nostoa ehkä 75 vuoteen ja työkyvyttömyyseläkkeiden kriteerien tiukentamista. Siltikään on epäselvää, toteutuisiko arvioitu 10 miljardin euron vuosittainen.
+Näiden laskelmien mukaan on vaikea päätyä tulokseen, että vanhuuseläkeiän nostaminen säästäisi 10 miljardia euroa vuodessa. Näissä laskelmissa eläkeiän nosto kasvattaa eläkkeellesiirtymisiänodotetta luokkaa 3 vuotta (täsmentyy...). Se on vielä aika kaukana siitä, että [Helsingin Sanomien jutun](https://www.hs.fi/talous/art-2000011435056.html) ajatuksesta, että _eläkkeellesiirtymisiänodotetta_ nostetaan 70 vuoteen. Tämä tarkoittaisi, että eläkkeellesiirtymisiänodote nousisi lähes 7 vuotta. Käytännössä tämä edellyttäisi vanhuuseläkeiän nostoa ehkä 75 vuoteen ja työkyvyttömyyseläkkeiden kriteerien tiukentamista. Siltikään on epäselvää, toteutuisiko arvioitu 10 miljardin euron vuosittainen.
 
-Näissä laskelmissa työkyvyttömyyseläkemeno kasvaa merkittävästi. 
+Tässä esitetyissä työkyvyttömyyseläkemeno kasvaa merkittävästi. 
 Eläkeiän nosto olisi tulonsiirto eläkejärjestelmältä muulle julkiselle sektorille kahta kautta: muu etuusmeno pienenisi ja eläkemeno kasvaisi, mutta verotulot kasvaisivat merkittävästi, kun taas eläkemaksut eivät kasvaisi yhtä paljon.
 
 6 Johtopäätökset
