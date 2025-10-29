@@ -159,7 +159,9 @@ Vanhuuseläkkeissä menon kasvu on maltillisempaa. Meno ensinnäkin ei pienenny,
 5 Vertailu HS:n laskelman kanssa
 ===
 
-Näiden laskelmien mukaan on vaikea päätyä tulokseen, että vanhuuseläkeiän nostaminen säästäisi 10 miljardia euroa vuodessa. Näissä laskelmissa eläkeiän nosto kasvattaa 25-vuotiaan eläkkeellesiirtymisiän odotetta noin 2,3 vuotta. Se on vielä aika kaukana siitä, että [Helsingin Sanomien jutun](https://www.hs.fi/talous/art-2000011435056.html) ajatuksesta, että eläkkeellesiirtymisiän odotetta nostetaan 70 vuoteen. Tämä tarkoittaisi, että eläkkeellesiirtymisiänodote nousisi lähes 7 vuotta. Käytännössä tämä edellyttäisi vanhuuseläkeiän nostoa ehkä 75 vuoteen ja työkyvyttömyyseläkkeiden kriteerien tiukentamista. Siltikään on epäselvää, toteutuisiko arvioitu 10 miljardin euron vuosittainen säästö.
+Näiden laskelmien mukaan on vaikea päätyä tulokseen, että vanhuuseläkeiän nostaminen säästäisi 10 miljardia euroa vuodessa. Näissä laskelmissa eläkeiän nosto kasvattaa 25-vuotiaan eläkkeellesiirtymisiän odotetta noin 2,3 vuotta. 
+
+Se on vielä aika kaukana siitä, että [Helsingin Sanomien jutun](https://www.hs.fi/talous/art-2000011435056.html) ajatuksesta, että eläkkeellesiirtymisiän odotetta nostetaan 70 vuoteen. Tämä tarkoittaisi, että eläkkeellesiirtymisiänodote nousisi lähes 7 vuotta. Käytännössä tämä edellyttäisi vanhuuseläkeiän nostoa ehkä 75 vuoteen ja työkyvyttömyyseläkkeiden kriteerien tiukentamista. Siltikään on epäselvää, toteutuisiko arvioitu 10 miljardin euron vuosittainen säästö.
 
 6 Johtopäätökset
 ===
