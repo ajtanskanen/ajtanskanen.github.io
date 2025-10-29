@@ -31,11 +31,13 @@ Merkittävä osa vakuutetuista jää eläkkeelle juuri alimmassa vanhuuseläkei�
 2 Vanhuuseläkeikä 70 vuoteen
 ===
 
-[Helsingin Sanomissa argumentoitiin](https://www.hs.fi/talous/art-2000011435056.html), että _eläkkeellesiirtymisiänodote_ pitäisi nostaa 70 vuoteen. Jutussa laskeskeltiin, että tällä tavalla valtio saa lisätuloja ja eläkejärjestelmä tulee entistä kestävämmäksi. Suuruusluokka säästölle oli HS:n laskelmissa 10 miljardia euroa vuodessa. Laskelmassa ei kuitenkaan huomioitu kaikkia tekijöitä. 
+[Helsingin Sanomissa argumentoitiin](https://www.hs.fi/talous/art-2000011435056.html), että vanhuuseläkeikä pitäisi nostaa 70 vuoteen. Jutussa laskeskeltiin, että tällä tavalla valtio saa lisätuloja ja eläkejärjestelmä tulee entistä kestävämmäksi. Suuruusluokka säästölle oli HS:n laskelmissa 10 miljardia euroa vuodessa. Laskelmassa ei kuitenkaan huomioitu kaikkia tekijöitä. 
 
-Eläkeiän nosto hyvin todennäköisesti kasvattaa työtekoa. Kaikki vanhuuseläkeiän saavuttavat eivät kuitenkaan työllistyisi, mikä helposti näkyisi iän mukaan kasvavana työttömyytenä. Myös työkyvyttömyyseläkeläisten määrä lisääntyisi rajusti. 
+Tarkkaan ottaen laskelmissa oletetaan, että _eläkkeellesiirtymisiänodote_ (ESI-odote) nostettaisiin 70 vuoteen. Tämä ei kuitenkaan ole sama asia kuin se, että eläkeikä nostettaisiin 70 vuoteen. ESI-odote nousisi selvästi vähemmän kuin vanhuuseläkeikä, koska osa ei jatkaisi töissä, vaan joutuisi työkyvyttömyyseläkkeelle.
 
-Vaikutuksia eläkekertymään tulisi kahta kautta: pidemmät työurat toisivat korkeampia eläkekarttumia ja elinaikakertoimen lievennys kasvattaisivat alkavia eläkkeitä. Siirtymäajan jälkeen eläkeiän nosto itse asiassa tarkoittaisi korkeampaa eläkemenoa. Osa alemman vanhuuseläkeiän saavuttaneista toki ehtii kuolla ennen 70 vuoden vanhuuseläkeiän saavuttamista.
+Millaisia vaikutuksia eläkeiän nostosta seuraisi? Ensinnäkin eläkeiän nosto todennäköisesti kasvattaa työtekoa. Kaikki vanhuuseläkeiän saavuttavat eivät kuitenkaan työllistyisi, mikä helposti näkyy iän mukaan kasvavana työttömyytenä. Toisekseen, työkyvyttömyyseläkeläisten määrä lisääntyisi merkittävästi. Kolmanneksi, eläkemeno voisi kasvaa riippuen siitä, miten eläkeiän nosto huomioitaisiin elinaikakertoimessa.
+
+Vaikutuksia eläkemenoon tulisi useaa kautta: pidemmät työurat toisivat korkeampia eläkekarttumia ja elinaikakertoimen lievennys kasvattaisivat alkavia eläkkeitä. Työkyvyttömyyseläkkeet voisivat kasvaa, koska tuleva aika laskettaisiin entistä korkeampaan ikään asti. Siirtymäajan jälkeen eläkeiän nosto luultavasti tarkoittaisi korkeampaa eläkemenoa. Osa alemman vanhuuseläkeiän saavuttaneista toki ehtii kuolla ennen 70 vuoden vanhuuseläkeiän saavuttamista.
 
 On intuitiivisesti hieman hankalaa arvioida erilaisten tekijöiden vailkutusta kokonaistalouteen. Joten testataan ajatusta mallilla.
 
