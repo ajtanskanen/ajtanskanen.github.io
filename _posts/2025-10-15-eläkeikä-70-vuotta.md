@@ -31,7 +31,7 @@ Merkittävä osa vakuutetuista jää eläkkeelle juuri alimmassa vanhuuseläkei�
 2 Vanhuuseläkeikä 70 vuoteen
 ===
 
-[Helsingin Sanomissa argumentoitiin](https://www.hs.fi/talous/art-2000011435056.html), että vanhuuseläkeikä pitäisi nostaa 70 vuoteen. Jutussa laskeskeltiin, että tällä tavalla valtio saa lisätuloja ja eläkejärjestelmä tulee entistä kestävämmäksi. Suuruusluokka säästölle oli HS:n laskelmissa 10 miljardia euroa vuodessa. Laskelmassa ei kuitenkaan huomioitu kaikkia tekijöitä. 
+[Helsingin Sanomissa argumentoitiin](https://www.hs.fi/talous/art-2000011435056.html), että _"Jos suomalaisten eläkeiän nostaisi 70:een vuoteen, eläkevaroja säästyisi vuodessa yli kymmenen miljardia euroa."_ Alin vanhuuseläkeikä siis pitäisi nostaa 70 vuoteen. Jutussa laskeskeltiin, että tällä tavalla valtio saa lisätuloja ja eläkejärjestelmä tulee entistä kestävämmäksi. Suuruusluokka säästölle on HS:n laskelmissa 10 miljardia euroa vuodessa. Laskelmassa ei kuitenkaan huomioitu kaikkia tekijöitä. 
 
 Tarkkaan ottaen laskelmissa oletetaan, että _eläkkeellesiirtymisiänodote_ (ESI-odote) nostettaisiin 70 vuoteen. Tämä ei kuitenkaan ole sama asia kuin se, että eläkeikä nostettaisiin 70 vuoteen. ESI-odote nousisi selvästi vähemmän kuin vanhuuseläkeikä, koska osa ei jatkaisi töissä, vaan joutuisi työkyvyttömyyseläkkeelle.
 
@@ -160,10 +160,7 @@ Vanhuuseläkkeissä menon kasvu on maltillisempaa. Meno ensinnäkin ei pienenny,
 5 Vertailu HS:n laskelman kanssa
 ===
 
-Näiden laskelmien mukaan on vaikea päätyä tulokseen, että vanhuuseläkeiän nostaminen säästäisi 10 miljardia euroa vuodessa. Näissä laskelmissa eläkeiän nosto kasvattaa eläkkeellesiirtymisiänodotetta luokkaa 3 vuotta (täsmentyy...). Se on vielä aika kaukana siitä, että [Helsingin Sanomien jutun](https://www.hs.fi/talous/art-2000011435056.html) ajatuksesta, että _eläkkeellesiirtymisiänodotetta_ nostetaan 70 vuoteen. Tämä tarkoittaisi, että eläkkeellesiirtymisiänodote nousisi lähes 7 vuotta. Käytännössä tämä edellyttäisi vanhuuseläkeiän nostoa ehkä 75 vuoteen ja työkyvyttömyyseläkkeiden kriteerien tiukentamista. Siltikään on epäselvää, toteutuisiko arvioitu 10 miljardin euron vuosittainen.
-
-Tässä esitetyissä työkyvyttömyyseläkemeno kasvaa merkittävästi. 
-Eläkeiän nosto olisi tulonsiirto eläkejärjestelmältä muulle julkiselle sektorille kahta kautta: muu etuusmeno pienenisi ja eläkemeno kasvaisi, mutta verotulot kasvaisivat merkittävästi, kun taas eläkemaksut eivät kasvaisi yhtä paljon.
+Näiden laskelmien mukaan on vaikea päätyä tulokseen, että vanhuuseläkeiän nostaminen säästäisi 10 miljardia euroa vuodessa. Näissä laskelmissa eläkeiän nosto kasvattaa 25-vuotiaan eläkkeellesiirtymisiän odotetta noin 2,3 vuotta. Se on vielä aika kaukana siitä, että [Helsingin Sanomien jutun](https://www.hs.fi/talous/art-2000011435056.html) ajatuksesta, että eläkkeellesiirtymisiän odotetta nostetaan 70 vuoteen. Tämä tarkoittaisi, että eläkkeellesiirtymisiänodote nousisi lähes 7 vuotta. Käytännössä tämä edellyttäisi vanhuuseläkeiän nostoa ehkä 75 vuoteen ja työkyvyttömyyseläkkeiden kriteerien tiukentamista. Siltikään on epäselvää, toteutuisiko arvioitu 10 miljardin euron vuosittainen säästö.
 
 6 Johtopäätökset
 ===
