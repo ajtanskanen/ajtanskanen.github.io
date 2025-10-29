@@ -156,7 +156,9 @@ _Taulukko 3. Etuuslajeittainen erottelu tuloksista._
 5 Vertailu HS:n laskelman kanssa
 ===
 
-Näiden laskelmien mukaan on vaikea päätyä tulokseen, että vanhuuseläkeiän nostaminen säästäisi 10 miljardia euroa vuodessa. Näissä laskelmissa työkyvyttömyyseläkemeno kasvaa merkittävästi. 
+Näiden laskelmien mukaan on vaikea päätyä tulokseen, että vanhuuseläkeiän nostaminen säästäisi 10 miljardia euroa vuodessa. Näissä laskelmissa eläkeiän nosto kasvattaa ESI-odotetta luokkaa 3 vuotta (??). Se on vielä aika kaukana siitä, että [Helsingin Sanomien jutun](https://www.hs.fi/talous/art-2000011435056.html) ajatuksesta, että _eläkkeellesiirtymisiänodotetta_ nostetaan 70 vuoteen. Tämä tarkoittaisi, että ESI-odote nousisi lähes 7 vuotta. Käytännössä tämä edellyttäisi vanhuuseläkeiän nostoa ehkä 75 vuoteen ja työkyvyttömyyseläkkeiden kriteerien tiukentamista. Siltikään on epäselvää, toteutuisiko arvioitu 10 miljardin euron vuosittainen.
+
+Näissä laskelmissa työkyvyttömyyseläkemeno kasvaa merkittävästi. 
 Eläkeiän nosto olisi tulonsiirto eläkejärjestelmältä muulle julkiselle sektorille kahta kautta: muu etuusmeno pienenisi ja eläkemeno kasvaisi, mutta verotulot kasvaisivat merkittävästi, kun taas eläkemaksut eivät kasvaisi yhtä paljon.
 
 6 Johtopäätökset
