@@ -31,9 +31,9 @@ Eläketurvakeskus (2024) arvioi, että _"vuonna 2022 vanhuuseläkkeen alaikäraj
 2 Vanhuuseläkeikä 70 vuoteen
 ===
 
-[Helsingin Sanomissa argumentoitiin](https://www.hs.fi/talous/art-2000011435056.html), että alin vanhuuseläkeikä pitäisi nostaa 70 vuoteen. Jutussa laskeskeltiin, että tällä tavalla valtio saa lisätuloja ja eläkejärjestelmä tulee entistä kestävämmäksi. Suuruusluokka arvioille oli 9 miljardia euroa vuodessa. Laskelmassa ei huomioitu kaikkia tekijöitä. Tässä blogissa yritetään tehdä hieman tarkempi arvio siitä, millaisia vaikutuksia talouteen ja työntekoon eläkeiän nostolla 70 vuoteen olisi.
+[Helsingin Sanomissa argumentoitiin](https://www.hs.fi/talous/art-2000011435056.html), että _eläkkeellesiirtymisiänodote_ pitäisi nostaa 70 vuoteen. Jutussa laskeskeltiin, että tällä tavalla valtio saa lisätuloja ja eläkejärjestelmä tulee entistä kestävämmäksi. Suuruusluokka säästölle oli HS:n laskelmissa 10 miljardia euroa vuodessa. Laskelmassa ei kuitenkaan huomioitu kaikkia tekijöitä. 
 
-Sen nosto hyvin todennäköisesti kasvattaisi työtekoa. Kaikki vanhuuseläkeiän saavuttavat eivät kuitenkaan työllistyisi, mikä helposti näkyisi iän mukaan kasvavana työttömyytenä. Myös työkyvyttömyyseläkeläisten määrä lisääntyisi rajusti. 
+Eläkeiän nosto hyvin todennäköisesti kasvattaa työtekoa. Kaikki vanhuuseläkeiän saavuttavat eivät kuitenkaan työllistyisi, mikä helposti näkyisi iän mukaan kasvavana työttömyytenä. Myös työkyvyttömyyseläkeläisten määrä lisääntyisi rajusti. 
 
 Vaikutuksia eläkekertymään tulisi kahta kautta: pidemmät työurat toisivat korkeampia eläkekarttumia ja elinaikakertoimen lievennys kasvattaisivat alkavia eläkkeitä. Siirtymäajan jälkeen eläkeiän nosto itse asiassa tarkoittaisi korkeampaa eläkemenoa. Osa alemman vanhuuseläkeiän saavuttaneista toki ehtii kuolla ennen 70 vuoden vanhuuseläkeiän saavuttamista.
 
@@ -153,10 +153,13 @@ Vanhuuseläkkeissä menon kasvu on maltillisempaa. Meno ensinnäkin ei pienenny,
 
 _Taulukko 3. Etuuslajeittainen erottelu tuloksista._
 
-Näiden laskelmien mukaan on vaikea päätyä samaan tulokseen kuin HS, että vanhuuseläkeiän nostaminen säästäisi 9 miljardia euroa vuodessa. 
-Erona laskelmissa on se, että HS oletti elinaikakertoimen säilyvän nykyisellään, vaikutusten olevan vähäisiä työkyvyttömyyseläkkeeseen ja työttömyyteen. Eläkeiän nosto olisi tulonsiirto eläkejärjestelmältä muulle julkiselle sektorille kahta kautta: muu etuusmeno pienenisi ja eläkemeno kasvaisi, mutta verotulot kasvaisivat merkittävästi, kun taas eläkemaksut eivät kasvaisi yhtä paljon.
+5 Vertailu HS:n laskelman kanssa
+===
 
-5 Johtopäätökset
+Näiden laskelmien mukaan on vaikea päätyä tulokseen, että vanhuuseläkeiän nostaminen säästäisi 10 miljardia euroa vuodessa. Näissä laskelmissa työkyvyttömyyseläkemeno kasvaa merkittävästi. 
+Eläkeiän nosto olisi tulonsiirto eläkejärjestelmältä muulle julkiselle sektorille kahta kautta: muu etuusmeno pienenisi ja eläkemeno kasvaisi, mutta verotulot kasvaisivat merkittävästi, kun taas eläkemaksut eivät kasvaisi yhtä paljon.
+
+6 Johtopäätökset
 ===
 
 Vanhuuseläkeiän merkittävä nopea nostaminen ei ole automaattinen pikavoitto julkiselle taloudelle. Vaikka työntarjonta lisääntyisikin noston seurauksena, aiheuttaisi nosto merkittäviä sosiaaliturvakustannuksia sekä välittömästi että pidemmällä viivellä. Kokonaisuutena nosto voisi olla julkisesta taloutta vahvistava asia, mutta tämä riippuu voimakkaasti siitä, kuinka hyvin nykyisen vanhuuseläkeiän täyttäneet työllistyisivät. 
