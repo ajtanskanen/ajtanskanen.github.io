@@ -156,7 +156,6 @@ Myös osittaisen varhennetun vanhuuseläkkeen käyttö lisääntyy, jos vanhuuse
 
 Vanhuuseläkkeissä menon kasvu on maltillisempaa. Meno ensinnäkin ei pienenny, koska elinaikakerroin kompensoi eläkettä saaville vanhuuseläkeiän nousun. Toisekseen pidempi työura kartuttaa suuremman eläkkeen. Vaikka osa (varsinkin miehistä) ehtii kuolla ennen vanhuuseläkkeen saamista, vanhuuseläkeiän nostosta huolimatta vanhuuseläkemeno kasvaa lievästi. Tässä tosin olisi pitkä siirtymäaika.
 
-
 5 Vertailu HS:n laskelman kanssa
 ===
 
