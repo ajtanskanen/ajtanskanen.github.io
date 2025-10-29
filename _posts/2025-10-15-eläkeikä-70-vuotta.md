@@ -167,7 +167,7 @@ ETK:n laskelmassa 65-69 vuotiaiden lisätyövoima on 186 tuhatta henkilöä, jok
 ETK:n arviossa työkyvyttömyyseläkemeno olisi 1-2 miljardia euroa korkeampi. Tässä on arvioitu, että työkyvyttömyyseläkemeno olisi jopa 4 miljardia euroa korkeampi. ETK myös arvioi, että eläkkeen karttumaprosentti on alempi kuin nykyisin. ETK ei ole arvioinut työttömyyspäivärahan tai muun sosiaaliturvan menojen muutosta. Kuten ETK:n asiasta tekemässä muistiossa todetaan, arvio on julkisen talouden kannalta optimistinen. Verrattuna tämän laskelmiin elinkaarimallilla, arvioon on helppo yhtyä.
 
 Tässä blogissa esitetyssä laskelmassa on huomioitu aiempia kattavammin erilaisia tekijöitä, jotka vaikuttaisivat julkiseen talouteen, mikäli vanhuuseläkeikää nostettaisiin. 
-Mietittäessä vanhuuseläkeiän mahdollisen muutoksen vaikutuksia julkiseen talouteen on tärkeää ottaa huomioon kaikki oleelliset tekijät. Samalla tavalla on oleellista määritellä täsmällisesti malli, jota tutkitaan.
+Mietittäessä vanhuuseläkeiän mahdollisen muutoksen vaikutuksia julkiseen talouteen on tärkeää ottaa huomioon kaikki oleelliset tekijät. Samalla tavalla on oleellista määritellä täsmällisesti malli, jota tutkitaan. 
 
 6 Johtopäätökset
 ===
