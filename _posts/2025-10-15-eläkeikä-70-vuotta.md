@@ -58,7 +58,7 @@ Laskelmassa oletamme, että joustava eläkeikä on väli 70-71 vuotta, sairausp�
 ==
 
 | :----------------: | :-------------------: | ---------------: | ----------: |
-| Tila               |   Eläkeikä 70 v (htv) |   Nykytila (htv) |   Ero (htv) |
+| Tila               |   Eläkeikä 70 v (hlö) |   Nykytila (hlö) |   Ero (hlö) |
 | :----------------: | :-------------------: | ---------------: | ----------: |
 | Töissä             |    2,520,937 |      2,399,190 |  121,747 |
 | Töissä 18-62       |    2,263,838 |      2,258,996 |    4,842 |
@@ -167,7 +167,7 @@ Yllä esitettyjen laskelmien perusteella julkinen talous vahvistuis noin 2 milja
 Helsingin Sanomien jutussa viitataan myös ETK:n tekemään suuruusluokkalaskelmaan, jonka mukaan eläkeiän nosto 70 vuoteen säästäisi 7-8 miljardia euroa vuodessa. Vaikka laskelma on ETK:n tekemä, se ei ole tehty ETK:n yleensä käyttämällä PTS-mallilla tehty. Laskelmassa oletetaan, että elinaikakerrointa ei muuteta, jolloin eläkeiän nosto on oleellisesti etuusleikkaus. 
 
 ETK:n laskelmassa 65-69 vuotiaiden lisätyövoima on 186 tuhatta henkilöä, joka vastaa hyvin tässä esitettyä arviota 173 tuhatta henkilöä. 
-ETK:n arviossa työkyvyttömyyseläkemeno olisi 1-2 miljardia euroa korkeampi. Tässä on arvioitu, että työkyvyttömyyseläkemeno olisi 3,7 miljardia euroa korkeampi. ETK:n arviossa eläkkeen karttumaprosentti on alempi kuin nykyisin. ETK ei ole arvioinut työttömyyspäivärahan tai muun sosiaaliturvan menojen muutosta. Kuten ETK:n asiasta tekemässä muistiossa todetaan, arvio on julkisen talouden kannalta optimistinen. 
+ETK:n arviossa työkyvyttömyyseläkemeno olisi 1-2 miljardia euroa korkeampi. Tässä on arvioitu, että työkyvyttömyyseläkemeno olisi 3,7 miljardia euroa korkeampi. ETK:n arviossa eläkkeen karttumaprosentti on alempi kuin nykyisin, tässä laskelmassa taas lievennetään elinaikakerrointa eläkeikä huomioiden. ETK ei ole arvioinut työttömyyspäivärahan tai muun sosiaaliturvan menojen muutosta. Kuten ETK:n asiasta tekemässä muistiossa todetaan, arvio on julkisen talouden kannalta optimistinen. 
 
 Tässä blogissa esitetyssä laskelmassa on huomioitu aiempia kattavammin erilaisia tekijöitä, jotka vaikuttaisivat julkiseen talouteen, mikäli vanhuuseläkeikää nostettaisiin. 
 Mietittäessä vanhuuseläkeiän mahdollisen muutoksen vaikutuksia julkiseen talouteen on tärkeää ottaa huomioon kaikki oleelliset tekijät. Samalla tavalla on oleellista määritellä täsmällisesti malli, jota tutkitaan. 
