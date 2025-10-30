@@ -57,7 +57,7 @@ Laskelmassa oletamme, että joustava eläkeikä on väli 70-71 vuotta, sairausp�
 4.1 Työnteko
 ==
 
-| :----------------: | :-------------------: | :---------------: | :----------: |
+| :----------------: | -------------------: | ---------------: | ----------: |
 | Tila               |   Eläkeikä 70 v (hlö) |   Nykytila (hlö) |   Ero (hlö) |
 | :----------------: | -------------------: | ---------------: | ----------: |
 | Työssä             |    2,520,937 |      2,399,190 |  121,747 |
@@ -94,7 +94,7 @@ _Kuvio 4. Työkyvyttömäksi joutuneiden osuus ikäluokittain nykymallissa ja 70
 
 Taulukon 2 mukaan palkkasumma kasvaisi 6,0 miljardia euroa vuodessa. Muutos olisi merkittävä. Suhteellisesti eniten kasvaisi osa-aikatyö. Julkinen talous vahvistuisi nettona noin 2 miljardia euroa vuodessa. Eläkejärjestelmä vahvistuisi lyhyellä aikavälillä, mutta pitkällä aikavälillä eläkemeno kasvaisi merkittävästi.
 
-| :----------------------------------------------: | :--------------------: | :--------------------: | :-------------------: |
+| :----------------: | -------------------: | ---------------: | ----------: |
 |                                                |    Eläkeikä 70 (e/y) |     Nykytila (e/y) |         ero (e/y) |
 | :----------------: | -------------------: | ---------------: | ----------: |
 | palkkasumma                                    | 115,352,139,122 | 109,288,976,654 |  6,063,162,468 |
@@ -123,7 +123,7 @@ Kotitalouksien tulot kasvaisiva keskipitkällä aikavälillä merkittävästi. T
 
 Taulukko 3 näyttää, että eläkemenon kasvu tulisi pääosin työkyvyttömyyseläkemeno suurena kasvuna. Tässä on kaksi keskeistä syytä: vanhuuseläkeiän nosto kasvattaa työkyvyttömyyseläkkeelle päätyvien määrää ja myös eläketasoa. 
 
-| :----------------------------------------------: | :--------------------: | :--------------------: | :-------------------: |
+| :----------------: | -------------------: | ---------------: | ----------: |
 |                                              |  Eläkeikä 70 (e/y) |     Nykytila (e/y) |         ero (e/y) |
 | :----------------: | -------------------: | ---------------: | ----------: |
 | Työttömyyspäivärahat                         |   4,027,045,939 |   3,390,031,173 |    637,014,766 |
