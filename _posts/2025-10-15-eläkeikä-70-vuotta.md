@@ -67,8 +67,9 @@ Laskelmassa oletamme, että joustava eläkeikä on väli 70-71 vuotta, sairausp�
 | Osa-aikatyö        |      587,735 |        478,113 |  109,622 |
 | Kokoaikatyö        |    1,933,201 |      1,921,077 |   12,125 |
 | Työkyvyttömyyseläke           |      278,297 |        169,714 |  108,583 |
-| kuolleet 65-70                |       46,851 |         46,553 |      298 |
-| työvoiman ulkopuolella 65-70  |       14,880 |          1,855 |   13,025 |
+| Työvoiman ulkopuolella 65-70  |       14,880 |          1,855 |   13,025 |
+| :----------------: | :-------------------: | ---------------: | ----------: |
+| Kuolleet 65-70                |       46,851 |         46,553 |      298 |
 | :----------------: | :-------------------: | ---------------: | ----------: |
 
 _Taulukko 1. Henkilövuosia töissä väestötasolla._
