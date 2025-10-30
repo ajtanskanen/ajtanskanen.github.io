@@ -116,7 +116,7 @@ Taulukon 2 mukaan palkkasumma kasvaisi 6,0 miljardia euroa vuodessa. Muutos olis
 
 _Taulukko 2. Palkat, verot ja maksut._
 
-Kotitalouksien tulot kasvaisiva keskipitkällä aikavälillä merkittävästi. Tätä selittää kasvavan palkkasumman lisäksi erityisesti se, että eläkkeet olisivat suuremmat kahdesta syystä: elinaikakerroin lievenisi merkittävästi ja myös karttuma kasvaisi työurien pidentyessä. 
+Kotitalouksien tulot kasvaisivat keskipitkällä aikavälillä merkittävästi. Tätä selittää kasvavan palkkasumman lisäksi erityisesti se, että eläkkeet olisivat suuremmat kahdesta syystä: elinaikakerroin lievenisi merkittävästi ja myös karttuma kasvaisi työurien pidentyessä. 
 
 4.3 Etuudet
 ==
@@ -170,7 +170,7 @@ Mietittäessä vanhuuseläkeiän mahdollisen muutoksen vaikutuksia julkiseen tal
 6 Johtopäätökset
 ===
 
-Vanhuuseläkeiän merkittävä nopea nostaminen ei ole automaattinen pikavoitto julkiselle taloudelle. Vaikka työntarjonta lisääntyisikin noston seurauksena, aiheuttaisi nosto merkittäviä sosiaaliturvakustannuksia sekä välittömästi että pidemmällä viivellä. Kokonaisuutena nosto voisi olla julkisesta taloutta vahvistava asia, mutta tämä riippuu voimakkaasti siitä, kuinka hyvin nykyisen vanhuuseläkeiän täyttäneet työllistyisivät. 
+Vanhuuseläkeiän merkittävä nopea nostaminen ei ole automaattinen pikavoitto julkiselle taloudelle. Vaikka työntarjonta lisääntyisikin noston seurauksena, aiheuttaisi nosto merkittäviä sosiaaliturvakustannuksia sekä välittömästi että pidemmällä viivellä. Kokonaisuutena nosto voisi olla julkista taloutta vahvistava asia, mutta tämä riippuu voimakkaasti siitä, kuinka hyvin nykyisen vanhuuseläkeiän täyttäneet työllistyisivät. 
 
 
 Lähteitä
