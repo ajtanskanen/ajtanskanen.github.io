@@ -43,6 +43,7 @@ Tämän vuoden MM-kisojen joukkueiden lukumäärä on 48. Suomen miesten maajouk
 
 Liite
 ===
+
 | Vuosi & Isäntämaa | Joukkueet | Ottelut | Kesto päivinä | Huomioitavaa |
 | :--- | :---: | :---: | :---: | :--- |
 | **1930** Uruguay | 13 | 18 | **18** | Historian lyhyin turnaus. |
