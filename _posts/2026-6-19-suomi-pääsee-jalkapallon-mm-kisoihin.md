@@ -15,7 +15,7 @@ Suomen miesten maajoukkue ei ole päässyt jalkapallon MM-kisoihin kertaakaan. J
 
 Jalkapallon MM-kisoja on järjestetty aina alkaen vuoden 1930 Uruguayn kisoista lähtien. Ensimmäisiin kisoihin Suomi olisi päässyt osallistumaan, mutta matka oli pitkä ja kallis, eikä tuoreella kansakunnalla ollut varaa lähettää joukkuetta matkaan. Ensimmäisissä kisoissa joukkueita oli 13.
 
-![](/images/mmkisat/lkm.png)<br>
+![Miesten jalkapallon MM-kisojen osallistujien lukumäärä.](/images/mmkisat/lkm.png)<br>
 _Kuvio 1. Miesten jalkapallon MM-kisoihin osallistuvien maiden määrä vuosien kuluessa._
 
 Vuosien varrella MM-kisoihin osallistuneiden maiden määrä on kasvanut. Tämän vuoden 23. MM-kisoissa joukkueita on 48. Tähän joukkoon Suomi ei vielä mahtunut, mistä kertoo Suomen ranking maailman jalkapallomaiden joukossa: Suomi on 73. paras maajoukkue tätä kirjoitettaessa. Kun MM-kisoihin pääsee koko ajan enemmän joukkueita, herää kysymys siitä, milloin joukkueita kisoissa on enemmän kuin 73? Tämän voi arvioida!
@@ -25,15 +25,16 @@ Vuosien varrella MM-kisoihin osallistuneiden maiden määrä on kasvanut. Tämä
 
 Hyvän sovitteen joukkuemäärään saa, kun olettaa joukkueiden määrän kasvava logaritmisesti vuodesta 1950 alkaen. Kun vielä huomioidaan, että joukkueiden lukumäärä on kasvanut lähes kahden potensseina, saamme tuloksen, että vuonna 2066 joukkueita kisoissa on ensimmäistä kertaa 80. Tähän joukkoon Suomikin jo mahtuu.
 
-![](/images/mmkisat/joukkueita.png)<br>
+![Ennuste joukkueista logaritmisella sovitteella.](/images/mmkisat/joukkueita.png)<br>
 _Kuvio 2. Logaritminen sovite MM-kisoihin osallistuvien maiden määrästä vuosien kuluessa._
 
 Tämän vuoden MM-kisojen joukkueiden lukumäärä on 48. Suomen miesten maajoukkueen ranking maailmassa on 73. Kun arvioidaan MM-kisoihin osallistuvien maiden lukumäärä, päädytään arvioon, että vuonna 2066 joukkueita on enemmän kuin 73 vuonna 2066. Kuviossa 2 osallistuneiden joukkueiden määrä on oranssi käyrä ja ennuste tulevissa kisoissa olevien joukkueiden määrästä on turkoosi käyrä. 
 
-![](/images/mmkisat/joukkueita_suomi.png)<br>
-_Kuvio 3. Logaritminen sovite MM-kisoihin osallistuvien maiden määrästä vuosien kuluessa._
+![Ennuste joukkueiden lukumäärästä.](/images/mmkisat/joukkueita_suomi.png)<br>
+_Kuvio 3. Ennuste tulevien MM-kisojen joukkuemäärästä. Suomen ranking on merkitty kuvioon katkoviivalla._
 
-Kuvio 3 näyttää kuinka monta joukkuetta kisoihin tulevaisuudessa voi arvioida tulevan. Joukkueiden määrä kertoo osaltaa FIFAn kiinnostuksessta paisuttaa MM-kisoja, joka tuo lisää tuloja. Vuoden 2102 kisoissa joukkueita on tämän ennusteen mukaan 128. Niissä kisoissa Suomella voi olla jo mahdollisuus päästä jatkoon alkulohkosta. 
+Kuvio 3 näyttää, kuinka monta joukkuetta kisoihin tulevaisuudessa voi arvioida tulevan. Joukkueiden määrä kertoo osaltaa FIFAn kiinnostuksessta paisuttaa MM-kisoja, joka tuo lisää tuloja. 
+Vuoden 2102 kisoissa joukkueita on tämän ennusteen mukaan 128. Niissä kisoissa Suomella voi olla jo mahdollisuus päästä jatkoon alkulohkosta. 
 
 3 Yhteenveto
 ===
