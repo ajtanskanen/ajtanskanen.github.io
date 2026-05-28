@@ -28,7 +28,7 @@ Hyvän sovitteen joukkuemäärään saa, kun olettaa joukkueiden määrän kasva
 ![](/images/mmkisat/joukkueita.png)<br>
 _Kuvio 2. Logaritminen sovite MM-kisoihin osallistuvien maiden määrästä vuosien kuluessa._
 
-Tämän vuoden MM-kisojen joukkueiden lukumäärä on 48. Suomen miesten maajoukkueen ranking maailmassa on 73. Kun arvioidaan MM-kisoihin osallistuvien maiden lukumäärä, päädytään arvioon, että vuonna 2066 joukkueita on enemmän kuin 73 vuonna 2066.
+Tämän vuoden MM-kisojen joukkueiden lukumäärä on 48. Suomen miesten maajoukkueen ranking maailmassa on 73. Kun arvioidaan MM-kisoihin osallistuvien maiden lukumäärä, päädytään arvioon, että vuonna 2066 joukkueita on enemmän kuin 73 vuonna 2066. Kuviossa 2 osallistuneiden joukkueiden määrä on oranssi käyrä ja ennuste tulevissa kisoissa olevien joukkueiden määrästä on turkoosi käyrä. 
 
 ![](/images/mmkisat/joukkueita_suomi.png)<br>
 _Kuvio 3. Logaritminen sovite MM-kisoihin osallistuvien maiden määrästä vuosien kuluessa._
@@ -41,7 +41,7 @@ Kuvio 3 näyttää kuinka monta joukkuetta kisoihin tulevaisuudessa voi arvioida
 Tämän vuoden MM-kisojen joukkueiden lukumäärä on 48. Suomen miesten maajoukkueen ranking maailmassa on 73. Kun arvioidaan MM-kisoihin osallistuvien maiden lukumäärä, päädytään arvioon, että vuonna 2066 joukkueita on enemmän kuin 73 vuonna 2066.
 
 
-Liite
+Dataliite
 ===
 
 | Vuosi & Isäntämaa | Joukkueet | Ottelut | Kesto päivinä | Huomioitavaa |
