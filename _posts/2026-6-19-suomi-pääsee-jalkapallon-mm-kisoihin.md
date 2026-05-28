@@ -16,7 +16,7 @@ Suomen miesten maajoukkue ei ole päässyt jalkapallon MM-kisoihin kertaakaan. J
 Jalkapallon MM-kisoja on järjestetty aina alkaen vuoden 1930 Uruguayn kisoista lähtien. Ensimmäisiin kisoihin Suomi olisi päässyt osallistumaan, mutta matka oli pitkä ja kallis, eikä tuoreella kansakunnalla ollut varaa lähettää joukkuetta matkaan. Ensimmäisissä kisoissa joukkueita oli 13.
 
 ![](/images/mmkisat/lkm.png)<br>
-_Kuvio 1. Miestin jalkapallon MM-kisoihin osallistuvien maiden määrä vuosien kuluessa._
+_Kuvio 1. Miesten jalkapallon MM-kisoihin osallistuvien maiden määrä vuosien kuluessa._
 
 Vuosien varrella MM-kisoihin osallistuneiden maiden määrä on kasvanut. Tämän vuoden 23. MM-kisoissa joukkueita on 48. Tähän joukkoon Suomi ei vielä mahtunut, mistä kertoo Suomen ranking maailman jalkapallomaiden joukossa: Suomi on 73. paras maajoukkue tätä kirjoitettaessa. Kun MM-kisoihin pääsee koko ajan enemmän joukkueita, herää kysymys siitä, milloin joukkueita kisoissa on enemmän kuin 73? Tämän voi arvioida!
 
