@@ -30,7 +30,7 @@ Kuviossa 2 osallistuneiden joukkueiden määrää kuvaaa oranssi käyrä ja ennu
 ![Ennuste joukkueista logaritmisella sovitteella.](/images/mmkisat/joukkueita.png)<br>
 _Kuvio 2. Logaritminen sovite MM-kisoihin osallistuvien maiden määrästä vuosien kuluessa._
 
-Loputtomasti joukkueiden määrä ei voi kasvaa. Maita on kuitenkin 195, joten kasvunvaraa joukkuemäärälle on edelleen. Fifalla on kuitenkin 209 jäsentä, mm. Brittein saarilta olevat jäsenet eivät kaikki ole itsenäisiä valtioita. Kaikkiaan 82 Fifan jäsentä on osallistunut MM-kisoihin vuodesta 1930 alkaen, joten suurin osa jäsenistä ei ole ollut kertaakaan MM-kisoissa.
+Loputtomasti joukkueiden määrä ei voi kasvaa. Maita on kuitenkin 195, joten kasvunvaraa joukkuemäärälle on edelleen. Fifalla on kuitenkin 211 jäsentä, mm. Brittein saarilta olevat jäsenet eivät kaikki ole itsenäisiä valtioita. Kaikkiaan 82 Fifan jäsentä on osallistunut MM-kisoihin vuodesta 1930 alkaen, joten suurin osa jäsenistä ei ole ollut kertaakaan MM-kisoissa.
 
 Fifan kiinnostus tuloihin kasvattanee myös joukkueiden määrää jatkossakin. Vaikeus voi olla löytää järjestäjämaita massiivisille kisoille. Joukkueiden määrän kehtys on tähän asti kuitenkin vastannut hyvin laskelmaa.
 
