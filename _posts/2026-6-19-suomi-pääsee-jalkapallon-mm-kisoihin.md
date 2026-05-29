@@ -23,18 +23,20 @@ Vuosien varrella MM-kisoihin osallistuneiden maiden määrä on kasvanut. Tämä
 2 Joukkuemäärä tulevissa MM-kisoissa
 ===
 
-Hyvän sovitteen joukkuemäärään saa, kun olettaa joukkueiden määrän kasvava logaritmisesti vuodesta 1950 alkaen. Kun vielä huomioidaan, että joukkueiden lukumäärä on kasvanut lähes kahden potensseina, saamme tuloksen, että vuonna 2066 joukkueita kisoissa on ensimmäistä kertaa 80. Tähän joukkoon Suomikin jo mahtuu.
+Hyvän sovitteen joukkuemäärään saa, kun olettaa joukkueiden määrän kasvavan logaritmisesti vuodesta 1950 alkaen. 
+Tämän vuoden MM-kisojen joukkueiden lukumäärä on 48. Kuviossa 2 osallistuneiden joukkueiden määrää kuvaaa oranssi käyrä ja ennuste tulevissa kisoissa olevien joukkueiden määrästä on turkoosi käyrä. 
 
 ![Ennuste joukkueista logaritmisella sovitteella.](/images/mmkisat/joukkueita.png)<br>
 _Kuvio 2. Logaritminen sovite MM-kisoihin osallistuvien maiden määrästä vuosien kuluessa._
 
-Tämän vuoden MM-kisojen joukkueiden lukumäärä on 48. Kuviossa 2 osallistuneiden joukkueiden määrää kuvaaa oranssi käyrä ja ennuste tulevissa kisoissa olevien joukkueiden määrästä on turkoosi käyrä. 
+Loputtomasti joukkueiden määrä ei voi kasvaa. Maita on kuitenkin 195, joten kasvunvaraa joukkuemäärälle on edelleen. Fifan kiinnostus tuloihin kasvattanee myös joukkueiden määrää jatkossakin. Vaikeus voi olla löytää järjestäjämaita massiivisille kisoille. Joukkueiden määrän kehtys on tähän asti kuitenkin vastannut hyvin laskelmaa.
 
 3 Suomi pääsee kisoihin 2066
 ===
 
 Suomen miesten maajoukkueen ranking maailmassa on 73. 
 Kun arvioidaan MM-kisoihin osallistuvien maiden lukumäärä, päädytään arvioon, että vuonna 2066 joukkueita on enemmän kuin 73 vuonna 2066. 
+Kun vielä huomioidaan, että joukkueiden lukumäärä on kasvanut lähes kahden potensseina, saamme tuloksen, että vuonna 2066 joukkueita kisoissa on ensimmäistä kertaa 80. Tähän joukkoon Suomikin jo mahtuu.
 
 ![Ennuste joukkueiden lukumäärästä.](/images/mmkisat/joukkueita_suomi.png)<br>
 _Kuvio 3. Ennuste tulevien MM-kisojen joukkuemäärästä. Suomen ranking on merkitty kuvioon katkoviivalla._
