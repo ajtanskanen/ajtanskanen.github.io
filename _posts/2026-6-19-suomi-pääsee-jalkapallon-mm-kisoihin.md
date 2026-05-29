@@ -24,7 +24,7 @@ Vuosien varrella MM-kisoihin osallistuneiden maiden määrä on kasvanut. Tämä
 ===
 
 Hyvän sovitteen joukkuemäärään saa, kun olettaa joukkueiden määrän kasvavan logaritmisesti vuodesta 1950 alkaen. 
-Tämän vuoden MM-kisojen joukkueiden lukumäärä on 48. Joukkuemäärä vuosien 2030, 2034 ja 2038 kisoissa on 48.
+Tämän vuoden MM-kisojen joukkueiden lukumäärä on 48. Joukkuemäärä myös vuosien 2030, 2034 ja 2038 kisoissa lienee 48.
 Kuviossa 2 osallistuneiden joukkueiden määrää kuvaaa oranssi käyrä ja ennuste tulevissa kisoissa olevien joukkueiden määrästä on turkoosi käyrä. 
 
 ![Ennuste joukkueista logaritmisella sovitteella.](/images/mmkisat/joukkueita.png)<br>
