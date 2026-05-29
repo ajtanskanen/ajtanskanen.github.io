@@ -24,7 +24,8 @@ Vuosien varrella MM-kisoihin osallistuneiden maiden määrä on kasvanut. Tämä
 ===
 
 Hyvän sovitteen joukkuemäärään saa, kun olettaa joukkueiden määrän kasvavan logaritmisesti vuodesta 1950 alkaen. 
-Tämän vuoden MM-kisojen joukkueiden lukumäärä on 48. Kuviossa 2 osallistuneiden joukkueiden määrää kuvaaa oranssi käyrä ja ennuste tulevissa kisoissa olevien joukkueiden määrästä on turkoosi käyrä. 
+Tämän vuoden MM-kisojen joukkueiden lukumäärä on 48. Joukkuemäärä vuosien 2030, 2034 ja 2038 kisoissa on 48.
+Kuviossa 2 osallistuneiden joukkueiden määrää kuvaaa oranssi käyrä ja ennuste tulevissa kisoissa olevien joukkueiden määrästä on turkoosi käyrä. 
 
 ![Ennuste joukkueista logaritmisella sovitteella.](/images/mmkisat/joukkueita.png)<br>
 _Kuvio 2. Logaritminen sovite MM-kisoihin osallistuvien maiden määrästä vuosien kuluessa._
@@ -39,9 +40,9 @@ Kun arvioidaan MM-kisoihin osallistuvien maiden lukumäärä, päädytään arvi
 Kun vielä huomioidaan, että joukkueiden lukumäärä on kasvanut lähes kahden potensseina, saamme tuloksen, että vuonna 2066 joukkueita kisoissa on ensimmäistä kertaa 80. Tähän joukkoon Suomikin jo mahtuu.
 
 ![Ennuste joukkueiden lukumäärästä.](/images/mmkisat/joukkueita_suomi.png)<br>
-_Kuvio 3. Ennuste tulevien MM-kisojen joukkuemäärästä. Suomen ranking on merkitty kuvioon katkoviivalla._
+_Kuvio 3. Ennuste tulevien MM-kisojen joukkuemäärästä. Suomen ranking on merkitty kuvioon katkoviivalla. Vuodesta 2046 alkaen joukkuemäärät ennusteesta._
 
-Kuvio 3 näyttää, kuinka monta joukkuetta kisoihin tulevaisuudessa voi arvioida tulevan. Joukkueiden määrä kertoo osaltaa FIFAn kiinnostuksessta paisuttaa MM-kisoja, joka tuo lisää tuloja. 
+Kuvio 3 näyttää, kuinka monta joukkuetta kisoihin tulevaisuudessa voi arvioida tulevan. Joukkueiden määrä kertoo osaltaa FIFAn kiinnostuksesta paisuttaa MM-kisoja, joka tuo lisää tuloja. 
 Vuoden 2102 kisoissa joukkueita on tämän ennusteen mukaan 128. Niissä kisoissa Suomella voi olla jo mahdollisuus päästä jatkoon alkulohkosta. 
 
 Laskelmassa oletetaan, että Suomi pysyy rankingissa samalla tasolla kuin nykyään. Suhteellisesti Suomi ei siis pelaa paremmin tai huonommin kuin tänään. Korkeimmillaan Huuhkajien ranking on ollut 33, millä olisi päästy jo tämän vuoden kisoihin. Huonoimmillaan ranking on ollut 110, jolla MM-kisoihin pääsisi vasta vuonna 2094.
