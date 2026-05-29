@@ -50,7 +50,7 @@ Laskelmassa oletetaan, että Suomi pysyy rankingissa samalla tasolla kuin nykyä
 4 Yhteenveto
 ===
 
-Tämän vuoden MM-kisojen joukkueiden lukumäärä on 48. Suomen miesten maajoukkueen ranking maailmassa on 73. Kun arvioidaan tuleviin miesten jalkapallon MM-kisoihin osallistuvien maiden lukumäärää, päädytään tulokseen, että joukkueita on enemmän kuin 73 ensimmäisen kerran vuonna 2066.
+Tämän vuoden MM-kisojen joukkueiden lukumäärä on 48. Suomen miesten maajoukkueen ranking maailmassa on 73. Kun arvioidaan tuleviin miesten jalkapallon MM-kisoihin osallistuvien maiden lukumäärää, päädytään tulokseen, että joukkueita on enemmän kuin 73 ensimmäisen kerran vuonna 2066. Silloin Suomenkin pitäisi päästä mukaan kisoihin.
 
 
 Dataliite
