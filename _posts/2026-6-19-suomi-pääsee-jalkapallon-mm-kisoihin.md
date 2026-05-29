@@ -1,6 +1,6 @@
 ---
 title: 'Suomi pääsee jalkapallon MM-kisoihin vuonna 2066'
-date: 2026-06-19
+date: 2026-06-11
 permalink: /posts/2026/6/jalkapallon-mm-kisat/
 summary: 'Blogi | Suomen miesten maajoukkue ei ole päässyt jalkapallon MM-kisoihin kertaakaan. Joukkuemäärä kisoissa on pikkuhiljaa kasvanut. Kun sen ja Suomen jalkapallorankingin huomioi, päätyy tulokseen, että Suomi pääsee jalkapallon MM-kisoihin vuonna 2066.'
 tags:
@@ -10,7 +10,7 @@ tags:
 
 Suomen miesten maajoukkue ei ole päässyt jalkapallon MM-kisoihin kertaakaan. Joukkuemäärä kisoissa on pikkuhiljaa kasvanut. Kun sen ja Suomen jalkapallorankingin huomioi, päätyy tulokseen, että Suomi pääsee jalkapallon MM-kisoihin vuonna 2066.
 
-1 Aineisto ja menetelmä
+1 Jalkapallon MM-kisat
 ===
 
 Jalkapallon MM-kisoja on järjestetty aina alkaen vuoden 1930 Uruguayn kisoista lähtien. Ensimmäisiin kisoihin Suomi olisi päässyt osallistumaan, mutta matka oli pitkä ja kallis, eikä tuoreella kansakunnalla ollut varaa lähettää joukkuetta matkaan. Ensimmäisissä kisoissa joukkueita oli 13.
@@ -20,7 +20,7 @@ _Kuvio 1. Miesten jalkapallon MM-kisoihin osallistuvien maiden määrä vuosien 
 
 Vuosien varrella MM-kisoihin osallistuneiden maiden määrä on kasvanut. Tämän vuoden 23. MM-kisoissa joukkueita on 48. Tähän joukkoon Suomi ei vielä mahtunut, mistä kertoo Suomen ranking maailman jalkapallomaiden joukossa: Suomi on 73. paras maajoukkue tätä kirjoitettaessa. Kun MM-kisoihin pääsee koko ajan enemmän joukkueita, herää kysymys siitä, milloin joukkueita kisoissa on enemmän kuin 73? Tämän voi arvioida!
 
-2 Arvio joukkuemäärästä MM-kisoissa
+2 Joukkuemäärä tulevissa MM-kisoissa
 ===
 
 Hyvän sovitteen joukkuemäärään saa, kun olettaa joukkueiden määrän kasvava logaritmisesti vuodesta 1950 alkaen. Kun vielä huomioidaan, että joukkueiden lukumäärä on kasvanut lähes kahden potensseina, saamme tuloksen, että vuonna 2066 joukkueita kisoissa on ensimmäistä kertaa 80. Tähän joukkoon Suomikin jo mahtuu.
@@ -28,7 +28,13 @@ Hyvän sovitteen joukkuemäärään saa, kun olettaa joukkueiden määrän kasva
 ![Ennuste joukkueista logaritmisella sovitteella.](/images/mmkisat/joukkueita.png)<br>
 _Kuvio 2. Logaritminen sovite MM-kisoihin osallistuvien maiden määrästä vuosien kuluessa._
 
-Tämän vuoden MM-kisojen joukkueiden lukumäärä on 48. Suomen miesten maajoukkueen ranking maailmassa on 73. Kun arvioidaan MM-kisoihin osallistuvien maiden lukumäärä, päädytään arvioon, että vuonna 2066 joukkueita on enemmän kuin 73 vuonna 2066. Kuviossa 2 osallistuneiden joukkueiden määrä on oranssi käyrä ja ennuste tulevissa kisoissa olevien joukkueiden määrästä on turkoosi käyrä. 
+Tämän vuoden MM-kisojen joukkueiden lukumäärä on 48. Kuviossa 2 osallistuneiden joukkueiden määrää kuvaaa oranssi käyrä ja ennuste tulevissa kisoissa olevien joukkueiden määrästä on turkoosi käyrä. 
+
+3 Suomi pääsee kisoihin 2066
+===
+
+Suomen miesten maajoukkueen ranking maailmassa on 73. 
+Kun arvioidaan MM-kisoihin osallistuvien maiden lukumäärä, päädytään arvioon, että vuonna 2066 joukkueita on enemmän kuin 73 vuonna 2066. 
 
 ![Ennuste joukkueiden lukumäärästä.](/images/mmkisat/joukkueita_suomi.png)<br>
 _Kuvio 3. Ennuste tulevien MM-kisojen joukkuemäärästä. Suomen ranking on merkitty kuvioon katkoviivalla._
@@ -36,7 +42,9 @@ _Kuvio 3. Ennuste tulevien MM-kisojen joukkuemäärästä. Suomen ranking on mer
 Kuvio 3 näyttää, kuinka monta joukkuetta kisoihin tulevaisuudessa voi arvioida tulevan. Joukkueiden määrä kertoo osaltaa FIFAn kiinnostuksessta paisuttaa MM-kisoja, joka tuo lisää tuloja. 
 Vuoden 2102 kisoissa joukkueita on tämän ennusteen mukaan 128. Niissä kisoissa Suomella voi olla jo mahdollisuus päästä jatkoon alkulohkosta. 
 
-3 Yhteenveto
+Laskelmassa oletetaan, että Suomi pysyy rankingissa samalla tasolla kuin nykyään. Suhteellisesti Suomi ei siis pelaa paremmin tai huonommin kuin tänään. Korkeimmillaan Huuhkajien ranking on ollut 33, millä olisi päästy jo tämän vuoden kisoihin. Huonoimmillaan ranking on ollut 110, jolla MM-kisoihin pääsisi vasta vuonna 2094.
+
+4 Yhteenveto
 ===
 
 Tämän vuoden MM-kisojen joukkueiden lukumäärä on 48. Suomen miesten maajoukkueen ranking maailmassa on 73. Kun arvioidaan MM-kisoihin osallistuvien maiden lukumäärä, päädytään arvioon, että vuonna 2066 joukkueita on enemmän kuin 73 vuonna 2066.
