@@ -8,7 +8,7 @@ tags:
   - MM-kisat
 ---
 
-Suomen miesten maajoukkue ei ole päässyt jalkapallon MM-kisoihin kertaakaan. Joukkuemäärä kisoissa on pikkuhiljaa kasvanut. Kun sen ja Suomen jalkapallorankingin huomioi, päätyy tulokseen, että Suomi pääsee jalkapallon MM-kisoihin vuonna 2066.
+Suomen miesten maajoukkue ei ole päässyt jalkapallon MM-kisoihin kertaakaan. Joukkuemäärä kisoissa on pikkuhiljaa kasvanut. Kun sen ja Suomen jalkapallorankingin huomioi, päätyy tulokseen, että Suomi pääsee jalkapallon MM-kisoihin vuonna 2066. Enää tarvitsee odottaa vain 40 vuotta.
 
 1 Jalkapallon MM-kisat
 ===
