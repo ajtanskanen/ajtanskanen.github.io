@@ -1,6 +1,6 @@
 ---
 title: 'Suomi pääsee jalkapallon MM-kisoihin vuonna 2066'
-date: 2026-06-11
+date: 2026-06-01
 permalink: /posts/2026/6/jalkapallon-mm-kisat/
 summary: 'Blogi | Suomen miesten maajoukkue ei ole päässyt jalkapallon MM-kisoihin kertaakaan. Joukkuemäärä kisoissa on pikkuhiljaa kasvanut. Kun sen ja Suomen jalkapallorankingin huomioi, päätyy tulokseen, että Suomi pääsee jalkapallon MM-kisoihin vuonna 2066.'
 tags:
