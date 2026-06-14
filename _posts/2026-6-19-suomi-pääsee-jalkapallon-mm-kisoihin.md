@@ -47,7 +47,7 @@ _Kuvio 3. Ennuste tulevien MM-kisojen joukkuemäärästä. Suomen ranking on mer
 Kuvio 3 näyttää, kuinka monta joukkuetta kisoihin tulevaisuudessa voi arvioida tulevan. Joukkueiden määrä kertoo osaltaan FIFAn kiinnostuksesta paisuttaa MM-kisoja, joka tuo lisää tuloja. 
 Vuoden 2102 kisoissa joukkueita on tämän ennusteen mukaan 128. Niissä kisoissa Suomella voi olla jo mahdollisuus päästä jatkoon alkulohkosta. 
 
-Laskelmassa oletetaan, että Suomi pysyy rankingissa samalla tasolla kuin nykyään. Suhteellisesti Suomi ei siis pelaa paremmin tai huonommin kuin tänään. Korkeimmillaan Huuhkajien ranking on ollut 33, millä olisi päästy jo tämän vuoden kisoihin. Huonoimmillaan ranking on ollut 110, jolla MM-kisoihin pääsisi vasta vuonna 2094.
+Tavanomainen FIFA-ranking Suomen miesten jalkapallomaajoukkueelle on ollut 57. Tällä hetkellä ollaan siis tavanomaista tasoa huonompia. Laskelmassa oletetaan, että Suomi pysyy rankingissa samalla tasolla kuin nykyään. Suhteellisesti Suomi ei siis pelaa paremmin tai huonommin kuin tänään. Korkeimmillaan Huuhkajien ranking on ollut 33, millä olisi päästy jo tämän vuoden kisoihin. Huonoimmillaan ranking on ollut 110, jolla MM-kisoihin pääsisi vasta vuonna 2094.
 
 4 Yhteenveto
 ===
