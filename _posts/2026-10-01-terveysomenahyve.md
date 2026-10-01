@@ -14,28 +14,31 @@ tags:
 Melkein terveellinen omenahyve
 =====
 
+Normaalisti omenahyveen täytteeseen laitetaan paljon voita. Mutta sen voi korvata juoksevilla rasvoilla. Siksi tämä ohje on nimeltään "Melkein terveellinen omenahyve".
+
 Ainekset
 ---
 
-- kotimaisia omenoita 25
+- kotimaisia omenoita 1 litra
 - kaurahiutaleita 4 dl
 - juoksevaa rasvavalmistetta tai rypsiöljyä 1 dl 
 - taloussokeria tai fariinisokeria 0,5 dl
 - kanelia
 
 ![Omenahyve](/images/ainekset.png)<br>
-_Ainekset._
+_Kuva aineksista._
 
 
 Valmistus
 ---
 
-Pilko omenat siivuiksi uunivuokaan (esim 1 L). Lorauta pohjalle 0,3 dl vettä. Laita 200 asteiseen uuniin 15 min.
+Lämmmitä uuni 200 asteiseksi.
 
-Valmista sillä välin päällyste. Sekoita kaurahiutaleet, rasvavalmiste sokeri ja kaneli kulhossa. Kun omenat on lämmitetty uunissa 15 min,
-laita päällyste uunivuokaan omenoiden päälle. Laita uuniin 10 min.
+Pilko omenat siivuiksi ja aseta ne uunivuokaan (esim 1 L). Lorauta vuoan pohjalle 0,3 dl vettä. Laita 200 asteiseen uuniin 15 min.
 
-Nauti vaniljajäätelön tai vaniljakastikkeen kanssa.
+Valmista omenoiden ollessa uunissa päällyste. Sekoita kulhossa kaurahiutaleet, rasvavalmiste sokeri ja kaneli. Kun omenat ovat valmiit, laita päällyste uunivuokaan omenoiden päälle. Pidä uunissa 10 min tai kunnes kaurahiutaleet ovat hieman ruskeat.
+
+Nauti omenahyve vaniljajäätelön tai vaniljakastikkeen kanssa.
 
 ![Omenahyve](/images/omenahyve.png)<br>
 _Lopputulos näyttää tältä._
