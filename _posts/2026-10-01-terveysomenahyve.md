@@ -1,17 +1,17 @@
 ---
-title: 'Twiittien fiilis budjettiriihestä kääntyi negatiiviseksi'
-date: 2022-09-07
+title: 'Melkein terveellinen omenahyve'
+date: 2026-10-01
 permalink: /posts/2022/09/budjettiriihi/
 image: /images/sentimentti/medieval.png
 largeimage: /images/sentimentti/medieval.png
-summary: 'Blogi | Budjettiriihestä keskusteltiin aktiivisesti Twitterissä. Alun positiivinen sävy vaihtui riihen jälkeen negatiiviseksi.'
+summary: 'Blogi | Melkein terveellinen omenahyve on helppo ja nopea tehdä.'
 tags:
   - omenat
   - resepti
   - omenahyve
 ---
 
-Terveysomenahyve
+Melkein terveellinen omenahyve
 =====
 
 Ainekset
