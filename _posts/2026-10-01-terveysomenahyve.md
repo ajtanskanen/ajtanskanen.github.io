@@ -22,10 +22,6 @@ Ainekset
 - taloussokeria tai fariinisokeria 0,5 dl
 - kanelia
 
-![Omenahyve](/images/ainekset.png)<br>
-_Kuva aineksista._
-
-
 Valmistus
 ---
 
