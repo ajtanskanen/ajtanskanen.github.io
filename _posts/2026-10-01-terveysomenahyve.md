@@ -37,6 +37,6 @@ Valmista omenoiden ollessa uunissa päällyste. Sekoita kulhossa kaurahiutaleet,
 
 Nauti omenahyve vaniljajäätelön tai vaniljakastikkeen kanssa.
 
-![Omenahyve](/images/omenahyve.png)<br>
+![Omenahyve](/images/omenahyve.jpeg)<br>
 _Lopputulos näyttää tältä._
 
