@@ -11,10 +11,10 @@ tags:
   - omenahyve
 ---
 
+Normaalisti omenahyveen täytteeseen laitetaan paljon voita. Mutta sen voi korvata juoksevilla rasvoilla. Siksi tämä ohje on nimeltään "Melkein terveellinen omenahyve".
+
 Melkein terveellinen omenahyve
 =====
-
-Normaalisti omenahyveen täytteeseen laitetaan paljon voita. Mutta sen voi korvata juoksevilla rasvoilla. Siksi tämä ohje on nimeltään "Melkein terveellinen omenahyve".
 
 Ainekset
 ---
