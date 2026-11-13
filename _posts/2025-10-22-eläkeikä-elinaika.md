@@ -80,3 +80,15 @@ $$
 
 Toisin sanoen, ikääntyneiden elinajan kasvaessa hieman yli kaksi kolmannesta kasvusta huomioidaan alimmassa vanhuuseläkeiässä ja hieman alle yksi kolmannes kasvattaa vanhuuseläkkeellä oloaikaa.
 
+Päivitys 2026
+===
+
+Tilastokeskuksen 2020-2024 kuolleisuustilaston mukaan suhde on 
+
+$$
+\alpha = \frac{65-18}{85,57-18} \sim 0,699,
+$$
+
+joka ei muuta johtopäätöksiä. 
+
+_Päivitytetty 11.11.2026 uusimmilla saatavilla luvilla._
